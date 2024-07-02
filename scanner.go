@@ -13,10 +13,8 @@ import (
 
 func RequestSecurityTxt(domain string) {
 	urls := [4]string{}
-	urls[0] = fmt.Sprintf("https://%s/.well-known/security.txt", domain)
-	urls[1] = fmt.Sprintf("https://%s/security.txt", domain)
-	urls[2] = fmt.Sprintf("http://%s/.well-known/security.txt", domain)
-	urls[3] = fmt.Sprintf("http://%s/security.txt", domain)
+	urls[0] = fmt.Sprintf("https://%s", domain)
+	urls[3] = fmt.Sprintf("http://%s", domain)
 
 	for _,requestURL := range urls {
 		res, err := http.Get(requestURL)
@@ -32,11 +30,10 @@ func RequestSecurityTxt(domain string) {
 			continue
 		}
 
-		contentType := res.Header.Get("Content-Type")
 
-		if res.StatusCode == 200 && strings.Contains(contentType, "text/plain") {
-			log.Printf("200 text/plain on: %s\n", requestURL)
-			fileName := fmt.Sprintf("raw/%s_security.txt", domain)
+		if res.StatusCode == 200 && strings.Contains(string(resBody), "cdn.polyfill.io") {
+			log.Printf("cdn.polyfill.io found on: %s\n", requestURL)
+			fileName := fmt.Sprintf("raw/%s.txt", domain)
 			os.WriteFile(fileName, resBody, 0644)
 			return
 		}
@@ -60,7 +57,7 @@ func main() {
 
 	for _, domain := range strings.Split(string(data[:]), "\n") {
 
-		fileName := fmt.Sprintf("raw/%s_security.txt", domain)
+		fileName := fmt.Sprintf("raw/%s.txt", domain)
 
 		if _, err := os.Stat(fileName); os.IsNotExist(err) {
 			wg.Add(1) // increment wait group counter
