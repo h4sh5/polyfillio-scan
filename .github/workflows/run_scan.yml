@@ -1,0 +1,41 @@
+name: Scan domains for security.txt
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 */2 * * *'
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-go@v5
+      with:
+        go-version: '>=1.21.0'
+
+    - name: build
+      run: go build scanner.go
+
+    - name: override dns server
+      run: |
+       echo nameserver 1.1.1.1 | sudo tee /etc/resolv.conf
+       echo nameserver 1.0.0.1 | sudo tee -a /etc/resolv.conf
+
+    - name: run scan
+      run: shuf top-au-domains.txt | timeout 90m ./scanner /dev/stdin || echo exited with $?
+
+    - name: Push results
+      run: |
+        git config --global user.name 'scan-bot'
+        git config --global user.email 'scan-bot@open-source.local'
+        git config --global branch.autoSetupMerge always
+        git config --global core.mergeoptions --no-edit
+        git config --global pull.rebase false
+
+        git add raw/ || echo nothing to add
+        git commit -m "new scan output $(date)"
+        git pull
+        git push 
+
