@@ -1,0 +1,418 @@
+
+
+
+
+<!doctype html>
+<html lang="en">
+<head>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-25623274-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-25623274-1');
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1">
+        <title>The Australian and International Pilots Association (AIPA)</title>
+        <meta name="description" content="The Australian and International Pilots Association (AIPA) is a professional association representing pilots employed by the Qantas Group." />
+
+    <link href="https://fonts.googleapis.com/css?family=Khula|Oswald" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flatpickr/4.3.2/flatpickr.min.css" integrity="sha256-oGv0CSOLhZn4PcwlARoJZUxz2JyBG9K2Foduh6/47vY=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.css" integrity="sha256-DVV5cU9pxHH2Rofop3XD3b3rbfrOSIy2nU61DEbYy1Q=" crossorigin="anonymous" />
+    <link rel="stylesheet" type="text/css" href="/css/vendor/datepicker-styling.css">
+    <!--[if IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flatpickr/4.3.2/ie.css" integrity="sha256-TJkqno+MNZX+ne0atCs/rWGE46/Ts2a0jOm8uVupMAk=" crossorigin="anonymous" />
+    <![endif]-->
+    <link rel="stylesheet" href="/css/out/bundle.min.css" />
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js" integrity="sha256-F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.9/jquery.validate.unobtrusive.min.js" integrity="sha256-paoxpct33kY9fpQlvgC8IokjGq8iqYaVFawgFPg8oz0=" crossorigin="anonymous"></script>
+</head>
+<body>
+    
+
+<header class="header">
+    <div class="navbar">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/">
+                    <img src="/images/aipa-logo.png" alt="AIPA - Australian & International Pilots Association" />
+                </a>
+
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            
+
+
+
+
+<!-- Header Navigation -->
+<div class="navbar-collapse collapse" id="navbar">
+    <ul class="nav navbar-nav">
+ 
+                    <li class="nav-item">
+                        <a class="nav-link" href="/about/">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/membership/">Membership</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/welfare/">Welfare</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/news/">News</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/submissions-publications/">Submissions &amp; Publications</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/contact/">Contact</a>
+                    </li>
+        <li class="nav-item">
+                <a href="#" data-toggle="modal" data-target="#loginModal" class="nav-link">Member Login</a>
+        </li>
+    </ul>
+</div>
+
+<!-- Login Modal -->
+<div id="loginModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div>
+    <h2>Member Login</h2>
+<form action="/" enctype="multipart/form-data" id="popupLoginForm" method="post">        <fieldset class="popup-form">
+            <input id="popupLoginForm_RedirectUrl" name="loginModel.RedirectUrl" type="hidden" value="/my-aipa/" />
+
+            <div class="form-group">
+                <label for="loginModel_Username">Username</label>
+                <input class="full-width form-control" data-val="true" data-val-required="The Username field is required." id="popupLoginForm_Username" name="loginModel.Username" placeholder="Email" type="text" value="" />
+                <span class="field-validation-valid" data-valmsg-for="loginModel.Username" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="form-group input-button-stack">
+                <label for="loginModel_Password">Password</label>
+                <input class="full-width form-control" data-val="true" data-val-length="The field Password must be a string with a maximum length of 256." data-val-length-max="256" data-val-required="The Password field is required." id="popupLoginForm_Password" name="loginModel.Password" placeholder="Password" type="password" />
+                <span class="field-validation-valid" data-valmsg-for="loginModel.Password" data-valmsg-replace="true"></span>
+
+                <button type="submit" class="btn">Login</button>
+            </div>
+        </fieldset>
+<input name='ufprt' type='hidden' value='2550A334BAC9F77861BB998F3CF6B1AD5CF4AC7640913DAE2AFA55F49E3965C8022F5544419EBAF7CFCAF67C4A40CD7E851BAD5CC0816835828AFE7FE614920A42126CCF14FD8F721E8B117E4D859C3F27D29AD39382DA114CC8617F7E49749841473564ED90FFFC15C0E86CF2738F520D7BA5718DFF6F007DF3E460573845DFB623BB31F8EEA3D0320A4B5A1D08AA1B' /></form></div>
+                <a href="/password-reset/">Request new password</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</header>
+
+    
+
+
+
+
+<main>
+    <!-- Main CTA -->
+    <div class="container">
+        <div class="row homepage-intro">
+            <img src="/media/1113/ipad-image-bg.png" id="homepage-bg-image" />
+            <img src="/media/1134/bg-image.png" id="homepage-bg-image-md" />
+            <div class="col-xs-12 col-md-6 pull-right px-0">
+                <img src="/media/1021/homepage-pilots.png" alt="" class="img-responsive" />
+            </div>
+            <div class="col-xs-12 col-md-6">
+                <h3 class="home-title">Who we are</h3>
+                <p>The Australian and International Pilots Association (AIPA) is a professional Association representing Qantas Group pilots.</p>
+<p><a data-udi="umb://document/8e2fc730a06d41219818ae320e21d1da" href="/membership/" title="Membership" class="btn btn-default">Join AIPA now</a></p>
+<div id="selenium-highlight"></div>
+<div id="selenium-highlight"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Subheadings -->
+        <div class="homepage-links row-spacer-bottom">
+            <div class="container">
+                <div class="row">
+                        <div class="col-sm-6 col-md-3">
+                            <div class="homepage-link-item">
+                                <a href="/about/" >
+                                    <img src="/media/1107/plane-icon.png" alt="" />
+                                    <h2>About AIPA</h2>
+                                    <p>AIPA is run by Qantas Group pilots.  Our team of dedicated professionals facilitate the advancement of member interests.</p>
+<div id="selenium-highlight"></div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3">
+                            <div class="homepage-link-item">
+                                <a href="/membership/" >
+                                    <img src="/media/1104/membership-icon.png" alt="" />
+                                    <h2>Membership</h2>
+                                    <p>All Qantas Group pilots are eligible for membership.  We offer the lowest membership subscription fee of any Australian pilot association.</p>
+<div id="selenium-highlight"></div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3">
+                            <div class="homepage-link-item">
+                                <a href="/news/" >
+                                    <img src="/media/1105/news-icon.png" alt="" />
+                                    <h2>News</h2>
+                                    <p>Read AIPA and AusALPA press releases as well as the latest aviation industry news.</p>
+<div id="selenium-highlight"></div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3">
+                            <div class="homepage-link-item">
+                                <a href="#" data-toggle=modal data-target=#loginModal>
+                                    <img src="/media/1108/submit-report-icon.png" alt="" />
+                                    <h2>Submit Report</h2>
+                                    <p>Raise concerns you have regarding rostering, scheduling, safety, accommodation, crew meals, transport and any other issues.</p>
+<div id="selenium-highlight"></div>
+<div id="selenium-highlight"></div>
+                                </a>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+    
+
+
+
+<!-- Latest News -->
+<div class="container row-spacer-bottom">
+    <div class="news-carousel">
+        <div id="newsCarousel" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                            <li data-target="#newsCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#newsCarousel" data-slide-to="1"></li>
+                            <li data-target="#newsCarousel" data-slide-to="2"></li>
+                            <li data-target="#newsCarousel" data-slide-to="3"></li>
+                            <li data-target="#newsCarousel" data-slide-to="4"></li>
+                    </ol>
+                <!-- Wrappers for slides -->
+                    <div class="carousel-inner" role="listbox">
+                            <div class="item active">
+                                <div class="col-md-6 img-col">
+                                    <figure class="article-thumb-container">
+                                        <img class="article-thumb img-responsive" src="/media/1863/2017-com-hero.jpg?width=600&amp;height=350&amp;mode=crop" alt="Notice" />
+                                    </figure>
+                                </div>
+                                <div class="col-md-6 img-col">
+                                    <h2 class="h1">Notice</h2>
+                                    <p>“Notice: Pursuant to Reg121(4) of the Fair Work (Registered Organisations) Regulation AIPA gives notice that it has lodged an application to the FWC under s.158(1) of the Fair Work (registered Organisations) Act to alter the eligibility rules of the...</p>
+                                    <p class="gold">06 February 2024 | Author: AIPA Communications</p>
+                                    <p><a class="btn" href="/news/articles/24-02-06-fwc-notice/">READ MORE</a></p>
+                                </div>
+
+                            </div>
+                            <div class="item">
+                                <div class="col-md-6 img-col">
+                                    <figure class="article-thumb-container">
+                                        <img class="article-thumb img-responsive" src="/media/1867/171024_aipa_4176.jpg?width=600&amp;height=350&amp;mode=crop" alt="AIPA’s Submission for Aviation Green Paper" />
+                                    </figure>
+                                </div>
+                                <div class="col-md-6 img-col">
+                                    <h2 class="h1">AIPA’s Submission for Aviation Green Paper</h2>
+                                    <p>AIPA has submitted a response to the Aviation Green Paper, expressing support for green goals while emphasizing the economic and connectivity role of aviation.</p>
+                                    <p class="gold">30 November 2023 | Author: AIPA </p>
+                                    <p><a class="btn" href="/news/articles/aipa/23-11-30-aipa-s-submission-to-aviation-green-paper-towards-2050/">READ MORE</a></p>
+                                </div>
+
+                            </div>
+                            <div class="item">
+                                <div class="col-md-6 img-col">
+                                    <figure class="article-thumb-container">
+                                        <img class="article-thumb img-responsive" src="/media/1960/dsc_0113.jpg?width=600&amp;height=350&amp;mode=crop" alt="Passengers reject single-pilot flights: new poll" />
+                                    </figure>
+                                </div>
+                                <div class="col-md-6 img-col">
+                                    <h2 class="h1">Passengers reject single-pilot flights: new poll</h2>
+                                    <p>A total of 89% of Australians would feel less safe boarding a flight with one pilot at the controls instead of two or more, according to a Redbridge Group poll of 1,022 Australian adults.</p>
+                                    <p class="gold">13 November 2023 | Author: AIPA/Horton Advisory</p>
+                                    <p><a class="btn" href="/news/articles/aipa/23-11-10-passengers-reject-single-pilot-flights-new-polling/">READ MORE</a></p>
+                                </div>
+
+                            </div>
+                            <div class="item">
+                                <div class="col-md-6 img-col">
+                                    <figure class="article-thumb-container">
+                                        <img class="article-thumb img-responsive" src="/media/1579/aipa-logo-com-page.jpg?width=600&amp;height=350&amp;mode=crop" alt="AIPA Annual Report 2022-2023" />
+                                    </figure>
+                                </div>
+                                <div class="col-md-6 img-col">
+                                    <h2 class="h1">AIPA Annual Report 2022-2023</h2>
+                                    <p>FY23 marked the first full financial year of full time flying for most of our members.</p>
+                                    <p class="gold">12 November 2023 | Author: Second Officer Glen Hunter, AIPA Treasurer</p>
+                                    <p><a class="btn" href="/news/articles/aipa/23-11-02-aipa-annual-report-2022-2023/">READ MORE</a></p>
+                                </div>
+
+                            </div>
+                            <div class="item">
+                                <div class="col-md-6 img-col">
+                                    <figure class="article-thumb-container">
+                                        <img class="article-thumb img-responsive" src="/media/1919/b737-departs-syd.jpg?width=600&amp;height=350&amp;mode=crop" alt="AIPA Statement Regarding the Qantas Chairman" />
+                                    </figure>
+                                </div>
+                                <div class="col-md-6 img-col">
+                                    <h2 class="h1">AIPA Statement Regarding the Qantas Chairman</h2>
+                                    <p>The Board’s Chairman, Mr Richard Goyder has overseen what may well be one of the most damaging periods in Qantas’ history. It has included the illegal sacking of 1,700 workers which the Chairman continues to try and justify as a “sound commercial...</p>
+                                    <p class="gold">12 November 2023 | Author: Captain Tony Lucas, AIPA President</p>
+                                    <p><a class="btn" href="/news/articles/aipa/23-09-25-aipa-statement-regarding-the-qantas-chairman/">READ MORE</a></p>
+                                </div>
+
+                            </div>
+                    </div>
+    </div>
+</div>
+
+</main>
+
+    
+
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-5">
+                <div class="row">
+                    <div class="col-xs-12 footer-intro">
+                        <span>
+                            The Australian and International Pilots Association (AIPA) is the pre&#8209;eminent voice of Australian airline pilots. We are run by pilots for pilots.
+                        </span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-md-6">
+                        <div class="footer-info">
+                            <h6>LOCATION</h6>
+                            <p>Suite 6.01, Level 6<br />247 Coward Street<br />Mascot NSW 2020 Australia<br /><br /></p>
+                        </div>
+                        <div class="footer-info">
+                            <h6>OFFICE HOURS</h6>
+                            9am-5pm, Mon-Fri<br/>AIPA Emergency, Welfare & Scheduling are 24/7 services.
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-6">
+                        <div class="footer-info">
+                            <h6>GET IN TOUCH</h6>
+                            <p>Tel : <a href="tel:+61 2 8307 7777  members@aipa.org.au">+61 2 8307 7777  members@aipa.org.au</a></p>
+                        </div>
+                        <div class="footer-info">
+                            <h6>EMERGENCY</h6>
+                            <p>Tel : <a href="tel:+61 2 8307 7788">+61 2 8307 7788</a></p>
+                        </div>
+                        <div class="footer-info">
+                            <h6>MEDIA ENQUIRIES</h6>
+                            <p>Horton Advisory<strong><br /></strong>Charlie Moore: 0452 606 171<br />Anil Lambert:  0416 426 722</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-2">
+                <div class="footer-login">
+<form action="/" class="footer-login__form footer-form" enctype="multipart/form-data" id="footerLoginForm" method="post">            <h5 class="footer-login__title">Member Login</h5>
+            <fieldset class="footer-login__fields">
+                <input id="footerLoginForm_RedirectUrl" name="loginModel.RedirectUrl" type="hidden" value="/my-aipa/" />
+
+                <div class="form-group">
+                    <input class="full-width form-control" data-val="true" data-val-required="The Username field is required." id="footerLoginForm_Username" name="loginModel.Username" placeholder="Email" type="text" value="" />
+                    <span class="field-validation-valid" data-valmsg-for="loginModel.Username" data-valmsg-replace="true"></span>
+                </div>
+
+                <div class="form-group input-button-stack">
+                    <input class="full-width form-control" data-val="true" data-val-length="The field Password must be a string with a maximum length of 256." data-val-length-max="256" data-val-required="The Password field is required." id="footerLoginForm_Password" name="loginModel.Password" placeholder="Password" type="password" />
+                    <span class="field-validation-valid" data-valmsg-for="loginModel.Password" data-valmsg-replace="true"></span>
+
+                    <button type="submit" class="btn">Login</button>
+                </div>
+            </fieldset>
+<input name='ufprt' type='hidden' value='02A2E9CDE9FB0FB7AD29589742ABB1C9A0F8FFF634C76ADFED0F9E0A8945985F9B141F08FC8291166548249CF85737FA23C1A3AA616C440875E76B2170210BA905704973BB4A4679058E174B7AB251F196974446A66682AC5FFF66FB7C040A55BC2127B7BDAA841031EA10F2BE37F31C3F2BE8EE041D1CA9D87F1C17F672959F17CE8F73AFE69463FC47AFE397B122E8' /></form>    </div>
+                <div class="footer-social">
+                    <ul>
+                        <li>
+                            <a href="https://www.facebook.com/AIPA-189421481088284/" target="_blank">
+                                <img src="/images/facebook-logo.png" class="facebook-icon" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/aipa_pilots" target="_blank">
+                                <img src="/images/instagram-logo.png" class="twitter-icon" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/company/1150794/" target="_blank">
+                                <img src="/images/linkedin-logo.png" class="linkedin-icon" />
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer-logo">
+                    <h6>AIPA is a Member of </h6>
+                    <a href="http://ausalpa.org.au" rel="nofollow noreferrer" target="_blank">
+                        <img src="/images/AusALPA Logo Reversed.png" alt="Aipa Logo" />
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row footer-copy">
+            <div class="col-md-7">
+                <div class="row">
+                    <div class="col-md-8">Copyright &copy;2024 Australian and International Pilots Association</div>
+                    <div class="col-md-4"><a href="/privacy-policy/" class="white">Privacy Policy</a></div>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="row">
+                    <div class="col-md-12"><a href="https://www.creativefactory.com.au/" class="white" rel="noreferrer">Website design and development by Creative Factory</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+    <!-- Libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous"></script>
+    <!-- Browser Support -->
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+    <!-- jQuery Libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/filterizr/1.3.4/jquery.filterizr.min.js" integrity="sha256-IgViSmnrli6YE6jk6pBvDLRocL3jnVsL2+WP1IOtJs8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flatpickr/4.3.2/flatpickr.min.js" integrity="sha256-oGDWBftOALdimipQLWh2ZUDwX1ytj0gX9Umhm5631Jk=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.dotdotdot/3.2.2/jquery.dotdotdot.js" integrity="sha256-zieebSA4BBabdVXS4ZVg5rqbtUl0TU1ovQWHZoeV1us=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js" integrity="sha256-+oeQRyZyY2StGafEsvKyDuEGNzJWAbWqiO2L/ctxF6c=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jSignature/2.1.2/jSignature.min.js" integrity="sha256-D7kWEIHWLFrjqBvSjtsbAWsGSn89lacfFhOShSU/Xuk=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.js" integrity="sha256-+jmym6PChFok5u02khNcYDy5AdfiIN7Y/QCbBqiNgeE=" crossorigin="anonymous"></script>
+
+    <script src="/scripts/app.js"></script>
+    <script src="/scripts/fontawesome-all.js"></script>
+    
+</body>
+</html>
