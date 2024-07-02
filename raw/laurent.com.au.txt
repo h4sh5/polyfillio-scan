@@ -1,0 +1,1577 @@
+<!DOCTYPE html>
+<html class="no-js xl2:text-xl" lang="en-GB" dir="ltr">
+
+<head>
+	<meta charset="utf-8">
+	<title>Home Page - Laurent Bakery</title>
+	
+  <script>
+  (function(d) {
+    var config = {
+      kitId: 'tkm6mva',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+  </script>
+	<script>(function(H){H.className=H.className.replace(/\bno-js\b/,'')+' js'})(document.documentElement)</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="author" content="">
+	<meta name="themeurl" content="https://www.laurent.com.au/wp-content/themes/laurent" id="Themeurl">
+  <meta name="siteurl" content="https://www.laurent.com.au" id="Siteurl">
+  <link rel="stylesheet" href="https://www.laurent.com.au/wp-content/themes/laurent/assets/css/screen.css?jbcache=1539306657833">
+	<style>.jb-aspect-ratio-wrapper{-ms-flex-align:center;-webkit-box-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;position:relative}.jb-aspect-ratio-pillar{float:left}.jb-aspect-blurred,.jb-aspect-ratio-img{height:100%;left:0;top:0;width:100%}.jb-aspect-ratio-img{display:block;z-index:1}.jb-aspect-blurred{-o-transition:opacity .1s .25s,filter 0s .25s,visibility 1ms .4s;-webkit-transition:opacity .1s .25s,visibility 1ms .4s,-webkit-filter 0s .25s;background-color:rgba(0,0,0,.08);background-position:50%;background-size:cover;position:absolute;transition:opacity .1s .25s,visibility 1ms .4s,-webkit-filter 0s .25s;transition:opacity .1s .25s,filter 0s .25s,visibility 1ms .4s;transition:opacity .1s .25s,filter 0s .25s,visibility 1ms .4s,-webkit-filter 0s .25s;will-change:opacity}.lazyloaded+.jb-aspect-blurred{opacity:0;visibility:hidden}@media screen and (min-width:500px){.jb-aspect-blurred{-webkit-filter:blur(4px);filter:blur(4px)}.lazyloaded+.jb-aspect-blurred{-webkit-filter:none;filter:none}}.jb-noscript{margin:0;width:100%}.fadein{-o-transition:opacity .2s ease-out;-webkit-transition:opacity .2s ease-out;opacity:0;transition:opacity .2s ease-out}img.lazyloaded{opacity:1}.jb-aspect-blurred,img.lazyload{display:none}.jb-yes-js .jb-aspect-blurred,.jb-yes-js img.lazyload,.js-active .jb-aspect-blurred,.js-active img.lazyload,.js .jb-aspect-blurred,.js img.lazyload,.yes-js .jb-aspect-blurred,.yes-js img.lazyload{display:block}.alignleft,.alignright{width:40%}</style>
+		<!-- All in One SEO 4.6.2 - aioseo.com -->
+		<meta name="robots" content="max-image-preview:large" />
+		<link rel="canonical" href="https://www.laurent.com.au/" />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.6.2" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="Laurent Bakery - Passion. Qualité. Tradition." />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Home Page - Laurent Bakery" />
+		<meta property="og:url" content="https://www.laurent.com.au/" />
+		<meta property="article:published_time" content="2018-06-08T01:47:17+00:00" />
+		<meta property="article:modified_time" content="2021-06-23T02:03:29+00:00" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="Home Page - Laurent Bakery" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.laurent.com.au\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.laurent.com.au\/#listItem","position":1,"name":"Home"}]},{"@type":"Organization","@id":"https:\/\/www.laurent.com.au\/#organization","name":"Laurent Bakery","url":"https:\/\/www.laurent.com.au\/"},{"@type":"WebPage","@id":"https:\/\/www.laurent.com.au\/#webpage","url":"https:\/\/www.laurent.com.au\/","name":"Home Page - Laurent Bakery","inLanguage":"en-AU","isPartOf":{"@id":"https:\/\/www.laurent.com.au\/#website"},"breadcrumb":{"@id":"https:\/\/www.laurent.com.au\/#breadcrumblist"},"datePublished":"2018-06-08T01:47:17+10:00","dateModified":"2021-06-23T12:03:29+10:00"},{"@type":"WebSite","@id":"https:\/\/www.laurent.com.au\/#website","url":"https:\/\/www.laurent.com.au\/","name":"Laurent Bakery","description":"Passion. Qualit\u00e9. Tradition.","inLanguage":"en-AU","publisher":{"@id":"https:\/\/www.laurent.com.au\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.laurent.com.au\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<script>window._wca = window._wca || [];</script>
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//cdn.polyfill.io' />
+<link rel='stylesheet' id='sb_instagram_styles-css' href='https://www.laurent.com.au/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-common-skeleton-style-css' href='https://www.laurent.com.au/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.12.12' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css' href='https://www.laurent.com.au/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.12.12' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.laurent.com.au/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='wc-block-vendors-style-css' href='https://www.laurent.com.au/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css' href='https://www.laurent.com.au/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-sitemap-css-css' href='https://www.laurent.com.au/wp-content/plugins/simple-sitemap/lib/assets/css/simple-sitemap.css?ver=6.5.5' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.laurent.com.au/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wonderplugin-gridgallery-engine-css-css' href='https://www.laurent.com.au/wp-content/plugins/wonderplugin-gridgallery-trial/engine/wonderplugingridgalleryengine.css?ver=15.8' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wpsl-styles-css' href='https://www.laurent.com.au/wp-content/plugins/wp-store-locator/css/styles.min.css?ver=2.2.233' type='text/css' media='all' />
+<link rel='stylesheet' id='malinky-ajax-pagination-css' href='https://www.laurent.com.au/wp-content/plugins/malinky-ajax-pagination/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://www.laurent.com.au/wp-content/plugins/jetpack/css/jetpack.css?ver=9.0.4' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.laurent.com.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.laurent.com.au/wp-content/plugins/wonderplugin-gridgallery-trial/engine/wonderplugingridlightbox.js?ver=15.8" id="wonderplugin-gridgallery-lightbox-script-js"></script>
+<script type="text/javascript" src="https://www.laurent.com.au/wp-content/plugins/wonderplugin-gridgallery-trial/engine/wonderplugingridgallery.js?ver=15.8" id="wonderplugin-gridgallery-script-js"></script>
+<script async defer type="text/javascript" src="https://stats.wp.com/s-202427.js" id="woocommerce-analytics-js"></script>
+<link rel="https://api.w.org/" href="https://www.laurent.com.au/wp-json/" /><link rel="alternate" type="application/json" href="https://www.laurent.com.au/wp-json/wp/v2/pages/2" /><link rel='shortlink' href='https://www.laurent.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.laurent.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.laurent.com.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.laurent.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.laurent.com.au%2F&#038;format=xml" />
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.laurent.com.au"><link rel="https://theeventscalendar.com/" href="https://www.laurent.com.au/wp-json/tribe/events/v1/" />		<!-- HappyForms global container -->
+		<script type="text/javascript">HappyForms = {};</script>
+		<!-- End of HappyForms global container -->
+		<style type='text/css'>img#wpstats{display:none}</style>    <style>
+/* =General CSS
+-------------------------------------------------------------- */
+.full_width,
+.one_half,
+.one_third,
+.two_third,
+.one_fourth,
+.three_fourth,
+.one_fifth,
+.two_fifth,
+.three_fifth,
+.four_fifth,
+.one_sixth,
+.five_sixth {
+	float: left;
+}
+.clear_column {
+	clear:both;
+	display:block;
+	font-size:0; height:0;
+	line-height:0; width:100%;
+	overflow: hidden;
+}
+
+/* =Shortcodes Templates
+-------------------------------------------------------------- */
+
+/* =Default Template (no margin)
+-------------------------------------------------------------- */
+.full_width  {
+	width: 100%;
+}
+.one_half  {
+	width: 50%;
+}
+.one_third  {
+	width: 33.3%;
+}
+.two_third  {
+	width: 66.6%;
+}
+.one_fourth  {
+	width: 25%;
+}
+.three_fourth  {
+	width: 75%;
+}
+.one_fifth  {
+	width: 20%;
+}
+.two_fifth  {
+	width: 40%;
+}
+.three_fifth  {
+	width: 60%;
+}
+.four_fifth  {
+	width: 80%;
+}
+.one_sixth  {
+	width: 16.6%;
+}
+.five_sixth  {
+	width: 83.4%;
+}
+
+/* =Responsive
+-------------------------------------------------------------- */
+/* Maximum width of 600 pixels. */
+@media screen and (max-width: 600px) {
+	.full_width,
+	.one_half,
+	.one_third,
+	.two_third,
+	.one_fourth,
+	.three_fourth,
+	.one_fifth,
+	.two_fifth,
+	.three_fifth,
+	.four_fifth,
+	.one_sixth,
+	.five_sixth {
+		clear: both;
+		width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+		margin-bottom: 1em;
+	}
+}
+
+/* =Small Margins Template
+-------------------------------------------------------------- */
+/*
+.full_width  {
+	width: 100%;
+}
+.one_half {
+	width: 49% !important;
+	margin-right: 2% !important;
+}
+.one_half.last_column {
+	width: 49% !important;
+	margin-right: 0px !important;
+}
+.one_third {
+	width: 32% !important;
+	margin-right: 2% !important;
+}
+.one_third.last_column {
+	width: 32% !important;
+	margin-right: 0px !important;
+}
+.two_third {
+	width: 66% !important;
+	margin-right: 2% !important;
+}
+.two_third.last_column {
+	width: 66% !important;
+	margin-right: 0px !important;
+}
+.one_fourth {
+	width: 23.5% !important;
+	margin-right: 2% !important;
+}
+.one_fourth.last_column {
+	width: 23.5% !important;
+	margin-right: 0px !important;
+}
+.three_fourth {
+	width: 74.5% !important;
+	margin-right: 2% !important;
+}
+.three_fourth.last_column {
+	width: 74.5% !important;
+	margin-right: 0px !important;
+}
+.one_fifth {
+	width: 18.4% !important;
+	margin-right: 2% !important;
+}
+.one_fifth.last_column {
+	width: 18.4% !important;
+	margin-right: 0px !important;
+}
+.two_fifth {
+	width: 39% !important;
+	margin-right: 2% !important;
+}
+.two_fifth.last_column {
+	width: 39% !important;
+	margin-right: 0px !important;
+}
+.three_fifth {
+	width: 59% !important;
+	margin-right: 2% !important;
+}
+.three_fifth.last_column {
+	width: 59% !important;
+	margin-right: 0px !important;
+}
+.four_fifth {
+	width: 79.6% !important;
+	margin-right: 2% !important;
+}
+.four_fifth.last_column {
+	width: 79.6% !important;
+	margin-right: 0px !important;
+}
+.one_sixth {
+	width: 15% !important;
+	margin-right: 2% !important;
+}
+.one_sixth.last_column {
+	width: 15% !important;
+	margin-right: 0px !important;
+}
+*/
+
+#wpsl-wrap .wpsl-search.px-site {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: none !important;
+}
+#wpsl-wrap div#wpsl-search-wrap {
+    float: none !important;
+}
+#wpsl-wrap div#wpsl-stores {
+    height: auto !important;
+}
+
+.wpcf7-form input[type="text"],
+.wpcf7-form input[type="password"],
+.wpcf7-form input[type="email"],
+.wpcf7-form input[type="url"],
+.wpcf7-form input[type="date"],
+.wpcf7-form input[type="month"],
+.wpcf7-form input[type="time"],
+.wpcf7-form input[type="datetime"],
+.wpcf7-form input[type="datetime-local"],
+.wpcf7-form input[type="week"],
+.wpcf7-form input[type="number"],
+.wpcf7-form input[type="search"],
+.wpcf7-form input[type="tel"],
+.wpcf7-form input[type="color"],
+.wpcf7-form textarea {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #fff;
+    border-radius: 0;
+    border-style: solid;
+    border-width: 0.1rem;
+    box-shadow: none;
+    display: block;
+    font-size: 16px;
+    letter-spacing: -0.015em;
+    margin: 0;
+    max-width: 100%;
+    padding: 10px 20px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.wpcf7-form input[type="button"],
+.wpcf7-form input[type="reset"],
+.wpcf7-form input[type="submit"] {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	background: #cd2653;
+	border: none;
+	border-radius: 0;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 600;
+	margin: 0;
+	opacity: 1;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: opacity 0.15s linear;
+}
+
+header.banner {
+    padding: 40px 0 40px 0;
+    margin: 0;
+}
+.single-wpsl_stores .wpsl-gmap-canvas {
+    margin-bottom: 0px !important;
+    border: 0;
+}
+</style>
+    	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<script>document.documentElement.className = document.documentElement.className + ' jb-yes-js'</script>		<style type="text/css" id="wp-custom-css">
+			.c-loop-grid__item:nth-child(5n) {
+    grid-column: span 1 !important;
+}
+
+input {
+	background-color:#FFFFFF !important;
+	opacity: 1.00 !important;
+}
+
+.bg-teal {
+	background-color: #A50034 !important;
+}
+
+.bg-teal-dark-60 {
+	background-color: #59001c !important;
+}
+
+.c-gradient--to-left, .c-gradient--to-right {
+	background:none !important
+}
+
+.the-list__item > .u-space-items > p {
+    width: 656px;
+}
+
+/* #### Mobile Phones Portrait or Landscape #### */
+@media screen and (max-device-width: 640px){
+  .the-list__item > .u-space-items > p {
+    width: auto;
+}
+}		</style>
+		
+</head>
+
+<body class="home page-template page-template-tmpl-marketing page-template-tmpl-marketing-php page page-id-2 theme-laurent woocommerce-no-js tribe-no-js  bg-white text-black text-base-sans font-sans tracking-normal font-normal leading-normal antialiased">
+
+	<div class="wrap  flex flex-col" id="Top">
+
+	<div id="head" class="c-top scrolled-top h-auto pin-t w-full z-3 flex flex-col min-h-20 desknav:min-h-28 bg-black text-white absolute md:fixed">
+
+		<div id="VueHead" class="flex flex-col flex-1 relative">
+      <skip-link style="margin-top: 4px; outline:0;" class="
+        uppercase font-sans font-semibold tracking-wide leading-tight
+        block absolute t l r z-2
+        py-2 px-4 bg-white-10 text-center text-sm text-grey-light hover:text-white no-underline hover:underline
+      "></skip-link>
+			<header role="banner" class="banner bg-black relative z-1
+        mt-2 desknav:mt-1 desknav:mt-auto
+        pb-3 desknav:pb-0 pt-8 desknav:pt-12
+        text-sm-sans xl2:text-sm-sans
+      ">
+        <div class="u-max-container desknav:flex desknav:justify-between items-end">
+                              <div class="logo  inline-block mt-4 lg:mr-4 mb-2 desknav:mb-4 hit-area hit-area-100">            <img
+              class="-mb-px min-w-28 w-1/2-screen max-w-4xs desknav:w-23-screen max-w-3xs lg:w-56 h-auto align-bottom inline-block"
+              src="https://www.laurent.com.au/wp-content/themes/laurent/assets/img/laurent-logo-gold.png"
+              srcset="https://www.laurent.com.au/wp-content/themes/laurent/assets/img/laurent-logo-gold.svg"
+              alt="Laurent Bakery. Passion. Qualité. Tradition."
+              width="280" height="27"
+            >
+          </div>
+
+          <nav
+            id="Nav"
+            class="nav font-semibold text-grey flex justify-between items-end -ml-2 -mr-1  desknav:ml-0"
+            :class="{'is-open': mobileMenuOpen}"
+            role="navigation"
+            :aria-hidden="!mobileMenuOpen"
+          >
+            <menu-button
+              class="navtoggler absolute t mr-site mt-8 text-white hover:bg-off-black"
+              style="right: -0.5rem;"
+              v-if="isMobile"
+              :aria-expanded="mobileMenuOpen"
+              :click-handler="menuButtonClicked"
+            >
+              <g></g>
+              <g
+                v-cloak
+                slot="icon"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44"><path d="M0 0h44v5H0zM0 10h44v5H0zM0 20h44v5H0z"/><g><path d="M0 41.453V30h2.835l1.708 7.82L6.237 30h2.849v11.453H7.32V32.43l-1.872 9.023H3.624L1.766 32.43v9.023H0zM13.361 41.453V30h6.969v1.938h-5.078v2.539h4.719v1.93h-4.719v3.109h5.25v1.938h-7.141zM24.525 41.453V30h1.844l3.844 7.648V30h1.766v11.453h-1.906l-3.781-7.469v7.469h-1.767zM36.355 30h1.891v6.203c0 .964.023 1.591.07 1.883.084.505.283.896.6 1.172s.732.414 1.248.414c.439 0 .797-.098 1.072-.293.277-.195.467-.466.568-.812s.152-1.09.152-2.23V30h1.891v6.016c0 1.536-.082 2.647-.246 3.332s-.533 1.239-1.109 1.664c-.574.425-1.334.637-2.277.637-.979 0-1.742-.176-2.293-.527a3.006 3.006 0 0 1-1.195-1.484c-.246-.638-.371-1.813-.371-3.527V30z"/></g></svg>              </g>
+            </menu-button>
+
+                        <ul id="menu" class="main-menu  fade-nav-content uppercase font-sans font-semibold tracking-wide leading-cancel list-reset pt-2 desknav:text-right mt-4 desknav:mt-0">
+			<li class="  menu-item-86  menu-item-has-children inline-block align-bottom relative">
+			<a class="lvl0  lvl0--products
+        hit-area hit-area-35 desknav:hit-area-0
+        inline-block align-bottom w-full no-underline leading-none py-1 px-2 xl:px-3 text-inherit
+        desknav:py-3
+        hover:text-white hover:bg-off-black" href="/products/">Products</a>
+
+			        				<ul class="sub-menu u-backdrop-blur
+          bg-black-90
+          list-reset pin-l u-top-full max-h-0 min-w-32 text-left
+          relative hidden desknav:block desknav:absolute
+        ">
+											<li class="  menu-item-432 relative float-left whitespace-no-wrap w-full">
+							<a class="lvl1  lvl1--products
+                block w-full no-underline leading-none px-2 xl:px-3 text-inherit
+                hover:text-white hover:bg-off-black
+                desknav:py-3
+              " href="/products/">Overview</a>
+																	<li class="  menu-item-object-product_cat  menu-item-190 relative float-left whitespace-no-wrap w-full">
+							<a class="lvl1  lvl1--products
+                block w-full no-underline leading-none px-2 xl:px-3 text-inherit
+                hover:text-white hover:bg-off-black
+                desknav:py-3
+              " href="/shop/cakes-sweets/">Cakes & Sweets</a>
+																	<li class="  menu-item-object-product_cat  menu-item-191 relative float-left whitespace-no-wrap w-full">
+							<a class="lvl1  lvl1--products
+                block w-full no-underline leading-none px-2 xl:px-3 text-inherit
+                hover:text-white hover:bg-off-black
+                desknav:py-3
+              " href="/shop/breads/">Breads</a>
+																	<li class="  menu-item-object-product_cat  menu-item-192 relative float-left whitespace-no-wrap w-full">
+							<a class="lvl1  lvl1--products
+                block w-full no-underline leading-none px-2 xl:px-3 text-inherit
+                hover:text-white hover:bg-off-black
+                desknav:py-3
+              " href="/shop/savoury/">Savoury</a>
+																	<li class="  menu-item-object-product_cat  menu-item-193 relative float-left whitespace-no-wrap w-full">
+							<a class="lvl1  lvl1--products
+                block w-full no-underline leading-none px-2 xl:px-3 text-inherit
+                hover:text-white hover:bg-off-black
+                desknav:py-3
+              " href="/shop/pastries/">Pastries</a>
+															</ul>
+			
+					<li class="  menu-item-17827 inline-block align-bottom relative">
+			<a class="lvl0  lvl0--stores
+        hit-area hit-area-35 desknav:hit-area-0
+        inline-block align-bottom w-full no-underline leading-none py-1 px-2 xl:px-3 text-inherit
+        desknav:py-3
+        hover:text-white hover:bg-off-black" href="/stores/">Stores</a>
+
+			
+					<li class="  menu-item-85 inline-block align-bottom relative">
+			<a class="lvl0  lvl0--wholesale
+        hit-area hit-area-35 desknav:hit-area-0
+        inline-block align-bottom w-full no-underline leading-none py-1 px-2 xl:px-3 text-inherit
+        desknav:py-3
+        hover:text-white hover:bg-off-black" href="/about-wholesale/">Wholesale</a>
+
+			
+					<li class="  menu-item-84 inline-block align-bottom relative">
+			<a class="lvl0  lvl0--catering
+        hit-area hit-area-35 desknav:hit-area-0
+        inline-block align-bottom w-full no-underline leading-none py-1 px-2 xl:px-3 text-inherit
+        desknav:py-3
+        hover:text-white hover:bg-off-black" href="/catering/">Catering</a>
+
+			
+					<li class="  menu-item-83  menu-item-has-children inline-block align-bottom relative">
+			<a class="lvl0  lvl0--what’s-on
+        hit-area hit-area-35 desknav:hit-area-0
+        inline-block align-bottom w-full no-underline leading-none py-1 px-2 xl:px-3 text-inherit
+        desknav:py-3
+        hover:text-white hover:bg-off-black" href="/whats-on/">What’s on</a>
+
+			        				<ul class="sub-menu u-backdrop-blur
+          bg-black-90
+          list-reset pin-l u-top-full max-h-0 min-w-32 text-left
+          relative hidden desknav:block desknav:absolute
+        ">
+											<li class="  menu-item-434 relative float-left whitespace-no-wrap w-full">
+							<a class="lvl1  lvl1--what’s-on
+                block w-full no-underline leading-none px-2 xl:px-3 text-inherit
+                hover:text-white hover:bg-off-black
+                desknav:py-3
+              " href="/whats-on/">Overview</a>
+																	<li class="  menu-item-2122 relative float-left whitespace-no-wrap w-full">
+							<a class="lvl1  lvl1--what’s-on
+                block w-full no-underline leading-none px-2 xl:px-3 text-inherit
+                hover:text-white hover:bg-off-black
+                desknav:py-3
+              " href="/25-years/">25 years</a>
+																	<li class="  menu-item-397 relative float-left whitespace-no-wrap w-full">
+							<a class="lvl1  lvl1--what’s-on
+                block w-full no-underline leading-none px-2 xl:px-3 text-inherit
+                hover:text-white hover:bg-off-black
+                desknav:py-3
+              " href="/category/news/">News</a>
+																	<li class="  menu-item-240 relative float-left whitespace-no-wrap w-full">
+							<a class="lvl1  lvl1--what’s-on
+                block w-full no-underline leading-none px-2 xl:px-3 text-inherit
+                hover:text-white hover:bg-off-black
+                desknav:py-3
+              " href="/events-by-interest/">Events</a>
+																	<li class="  menu-item-398 relative float-left whitespace-no-wrap w-full">
+							<a class="lvl1  lvl1--what’s-on
+                block w-full no-underline leading-none px-2 xl:px-3 text-inherit
+                hover:text-white hover:bg-off-black
+                desknav:py-3
+              " href="/category/nourish/">Nourish</a>
+															</ul>
+			
+					<li class="  menu-item-82  menu-item-has-children inline-block align-bottom relative">
+			<a class="lvl0  lvl0--about
+        hit-area hit-area-35 desknav:hit-area-0
+        inline-block align-bottom w-full no-underline leading-none py-1 px-2 xl:px-3 text-inherit
+        desknav:py-3
+        hover:text-white hover:bg-off-black" href="/about/">About</a>
+
+			        				<ul class="sub-menu u-backdrop-blur
+          bg-black-90
+          list-reset pin-l u-top-full max-h-0 min-w-32 text-left
+          relative hidden desknav:block desknav:absolute
+        ">
+											<li class="  menu-item-1176 relative float-left whitespace-no-wrap w-full">
+							<a class="lvl1  lvl1--about
+                block w-full no-underline leading-none px-2 xl:px-3 text-inherit
+                hover:text-white hover:bg-off-black
+                desknav:py-3
+              " href="/about/">Our Story</a>
+																	<li class="  menu-item-1175 relative float-left whitespace-no-wrap w-full">
+							<a class="lvl1  lvl1--about
+                block w-full no-underline leading-none px-2 xl:px-3 text-inherit
+                hover:text-white hover:bg-off-black
+                desknav:py-3
+              " href="/careers/">Careers</a>
+															</ul>
+			
+			</ul>
+
+                        <div class="
+  util-nav
+  flex-none mt-2 pl-vw text-right
+  desknav:mb-2
+" id="UtilityMenu">
+  <ul class="util-nav__list list-reset fade-nav-content">
+    <li class="util-nav__item align-bottom inline-block
+       desknav:hidden lg:inline-block
+      ">
+      <a target="_blank" class="block p-1 relative hover:text-white text-3xl" title="Find us on Instagram" href="https&#x3A;&#x2F;&#x2F;www.instagram.com&#x2F;laurentbakery&#x2F;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="36.016" height="36.016" viewBox="0 0 36.016 36.016"><path d="M18.008 36.016C8.078 36.016 0 27.937 0 18.007 0 8.078 8.078 0 18.008 0s18.008 8.078 18.008 18.008-8.078 18.008-18.008 18.008zm0-34.016C9.181 2 2 9.181 2 18.007c0 8.827 7.181 16.009 16.008 16.009 8.827 0 16.008-7.181 16.008-16.008C34.016 9.181 26.835 2 18.008 2z"/><path d="M23.227 9.504H12.794a3.29 3.29 0 0 0-3.288 3.286V23.225a3.292 3.292 0 0 0 3.288 3.287h10.433a3.29 3.29 0 0 0 3.287-3.287V12.79a3.29 3.29 0 0 0-3.287-3.286m.943 1.96l.376-.001v2.883l-2.874.009-.01-2.883 2.508-.008zm-8.587 4.799c.545-.755 1.428-1.249 2.427-1.249s1.883.494 2.427 1.249c.355.491.567 1.093.567 1.745 0 1.651-1.343 2.993-2.994 2.993s-2.993-1.342-2.993-2.993c0-.652.212-1.254.566-1.745m9.273 6.962a1.63 1.63 0 0 1-1.63 1.629H12.794a1.63 1.63 0 0 1-1.631-1.629v-6.962h2.54a4.571 4.571 0 0 0-.345 1.745 4.656 4.656 0 0 0 4.651 4.651 4.658 4.658 0 0 0 4.651-4.651c0-.617-.124-1.206-.346-1.745h2.54v6.962z"/></svg>      </a>
+
+    <li class="util-nav__item align-bottom inline-block
+       desknav:hidden lg:inline-block
+      ">
+      <a target="_blank" class="block p-1 relative hover:text-white text-3xl" title="Visit our Facebook page" href="https&#x3A;&#x2F;&#x2F;www.facebook.com&#x2F;laurentbakery&#x2F;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="36.016" height="36.016" viewBox="0 0 36.016 36.016"><path d="M18.008 36.016C8.078 36.016 0 27.937 0 18.007 0 8.078 8.078 0 18.008 0s18.008 8.078 18.008 18.008-8.078 18.008-18.008 18.008zm0-34.016C9.181 2 2 9.181 2 18.007c0 8.827 7.181 16.009 16.008 16.009 8.827 0 16.008-7.181 16.008-16.008C34.016 9.181 26.835 2 18.008 2z"/><path d="M13.905 15.128h1.759V13.42c0-.754.019-1.917.566-2.636.576-.763 1.368-1.281 2.729-1.281 2.218 0 3.151.316 3.151.316l-.438 2.605s-.733-.212-1.416-.212c-.685 0-1.297.245-1.297.929v1.986h2.804l-.195 2.545H18.96v8.839h-3.296v-8.839h-1.759v-2.544z"/></svg>      </a>
+
+    <li class="util-nav__item align-bottom inline-block" id="pe-search-wrap">
+      <a
+        class="block p-1 relative hover:text-white text-3xl u-transition" @click.prevent="searchClicked" title="Search Laurent&#x20;Bakery" href="https&#x3A;&#x2F;&#x2F;www.laurent.com.au/search/" id="bigsearchTrigger" role="button"
+        :aria-expanded="searchShown"
+        :class="{'opacity-0': searchShown}"
+        :style="{
+          '-webkit-transform': searchShown && !isMobile ? 'translateY(150%)' : 'translateY(0)',
+          transform: searchShown && !isMobile ? 'translateY(150%)' : 'translateY(0)',
+          '--visibility-delay': searchShown ? '0.3s' : '0s',
+        }"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" width="36.016" height="36.016" viewBox="0 0 36.016 36.016"><path d="M18.008 0C8.078 0 0 8.078 0 18.008s8.078 18.008 18.008 18.008 18.008-8.078 18.008-18.008S27.938 0 18.008 0zm12.351 28.182l-5.784-6.196a9.079 9.079 0 0 0 1.559-5.095c0-5.032-4.094-9.125-9.125-9.125-5.032 0-9.125 4.093-9.125 9.125 0 5.031 4.093 9.125 9.125 9.125a9.051 9.051 0 0 0 3.734-.808l5.862 6.281a15.897 15.897 0 0 1-8.597 2.526C9.181 34.016 2 26.835 2 18.008 2 9.181 9.181 2 18.008 2c8.827 0 16.008 7.181 16.008 16.008 0 3.86-1.374 7.406-3.657 10.174zm-13.351-5.166a6.132 6.132 0 0 1-6.125-6.125 6.132 6.132 0 0 1 6.125-6.125 6.132 6.132 0 0 1 6.125 6.125 6.132 6.132 0 0 1-6.125 6.125z"/></svg>      </a>
+
+  </ul>
+</div>
+
+
+          </nav>
+        </div>
+			</header>
+
+			<bigsearch>
+								<script type="text/x-template" id="BigsearchTemplate">
+  <div id="Bigsearch"
+    class="bigsearch
+      max-desknav:bg-grey-lightest desknav:bg-white-80 u-backdrop-blur desknav:shadow-drop text-black leading-cancel
+      absolute overflow-hidden desknav:z-0
+      r l max-desknav:b desknav:t-full desknav:b-auto
+    "
+    :class="{
+      'bigsearch--open': searchShown,
+      'bigsearch--mobile': isMobile,
+    }"
+    :aria-hidden="!searchShown"
+  >
+    <div class="u-max-container relative">
+      <form autocomplete="off" role="search" method="get" class="searchform  flex relative items-center w-full" action="/">
+  	<div class="flex-1">
+    <input
+      required
+      type="search"
+      value=""
+      name="s"
+      class="s  text-right text-xl-sans px-3 appearance-none bg-transparent p-2 relative w-full align-middle py-4 shadow-none "
+      size="20"
+      title="Enter at least 3 characters"
+      minlength="1"
+      pattern=".{1,}"
+              @blur="hideSearch"
+        v-model="searchTerm"
+        ref="searchInput"
+        v-fixed-focus
+          >
+		<label for="s" class="searchform__label c-placeholder-label absolute r text-base-sans uppercase smallcaps t-1/2 mr-10 opacity-50">Search</label>
+  </div>
+    		<button
+      type="submit"
+      class="search-submit opacity-25 hover:opacity-100"
+      @blur="hideSearch"
+      >      <span class="text-3xl">
+        <svg xmlns="http://www.w3.org/2000/svg" width="36.016" height="36.016" viewBox="0 0 36.016 36.016"><path d="M18.008 0C8.078 0 0 8.078 0 18.008s8.078 18.008 18.008 18.008 18.008-8.078 18.008-18.008S27.938 0 18.008 0zm12.351 28.182l-5.784-6.196a9.079 9.079 0 0 0 1.559-5.095c0-5.032-4.094-9.125-9.125-9.125-5.032 0-9.125 4.093-9.125 9.125 0 5.031 4.093 9.125 9.125 9.125a9.051 9.051 0 0 0 3.734-.808l5.862 6.281a15.897 15.897 0 0 1-8.597 2.526C9.181 34.016 2 26.835 2 18.008 2 9.181 9.181 2 18.008 2c8.827 0 16.008 7.181 16.008 16.008 0 3.86-1.374 7.406-3.657 10.174zm-13.351-5.166a6.132 6.132 0 0 1-6.125-6.125 6.132 6.132 0 0 1 6.125-6.125 6.132 6.132 0 0 1 6.125 6.125 6.132 6.132 0 0 1-6.125 6.125z"/></svg>      </span>
+    </button>
+</form>
+    </div>
+  </div>
+</script>
+			</bigsearch>
+		</div>
+
+	</div>
+
+  
+    
+
+          <style>.js-flexslider__slide { position: absolute !important; }</style>
+      <div class="js-flexslider relative max-h-80 bg-black">
+        <span class="jb-aspect-ratio-pillar" style="padding-top: 30%"></span>
+    
+
+                        <div v-cloak class="js-flexslider__slide pin z-5" style="position:absolute;">
+
+            <div class="o-vip o-vip--banner h-full grid rows-full bg-grey-darkest text-white overflow-hidden">
+
+  
+<span  class=" jb-aspect-ratio-wrapper relative">
+      <span class="jb-aspect-ratio-pillar"
+      style="padding-top: 30%"
+    ></span>
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2019/06/banner2-5-5756x1727-c-center-768x0-c-default.jpg" height="1727" width="5756" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto  " data-src="https://www.laurent.com.au/wp-content/uploads/2019/06/banner2-5-5756x1727-c-center-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2019/06/banner2-5-5756x1727-c-center-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2019/06/banner2-5-5756x1727-c-center-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2019/06/banner2-5-5756x1727-c-center-1500x0-c-default.jpg 1500w,
+      " alt="" height="431.75" width="1439">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgACAAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+aBKuRlI19wnSuyuNOtb3SPtEF1p0V40GzDuqySfNyDlvvEZ5xz0oorOo3deptSaSd1fQ4c4UkFEyPYUmR/cT8qKK0Mj/9k=)"></span>
+</span>
+
+      <div class="relative z-1 items-center justify-center flex u-max-container">
+      <div class="py-10 sm:px-8 md:text-glow-black-50">
+                                                            <h1
+                    id="PageHeading"
+                    class="text-sm-serif md:text-xl-serif tracking-x-wide font-normal  text-center font-serif uppercase"
+                  >
+                    <big class="big-heading
+  block leading-none
+  text-3xl-serif
+  sm:text-5xl-serif
+  md:text-6xl-serif md:opacity-90
+  lg:text-7xl-serif
+">
+   sweets 
+</big>
+ French inspired. Melbourne Made
+                  </h1>
+                                    </div>
+    </div>
+  </div>
+
+          </div>
+                                              <div v-cloak class="js-flexslider__slide pin " style="position:absolute;">
+
+            <div class="o-vip o-vip--banner h-full grid rows-full bg-grey-darkest text-white overflow-hidden">
+
+  
+<span  class=" jb-aspect-ratio-wrapper relative">
+      <span class="jb-aspect-ratio-pillar"
+      style="padding-top: 30%"
+    ></span>
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2018/08/LAU0003_Website_3000x900pxl_HomePage_Header-3000x900-c-center-768x0-c-default.jpg" height="900" width="3000" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto  " data-src="https://www.laurent.com.au/wp-content/uploads/2018/08/LAU0003_Website_3000x900pxl_HomePage_Header-3000x900-c-center-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2018/08/LAU0003_Website_3000x900pxl_HomePage_Header-3000x900-c-center-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2018/08/LAU0003_Website_3000x900pxl_HomePage_Header-3000x900-c-center-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2018/08/LAU0003_Website_3000x900pxl_HomePage_Header-3000x900-c-center-1500x0-c-default.jpg 1500w,
+      " alt="" height="225" width="750">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgACAAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+eNA0Iaqd1xKba2hQyO5XJfn7qjuf5flnvPDfh7SEcvDCInSLzkedsysMkZLdE6c4Hf60UVxYiTd1fQ78LCOjsJrWgS654Qu9S0gQLaN+/khjypkkTl2PHzYGcDpwSSTXk2R6iiirwrdmuxliVqmf//Z)"></span>
+</span>
+
+      <div class="relative z-1 items-center justify-center flex u-max-container">
+      <div class="py-10 sm:px-8 md:text-glow-black-50">
+                                                            <h1
+                    
+                    class="text-sm-serif md:text-xl-serif tracking-x-wide font-normal  text-center font-serif uppercase"
+                  >
+                    <big class="big-heading
+  block leading-none
+  text-3xl-serif
+  sm:text-5xl-serif
+  md:text-6xl-serif md:opacity-90
+  lg:text-7xl-serif
+">
+  Tradition
+</big>
+ Dough is left to rise for up to 30 hours. We still do that.
+                  </h1>
+                                    </div>
+    </div>
+  </div>
+
+          </div>
+                                <div v-cloak class="js-flexslider__slide pin " style="position:absolute;">
+
+            <div class="o-vip o-vip--banner h-full grid rows-full bg-grey-darkest text-white overflow-hidden">
+
+  
+<span  class=" jb-aspect-ratio-wrapper relative">
+      <span class="jb-aspect-ratio-pillar"
+      style="padding-top: 30%"
+    ></span>
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_3000x900pxl-home-page-slide-3-3000x900-c-center-768x0-c-default.jpg" height="900" width="3000" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto  " data-src="https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_3000x900pxl-home-page-slide-3-3000x900-c-center-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_3000x900pxl-home-page-slide-3-3000x900-c-center-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_3000x900pxl-home-page-slide-3-3000x900-c-center-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_3000x900pxl-home-page-slide-3-3000x900-c-center-1500x0-c-default.jpg 1500w,
+      " alt="" height="225" width="750">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgACAAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A8Xi+HgtpbVo9RX7S5BZBG+zb3UuPb0FbGjeF10GyJjETXbSGNbhlGYMgjJz0xj6Zoor52WMrc3K5fke3DD00uZIrab8L18Ra7eWDXr+bCqyyTbTmQt0xuGT3OcYPbNb/APwzvF/z/Xf/AI7/APE0UV9LSiuRXPJqJKTsf//Z)"></span>
+</span>
+
+      <div class="relative z-1 items-center justify-center flex u-max-container">
+      <div class="py-10 sm:px-8 md:text-glow-black-50">
+                                                            <h1
+                    
+                    class="text-sm-serif md:text-xl-serif tracking-x-wide font-normal  text-center font-serif uppercase"
+                  >
+                    <big class="big-heading
+  block leading-none
+  text-3xl-serif
+  sm:text-5xl-serif
+  md:text-6xl-serif md:opacity-90
+  lg:text-7xl-serif
+">
+  Quality
+</big>
+ Our ingredients is always where quality begins
+
+                  </h1>
+                                    </div>
+    </div>
+  </div>
+
+          </div>
+                                <div v-cloak class="js-flexslider__slide pin " style="position:absolute;">
+
+            <div class="o-vip o-vip--banner h-full grid rows-full bg-grey-darkest text-white overflow-hidden">
+
+  
+<span  class=" jb-aspect-ratio-wrapper relative">
+      <span class="jb-aspect-ratio-pillar"
+      style="padding-top: 30%"
+    ></span>
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2019/06/banner4-5000x1500-c-center-768x0-c-default.jpg" height="1500" width="5000" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto  " data-src="https://www.laurent.com.au/wp-content/uploads/2019/06/banner4-5000x1500-c-center-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2019/06/banner4-5000x1500-c-center-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2019/06/banner4-5000x1500-c-center-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2019/06/banner4-5000x1500-c-center-1500x0-c-default.jpg 1500w,
+      " alt="" height="375" width="1250">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgACAAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+XbJbSS4Vbt5IYTnc8a7mHHHBPriu3njivdMaWDxU9kLeH9zaNbFOApAXcrHkjAz6UUVhWurWZpA4Hc3qaTcfU0UVuZn/9k=)"></span>
+</span>
+
+      <div class="relative z-1 items-center justify-center flex u-max-container">
+      <div class="py-10 sm:px-8 md:text-glow-black-50">
+                                                            <h1
+                    
+                    class="text-sm-serif md:text-xl-serif tracking-x-wide font-normal  text-center font-serif uppercase"
+                  >
+                    <big class="big-heading
+  block leading-none
+  text-3xl-serif
+  sm:text-5xl-serif
+  md:text-6xl-serif md:opacity-90
+  lg:text-7xl-serif
+">
+  Passion
+</big>
+ our food is a feast for the eyes, as well as the palate
+
+                  </h1>
+                                    </div>
+    </div>
+  </div>
+
+          </div>
+                            
+          </div>
+    
+  
+    <main role="main" class="flex-1 flex flex-col">
+
+    
+    
+                <div class="bg-white">
+
+    <nav class="c-tiles max-xs:py-px xs-md:py-4 px-0 xs:px-site u-max-container u-vertical-pad lg:py-10">
+      <ul class="c-tiles__list list-reset">
+
+                <li class="c-tiles__item  bg-white-10 overflow-hidden">
+          <a href="https://www.laurent.com.au/about/" class="c-tiles__link no-underline text-white">
+
+                        
+<span  class=" jb-aspect-ratio-wrapper relative">
+      <span class="jb-aspect-ratio-pillar"
+      style="padding-top: 187.5%"
+    ></span>
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_1600pxl_Homepage_Tile_About-us-3-768x0-c-default.jpg" height="5625" width="1600" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto  " data-src="https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_1600pxl_Homepage_Tile_About-us-3-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_1600pxl_Homepage_Tile_About-us-3-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_1600pxl_Homepage_Tile_About-us-3-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_1600pxl_Homepage_Tile_About-us-3-1500x0-c-default.jpg 1500w,
+      " alt="" height="1406.25" width="400">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgALwAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A7nR7y303w3HcXE/lhd+Nx6tubAFcj4K8XXN9rU9xc6wcRy7AsjbUU544PHXgVsCK3n8ECa7Cp5bNNGHcAby7BRz67gB65Fcj4A0T7Q148umwzJ9siZ4yowgBOGz7A/n7c1NSTfKvI76EI+/J9z6gsNSMtlDLOFDugYlenpVr7ZB/z1WuasdEvkhiAm2CNCgUrnr6jof/AKwqX+x73/nvF/3x/wDWrmeInf3Y6HmSST0Z4hqcem6ro8vhmee5g4WeB0O4xsr71c92AZeQOxOKp+HtA1rxHdXmh2exLQMg1C7ifh4j0VT/ALQBHqBn0rIg1UaxNbT2cbLcqQkZx2PUe3fGe2a9T8CzWllFqBjZVN1cRySoOChEQUr/AN9Bh+la0Jxr1FF6W2/yPUrKVCm3HW/9XPQYNRuIXRfNLRuGbB/hXPB/Krv2t/8AnpJ+dZ0EZukmk7tGQMduP/rmq32uH/n5b8q9OdGMnqjxL3PlrRPEln4aRJLtvnyfs8RyTISevHRfU81s+G7vxLZ3kjWM8moRFzcSLFsmUEtk5/jwST6V5/ovh2K6kLaVci+B25MqGOTB4HJJHb1r1zwX4ai0eH7Rf3KLckgFbYuNq46Fj159sV8/FSvePTqfTz0jqt/met+GPEr3+hh1iWC9lOyONpBgsegz278VH/YGu/8APzL+tctd3V34ka3tNOt3Frotws91cTFNwCjOV5J6AjgZ/Cuu/wCFmab/AM9G/wC+G/wr3MNUlKN2zwa8OSXur5dj/9k=)"></span>
+</span>
+
+            <span class="c-tiles__header z-1 sm:hover:bg-black-30 bg-transparent px-2">
+              <span class="c-tiles__label  text-base-sans xs:text-xs-sans  sm:text-xl-sans md:text-3xl-sans u-h text-white text-glow-black-50 text-center">About Us</span>
+            </span>
+
+          </a>
+                  <li class="c-tiles__item  bg-white-10 overflow-hidden">
+          <a href="https://www.laurent.com.au/products/" class="c-tiles__link no-underline text-white">
+
+                        
+<span  class=" jb-aspect-ratio-wrapper relative">
+      <span class="jb-aspect-ratio-pillar"
+      style="padding-top: 60.586%"
+    ></span>
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2021/06/cirque_website-1-scaled-768x0-c-default.jpg" height="940" width="2560" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto  " data-src="https://www.laurent.com.au/wp-content/uploads/2021/06/cirque_website-1-scaled-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2021/06/cirque_website-1-scaled-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2021/06/cirque_website-1-scaled-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2021/06/cirque_website-1-scaled-1500x0-c-default.jpg 1500w,
+      " alt="" height="235" width="640">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgADwAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8Ad4g+EcWoapLqMfiQqJH3EOEd/puDgn8q5q/1/VfD/neHdF1i6WC3m3OAxjdzjn5h0GT0HPqa9RS0ZozG2Sc5Vs15Rq3hjWLPU7y+eFJjLKdspKFW5HUE5HPtXlYqHJaUFZ90fVZPivrPNh8VJOFk7N2u1597XNvTL3xHr0Men6u8dytvvkjcvvlJYg7ScnIA9efrTP7Hl/59B+QpLfT9bgjF1BJHp0UbH9/gPuUDkbQf8PrWF/wlN5/0GD/4Bf8A2ytcOpqLU3fz2PMzSVGVVOjBQVlonfX177XP/9k=)"></span>
+</span>
+
+            <span class="c-tiles__header z-1 sm:hover:bg-black-30 bg-transparent px-2">
+              <span class="c-tiles__label  text-base-sans xs:text-xs-sans  sm:text-xl-sans md:text-3xl-sans u-h text-white text-glow-black-50 text-center">Our Products</span>
+            </span>
+
+          </a>
+                  <li class="c-tiles__item  bg-white-10 overflow-hidden">
+          <a href="https://www.laurent.com.au/stores/" class="c-tiles__link no-underline text-white">
+
+                        
+<span  class=" jb-aspect-ratio-wrapper relative">
+      <span class="jb-aspect-ratio-pillar"
+      style="padding-top: 100%"
+    ></span>
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_3000x3000pxl_HomePage_Tile_Stores-768x0-c-default.jpg" height="3000" width="3000" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto  " data-src="https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_3000x3000pxl_HomePage_Tile_Stores-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_3000x3000pxl_HomePage_Tile_Stores-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_3000x3000pxl_HomePage_Tile_Stores-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_Website_3000x3000pxl_HomePage_Tile_Stores-1500x0-c-default.jpg 1500w,
+      " alt="" height="750" width="750">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgAGQAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A5QabK09uFQtNKdxEYPzYJ7emAa29SFp4Wso73Vbu9gS7ZhbiAYAwcEEgZ/8A11bsp5PDuveG79UW4e5AxGx2/LIzpn34bNTfGe802LwrYXOp2zyxLevEqB8NuKtjtz901lY0ueMeO7m3u2ju7OaS4iBO1nGGUjqM45/GuK/tH/Z/Wu31g2snh6Ca3gKW0+8gHBZBnOeB14x+NYf9l+FP+ghf/wDfH/2NNMVj6VsNL0tjBeXbQCeHaUWVGURgHIHI7e1c/wDFuwt/Evgi2gW42LDqHnMYhu42uBjn3610kPU/SvOvid9+D6Gq5QPO9buLePQbLTUmVZYd+Sw6c+3qD71yv2aT/n4P/fJrabqf96qlCQrn/9k=)"></span>
+</span>
+
+            <span class="c-tiles__header z-1 sm:hover:bg-black-30 bg-transparent px-2">
+              <span class="c-tiles__label  text-base-sans xs:text-xs-sans  sm:text-xl-sans md:text-3xl-sans u-h text-white text-glow-black-50 text-center">Our Stores</span>
+            </span>
+
+          </a>
+                  <li class="c-tiles__item  bg-white-10 overflow-hidden">
+          <a href="https://www.laurent.com.au/about-wholesale/" class="c-tiles__link no-underline text-white">
+
+                        
+<span  class=" jb-aspect-ratio-wrapper relative">
+      <span class="jb-aspect-ratio-pillar"
+      style="padding-top: 72.667%"
+    ></span>
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2018/07/DM32896-768x0-c-default.jpg" height="792" width="1500" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto  " data-src="https://www.laurent.com.au/wp-content/uploads/2018/07/DM32896-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2018/07/DM32896-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2018/07/DM32896-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2018/07/DM32896-1500x0-c-default.jpg 1500w,
+      " alt="" height="198" width="375">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgAEgAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+atAfUbC+jvLF/JmhYOrEdMV6XFquiWVtceKbe7uIvEEgKSWjDKSs0ZXeOP4WIbnrj1rnfBt4+hvcy3WmxX8jLsiLybFQd+2D2610U+vxWugy2q6BYtc3PmtLcmRWXLBtuEKkKFyMYx0681zTm7tctzogrJWlY83v7ufVb2W4vpPPuSNzPLJy3sP8BVTYv8Az7j8zXd6xqtvf6NBYQ6Rb2v2dVxIDvdsZyc4HJzzXM/uf7yVcJtraxE4pPe5p2pPktyfvf1q7GS5QMSQW5z34ooqGUiCLkMO2Dx+FM2J/dX8qKKpAf/Z)"></span>
+</span>
+
+            <span class="c-tiles__header z-1 sm:hover:bg-black-30 bg-transparent px-2">
+              <span class="c-tiles__label  text-base-sans xs:text-xs-sans  sm:text-xl-sans md:text-3xl-sans u-h text-white text-glow-black-50 text-center">Wholesale</span>
+            </span>
+
+          </a>
+          
+      </ul>
+    </nav>
+
+  </div>
+
+
+
+
+          
+                      <div class="bg-black pb-2 border-t border-white md:border-t-4">
+  <div class="u-max-container">
+    <div class="u-vertical-pad">
+      <div class="bg-black text-center text-white px-4 sm:py-4">
+  <p>
+    <img
+      class="xs:max-w-3/4"
+      src="https://www.laurent.com.au/wp-content/themes/laurent/assets/img/tagline.png"
+      alt="Passion. Qualité. Tradition."
+      width="400"
+    >
+  </p>
+</div>
+    </div>
+  </div>
+</div>
+
+
+          
+              <section class="o-vip border-t md:border-t-4 border-white grid rows-full bg-grey-darkest text-white overflow-hidden">
+
+  
+<span  class=" jb-aspect-ratio-wrapper relative">
+      <span class="jb-aspect-ratio-pillar"
+      style="padding-top: 30%"
+    ></span>
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2020/05/DM33241-scaled-2560x768-c-center-768x0-c-default.jpg" height="768" width="2560" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto  " data-src="https://www.laurent.com.au/wp-content/uploads/2020/05/DM33241-scaled-2560x768-c-center-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2020/05/DM33241-scaled-2560x768-c-center-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2020/05/DM33241-scaled-2560x768-c-center-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2020/05/DM33241-scaled-2560x768-c-center-1500x0-c-default.jpg 1500w,
+      " alt="" height="192" width="640">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgACAAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+eZfDxTQbjUZdZtVuLW48mey2tvxu2hkfG1+c5APAA55xWhq2l+FbizitvDrX93qkioYU2FmkYn5lIHGQB2GDk88YJRWdPmnFylJ6Mh1uSldJaoxl8O60PtYaKKI2lv9plWSaNSE9gT8x9hz2xmsj7TL/e/Siis6GInOc4vpb8Vc1cEop9z/2Q==)"></span>
+</span>
+
+      <div class="relative z-1 items-center justify-center flex u-max-container">
+      <div class="py-10 sm:px-8 md:text-glow-black-50">
+                    <div class="s-editable text-center u-space-items max-w-md">
+              <h2>Catering</h2>
+<h3><a href="/catering/">Learn More</a></h3>
+
+            </div>
+                </div>
+    </div>
+  </section>
+
+          
+              <section class="o-vip border-t md:border-t-4 border-white grid rows-full bg-grey-darkest text-white overflow-hidden">
+
+  
+<span  class=" jb-aspect-ratio-wrapper relative">
+      <span class="jb-aspect-ratio-pillar"
+      style="padding-top: 30%"
+    ></span>
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_homepage_3000x900pxl-wholesale-3000x900-c-center-768x0-c-default.jpg" height="900" width="3000" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto  " data-src="https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_homepage_3000x900pxl-wholesale-3000x900-c-center-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_homepage_3000x900pxl-wholesale-3000x900-c-center-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_homepage_3000x900pxl-wholesale-3000x900-c-center-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2018/09/LAU0003_homepage_3000x900pxl-wholesale-3000x900-c-center-1500x0-c-default.jpg 1500w,
+      " alt="" height="225" width="750">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgACAAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A8o+Fdt/bniLV5JbKOZr63mgSByqADaMgdu6dO2T2rrvCdjY+NtFXTZrqAi3RkdXYK8IByfpjkZHH3T2oorzMYrx5u1j0cJK0rd7lu18Q3+haNHNql89zF4h2ywT7t7qI12FDuIBQoo+Xj7x5OcVgfa/Bf/PC8/77b/Ciipw/7yHM+7/BtEyk4ux//9k=)"></span>
+</span>
+
+      <div class="relative z-1 items-center justify-center flex u-max-container">
+      <div class="py-10 sm:px-8 md:text-glow-black-50">
+                    <div class="s-editable text-center u-space-items max-w-md">
+              <h2>Wholesale</h2>
+<h3><a href="/about-wholesale/">Learn More</a></h3>
+
+            </div>
+                </div>
+    </div>
+  </section>
+
+          
+                      <section class="bg-white" data-label="logos">
+  <div class="u-max-container u-vertical-pad">
+    <h2 class="u-alpha c-strikethru">As featured in</h2>
+
+    <ul class="list-reset flex flex-wrap items-center justify-between mt-8 mx-auto md:-mx-6 max-md:max-w-sm">
+            <li class="flex-1 text-center inline-block mx-4 md:mx-6">
+        <a href="http://leader.smedia.com.au/progress/" target="_blank"
+          rel="external noopener noreferrer"
+          class="inline-block opacity-75 lg:hover:opacity-50"
+          title="Visit this external page"
+        >
+          <img src="https://www.laurent.com.au/wp-content/uploads/2018/08/Leader-2.svg" alt="The Leader"
+            class="
+            max-h-20 max-w-none
+            max-md:w-28
+            md:w-32"
+          >
+        </a>
+      </li>
+            <li class="flex-1 text-center inline-block mx-4 md:mx-6">
+        <a href="https://www.heraldsun.com.au/leader/inner-south/familyowned-laurent-bakery-to-create-30-new-jobs-in-braeside-when-it-builds-new-bread-line/news-story/70bdf2caf8797d320cbe86ffbc88adee" target="_blank"
+          rel="external noopener noreferrer"
+          class="inline-block opacity-75 lg:hover:opacity-50"
+          title="Visit this external page"
+        >
+          <img src="https://www.laurent.com.au/wp-content/uploads/2018/08/Herald-Sun.svg" alt="Herald Sun"
+            class="
+            max-h-20 max-w-none
+            max-md:w-28
+            md:w-32"
+          >
+        </a>
+      </li>
+            <li class="flex-1 text-center inline-block mx-4 md:mx-6">
+        <a href="https://www.timeout.com/melbourne/things-to-do/the-best-ways-to-celebrate-bastille-day-in-melbourne" target="_blank"
+          rel="external noopener noreferrer"
+          class="inline-block opacity-75 lg:hover:opacity-50"
+          title="Visit this external page"
+        >
+          <img src="https://www.laurent.com.au/wp-content/uploads/2018/08/timeout-2.svg" alt="Time Out Melbourne"
+            class="
+            max-h-20 max-w-none
+            max-md:w-28
+            md:w-32"
+          >
+        </a>
+      </li>
+            <li class="flex-1 text-center inline-block mx-4 md:mx-6">
+        <a href="http://www.foodanddrinkbusiness.com.au/news/french-bakery-laurent-phases-out-plastic-bags" target="_blank"
+          rel="external noopener noreferrer"
+          class="inline-block opacity-75 lg:hover:opacity-50"
+          title="Visit this external page"
+        >
+          <img src="https://www.laurent.com.au/wp-content/uploads/2018/08/FD-Business-1.svg" alt="Food and Drink Business"
+            class="
+            max-h-20 max-w-none
+            max-md:w-28
+            md:w-32"
+          >
+        </a>
+      </li>
+            <li class="flex-1 text-center inline-block mx-4 md:mx-6">
+        <a href="https://www.afr.com/business/retail/coles-demerger-in-the-bag-as-sales-rebound-20180808-h13qan" target="_blank"
+          rel="external noopener noreferrer"
+          class="inline-block opacity-75 lg:hover:opacity-50"
+          title="Visit this external page"
+        >
+          <img src="https://www.laurent.com.au/wp-content/uploads/2018/08/FINANCIAL-REVIEW-1.svg" alt="The Financial Review"
+            class="
+            max-h-20 max-w-none
+            max-md:w-28
+            md:w-32"
+          >
+        </a>
+      </li>
+          </ul>
+  </div>
+</section>
+
+
+          
+                      
+<section class="bg-teal text-white flex-1 flex flex-col justify-center">
+  <div class="u-max-container u-vertical-pad">
+    <h2 class="font-sans font-semibold text-xl-sans md:text-2xl-sans text-center mb-4">Sign up below and get a delicious feed direct to <span class="whitespace-no-wrap">your inbox</span></h2>
+
+    <form
+      class="xs:flex flex-wrap text-center justify-center items-center -mx-px sm-md:mx-auto max-md:max-w-sm mb-4 overflow-hidden"
+      id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+      action="https://laurent.us18.list-manage.com/subscribe/post?u=f7bb2dcf3db3c37427958495a&amp;id=e611ffe1a0"
+      method="post"
+    >
+
+      <div class="c-floating-field inline-block flex-1 xs:min-w-42 max-w-full sm:max-w-4xs m-px text-black w-48 md:w-64">
+        <input class="c-floating-field__input py-3 opacity-85 focus:opacity-100 " type="text" name="FNAME" id="mce-FNAME" placeholder="First name" required minlength="2" pattern=".{2,}" size="20"><label class="cta__label  c-floating-field__label" for="mce-FNAME">&larr; First name</label>
+      </div>
+
+      <div class="c-floating-field inline-block flex-1 xs:min-w-42 max-w-full sm:max-w-4xs m-px text-black w-48 md:w-64">
+        <input class="c-floating-field__input py-3 opacity-85 focus:opacity-100 " type="email" id="mce-EMAIL" name="EMAIL" placeholder="Email" required minlength="4" size="20"><label class="cta__label  c-floating-field__label" for="mce-EMAIL">&larr; Email</label>
+      </div>
+
+      <div class="c-floating-field inline-block flex-1 xs:min-w-42 max-w-full sm:max-w-4xs m-px text-black w-48 md:w-64">
+        <input class="c-floating-field__input py-3 opacity-85 focus:opacity-100 " type="text" name="MMERGE6" id="mce-MMERGE6" placeholder="Postcode" required minlength="4" maxlength="4" pattern="\d{4}" size="10"><label class="cta__label  c-floating-field__label" for="mce-MMERGE6">&larr; Postcode</label>
+      </div>
+
+      <div class="flex-0 xs:m-px">
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f7bb2dcf3db3c37427958495a_e611ffe1a0" tabindex="-1" value=""></div>
+
+        <button type="submit" name="subscribe" class="btn self-stretch"  id="mc-embedded-subscribe">Sign me up</button>
+      </div>
+
+    </form>
+
+  </div>
+</section>
+
+
+          
+                      <section class="bg-grey-lightest">
+  <div class="margatsni u-max-container">
+    <div class="u-vertical-pad">
+      <h2 class="u-alpha c-strikethru text-gold-dark">@laurentbakery on&#160;Instagram</h2>
+      <!--<div class="o-aspect-ratio-5/1 max-md:mt-6 mt-10">
+        <script class="lazyload" data-src="https://lightwidget.com/widgets/lightwidget.js"></script><iframe  class="lazyload lightwidget-widget" data-src="https://lightwidget.com/widgets/8363deb6aab75fb4a7b3332d3309f25b.html" scrolling="no" allowtransparency="true" style="width: 100%; height: 100%; border: 0; overflow: hidden;"></iframe>
+      </div>-->
+      <div id="custom-insta-feeds" style="margin-top:30px;">
+         
+<div id="sb_instagram" class="sbi sbi_col_5  sbi_width_resp" style="padding-bottom: 10px;width: 100%;" data-feedid="sbi_17841407737088153#5" data-res="auto" data-cols="5" data-num="5" data-shortcode-atts="{}"  data-sbi-flags="favorLocal">
+	
+    <div id="sbi_images" style="padding: 5px;">
+		<div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17951494652600778" data-date="1682507799">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/Crf0yK2ujZV/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-sin6-1.cdninstagram.com/v/t51.36329-15/343093330_984296646274237_5796166284616315521_n.jpg?_nc_cat=111&#038;ccb=1-7&#038;_nc_sid=8ae9d6&#038;_nc_ohc=QjIVY4dAh18AX8TWLeR&#038;_nc_ht=scontent-sin6-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;oh=00_AfARf5qINWGi80lxbU44hGGcGUf1mrz4GCbwE7GvYCPR-w&#038;oe=6473B6FE" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-sin6-1.cdninstagram.com\/v\/t51.36329-15\/343093330_984296646274237_5796166284616315521_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=QjIVY4dAh18AX8TWLeR&amp;_nc_ht=scontent-sin6-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfARf5qINWGi80lxbU44hGGcGUf1mrz4GCbwE7GvYCPR-w&amp;oe=6473B6FE&quot;,&quot;150&quot;:&quot;https:\/\/scontent-sin6-1.cdninstagram.com\/v\/t51.36329-15\/343093330_984296646274237_5796166284616315521_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=QjIVY4dAh18AX8TWLeR&amp;_nc_ht=scontent-sin6-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfARf5qINWGi80lxbU44hGGcGUf1mrz4GCbwE7GvYCPR-w&amp;oe=6473B6FE&quot;,&quot;320&quot;:&quot;https:\/\/scontent-sin6-1.cdninstagram.com\/v\/t51.36329-15\/343093330_984296646274237_5796166284616315521_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=QjIVY4dAh18AX8TWLeR&amp;_nc_ht=scontent-sin6-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfARf5qINWGi80lxbU44hGGcGUf1mrz4GCbwE7GvYCPR-w&amp;oe=6473B6FE&quot;,&quot;640&quot;:&quot;https:\/\/scontent-sin6-1.cdninstagram.com\/v\/t51.36329-15\/343093330_984296646274237_5796166284616315521_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=QjIVY4dAh18AX8TWLeR&amp;_nc_ht=scontent-sin6-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfARf5qINWGi80lxbU44hGGcGUf1mrz4GCbwE7GvYCPR-w&amp;oe=6473B6FE&quot;}">
+            <span class="sbi-screenreader">Shower Mum with love this Mothers Day and Spoil he</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.laurent.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Shower Mum with love this Mothers Day and Spoil her with our Limited Edition Cake 💗
+
+Available in stores on the 14th of May 💕 Pre-Order to secure yours today! 
+
+#laurentbakery #laurent #laurentmelbourne #cake #sweets #melbournefoodies #fyp #foodtok #motherdays #frenchcafe #eatmelbourne #foodies #cake #sweettooth #treats #melbournesweets #foodgram #sweetgram #mum #french #frenchcafe #frenchcakes #melbournecakes #spoilmum #cakelover #melbournedesserts #dessert #decoration #cakedesign">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18282454813118448" data-date="1681880697">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CrNJFirPn8U/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-sin6-4.cdninstagram.com/v/t51.29350-15/341816461_757777722724779_8586433195201698571_n.jpg?_nc_cat=110&#038;ccb=1-7&#038;_nc_sid=8ae9d6&#038;_nc_ohc=V1rlBUoz-W0AX87XD2Z&#038;_nc_ht=scontent-sin6-4.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;oh=00_AfD3jO-vwcJESJ93kFGcLKguTVq-YT699S7z6SAaaKXBSA&#038;oe=647379E4" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-sin6-4.cdninstagram.com\/v\/t51.29350-15\/341816461_757777722724779_8586433195201698571_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=V1rlBUoz-W0AX87XD2Z&amp;_nc_ht=scontent-sin6-4.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfD3jO-vwcJESJ93kFGcLKguTVq-YT699S7z6SAaaKXBSA&amp;oe=647379E4&quot;,&quot;150&quot;:&quot;https:\/\/scontent-sin6-4.cdninstagram.com\/v\/t51.29350-15\/341816461_757777722724779_8586433195201698571_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=V1rlBUoz-W0AX87XD2Z&amp;_nc_ht=scontent-sin6-4.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfD3jO-vwcJESJ93kFGcLKguTVq-YT699S7z6SAaaKXBSA&amp;oe=647379E4&quot;,&quot;320&quot;:&quot;https:\/\/scontent-sin6-4.cdninstagram.com\/v\/t51.29350-15\/341816461_757777722724779_8586433195201698571_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=V1rlBUoz-W0AX87XD2Z&amp;_nc_ht=scontent-sin6-4.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfD3jO-vwcJESJ93kFGcLKguTVq-YT699S7z6SAaaKXBSA&amp;oe=647379E4&quot;,&quot;640&quot;:&quot;https:\/\/scontent-sin6-4.cdninstagram.com\/v\/t51.29350-15\/341816461_757777722724779_8586433195201698571_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=V1rlBUoz-W0AX87XD2Z&amp;_nc_ht=scontent-sin6-4.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfD3jO-vwcJESJ93kFGcLKguTVq-YT699S7z6SAaaKXBSA&amp;oe=647379E4&quot;}">
+            <span class="sbi-screenreader">Have you tried one of our Croissants from our Croi</span>
+            	                    <img src="https://www.laurent.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Have you tried one of our Croissants from our Croissant Bar? 🥐 
+
+Comment your favourite below! 
+
+#laurentbakery #laurent #laurentmelbourne #croissant #croissantbar #melbournefoodies #croissantlovers #melbournecafe #frenchpatisserie #croissantsandwich #eatmelbourne #foodinmelbourne #foodies #sweet #yummy #melbournecafe #savoury #foodie #melbournesweets #foodgram #sweetgram #melbourneats #french #frenchcafe #croissant #new #instafood #chadstone #australia #coffee">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18206924761241920" data-date="1681172008">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/Cq4BOjcMq8S/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-sin6-2.cdninstagram.com/v/t51.36329-15/340680631_747102550294715_4793513474403476261_n.jpg?_nc_cat=108&#038;ccb=1-7&#038;_nc_sid=8ae9d6&#038;_nc_ohc=ErTSyrUxT_0AX-NPDtw&#038;_nc_ht=scontent-sin6-2.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;oh=00_AfDLELIiVhSJAr4CGX7KoIeXTAiBx2pYCSMCn_NVxX4DUg&#038;oe=6473B0F5" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-sin6-2.cdninstagram.com\/v\/t51.36329-15\/340680631_747102550294715_4793513474403476261_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=ErTSyrUxT_0AX-NPDtw&amp;_nc_ht=scontent-sin6-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfDLELIiVhSJAr4CGX7KoIeXTAiBx2pYCSMCn_NVxX4DUg&amp;oe=6473B0F5&quot;,&quot;150&quot;:&quot;https:\/\/scontent-sin6-2.cdninstagram.com\/v\/t51.36329-15\/340680631_747102550294715_4793513474403476261_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=ErTSyrUxT_0AX-NPDtw&amp;_nc_ht=scontent-sin6-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfDLELIiVhSJAr4CGX7KoIeXTAiBx2pYCSMCn_NVxX4DUg&amp;oe=6473B0F5&quot;,&quot;320&quot;:&quot;https:\/\/scontent-sin6-2.cdninstagram.com\/v\/t51.36329-15\/340680631_747102550294715_4793513474403476261_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=ErTSyrUxT_0AX-NPDtw&amp;_nc_ht=scontent-sin6-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfDLELIiVhSJAr4CGX7KoIeXTAiBx2pYCSMCn_NVxX4DUg&amp;oe=6473B0F5&quot;,&quot;640&quot;:&quot;https:\/\/scontent-sin6-2.cdninstagram.com\/v\/t51.36329-15\/340680631_747102550294715_4793513474403476261_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=ErTSyrUxT_0AX-NPDtw&amp;_nc_ht=scontent-sin6-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfDLELIiVhSJAr4CGX7KoIeXTAiBx2pYCSMCn_NVxX4DUg&amp;oe=6473B0F5&quot;}">
+            <span class="sbi-screenreader">Laurent Ivanhoe is now OPEN! ⭐️
+
+#Laurentbaker</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.laurent.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Laurent Ivanhoe is now OPEN! ⭐️
+
+#Laurentbakery #laurent #ivanhoe #newstore #melbourne #frenchbakery #patisserie #coffee #laurentmelbourne #frenchcafe #croissant #eatsinmelbourne #australia">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18211118428242083" data-date="1680609745">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CqnQ8G9vxZt/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-sin6-3.cdninstagram.com/v/t51.29350-15/339488717_750224013207457_7441302777545636331_n.jpg?_nc_cat=106&#038;ccb=1-7&#038;_nc_sid=8ae9d6&#038;_nc_ohc=SFX9qhH5ctUAX8c8Y8P&#038;_nc_ht=scontent-sin6-3.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;oh=00_AfBptmTteruMqH0_GQjHGDhC67Mf0ZXbujwh2xwpWn_TJw&#038;oe=647382DB" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-sin6-3.cdninstagram.com\/v\/t51.29350-15\/339488717_750224013207457_7441302777545636331_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=SFX9qhH5ctUAX8c8Y8P&amp;_nc_ht=scontent-sin6-3.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfBptmTteruMqH0_GQjHGDhC67Mf0ZXbujwh2xwpWn_TJw&amp;oe=647382DB&quot;,&quot;150&quot;:&quot;https:\/\/scontent-sin6-3.cdninstagram.com\/v\/t51.29350-15\/339488717_750224013207457_7441302777545636331_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=SFX9qhH5ctUAX8c8Y8P&amp;_nc_ht=scontent-sin6-3.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfBptmTteruMqH0_GQjHGDhC67Mf0ZXbujwh2xwpWn_TJw&amp;oe=647382DB&quot;,&quot;320&quot;:&quot;https:\/\/scontent-sin6-3.cdninstagram.com\/v\/t51.29350-15\/339488717_750224013207457_7441302777545636331_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=SFX9qhH5ctUAX8c8Y8P&amp;_nc_ht=scontent-sin6-3.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfBptmTteruMqH0_GQjHGDhC67Mf0ZXbujwh2xwpWn_TJw&amp;oe=647382DB&quot;,&quot;640&quot;:&quot;https:\/\/scontent-sin6-3.cdninstagram.com\/v\/t51.29350-15\/339488717_750224013207457_7441302777545636331_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=SFX9qhH5ctUAX8c8Y8P&amp;_nc_ht=scontent-sin6-3.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfBptmTteruMqH0_GQjHGDhC67Mf0ZXbujwh2xwpWn_TJw&amp;oe=647382DB&quot;}">
+            <span class="sbi-screenreader">⭐️ EASTER GIVEAWAY ⭐️
+
+To make your Easter</span>
+            	                    <img src="https://www.laurent.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="⭐️ EASTER GIVEAWAY ⭐️
+
+To make your Easter extra sweet we have partnered with the wonderful @marypoppinsmusicalau to giveaway Two Practically Perfect Easter gifts! 
+
+Two lucky winners will win our 1.5kg Golden Chocolate Bunny and x2 Double Passes to enjoy the extraordinary Disney &amp; Cameron Mackintosh’s MARY POPPINS ⭐️ 
+
+Here’s how to enter: 
+1. LIKE this post 
+2. FOLLOW both @laurentbakery &amp; @marypoppinsmusicalau 
+3. TAG who you would like to share this gift with! 
+
+This giveaway is open to Victorian residents only, and entries close 11:59pm April 6th. The winners will be announced via Instagram direct message. *Please be aware of fake accounts, you will only be contacted by @laurentbakery * 
+
+Good Luck! 🐰⭐️">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17950323125397326" data-date="1679997704">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CqVBkBMPFjB/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-sin6-4.cdninstagram.com/v/t51.29350-15/337924289_185595680897449_1509905758455695048_n.jpg?_nc_cat=110&#038;ccb=1-7&#038;_nc_sid=8ae9d6&#038;_nc_ohc=d7R5lkK8b2EAX9JbGCR&#038;_nc_ht=scontent-sin6-4.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;oh=00_AfBBF_W5z7aXuxV5uA1lYXN9_TKNyMdoRkpD4_O6VFnLUQ&#038;oe=64731904" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-sin6-4.cdninstagram.com\/v\/t51.29350-15\/337924289_185595680897449_1509905758455695048_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=d7R5lkK8b2EAX9JbGCR&amp;_nc_ht=scontent-sin6-4.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfBBF_W5z7aXuxV5uA1lYXN9_TKNyMdoRkpD4_O6VFnLUQ&amp;oe=64731904&quot;,&quot;150&quot;:&quot;https:\/\/scontent-sin6-4.cdninstagram.com\/v\/t51.29350-15\/337924289_185595680897449_1509905758455695048_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=d7R5lkK8b2EAX9JbGCR&amp;_nc_ht=scontent-sin6-4.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfBBF_W5z7aXuxV5uA1lYXN9_TKNyMdoRkpD4_O6VFnLUQ&amp;oe=64731904&quot;,&quot;320&quot;:&quot;https:\/\/scontent-sin6-4.cdninstagram.com\/v\/t51.29350-15\/337924289_185595680897449_1509905758455695048_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=d7R5lkK8b2EAX9JbGCR&amp;_nc_ht=scontent-sin6-4.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfBBF_W5z7aXuxV5uA1lYXN9_TKNyMdoRkpD4_O6VFnLUQ&amp;oe=64731904&quot;,&quot;640&quot;:&quot;https:\/\/scontent-sin6-4.cdninstagram.com\/v\/t51.29350-15\/337924289_185595680897449_1509905758455695048_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=8ae9d6&amp;_nc_ohc=d7R5lkK8b2EAX9JbGCR&amp;_nc_ht=scontent-sin6-4.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfBBF_W5z7aXuxV5uA1lYXN9_TKNyMdoRkpD4_O6VFnLUQ&amp;oe=64731904&quot;}">
+            <span class="sbi-screenreader">Our chocolate Sunnyside Up and Carrot Lollipops ar</span>
+            	                    <img src="https://www.laurent.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Our chocolate Sunnyside Up and Carrot Lollipops are back in stores! The sweetest addition to any Easter gift 🐰 
+
+#laurentbakery #laurent #laurentmelbourne #easter #happyeaster #melbourne #chocolate #chocolatelover #melbournecafe #frenchpatisserie #frenchcafe #eatmelbourne #gift #sweet  #sweetgram #melbourneats #french #frenchcafe #croissantlovers #new #easterbunny #lollipop #australia">
+        </a>
+    </div>
+</div>    </div>
+
+	<div id="sbi_load">
+
+	        <a class="sbi_load_btn" href="javascript:void(0);" >
+            <span class="sbi_btn_text">Load More…</span>
+            <span class="sbi_loader sbi_hidden" style="background-color: rgb(255, 255, 255);" aria-hidden="true"></span>
+        </a>
+	
+	
+</div>
+	    <span class="sbi_resized_image_data" data-feed-id="sbi_17841407737088153#5" data-resized="{&quot;17950323125397326&quot;:{&quot;id&quot;:&quot;337924289_185595680897449_1509905758455695048_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18211118428242083&quot;:{&quot;id&quot;:&quot;339488717_750224013207457_7441302777545636331_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18206924761241920&quot;:{&quot;id&quot;:&quot;340499556_743369537576090_4051832292522166500_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18282454813118448&quot;:{&quot;id&quot;:&quot;341816461_757777722724779_8586433195201698571_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17951494652600778&quot;:{&quot;id&quot;:&quot;343289478_1627835781015542_6272696442809762894_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}}}">
+	</span>
+	        <div id="sbi_mod_error">
+            <span>This error message is only visible to WordPress admins</span><br />
+                </div>
+        </div>
+
+
+      </div>
+    </div>
+  </div>
+</section>
+
+          
+                      
+<section data-label="featured-nourish-articles" class="bg-white">
+  <div class="u-max-container u-vertical-pad">
+    <h2 class="u-alpha c-strikethru text-center pb-4 md:pb-10">Featured Articles</h2>
+    <ul class="c-mini  list-reset grid gap-0 md:columns-2 mx-neg-site md:-ml-6 md:mr-0 overflow-hidden ">
+              <li class="c-mini__item
+  w-full md:min-w-1/2 px-site py-4 md:px-6 md:flex-1 
+">
+  <article class="c-mini__article  h-full grid xs:columns-2 m-auto sm-md:max-w-sm">
+    <div class="c-mini__text flex flex-col justify-between items-start md:column-2
+            xs-md:column-2
+    ">
+      <div class="c-mini__text-main">
+        <header class="mb-2">
+
+                                  <h3 class="u-beta sm:text-xl-sans">
+              <a class="block hit-area hit-area-35 no-underline" href="https://www.laurent.com.au/covid-update/" rel="bookmark">RE-LAUNCHING MELBOURNE&#8217;S VERY FIRST LAURENT IN SOUTH YARRA</a>
+            </h3>
+          
+                          <p class="leading-tighter"><span class="text-xs-sans text-grey-darker">February 15, 2021</span></p>
+                      
+        </header>
+
+        <p class="text-sm-sans mb-2">Laurent Bakery has come a long way since opening its very first boulangerie on&hellip;</p>
+        <a class="hit-area hit-area-100 font-semibold text-grey-darker hover:text-black hover:no-underline" href="https://www.laurent.com.au/covid-update/" tabindex="-1">Read More</a><span class="t text-grey mt-px pt-px l-full ">&#160;&rarr;</span>
+      </div>
+    </div>
+
+        
+<span  class="c-mini__img  bg-grey-light h-full min-h-32 md:min-h-40 jb-aspect-ratio-wrapper relative">
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2021/02/149825178_4005234896261177_8204751834197119070_o-2018x2018-c-center-768x0-c-default.jpg" height="2018" width="2018" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto absolute " data-src="https://www.laurent.com.au/wp-content/uploads/2021/02/149825178_4005234896261177_8204751834197119070_o-2018x2018-c-center-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2021/02/149825178_4005234896261177_8204751834197119070_o-2018x2018-c-center-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2021/02/149825178_4005234896261177_8204751834197119070_o-2018x2018-c-center-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2021/02/149825178_4005234896261177_8204751834197119070_o-2018x2018-c-center-1500x0-c-default.jpg 1500w,
+      " alt="" height="504.5" width="504.5">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgAGQAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+qCyr1IH1NJ50eM+Yn514Z4guXPxMujf6g/2fziqwm6KEYwEAXcOPbvz1qosumza9eRTXGrHF+YT5dzOI1Y4O04bA5PT3FTzDPf1dH+6yn6Glrx6zn0mXx1HaG5m+2xz8g3LBWcdMLux+GPWvYaadxFS50jT7yQS3FjbSyDo7xgt+dH9kWH/AD6RflVuinYCrBpOn205nhsreOY/8tFjG78+tWqKKAP/2Q==)"></span>
+</span>
+
+  </article>
+</li>
+              <li class="c-mini__item
+  w-full md:min-w-1/2 px-site py-4 md:px-6 md:flex-1 
+">
+  <article class="c-mini__article  h-full grid xs:columns-2 m-auto sm-md:max-w-sm">
+    <div class="c-mini__text flex flex-col justify-between items-start md:column-2
+            xs-md:column-2
+    ">
+      <div class="c-mini__text-main">
+        <header class="mb-2">
+
+                                  <h3 class="u-beta sm:text-xl-sans">
+              <a class="block hit-area hit-area-35 no-underline" href="https://www.laurent.com.au/greeting-cards-available/" rel="bookmark">Greeting Cards Available!</a>
+            </h3>
+          
+                          <p class="leading-tighter"><span class="text-xs-sans text-grey-darker">December 21, 2020</span></p>
+                      
+        </header>
+
+        <p class="text-sm-sans mb-2">We&rsquo;re excited to announce the launch of our new greeting cards! Now in stores&hellip;</p>
+        <a class="hit-area hit-area-100 font-semibold text-grey-darker hover:text-black hover:no-underline" href="https://www.laurent.com.au/greeting-cards-available/" tabindex="-1">Read More</a><span class="t text-grey mt-px pt-px l-full ">&#160;&rarr;</span>
+      </div>
+    </div>
+
+        
+<span  class="c-mini__img  bg-grey-light h-full min-h-32 md:min-h-40 jb-aspect-ratio-wrapper relative">
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2020/12/laurent-cards-mockup-instagram-1080x1080-c-center-768x0-c-default.jpg" height="1080" width="1080" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto absolute " data-src="https://www.laurent.com.au/wp-content/uploads/2020/12/laurent-cards-mockup-instagram-1080x1080-c-center-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2020/12/laurent-cards-mockup-instagram-1080x1080-c-center-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2020/12/laurent-cards-mockup-instagram-1080x1080-c-center-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2020/12/laurent-cards-mockup-instagram-1080x1080-c-center-1500x0-c-default.jpg 1500w,
+      " alt="" height="270" width="270">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgAGQAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A951S8ubW8WNZfLi2ZzsByef/AK1Zdx4kFrc3Ec8qvFFFG4ZuDuZ2GOPZR+tR+KNBGpaxb3izX6SwxgL5UYdOuT1PfAzVXSPD1vrd9NDLK7STQQyhJ4AFZPn2nq3qfTpV1JTVJuMNem1n+Nzgp80sQ4uenz0/QhvPE8MrwJazRz+ZOsRIPGC2044B9fyq9tH90VFc/DGbTTHe/wBpJ5MEglaJIgu8g+wqXcPQ/nXNRlVkm6ySd+nY7YRUVZNv1NvWda1LT4pY7Dw/cajKYi0UqzRpGH5wGDMGwOCSB3rB8BvqlheA61YT26WlqlmkxIYzhWcq21SxXCsoPJ6V2K/cH0qvN3rSzve4KNncm1TVbO406aOJ23sOAykZ5965Tn1/StSfoaqVRR//2Q==)"></span>
+</span>
+
+  </article>
+</li>
+              <li class="c-mini__item
+  w-full md:min-w-1/2 px-site py-4 md:px-6 md:flex-1 
+">
+  <article class="c-mini__article  h-full grid xs:columns-2 m-auto sm-md:max-w-sm">
+    <div class="c-mini__text flex flex-col justify-between items-start md:column-2
+            xs-md:column-2
+    ">
+      <div class="c-mini__text-main">
+        <header class="mb-2">
+
+                                  <h3 class="u-beta sm:text-xl-sans">
+              <a class="block hit-area hit-area-35 no-underline" href="https://www.laurent.com.au/now-delivering-on-ubereats/" rel="bookmark">Now Delivering on UberEats!</a>
+            </h3>
+          
+                          <p class="leading-tighter"><span class="text-xs-sans text-grey-darker">September 18, 2020</span></p>
+                      
+        </header>
+
+        <p class="text-sm-sans mb-2">9 of our stores are now delivering on UberEats! Camberwell, Toorak, East Melbourne, Albert&hellip;</p>
+        <a class="hit-area hit-area-100 font-semibold text-grey-darker hover:text-black hover:no-underline" href="https://www.laurent.com.au/now-delivering-on-ubereats/" tabindex="-1">Read More</a><span class="t text-grey mt-px pt-px l-full ">&#160;&rarr;</span>
+      </div>
+    </div>
+
+        
+<span  class="c-mini__img  bg-grey-light h-full min-h-32 md:min-h-40 jb-aspect-ratio-wrapper relative">
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2020/09/uber-eats-720x720-c-center-768x0-c-default.jpg" height="720" width="720" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto absolute " data-src="https://www.laurent.com.au/wp-content/uploads/2020/09/uber-eats-720x720-c-center-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2020/09/uber-eats-720x720-c-center-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2020/09/uber-eats-720x720-c-center-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2020/09/uber-eats-720x720-c-center-1500x0-c-default.jpg 1500w,
+      " alt="" height="180" width="180">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgAGQAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+VKK0/D1xHb35M1it9G8Tq0RcIQMZyGIIBGPQ966l/GNtc2kIbwhpsJktbiMTRsibiTGd65Xgr5ZwDn77epyroV0cHRW54o1ddYksZF0mz00R2yoBbAATDJIdv8Aawcfh2rDpjHRyPE2+N2Rh3U4NL5snTe3p19sfy4plFADmkd9u92baNoyc4HpTaKKAP/Z)"></span>
+</span>
+
+  </article>
+</li>
+              <li class="c-mini__item
+  w-full md:min-w-1/2 px-site py-4 md:px-6 md:flex-1 
+">
+  <article class="c-mini__article  h-full grid xs:columns-2 m-auto sm-md:max-w-sm">
+    <div class="c-mini__text flex flex-col justify-between items-start md:column-2
+            xs-md:column-2
+    ">
+      <div class="c-mini__text-main">
+        <header class="mb-2">
+
+                                  <h3 class="u-beta sm:text-xl-sans">
+              <a class="block hit-area hit-area-35 no-underline" href="https://www.laurent.com.au/how-we-make-our-bread/" rel="bookmark">How we make our bread</a>
+            </h3>
+          
+                          <p class="leading-tighter"><span class="text-xs-sans text-grey-darker">October 16, 2018</span></p>
+                      
+        </header>
+
+        <p class="text-sm-sans mb-2">Stage 1 &ndash; It all starts with the flour. Quite a few of us&hellip;</p>
+        <a class="hit-area hit-area-100 font-semibold text-grey-darker hover:text-black hover:no-underline" href="https://www.laurent.com.au/how-we-make-our-bread/" tabindex="-1">Read More</a><span class="t text-grey mt-px pt-px l-full ">&#160;&rarr;</span>
+      </div>
+    </div>
+
+        
+<span  class="c-mini__img  bg-grey-light h-full min-h-32 md:min-h-40 jb-aspect-ratio-wrapper relative">
+    <noscript class="jb-noscript"><img class="jb-aspect-ratio-img w-full h-auto" src="https://www.laurent.com.au/wp-content/uploads/2018/08/LAU0003_Website_Tile_3000pxl_Blog-3000x3000-c-center-768x0-c-default.jpg" height="3000" width="3000" alt=""></noscript>
+  <img class="jb-aspect-ratio-img lazyload fadein w-full h-auto absolute " data-src="https://www.laurent.com.au/wp-content/uploads/2018/08/LAU0003_Website_Tile_3000pxl_Blog-3000x3000-c-center-1500x0-c-default.jpg" data-sizes="auto" data-srcset="
+          https://www.laurent.com.au/wp-content/uploads/2018/08/LAU0003_Website_Tile_3000pxl_Blog-3000x3000-c-center-400x0-c-default.jpg 400w,
+          https://www.laurent.com.au/wp-content/uploads/2018/08/LAU0003_Website_Tile_3000pxl_Blog-3000x3000-c-center-768x0-c-default.jpg 768w,
+          https://www.laurent.com.au/wp-content/uploads/2018/08/LAU0003_Website_Tile_3000pxl_Blog-3000x3000-c-center-1500x0-c-default.jpg 1500w,
+      " alt="" height="750" width="750">
+    <span class="jb-aspect-blurred" style="background-image: url(data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgAGQAZAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A84+N8UcXhbwkYyGEiyuxHPZO/wCNea2nhrV720E9rpl7PGzBVdIWIJ9AQOvWva/DHiSym03S7SZ4yliGU70yuT1Oeu7t7Y967VNR025+xRB0CtfQB8yEmOPEjEjPPUKv44715H172MvZKOx61XCe1ftL72PlaytZZNVhtfLlMok2lCDnPpivoD/hWGqf9Ay4/I16lrOk6XrSQzC1t5biGaOVJVAWSII4Y4Lc9iDg9z1qr/wtjwz/ANB/Tf8Av4aUcT9ZV0rW+ZtSwqoK0nv30PMte+DvhrwlJs1XxJf6fFP86TJP+7lPswXk46jtx7Vz3/CDfDFmMl143vZsN8rGYDb7/cJ/Gr/in/jy0P8A68F/mawbXqa0hJtc19TklFfDY9F+HfhbwT4q1BtC0rxVr92JIpVknN63lqAOUwVHVc8gYro/+Gc/hl/0MV3+bV4S/wB+X6r/AOhCuyrsowilc5akm3Y//9k=)"></span>
+</span>
+
+  </article>
+</li>
+          </ul>
+
+          <p class="text-center mt-8">
+        <span class="relative">
+          <a href="/category/nourish/" class="btn-black text-sm-sans">
+            View more →
+          </a>
+        </span>
+      </p>
+    
+  </div>
+</section>
+
+
+
+            </main>
+
+
+
+</div> 
+<div class="bottom  bg-black text-center py-8 lg:py-12 text-grey mt-auto">
+
+  <div class="bg-black text-center text-white px-4 sm:py-4">
+  <p>
+    <img
+      class="xs:max-w-3/4"
+      src="https://www.laurent.com.au/wp-content/themes/laurent/assets/img/tagline.png"
+      alt="Passion. Qualité. Tradition."
+      width="400"
+    >
+  </p>
+</div>
+
+  <div class="foot  u-max-container pt-8 ">
+    <div class="u-space-items lg:flex lg:justify-between items-center text-sm-sans xl2:text-sm-sans font-sans font-semibold tracking-wide">
+
+      <ul class="list-reset text-3xl">
+        <li class="inline-block align-middle">
+
+          <a target="_blank" class="block p-1 relative hover:text-white" title="Find us on Instagram" href="https&#x3A;&#x2F;&#x2F;www.instagram.com&#x2F;laurentbakery&#x2F;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="36.016" height="36.016" viewBox="0 0 36.016 36.016"><path d="M18.008 36.016C8.078 36.016 0 27.937 0 18.007 0 8.078 8.078 0 18.008 0s18.008 8.078 18.008 18.008-8.078 18.008-18.008 18.008zm0-34.016C9.181 2 2 9.181 2 18.007c0 8.827 7.181 16.009 16.008 16.009 8.827 0 16.008-7.181 16.008-16.008C34.016 9.181 26.835 2 18.008 2z"/><path d="M23.227 9.504H12.794a3.29 3.29 0 0 0-3.288 3.286V23.225a3.292 3.292 0 0 0 3.288 3.287h10.433a3.29 3.29 0 0 0 3.287-3.287V12.79a3.29 3.29 0 0 0-3.287-3.286m.943 1.96l.376-.001v2.883l-2.874.009-.01-2.883 2.508-.008zm-8.587 4.799c.545-.755 1.428-1.249 2.427-1.249s1.883.494 2.427 1.249c.355.491.567 1.093.567 1.745 0 1.651-1.343 2.993-2.994 2.993s-2.993-1.342-2.993-2.993c0-.652.212-1.254.566-1.745m9.273 6.962a1.63 1.63 0 0 1-1.63 1.629H12.794a1.63 1.63 0 0 1-1.631-1.629v-6.962h2.54a4.571 4.571 0 0 0-.345 1.745 4.656 4.656 0 0 0 4.651 4.651 4.658 4.658 0 0 0 4.651-4.651c0-.617-.124-1.206-.346-1.745h2.54v6.962z"/></svg>          </a>
+
+        <li class="inline-block align-middle">
+          <a target="_blank" class="block p-1 relative hover:text-white" title="Visit our Facebook page" href="https&#x3A;&#x2F;&#x2F;www.facebook.com&#x2F;laurentbakery&#x2F;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="36.016" height="36.016" viewBox="0 0 36.016 36.016"><path d="M18.008 36.016C8.078 36.016 0 27.937 0 18.007 0 8.078 8.078 0 18.008 0s18.008 8.078 18.008 18.008-8.078 18.008-18.008 18.008zm0-34.016C9.181 2 2 9.181 2 18.007c0 8.827 7.181 16.009 16.008 16.009 8.827 0 16.008-7.181 16.008-16.008C34.016 9.181 26.835 2 18.008 2z"/><path d="M13.905 15.128h1.759V13.42c0-.754.019-1.917.566-2.636.576-.763 1.368-1.281 2.729-1.281 2.218 0 3.151.316 3.151.316l-.438 2.605s-.733-.212-1.416-.212c-.685 0-1.297.245-1.297.929v1.986h2.804l-.195 2.545H18.96v8.839h-3.296v-8.839h-1.759v-2.544z"/></svg>          </a>
+
+        <li class="inline-block align-middle">
+          <a target="_blank" class="block p-1 relative hover:text-white" title="Visit our LinkedIn page" href="https&#x3A;&#x2F;&#x2F;www.linkedin.com&#x2F;company&#x2F;laurent-bakery-pty-ltd-">
+            <svg xmlns="http://www.w3.org/2000/svg" width="36.016" height="36.016" viewBox="0 0 36.016 36.016"><path d="M18.007 36.008c-9.925 0-17.999-8.074-17.999-18 0-9.925 8.074-18 17.999-18 9.926 0 18.001 8.075 18.001 18 0 9.926-8.075 18-18.001 18zm0-34.029C9.17 1.979 1.979 9.17 1.979 18.008c0 8.84 7.19 16.029 16.028 16.029 8.838 0 16.029-7.189 16.029-16.029 0-8.837-7.191-16.029-16.029-16.029z"/><path d="M25.256 9.501H10.755c-.69 0-1.253.549-1.253 1.227v14.56c0 .678.563 1.229 1.253 1.229h14.501c.692 0 1.258-.551 1.258-1.229v-14.56c0-.678-.566-1.227-1.258-1.227M14.547 23.998h-2.525V15.88h2.525v8.118zm-1.262-9.227a1.462 1.462 0 1 1-.001-2.925 1.462 1.462 0 0 1 .001 2.925m10.714 9.227h-2.522v-3.947c0-.941-.018-2.153-1.312-2.153-1.312 0-1.514 1.026-1.514 2.085v4.016H16.13V15.88h2.419v1.109h.034c.337-.638 1.16-1.312 2.388-1.312 2.555 0 3.027 1.682 3.027 3.868v4.453z"/></svg>          </a>
+
+        <li class="inline-block align-middle">
+          <a class="block p-1 relative hover:text-white" title="Email us at information&#x40;laurent.com.au" href="mailto:information&#x40;laurent.com.au">
+            <svg xmlns="http://www.w3.org/2000/svg" width="36.016" height="36.016" viewBox="0 0 36.016 36.016"><path d="M18.008 36.008c-9.925 0-18-8.074-18-18 0-9.925 8.075-18 18-18 9.926 0 18 8.075 18 18 0 9.926-8.074 18-18 18zm0-34.029C9.169 1.979 1.98 9.171 1.98 18.008c0 8.84 7.189 16.029 16.028 16.029 8.838 0 16.029-7.189 16.029-16.029 0-8.837-7.191-16.029-16.029-16.029z"/><path d="M19.213 20.047c-.654.537-1.742.533-2.395 0l-1.275-1.051-6.312 5.098h17.514l-6.304-5.064-1.228 1.017zM26.647 11.923H9.374l8.42 6.938a.345.345 0 0 0 .22.066h.004a.373.373 0 0 0 .205-.059l.388-.314 8.036-6.631zM21.651 18.033l5.62 4.516v-9.152zM14.334 17.999l-5.627-4.637v9.183z"/></svg>          </a>
+
+        <li class="inline-block align-middle">
+          <a class="block p-1 relative hover:text-white" title="Call us on &#x28;03&#x29;&#x20;9654&#x20;1011" href="tel:0396541011">
+            <svg xmlns="http://www.w3.org/2000/svg" width="36.016" height="36.016" viewBox="0 0 36.016 36.016"><path d="M18.008 36.008c-9.925 0-18-8.074-18-18 0-9.925 8.075-18 18-18 9.926 0 18 8.075 18 18 0 9.926-8.074 18-18 18zm0-34.029C9.169 1.979 1.98 9.171 1.98 18.008c0 8.84 7.189 16.029 16.028 16.029 8.838 0 16.029-7.189 16.029-16.029 0-8.837-7.191-16.029-16.029-16.029z"/><path d="M21.236 26.617c-1.428.057-2.723-.41-3.878-1.154-3.172-2.041-5.566-4.779-7.013-8.241-1.219-2.919-.576-5.251 1.821-7.279 1.173-.993 1.834-.938 2.818.269.297.364.555.764.803 1.165 1.091 1.771.966 2.578-.594 3.945-.975.855-1.102 1.203-.504 2.266.876 1.551 1.96 2.936 3.507 3.924.761.486 1.429.492 2.082-.162.25-.25.514-.498.811-.688.294-.191.621-.377.958-.451 1.249-.268 4.22 2.002 4.226 3.246.005.314-.192.67-.393.939-1.08 1.423-2.807 2.231-4.644 2.221"/></svg>          </a>
+
+      </ul>
+
+      <nav class="c-foot-nav">
+  <ul class="c-foot-nav__list  uppercase tracking-wide font-semibold list-reset" role="navigation">
+    <li class="c-foot-nav__item  inline-block  menu-item-142">
+        <a class="c-foot-nav__link
+          hit-area hit-area-35
+          inline-block align-bottom w-full no-underline leading-none py-1 px-2 text-inherit
+          desknav:py-3
+          hover:text-white hover:bg-off-black
+        " href="https://www.laurent.com.au/contact/">Contact</a><li class="c-foot-nav__item  inline-block  menu-item-550">
+        <a class="c-foot-nav__link
+          hit-area hit-area-35
+          inline-block align-bottom w-full no-underline leading-none py-1 px-2 text-inherit
+          desknav:py-3
+          hover:text-white hover:bg-off-black
+        " href="https://www.laurent.com.au/careers/">Careers</a><li class="c-foot-nav__item  inline-block  menu-item-type-custom  menu-item-object-custom  menu-item-143">
+        <a class="c-foot-nav__link
+          hit-area hit-area-35
+          inline-block align-bottom w-full no-underline leading-none py-1 px-2 text-inherit
+          desknav:py-3
+          hover:text-white hover:bg-off-black
+        " href="/privacy-policy/">Privacy</a><li class="c-foot-nav__item  inline-block  menu-item-139">
+        <a class="c-foot-nav__link
+          hit-area hit-area-35
+          inline-block align-bottom w-full no-underline leading-none py-1 px-2 text-inherit
+          desknav:py-3
+          hover:text-white hover:bg-off-black
+        " href="https://www.laurent.com.au/terms/">T&C<span class="lowercase">s</span></a><li class="c-foot-nav__item  inline-block  menu-item-140">
+        <a class="c-foot-nav__link
+          hit-area hit-area-35
+          inline-block align-bottom w-full no-underline leading-none py-1 px-2 text-inherit
+          desknav:py-3
+          hover:text-white hover:bg-off-black
+        " href="https://www.laurent.com.au/faq/">FAQ<span class="lowercase">s</span></a><li class="c-foot-nav__item  inline-block  menu-item-516">
+        <a class="c-foot-nav__link
+          hit-area hit-area-35
+          inline-block align-bottom w-full no-underline leading-none py-1 px-2 text-inherit
+          desknav:py-3
+          hover:text-white hover:bg-off-black
+        " href="https://www.laurent.com.au/sitemap/">Sitemap</a>  </ul>
+</nav>
+    </div>
+
+    	</div> 
+  <footer role="contentinfo" class="text-center mt-4"><span class="copyright  font-serif italic text-xs text-grey-dark">&copy; Laurent Bakery 1993&#8201;–&#8201;2024.</span></footer>
+</div> 
+	<div id="wondergridgallerylightbox_options" data-skinsfoldername="skins/default/"  data-jsfolder="https://www.laurent.com.au/wp-content/plugins/wonderplugin-gridgallery-trial/engine/" style="display:none;"></div>		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.laurent.com.au/wp-admin/admin-ajax.php";
+</script>
+  <script type="text/javascript">
+    jQuery(document).ready(function($) { 
+      $('.js-flexslider').flexslider({
+        animation: 'fade',
+        animationSpeed: 4000,
+        controlNav: false,
+        directionNav: false,
+        selector: '.js-flexslider__slide',
+        slideshowSpeed: 7000,
+      })
+    });
+  </script>
+  <script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})()
+	</script>
+	<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.laurent.com.au\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.laurent.com.au/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.laurent.com.au/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" id="jquery-blockui-js"></script>
+<script type="text/javascript" src="https://www.laurent.com.au/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4" id="js-cookie-js"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.laurent.com.au/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.6.5" id="woocommerce-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_8534c5925e4fdf3b72b1981273ae3e4e","fragment_name":"wc_fragments_8534c5925e4fdf3b72b1981273ae3e4e","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.laurent.com.au/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.6.5" id="wc-cart-fragments-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-after">
+/* <![CDATA[ */
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			var jetpackLazyImagesLoadEvent;
+			try {
+				jetpackLazyImagesLoadEvent = new Event( 'jetpack-lazy-images-load', {
+					bubbles: true,
+					cancelable: true
+				} );
+			} catch ( e ) {
+				jetpackLazyImagesLoadEvent = document.createEvent( 'Event' )
+				jetpackLazyImagesLoadEvent.initEvent( 'jetpack-lazy-images-load', true, true );
+			}
+			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
+		} );
+	
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@4.0.2/lazysizes.min.js?ver=4.0.2" id="LazySizes-js"></script>
+<script type="text/javascript" id="malinky-ajax-pagination-main-js-js-extra">
+/* <![CDATA[ */
+var malinkySettings = {"1":{"theme_defaults":"Twenty Sixteen","posts_wrapper":".js-infinite-container","post_wrapper":".js-infinite-item","pagination_wrapper":".js-infinite-pagination, .woocommerce-pagination","next_page_selector":".js-infinite-next a, .woocommerce-pagination .next","paging_type":"load-more","infinite_scroll_buffer":"20","ajax_loader":"<img src=\"https:\/\/www.laurent.com.au\/wp-content\/plugins\/malinky-ajax-pagination\/img\/loader.gif\" alt=\"AJAX Loader\" \/>","load_more_button_text":"Load More\u2026","loading_more_posts_text":"Loading...","callback_function":""}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.laurent.com.au/wp-content/plugins/malinky-ajax-pagination/js/main.js" id="malinky-ajax-pagination-main-js-js"></script>
+<script type="text/javascript" src="https://cdn.polyfill.io/v2/polyfill.js?features=default,fetch" id="polyfillio-js"></script>
+<script type="text/javascript" src="https://www.laurent.com.au/wp-content/themes/laurent/assets/js/manifest.js?ver=v3" id="manifest-js"></script>
+<script type="text/javascript" src="https://www.laurent.com.au/wp-content/themes/laurent/assets/js/vendor.js?ver=v5" id="vendor-js"></script>
+<script type="text/javascript" src="https://www.laurent.com.au/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2" id="flexslider-js"></script>
+<script type="text/javascript" src="https://www.laurent.com.au/wp-content/themes/laurent/assets/js/bundle.js?ver=v9" id="base-js"></script>
+<script type="text/javascript" id="sb_instagram_scripts-js-extra">
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/www.laurent.com.au\/wp-content\/uploads\/sb-instagram-feed-images\/","placeholder":"https:\/\/www.laurent.com.au\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.laurent.com.au/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=2.6.2" id="sb_instagram_scripts-js"></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202427.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.0.4',blog:'164909078',post:'2',tz:'10',srv:'www.laurent.com.au'} ]);
+	_stq.push([ 'clickTrackerInit', '164909078', '2' ]);
+</script>
+
+</body>
+</html>

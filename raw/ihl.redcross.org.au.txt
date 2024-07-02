@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge" />
+	<title>Australian Red Cross: INTRODUCTION TO IHL</title>
+	<style>
+		html {
+			height:100%;
+		}
+		body {
+			background-color:#FFF;
+			margin:0;
+			height:100%;
+		}
+	</style>
+	<!-- copy these lines to your document head: -->
+
+	<meta name="viewport" content="user-scalable=yes, initial-scale=1.0, width=320" />
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans&subset=latin' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:800&subset=latin' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Poppins:300&subset=latin' rel='stylesheet' type='text/css'>
+	<script type="text/javascript" src="ARC%20-%20War%2C%20law%20and%20business.hyperesources/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript" src="ARC%20-%20War%2C%20law%20and%20business.hyperesources/HypeDragAndDropEnabler.js"></script>
+	<link rel="stylesheet" type="text/css" href="ARC%20-%20War%2C%20law%20and%20business.hyperesources/arc-font-styles.css" />
+	<!-- Vimeo API -->
+<script src="https://f.vimeocdn.com/js/froogaloop2.min.js"></script>
+<script>
+function myCallback(hypeDocument, element, event) {
+window.myhypedocument = hypeDocument;
+}
+
+if("HYPE_eventListeners" in window === false) {
+window.HYPE_eventListeners = Array();
+}
+window.HYPE_eventListeners.push({"type":"HypeDocumentLoad", "callback":myCallback});
+
+<!-- script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script -->
+<script src="https://cdn.jsdelivr.net/gh/worldoptimizer/HypeMutationObserver@1.1/HypeMutationObserver.min.js"></script>
+<script type="text/javascript" src="ARC%20-%20War%2C%20law%20and%20business.hyperesources/HypeDragAndDropEnabler.js"></script>
+
+	
+ 
+
+	<!-- end copy -->
+  </head>
+  <body>
+	<!-- copy these lines to your document: -->
+
+	<div id="arcwarlawandbusiness_hype_container" class="HYPE_document" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;">
+		<script type="text/javascript" charset="utf-8" src="ARC%20-%20War%2C%20law%20and%20business.hyperesources/arcwarlawandbusiness_hype_generated_script.js?55605"></script>
+	</div>
+
+	<!-- end copy -->
+	
+
+
+	<!-- text content for search engines: -->
+
+	<div style="display:none" aria-hidden=true>
+
+		<div>Continue ></div>
+		<div>< Back</div>
+		<div>From: Gabriel Rautio, Executive Assistant, Ruskin Resources
+To: CEO, Ruskin Resources</div>
+		<div></div>
+		<div>>></div>
+		<div>The Chair of the Board called asking for an update on the Basmanda situation. They want to know on what basis IHL applies to the situation in Basmanda. According to the Red Cross, IHL only applies in situations of armed conflict. I’ve asked Legal for a summary of these situations and this is what they’ve sent through:
+
+International armed conflict (IAC) – occurs when fighting breaks out between two or more States/countries. Traditionally called ‘war’.
+
+Belligerent occupation – when a territory comes under the authority of adverse foreign armed forces, even if that occupation meets with no armed resistance. Essentially, when one State invades another and establishes military control over all or part of that country. Occupation is considered a sort of IAC and is therefore covered by the same laws under IHL as IAC.
+
+Non-international armed conflict (NIAC) – a situation when acts of violence occur regularly between the State military and other organised armed groups, or only between non-State armed groups. Colloquially referred to as civil war. This does not include sporadic acts of violence or a single act of protest/rioting (even if violent).
+
+Which should I tell them it is?</div>
+		<div>What response would you like Gabriel to send to the board?
+</div>
+		<div>NOTIFICATION
+You have a new email</div>
+		<div>IAC</div>
+		<div>1</div>
+		<div>Belligerent occupation</div>
+		<div>NIAC</div>
+		<div>Scroll </div>
+		<div>GABRIEL RAUTIO
+ Executive Assistant, TerraResources, TerraResources
+g.rautio@terraresources.com
+</div>
+		<div>CHAT
+You have no new messages</div>
+		<div>Open</div>
+		<div></div>
+		<div>Can you clarify the difference between human rights law and international humanitarian law?</div>
+		<div></div>
+		<div></div>
+		<div>What key principles of IHL should we know about?</div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this video, IHL Laws Video Conference, as a word document. Skip to download video transcript button.</div>
+		<div>What question would you like to ask?</div>
+		<div></div>
+		<div>So how do we know if our activities are “closely linked to an armed conflict”?</div>
+		<div>Download video transcript</div>
+		<div>Aren't business personnel considered civililians and therefore protected as civilians under IHL?</div>
+		<div></div>
+		<div>
+</div>
+		<div>EMAIL
+You have no new email</div>
+		<div>Hyun-Jung Lee, Operations Manager
+Are you watching this???</div>
+		<div> CHAT
+</div>
+		<div>Watch Global News Today Live</div>
+		<div>Join Conference</div>
+		<div>ANDREA KOVATCH, LEGAL COUNSEL
+We’re meeting about Basmanda situation – please join if you can.</div>
+		<div></div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this video, Global News Today News of Massacre, as a word document. Skip to download video transcript button.</div>
+		<div>Download video transcript</div>
+		<div>From: Lionel Saad, Chief Sustainability  and Human Rights Manager, Ruskin Resources
+To: CEO, Ruskin Resources</div>
+		<div>LIONAL SAAD
+ Chief Sustainability and Human Rights Manager,  Ruskin Resources
+l.saad@ruskinresources.com
+</div>
+		<div>URGENT EMAILDear CEO,
+Please see attached. I recently returned from a global sustainability roundtable where the United Nations’ representative drew our attention to the heightened focus on companies doing business in conflict-affected areas. They shared a recent UN report, which mentions the importance of paying attention to international humanitarian law, and not just human rights law, in these contexts.
+The rep also pointed out that companies are increasingly exposed to legal risks and recently there has been criminal investigations, prosecutions and even civil lawsuits against not only companies but CEOs themselves. In addition there's the potential interruption to our operations and the massive possible hit to our reputation.
+Taking all this into account, the recent news from Basmanda has me worried!
+I found this Red Cross video about international humanitarian law. I think you should take a look.
+Thanks,
+</div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this video, Rules of War in a Nutshell, as a word document. Skip to download video transcript button.</div>
+		<div>Download video transcript</div>
+		<div></div>
+		<div>Hello CEO,
+I’ve asked the operations team to put together an overview of our holdings in Northland. Below are their findings
+</div>
+		<div>Download Attachment
+MEMORANDUM: BASMANDA HOLDINGS</div>
+		<div>Confidential memorandum: Do NOT Distribute
+Operations:
+Ruskin Resources’ Northland operations are centred around an open-pit tungsten mine with an estimated reserve of 61 million tonnes. In terms of global ranking it is second largest tungsten mine in the world. Supporting the mine itself, are several ancillary facilities – including a 3 storey site office; and a preliminary ore refining facility. The physical footprint of these existing Ruskin Resources’ operations in Northland encompass: 5 square kms, with our mining and exploration licence covering a total of 50 square kms.
+Personnel:
+Our Northland operations currently employs 34 foreign, non-local personnel (predominantly in senior management positions) and 287 local employees, including Basmandan and Doronian locals.
+Financial position:
+Investment:
+Ruskin Resources' total investment in Northland operations is approximately $224 million USD. This figure encompasses costs incurred during exploration, construction and operation of a mine, a preliminary ore processing plant and associated support services.
+Revenue:
+Revenue generated to date: USD $758 million. Projections indicate increasing revenue for the foreseeable future due to rising global tungsten demand from the technology sector and the limited number of tungsten mining operations.
+Red-flags:
+Ownership of Northland (where mining operations are located) is contested between Basmanda & Doronia. Basmanda occupies and controls Northland, and has done so since the last major conflict with Doronia in 1984. Ruskin Resources negotiated terms with the Basmandan government and acquired an exclusive tungsten exploration and mining licence in Northland. Ruskin Resources received confirmation from Basmandan authorities that it was not required to engage Doronian authorities or the local community leaders prior to operations. In retrospect, this may be problematic.Ongoing skirmishes and escalating violence, could amount to renewed armed conflict between Basmanda and Doronia.Armed conflict in the area may trigger the application of international humanitarian law (IHL) in Northland, and throughout Basmanda and Doronia (IHL is not limited to the area where active conflict occurs).Risk assessment:
+Per corporate policy, the operations team has performed an expedited risk assessment and found the following arising from Northland’s disputed status and proximity to armed conflict.
+Risk to corporate interests: High
+Risk to local personnel: High
+Risk to corporate reputation: High
+Financial risk: High
+
+Recommendation to CEO:
+We advise setting up a Crisis Management Team of key Ruskin Resources personnel to obtain legal and operational advice regarding our obligations and next steps. Further investigation regarding applicability of IHL to this situation as well as our responsibilities under IHL is still needed. Even appearing to violate the Geneva Conventions, which are some of the oldest and most respected international laws on the planet, threatens operational and reputational damage. The International Red Cross Red Crescent Movement is essentially the guardian of IHL, so we recommend liaising with the local National Society (most likely Basmandan Red Cross) for IHL advice.
+</div>
+		<div></div>
+		<div>HYUN-JUNG LEE
+ Chief Operations Officer, Ruskin Resources
+h.lee@ruskinresources.com
+</div>
+		<div>From: Hyun-Jung Lee, Chief Operations Officer, Ruskin Resources
+To: CEO, Ruskin Resources</div>
+		<div>Adzo Kamau, Chair of the Ruskin Resources Board
+Have you seen the news? The board is meeting about the situation in Basmanda. Something about Geneva Conventions and international HUMANITARIAN law, I think. Does that apply here?</div>
+		<div>Download case study</div>
+		<div>CEO, TerraResources
+Yes, I’m investigating IHL now</div>
+		<div>Yes, I’m investigating IHL now</div>
+		<div>Adzo Kamau, Chair of the TerraResources board
+Good work, CEO. We need to know what we’re dealing with. CEOs of other companies have been charged with war crimes for violating IHL. We don’t want that to happen! Check out this case from a few years ago. Definitely worth a read!?</div>
+		<div>Adzo Kamau, Chair of the Terra Ruskin board
+The board disagrees with your decision. CEOs of other companies have been charged with war crimes for violating IHL. We don’t want that to happen! Please look into IHL further. You can start by checking out this case from a few years ago:</div>
+		<div>What response would you like to send Adzo?
+</div>
+		<div>CEO, Ruskin Resources
+No, IHL does not apply here</div>
+		<div>No, IHL does not apply here</div>
+		<div>Welcome to War, law and business: a module on international humanitarian law for future business leaders.This module is designed to introduce future business leaders to the relevant rules and principles of international humanitarian law (IHL), also known as the laws of war. Throughout this module you will learn about IHL as an ethical decision making and evaluation framework that helps you manage the unique risks associated with doing business in a conflict-affected area. Most importantly, you will learn that respecting and promoting IHL protects the lives and dignity of civilians and communities.
+At the end of this module, you should be able to:
+Identify fundamental principles of International Humanitarian Law (IHL) including distinction, humanity and proportionality. Recognise factors that impact application of  IHL  in  a business-related situation Describe the risks and responsibilities inherent in doing business in and beyond conflict-affected areas Explain the urgency of companies becoming familiar with IHLIdentify resources for increasing understanding and application of IHL, including the Seven Indicators of Corporate Best Practice in International Humanitarian LawThis learning module is designed to be an immersive experience completed in a single session. It should take you about one hour to complete. It is important you do not refresh your browser during this module - if you refresh, you will need to restart.
+Let’s begin by hearing from some experts explain about why an understanding of IHL is vital for future business leaders like yourself. Select 'Continue' to get started.
+</div>
+		<div>Dear CEO,
+We agree that Ruskin Resources must act in accordance with IHL and the Board thinks you are on the right track with your classification of the situation as an international conflict. The situation between Basmanda and Doronia certainly seems like an international conflict, but it is difficult to say for sure – we don’t think military occupation should be discounted just yet. Either way, IHL applies. Keep up the good work, CEO.
+Thanks,
+Adzo
+</div>
+		<div>From: Adzo Kamau, Chair of the Ruskin Resources Board
+To: CEO, Ruskin Resources</div>
+		<div>Dear CEO,
+I hope the information provided earlier was useful. As mentioned, our colleagues at Australian Red Cross have developed a guide on IHL for businesses, ‘Doing Responsible Business in Armed Conflict’. I’ll send you a copy.
+Remember, the potential for exposure to violations of IHL is broader than you may think. The rules of IHL apply in situations of armed conflict and military occupation, either of which may be the case in Northland given the complexities of the situation. You should be especially aware of the following potential IHL violations, particularly given your geographic and operational proximity to this area and the ongoing fighting in and around Northland.
+Pillage: the intentional and unlawful appropriation of property for personal or private use. The definition of property in this context also extends to natural resources, meaning a business found to be illegally exploiting such resources could be held accountable under this war crime.Forced displacement of local populations: the deportation or forcible transfer of civilians from one territory to another, including occupied territory, unless for imperative military reasons or the security of the civilian population.Attacks against civilians: intentional or indiscriminate acts of violence directed at the civilian population or against individual civilians not directly taking part in hostilities. This includes attacks carried out by parties involved in the conflict and those taking a direct part in the hostilities.Environmental damage: the use of means or methods of warfare with the intention or expectation that it will cause widespread, long-term and severe damage to the natural environment and will prejudice the health or survival of the population.Let me know if you have any other questions. I am attaching some information on a current case that you will probably find interesting.
+Kind regards, Kira Tamm
+Legal Adviser
+Basmandan Red Cross
+</div>
+		<div>Download Attachment
+Case Study - Swedish Oil Company in Sudan</div>
+		<div>From: Kira Tamm, Legal Adviser, Basmandan Red Cross
+To: CEO, Ruskin Resources
+CC: Andrea Kovatch, Legal Counsel, Ruskin Resources; Hyun-Jung Lee, COO, Ruskin Resources</div>
+		<div></div>
+		<div>From: Adzo Kamau, Chair of the Ruskin Resources Board
+To: CEO, Ruskin Resources</div>
+		<div>Dear CEO,
+While we agree that Ruskin Resources must act in accordance with IHL, the Board takes issue with your classification of the conflict as a civil war. That doesn’t sound like the case here. This situation seems more like an international conflict. We could also be looking at a situation of occupation – both of which would trigger IHL’s application. We’ve heard there are some useful IHL resources available for businesses that could help bring you and your team up to speed. Please keep the board advised.
+Thanks,
+Adzo
+</div>
+		<div>Dear CEO,
+We agree that Ruskin Resources must act in accordance with IHL and the Board thinks you are on the right track with your classification of this situation as military occupation. This certainly seems true of the situation between Basmanda and Doronia, but it is difficult to say for sure – we don’t think an international armed conflict is entirely out of the question just yet. Either way, IHL applies. Keep up the good work, CEO.
+Thanks,
+Adzo
+</div>
+		<div>Civilian massacre</div>
+		<div>What response would you like to send Andrea?
+</div>
+		<div>Andrea Kovatch, RUSKIn Resources Legal Counsel</div>
+		<div>Environmental damage</div>
+		<div>Civilian massacre</div>
+		<div>Are you sure? If people lost their homes that’s absolutely important - I think it could even be an IHL violation - but given what we’ve heard about our security guards displacement doesn’t seem like our main IHL concern. What should we prioritise?</div>
+		<div>Hi CEO, I’ve got some resources lined up to research IHL for us. It’s a broad topic. We should start by learning more about the area of the law that we are at highest risk of violating. We could engage an external law firm to help us with this. Could you let me know your biggest IHL concern about the Northland situation and I’ll brief someone?</div>
+		<div>Makes sense! This is a very serious issue. We don’t condone the killing of civilians ever! Were our security forces involved? I'm pretty sure our people are considered civilians too, but I don’t know if that makes a difference. We’ll start researching.</div>
+		<div>Are you sure? I’m all for minimising harm to the environment and yes, I also acknowledge that we’ve got really strong Green standards, but given what we’ve heard about our security guards environmental damage doesn’t seem like our main IHL concern. What should we prioritise?</div>
+		<div>Forced displacement</div>
+		<div>Forced displacement</div>
+		<div>Your phone just buzzed!
+</div>
+		<div>Environmental damage</div>
+		<div>From: Kira Tamm, Legal Adviser, Basmandan Red Cross
+To: Andrea Kotvatch Legal Counsel, Ruskin Resources
+CC: CEO, Ruskin Resources</div>
+		<div>Dear Andrea,
+Thank you for reaching out to me for further information. It is important to have these discussions at all points of the risk management process, particularly before armed conflict and violence breaks out, but it is never too late. I must stress that this is not a comprehensive legal analysis – it is important you seek legal advice regarding your specific legal exposure, risks and responsibilities under IHL. That said, let me offer you some general information that may assist.
+IHL protects civilians
+As mentioned earlier, in a conflict-affected area, all business personnel are actually civilians when carrying out their ordinary roles – this includes local and expatriate staff, contractors and consultants. Because of this, they benefit from all the rights and protections usually afforded to civilians under IHL in situations of armed conflict.
+Direct participation in hostilities > civilian status lost
+However, IHL also states that civilians who are directly participating in hostilities lose their civilian status – and protection - for the period of time they are taking a direct part in the fighting. The term ‘direct participation in hostilities’ is not clearly defined in IHL, but it is generally understood to be acts that are intended to cause actual harm to enemy personnel and property. It is likely this would include specific acts of combat by your security team such as an employee who participates in the planning or facilitation of a military operation or perhaps the delivery of ammunition by a truck driver to combatants that are engaging opposing forces, in which case both the driver and the truck would be open to direct attack.
+Indeed, if any of your company’s vehicles, buildings or sites are utilised for these activities, they too lose the protection of belonging to a civilian company.
+Consequences of losing civilian status
+Directly participating in hostilities can trigger unique risks. For example, if guards or security personnel do use their weapons against a party to the conflict or contribute in some other way to the fighting then they and the assets, facilities and personnel they are protecting may become legitimate military targets. This means they risk attack from opposing forces and those attacks could be considered legal under IHL. I should be clear though, the simple fact of carrying a weapon isn’t enough to be considered 'direct participation in hostilities'.
+I hope you find this information useful.
+Kind regards,
+Kira Tamm
+Legal Adviser
+Basmandan Red Cross
+</div>
+		<div>Investigate Pillage</div>
+		<div></div>
+		<div>Issue Press Release</div>
+		<div>Download video transcript</div>
+		<div>What would you like to do?</div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this video, After Action Video Call, as a word document. Skip to download video transcript button.</div>
+		<div>PRIVATE AND CONFIDENTIALHi CEO,
+It’s a good thing you held off on issuing that press release! I have a feeling a blanket denial of wrongdoing could have sparked protests in the local community and the bad press might have affected not only our share price but also prompted customers and suppliers to walk away rather than be associated with us.
+I did the research you asked for and here is what I found out about pillage:
+Pillage Defined: Pillage is the intentional and unlawful appropriation of property for personal or private use, without the freely given consent of the owner, in situations of armed conflict and occupation. It is prohibited under IHL and is considered a war crime. The definition of 'property' in this context extends to natural resources, meaning a business found to be illegally exploiting such resources can also be held accountable under this war crime. It makes no difference whether the property belongs to private individuals, communities or the government.Important considerations for businesses:
+It is possible for civilians, and not only governments or militaries, to commit pillage.The war crime of pillage can only take place in the context of an armed conflict or occupation. The crime does not exist in peacetime, as it would be covered by domestic law e.g. theft. For this reason, pillage does not often factor into most corporate risk management processes. I recommend we improve our awareness of pillage and seek to incorporate this in policy and conflict risk assessments.A company does not have to directly appropriate property or resources from a battlefield to perpetrate pillage. It is possible for acts to be temporally and geographically separate from where the fighting is taking place.There’s no “expiry date” on the war crime of pillage – so it doesn’t matter if the pillage occurred yesterday, last year or last decade. (In legal terms:- it is not subject to a statute of limitations.)Pillage is a war crime prosecutable at the International Criminal Court, and in national courts too. Countries are obliged to investigate and prosecute violations.Not sure what this means for us yet. We didn’t intentionally deprive the Doronians of their property, but we also didn't consider whether authorities other than the Basmandans were in control. At the very least, our reputation may take a hit here. I’ll share this information with the crisis management team and call a meeting. I just wanted you to see it first.
+Thanks,
+Andrea
+</div>
+		<div>ANDREA KOVATCH
+ Legal Counsel, Ruskin Resources
+a.kovatch@ruskinresources.com
+</div>
+		<div>From: Andrea Kovatch, Legal Counsel, Ruskin Resources
+To: CEO, Ruskin Resources</div>
+		<div>PRIVATE AND CONFIDENTIALHi CEO,
+Sorry to hear the press release didn’t go over so well! I did the research about pillage and here is what I found:
+Pillage Defined: Pillage is the intentional and unlawful appropriation of property for personal or private use, without the freely given consent of the owner, in situations of armed conflict and occupation. It is prohibited under IHL and is considered a war crime. The definition of 'property' in this context extends to natural resources, meaning a business found to be illegally exploiting such resources can also be held accountable under this war crime. It makes no difference whether the property belongs to private individuals, communities or the government.Important considerations for businesses:
+It is possible for civilians, and not only governments or militaries, to commit pillage.The war crime of pillage can only take place in the context of an armed conflict or occupation. The crime does not exist in peacetime, as it would be covered by domestic law e.g. theft. For this reason, pillage does not often factor into most corporate risk management processes. I recommend we improve our awareness of pillage and seek to incorporate this in policy and conflict risk assessments.A company does not have to directly appropriate property or resources from a battlefield to perpetrate pillage. It is possible for acts to be temporally and geographically separate from where the fighting is taking place.There’s no “expiry date” on the war crime of pillage – so it doesn’t matter if the pillage occurred yesterday, last year or last decade. (In legal terms:- it is not subject to statutes of limitations.)Pillage is a war crime prosecutable at the International Criminal Court, and in national courts too. Countries are obliged to investigate and prosecute violations.Not sure what this means for us yet. We didn’t intentionally deprive the Doronians of their property, but we also didn't consider whether authorities other than the Basmandans were in control. At the very least, our reputation may take a hit here. I’ll share this information with the crisis management team and call a meeting. I just wanted you to see it first.
+Thanks,
+Andrea
+</div>
+		<div>OK</div>
+		<div>D</div>
+		<div>Hi boss,
+Sorry I have not been in touch sooner. We’ve been having connection issues since the incident. I think the BAF are trying to keep the protesters from accessing social media and it’s wreaking havoc with our systems.
+You asked me to look into the civilian massacre and the allegations that our security forces were involved in. The Red Cross briefing suggests that all our people are civilians but we have a real problem if they participated in the attack against the civilians, for example, could our buildings and sites be targeted now?
+I guess we need to work out whether Ruskin Resources people have or have not directly participated in hostilities to determine if our civilian status has been lost. Which of the following issues do you want me to look into as a priority before our meeting?
+Did Ruskin Resources personnel use or loan out company vehicles to transport Basmandan Armed Forces to the place of attack?Did Ruskin Resources deploy weapons to our security guards for self-defence?Did Ruskin Resources' security guards fire their weapons at protesters?Did Ruskin Resources provide food or water to protesters, local villagers or soldiers?Did the Basmandan Armed Forces store the weapons and ammunition used on the protesters on Ruskin Resources property?Thanks,
+Omar
+</div>
+		<div>Send to Omar</div>
+		<div>OMAR BURRELL
+ Northland Site Manager, Ruskin Resources
+o.burrell@ruskinresources.com
+</div>
+		<div>From: Omar Burrell, Northland Site Manager, Ruskin Resources
+To: CEO, Ruskin Resources</div>
+		<div>A</div>
+		<div>E
+</div>
+		<div>Select the 3 issues Omar should investigate.</div>
+		<div>B</div>
+		<div>C</div>
+		<div>Please select no more than 3</div>
+		<div>From: Omar Burrell, Northland Site Manager, Ruskin Resources 
+To: CEO, Ruskin Resources
+</div>
+		<div>Good call. I will investigate those three issues ASAP and then get back to you.
+</div>
+		<div>Hmm. I’m re-reading the Red Cross brief and I’m not sure that’s right. Applying IHL rules to any given situation can be tricky, all of them are decent questions to investigate, but we need to prioritise. How about I look into:
+A. Did Ruskin Resources personnel use or loan out company vehicles to transport Basmandan Armed Forces to the place of attack?C. Did Ruskin Resources' security guards fire their weapons at protesters?E. Did the Basmandan Armed Forces store the weapons and ammunition used on the protesters on Ruskin Resources property?and then get back to you?
+</div>
+		<div>Adzo Kamau, Chair of Ruskin Resources Board of Directors
+The board would like to know what you were thinking with that press release, CEO? Did you see our share price? The bottom has fallen out!</div>
+		<div>Lea de Silva, Public Relations Manager
+Our Press Release was distributed as per your instructions. However it seems not to have had the desired effect…</div>
+		<div>Hyun-Jung Lee, Operations Manager
+Urgent! Just received irate calls from our three biggest customers – all concerned about ‘the Northland issue’ and threatening to pull their orders. I’m working through the projected effects on the company if this eventuates. I'm worried this could be a real disaster!</div>
+		<div>Andrea Kovatch, Legal Counsel
+I know you’re trying to manage the issue, but the press release hasn’t hit the mark.      This is an international humanitarian law issue, not human rights. I’m going to send you some info.</div>
+		<div>Lionel Saad, Sustainability and Human Rights Manager
+Ooof. I thought your press release was great      but apparently the locals did not. They are not happy. I hear reports that our neighbours in the local towns are organising a mass protest for tomorrow at the mining site.</div>
+		<div>2</div>
+		<div>3</div>
+		<div>One month later...
+</div>
+		<div>Hello CEO,
+Now that a month has passed since the commencement of the crisis in Northland, I wanted to follow-up on the Seven Indicators of Corporate Best Practice in IHL that I mentioned to you. Here is a link to an activity that will tell you more about the Seven Indicators. I strongly urge you and your team to familiarise yourselves with this best practice framework and to implement them at Ruskin Resources. This is the best way to prepare for incidents like Northland in the future and to ensure you keep the company on the right side of the law and the right side of history.
+Kind regards,
+Kira Tamm
+Legal Adviser
+Basmandan Red Cross
+</div>
+		<div>Interactive transcript</div>
+		<div>Internal processes that deal with noncompliance with IHL, including violations committed by or against the business’s people
+Ensuring that personnel have access to a complaints and grievance process, and that management is trained to deal with allegations of violations, including reporting where appropriate to relevant authorities, strengthens respect for IHL. Implementing analyses of security incidents will also improve future security planning and management.</div>
+		<div>Select each of the seven indicators in this diagram to learn more.
+</div>
+		<div>Taking positive action to
+promote respect for IHL, including
+by partners or other third parties
+Having a proactive agenda to promote respect for IHL helps create an overall culture of respect within the business community for IHL and the humanitarian values that underpin it. Taking positive action to encourage business partners and other third parties (e.g. contractors, suppliers and donors) to respect IHL helps to manage associated risk and will ensure better humanitarian outcomes for people living in conflict affected areas.</div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this interactive exercise, 7 Indicators, as a word document. Skip to download interactive transcript button.</div>
+		<div>Public commitment to respect IHL
+A public commitment to respect IHL not only ensures that businesses will hold themselves to account, but it also allows businesses to communicate to third parties (e.g. partners, suppliers and donors) that they are aware of the legal framework applicable in conflict-affected areas and are taking steps to ensure that they comply with this framework. A public commitment helps to create a culture of respect within the corporate community for these laws.</div>
+		<div>Internal and external reporting
+on the implementation of the business’s IHL commitments
+Transparent reporting ensures that organisations are accountable to their stakeholders, including employees, customers, shareholders and suppliers.</div>
+		<div>7 Indicators of Corporate Best Practice in International Humanitarian Law
+</div>
+		<div>Risk analysis and management frameworks that identify, reduce and manage risks arising from non-compliance with IHL
+Managing the operational risks associated with doing business in a conflict-affected area, or arising out of non-compliance with IHL, is essential to safety of personnel and operational efficiency. Businesses should also manage the potential legal and reputational risks arising from being involved in breaches of IHL.</div>
+		<div>Public commitment
+to respect IHL
+A public commitment not only ensures
+that businesses will hold themselves to account, but it also allows businesses to communicate to third parties (e.g. partners, suppliers and donors) that they are aware of the legal framework applicable in conflict-affected areas and are taking steps to ensure that they comply with this framework.
+A public commitment helps to create
+a culture of respect within the corporate community for these laws.</div>
+		<div>Policies that commit the business and its people to respect IHL
+Implementing a strong internal policy framework on IHL helps businesses reduce their exposure to operational, legal and reputational risks associated with operating in conflict-affected areas or working with third parties that do not respect IHL.</div>
+		<div>Training that ensures personnel
+within the business have the
+knowledge and capacity to comply
+with, and leverage, IHL
+Ensuring that people understand their rights and responsibilities under IHL – in peaceful regions as well as areas experiencing conflict – means that personnel can refer to and leverage this knowledge to minimise risks for themselves and for others. It also helps to reduce the reputational and legal risks associated with personnel who
+fail to comply with IHL.</div>
+		<div>Internal processes that deal with noncompliance with IHL, including violations committed by or against the business’s people
+Ensuring that personnel have access to a complaints and grievance process, and that management is trained to deal with allegations of violations, including reporting where appropriate to relevant authorities, strengthens respect for IHL. Implementing analyses of security incidents will also improve future security planning and management.</div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this interactive, KPI Assignment, as a word document. Skip to download interactive transcript button.</div>
+		<div>Now that you understand the importance of the 7 Indicators, it's time to assign KPIs for your team. Drag each KPI to the relevant manager to assign it to them.
+</div>
+		<div>Hyun-Jung Lee COO</div>
+		<div>Well done!</div>
+		<div>KPI:
+Update the Ruskin Resources sustainability action plan to incorporate IHL provisions for any conflict-affected areas.</div>
+		<div>KPI:
+Develop and implement IHL compliance training as a requirement for all senior management and personnel working in conflict-affected areas.</div>
+		<div>Lea di Silva Public Relations Manager</div>
+		<div>KPI:
+Draft a statement of public commitment to respect IHL for inclusion on the Ruskin Resources website and annual report.</div>
+		<div>Lionel Saad Sustainability
+and Human Rights Manager</div>
+		<div>Andrea Kovatch
+Legal Counsel</div>
+		<div>Interactive transcript</div>
+		<div>KPI:
+Work with Legal to create a policy for engagement with third party suppliers and partner organisations etc. to ensure all future contracts include a provision relating to IHL.</div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this video, Introduction to War, Law and Business, as a word document. Skip to download video transcript button.</div>
+		<div>Download video transcript</div>
+		<div>Before you take a brief assessment to ensure your understanding of the concepts covered in this module, let’s hear from our IHL experts once more.</div>
+		<div></div>
+		<div>You should now be able to:Identify fundamental principles of International Humanitarian Law (IHL) including distinction, humanity and proportionalityRecognise factors that impact application of IHL in a business-related situation Describe the risks and responsibilities inherent in doing business in and beyond conflict-affected areas Explain the urgency of companies becoming familiar with IHLIdentify resources for increasing understanding and application of IHL, including the Seven Indicators of Corporate Best Practice in International Humanitarian Law.</div>
+		<div>Start exercise</div>
+		<div>Interactive transcript</div>
+		<div>That's correct!
+</div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this interactive exercise,7 indicators check your understanding interactive, as a word document. Skip to download interactive transcript button.</div>
+		<div>Well done!
+Please select 'Continue'
+</div>
+		<div>That's incorrect. The correct answer is Risk analysis frameworks.
+</div>
+		<div>Now let's check your understanding
+Now that you have an understanding of the Seven Indicators of Corporate Best Practice in International Humanitarian Law, let’s try aligning some examples of best practice to their corresponding indicator. 
+</div>
+		<div>For each example of best practice, select the indicator that the practice promotes.
+</div>
+		<div>The business has integrated IHL considerations into country risk assessments and human rights due diligence processes for new and ongoing projects. If the business conducts activities in conflict-affected areas, it has also undertaken IHL risk assessments and has highlighted the operational and legal implications of IHL non-compliance in these assessments.</div>
+		<div>The business has published a Statement of Commitment to respect IHL on its website, and this is included in publicly available corporate human rights, social responsibility and sustainability reports.</div>
+		<div>All senior management, and any supervisors and personnel working in conflict-affected areas, have completed IHL training.</div>
+		<div>The business has adopted accountability mechanisms that address IHL non-compliance at all levels of the company, its stakeholders and third parties, including providing redress to people that may be the victims of IHL violations contributed to by the business’ activities.</div>
+		<div>Next ></div>
+		<div>Next ></div>
+		<div>That's incorrect. The correct answer is public commitment to international humanitarian law.
+</div>
+		<div>That's incorrect. The correct answer is training.
+</div>
+		<div>That's incorrect. The correct answer is compliance processes.
+</div>
+		<div>Acknowledgements
+This module was created by Australian Red Cross and RMIT University with the assistance of Concentric Learning.
+Special thanks to everybody who made it possible, including:
+RMIT ABC Fact CheckKevin ArgusJonathan BoymalLionel ChewSushi DasSupipi JayawardenaJonathan KoliebFauve KurnadiSarah MuldoonVicki SarayYvette ZegenhagenLuke Raisbeck and the RMIT TV Studios team</div>
+		<div>Start Assessment ></div>
+		<div>Assessment
+You are now ready to start your assessment. Good Luck!
+</div>
+		<div>How much did you know of international humanitarian law before this module?Will this module be useful to you? If so, how? If not, why not?Do you think international humanitarian law is relevant to your future businesses? If so, how?Upon reflection, what should the CEO of Ruskin Resources have done in this situation? Would you have done anything differently? If so, what?During the scenario you were presented with a framework of seven indicators of corporate best practice in international humanitarian law, was anything missing?</div>
+		<div>So, what have you learned?Spend a few moments reflecting on these questions. We encourage you to jot down your reflections on what you have learnt during this module. Reflection questions:
+</div>
+		<div>Honour our contract and continue working with the Basmandan Government.</div>
+		<div>Pause all operations and investigate the situation further</div>
+		<div>Cancel our contract with Basmanda and renegotiate with the Doronian Government.</div>
+		<div>Cease operations and leave</div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this video, CEO Interview, as a word document. Skip to download video transcript button.</div>
+		<div>Download video transcript</div>
+		<div></div>
+		<div>Two months later...
+</div>
+		<div>Did you select the ‘right’ course of action?The value of stopping to seek out independent legal advice at this point cannot be overstated. But regardless of how you chose to proceed, you probably noticed that the consequences of your decision outweighed the benefits it brought. That does not mean you selected the ‘wrong’ course of action. As CEO of Ruskin Resources, your ability to correct the company's course is limited because you can only react to events that have already taken place. When it comes to matters of IHL, in order for business leaders to be truly effective, proactive policy decisions before a crisis arises are critical. That is why gaining an IHL education now is so important. Next, we will examine some of the ways that you, as CEO of Ruskin Resources, can take pre-emptive steps to avoid future crises and safeguard your company’s security and reputation.</div>
+		<div>Choose again
+</div>
+		<div>Set Policy</div>
+		<div></div>
+		<div>Download video transcript</div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this video, Honour Contract Response, as a word document. Skip to download video transcript button.</div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this video, Cancel Contract Response, as a word document. Skip to download video transcript button.</div>
+		<div>Download video transcript</div>
+		<div></div>
+		<div></div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this video, Pause Operations and Investigate, as a word document. Skip to download video transcript button.</div>
+		<div>Download video transcript</div>
+		<div></div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this video, Cease Operations & Leave Response, as a word document. Skip to download video transcript button.</div>
+		<div>Download video transcript</div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this audio, Site Manager Voicemail, as a word document. Skip to download audio transcript button.</div>
+		<div>Download audio transcript</div>
+		<div>Voicemail
+</div>
+		<div>Start ></div>
+		<div>War, law and business: 
+a module on international humanitarian law for future business leaders</div>
+		<div>Congratulations! You have now completed War, law and business: a module on international humanitarian law for future business leaders.
+
+Resources
+To continue learning about international humanitarian law and the role that future business leaders like you have to play in it, download the following list of key resources.
+</div>
+		<div>Download Resources</div>
+		<div>Select continue to start your assessment.
+</div>
+		<div>GABRIEL RAUTIO, EXECUTIVE ASSISTANT
+I've organised a video conference with the team so you can gather information and decide what to do next.</div>
+		<div></div>
+		<div></div>
+		<div></div>
+		<div></div>
+		<div>GABRIEL RAUTIO, EXECUTIVE ASSISTANT
+The team is on a video call waiting for you. It's time to make a decision about the Northland situation.</div>
+		<div></div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this video, Introduction to War, Law and Business, as a word document. Skip to download video transcript button.</div>
+		<div>Download video transcript</div>
+		<div>War, law and business: 
+a module on international humanitarian law for future business leaders
+</div>
+		<div>It looks like you are viewing this on a mobile device. Due to the immersive nature of this learning experience, completing this module on a tablet or computer is recommended.</div>
+		<div>Welcome to your desktop, CEO!
+</div>
+		<div></div>
+		<div></div>
+		<div>When you have a new communication, you will receive a notification.
+</div>
+		<div>Got it!</div>
+		<div>The Resources folder is available from your desktop.
+As you receive important documents, they will be added to your resources folder.
+</div>
+		<div>You can use the back and continue buttons to navigate through the course. 
+Make sure you read any communication before you continue!
+</div>
+		<div>Download video transcript</div>
+		<div>Users of assistive technologies may prefer to download a non-interactive transcript of this video, Taking Action Video Call, as a word document. Skip to download video transcript button.</div>
+		<div></div>
+
+	</div>
+
+	<!-- end text content: -->
+
+  </body>
+</html>

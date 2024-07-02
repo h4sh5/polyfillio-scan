@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+			<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+		<link rel="icon" type="image/png" sizes="32x32" href="/web/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/web/favicon/favicon-16x16.png">
+		<link rel="icon" type="image/x-icon" href="/web/favicon/favicon.ico" />
+		<link rel="stylesheet" href="/web/assets/css/style.css?ver=0.0.7">
+		
+        <!-- Google Tag Manager -->
+												
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-KC9P3NB');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Google Tag Manager -->
+		<script>
+			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PQSLHWS');
+		</script>
+		<!-- End Google Tag Manager -->
+						
+	<title>Catering Services - Corporate Functions &amp; Private Events</title>
+	<meta name="description" content="The Fresh Collective is renowned for delivering an exceptional catering experience for corporate functions, private parties, weddings and special events." />
+
+	<meta property="fb:app_id" content="">
+	<meta property="og:url" content="https://thefreshcollective.com.au/" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Catering Services - Corporate Functions &amp; Private Events" />
+	<meta property="og:image" content="https://thefreshcollective.com.au/web/assets/img/Food/_1200x630_crop_center-center_none/FreshStudio_0581.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:description" content="Event caterer with a portfolio of premium and unique venues in Sydney, Brisbane &amp; Melbourne. The Fresh Collective: event catering for Weddings, Cocktail Parties, Corporate Events, Conferences &amp; more." />
+	<meta property="og:site_name" content="Fresh Collective" />
+	<meta property="og:locale" content="en_NZ" />
+	<meta property="og:locale:alternate" content="en_NZ" />
+	
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="" />
+	<meta name="twitter:url" content="https://thefreshcollective.com.au/" />
+	<meta name="twitter:title" content="Catering Services - Corporate Functions &amp; Private Events" />
+	<meta name="twitter:description" content="Event caterer with a portfolio of premium and unique venues in Sydney, Brisbane &amp; Melbourne. The Fresh Collective: event catering for Weddings, Cocktail Parties, Corporate Events, Conferences &amp; more." />
+	<meta name="twitter:image" content="https://thefreshcollective.com.au/web/assets/img/Food/_1200x675_crop_center-center_none/FreshStudio_0581.jpg" />
+
+	
+	<link rel="home" href="https://thefreshcollective.com.au/" />
+	<link rel="canonical" href="https://thefreshcollective.com.au/">
+		<meta name="google-site-verification" content="PMWnubknVymCg6Hp_Nfre-BWxiAi5XDqyVbKUxPz_WY" />
+
+    <style>
+	/*
+		@media(min-width:723px){
+			section.section.is-cover {
+				height: inherit !important;
+			} 
+		}
+	*/
+
+		@media(min-width:723px){
+			.contacts-section > .section {
+				position: relative;
+				width: 100vw;
+			}
+			body .contact-columns > div {
+				width: 33.33% !important;
+				margin: inherit !important;
+			}
+		}
+		@media(min-width:723px){
+			header.nav {
+				position: relative;
+				background: #fff;
+			}
+
+			.nav .brand {
+				color: currentColor !important;
+			}
+		}
+		@media(max-width:722px){
+			.img-wrap img {
+				object-fit: cover;
+				width: 100%;
+				height: 100%;
+			}
+			a.nav-nav:last-child {
+				display: none;
+			}
+		}
+	</style>
+</head>
+
+<body>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQSLHWS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KC9P3NB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+
+	<div class="curtain open"></div>
+<header class="nav">
+	<div class="nav-main">
+		<div class="burger-wrap">
+			<div class="burger"><span></span><span></span><span></span><span></span></div>
+			<div class="menu-menu">
+				<span>Menu</span><span>Close</span>
+			</div>
+		</div>
+		<div class="nav-main-wrap">
+												<a href="https://thefreshcollective.com.au/catering" class="nav-nav">Catering</a>
+								
+												<a href="https://thefreshcollective.com.au/venues" class="nav-nav">Venues</a>
+					<a href="https://thefreshcollective.com.au/partners" class="nav-nav chef-ambassadors">Chef Ambassadors</a>
+								
+												<a href="https://thefreshcollective.com.au/delivered" class="nav-nav">Order In</a>
+								
+												<a href="https://thefreshcollective.com.au/enquiry" class="nav-nav">Enquire</a>
+								
+						<a href="http://careers.thefreshcollective.com.au/" class="nav-nav">Careers</a>
+		</div>
+	</div>
+	<a href="/" class="brand"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 190 60"><path d="M2.5,31.5h1.7c0.3,0,0.3,0,0.3-0.3V19H4.3c-2,0-3.2,1.4-3.9,4.5c0,0.1-0.1,0.1-0.2,0.1c-0.1,0-0.1,0-0.1-0.1V19 c0-0.2,0.1-0.3,0.4-0.3h11.5c0.3,0,0.4,0.1,0.4,0.3v4.4c0,0.1,0,0.1-0.2,0.1c-0.1,0-0.1,0-0.2-0.1C11.1,20.4,10,19,8,19H7.8v12.3 c0,0.3,0,0.3,0.3,0.3h1.7c0.1,0,0.1,0,0.1,0.2c0,0.1,0,0.2-0.1,0.2H2.5c-0.1,0-0.1,0-0.1-0.2C2.3,31.6,2.4,31.5,2.5,31.5 M21.2,31.6 h0.9c0.3,0,0.3,0,0.3-0.3v-6.5h-4.2v6.5c0,0.3,0,0.3,0.3,0.3h0.9c0.1,0,0.1,0,0.1,0.2c0,0.1,0,0.2-0.1,0.2h-6c-0.1,0-0.1,0-0.1-0.2 c0-0.1,0-0.2,0.1-0.2h1.1c0.3,0,0.3,0,0.3-0.3V19.3c0-0.3,0-0.3-0.3-0.3h-1.1c-0.1,0-0.1,0-0.1-0.2c0-0.1,0-0.2,0.1-0.2h5.9 c0.1,0,0.1,0,0.1,0.2c0,0.1,0,0.2-0.1,0.2h-0.9c-0.3,0-0.3,0-0.3,0.3v5.2h4.2v-5.2c0-0.3,0-0.3-0.3-0.3h-0.9c-0.1,0-0.1,0-0.1-0.2 c0-0.1,0-0.2,0.1-0.2h5.9c0.1,0,0.1,0,0.1,0.2c0,0.1,0,0.2-0.1,0.2h-1.1c-0.3,0-0.3,0-0.3,0.3v12.1c0,0.3,0,0.3,0.3,0.3h1.1 c0.1,0,0.1,0,0.1,0.2c0,0.1,0,0.2-0.1,0.2h-6c-0.1,0-0.1,0-0.1-0.2C21.1,31.7,21.1,31.6,21.2,31.6 M28.1,31.6h1.1 c0.3,0,0.3,0,0.3-0.3V19.3c0-0.3,0-0.3-0.3-0.3h-1.1C28,19,28,19,28,18.8c0-0.1,0-0.2,0.1-0.2h10.7c0.3,0,0.3,0.1,0.3,0.3v4.1 c0,0.1-0.1,0.1-0.1,0.1c-0.1,0-0.2,0-0.2-0.1c-0.8-3.1-2-4.1-4.5-4.1h-1.2c-0.3,0-0.3,0-0.3,0.3v5.4h0.8c1.4,0,2.4-0.5,2.7-2.3 c0-0.1,0.1-0.1,0.2-0.1c0.1,0,0.2,0,0.2,0.1v5c0,0.1-0.1,0.1-0.2,0.1c-0.1,0-0.1-0.1-0.2-0.1C35.9,25.5,35,25,33.6,25h-0.8v6.3 c0,0.3,0,0.3,0.3,0.3h0.8c2.7,0,4.1-1.4,5-4.8c0-0.1,0.1-0.1,0.2-0.1c0.1,0,0.1,0,0.1,0.1v4.8c0,0.3-0.1,0.3-0.3,0.3H28.1 c-0.1,0-0.1,0-0.1-0.2C28,31.7,28,31.6,28.1,31.6"/><path d="M18.3,56.4c-1,1.1-3.7,3.5-7.9,3.5c-0.8,0-2.5-0.1-4.4-0.9c-5.7-2.6-6-8.8-6-10.5c0-1.3,0.2-4.7,2.6-7.7 c1-1.2,3.4-3.7,7.9-3.7c2.9,0,5.7,1.2,7.6,3.4c0.8,0.9,1.3,1.9,1.5,2.2l-4.3,2.1c-0.3-0.6-0.5-0.9-0.7-1.2c-0.4-0.6-1.7-2.1-3.9-2.1 c-0.6,0-2.1,0.1-3.3,1.3c-0.9,0.8-2.1,2.6-2.1,5.6c0,0.3,0,0.8,0.1,1.5c0.4,3,1.7,4.3,2.9,5c0.4,0.2,1.2,0.6,2.4,0.6 c3,0,4.2-2.3,4.7-3.2l4.3,2.2C19.1,55.4,18.6,56,18.3,56.4 M37.1,43.6c-0.3-0.4-0.9-1.1-2.1-1.6c-0.9-0.4-1.7-0.4-2.1-0.4 c-1.2,0-2,0.4-2.4,0.6c-2.2,1.2-2.9,3.9-2.9,6.2c0,2.9,0.9,4.5,1.8,5.5c1,1,2.2,1.6,3.7,1.6c0.7,0,2.4-0.2,3.7-1.6 c1.2-1.3,1.7-3,1.7-4.7C38.5,46.3,37.7,44.5,37.1,43.6 M39.8,57.7c-1.2,0.9-3.3,2.3-6.8,2.3c-1.3,0-4.9-0.2-7.7-3.1 c-2.9-3-3.1-7.1-3.1-8.4c0-1.1,0.2-4.2,2.1-6.9c1.1-1.6,3.6-4.4,8.7-4.4c4.1,0,6.6,1.8,7.7,3c2.1,2.1,3.3,5.6,3.3,8.6 C43.9,52,42.4,55.5,39.8,57.7 M46.6,59.3V38h5.4v16.8h8.5v4.5H46.6z M63.9,59.3V38h5.4v16.8h8.5v4.5H63.9z M81.2,59.3V38h15.7v4.1 H86.5V46h9.7v4h-9.7v5.1h11.4v4.2H81.2z M118.1,56.4c-1,1.1-3.6,3.5-7.7,3.5c-0.7,0-2.5-0.1-4.3-0.9c-5.6-2.6-5.8-8.8-5.8-10.5 c0-1.3,0.2-4.7,2.6-7.7c1-1.2,3.4-3.7,7.7-3.7c2.8,0,5.6,1.2,7.5,3.4c0.8,0.9,1.3,1.9,1.5,2.2l-4.2,2.1c-0.3-0.6-0.5-0.9-0.7-1.2 c-0.4-0.6-1.7-2.1-3.8-2.1c-0.6,0-2,0.1-3.2,1.3c-0.9,0.8-2,2.6-2,5.6c0,0.3,0,0.8,0.1,1.5c0.4,3,1.6,4.3,2.8,5 c0.4,0.2,1.2,0.6,2.3,0.6c3,0,4.1-2.3,4.6-3.2l4.2,2.2C118.8,55.4,118.4,56,118.1,56.4 M132.9,42.2v17.1h-5.4V42.2h-5.6V38h16.6v4.2 H132.9z M141.8,59.3h5.3V38h-5.3V59.3z M173.1,59.3V38h15.7v4.1h-10.4V46h9.7v4h-9.7v5.1h11.4v4.2H173.1z M162.5,59.3h-5.4L149.8,38 h5.6l4.4,15.2l4.3-15.2h5.6L162.5,59.3z"/><path d="M46.9,30.4h6.6v-12h14.3v-4.8H53.4V6.4H69V1.6H46.9V30.4z M54.3,31.3H46V0.7h24v6.6H54.3v5.4h14.3v6.6H54.3 V31.3z M82.2,14.3h5.7c0.3,0,1.1,0,1.8-0.3c1.4-0.5,2.2-1.6,2.2-3.4c0-3.1-1.9-3.5-3.8-3.5h-5.8V14.3z M87.9,15.2h-6.6v-9h6.7 c1.2,0,4.7,0,4.7,4.4c0,2.1-1,3.7-2.8,4.3C89.1,15.2,88.2,15.2,87.9,15.2z M92.6,30.4h7.1L93,18.7l0.5-0.2c1.2-0.5,1.8-0.7,2.3-1 c0.3-0.2,0.8-0.6,1.3-1c1.5-1.4,2.2-3.3,2.2-5.8c0-2.2-0.6-3.8-1.1-4.8c-1.4-2.7-4.1-4.2-8-4.4c-0.8,0-1.7,0-2.5,0H74.8v28.9h6.6 V19.8h5.3L92.6,30.4z M101.2,31.3h-9.2l-5.9-10.6h-3.9v10.6h-8.3V0.7h13.8c0.8,0,1.7,0,2.5,0c4.2,0.3,7.1,1.9,8.7,4.9 c0.6,1.1,1.2,2.8,1.2,5.2c0,2.7-0.8,4.8-2.4,6.4c-0.5,0.5-1.1,0.9-1.5,1.1c-0.4,0.2-1,0.5-2,0.9L101.2,31.3z M105.4,30.4h22.2v-5 h-15.8v-8h13.5v-4.8h-13.5V6.4h14.4V1.6h-20.9V30.4z M128.5,31.3h-24V0.7h22.6v6.6h-14.4v4.5h13.5v6.5h-13.5v6.2h15.8V31.3z M132.5,25.6c0.9,1.1,1.3,1.5,2,2c2.9,2.3,6.4,3.5,10.8,3.5c0.9,0,1.8-0.1,2.9-0.2c4.3-0.5,7.3-2.3,8.9-5.2c0.7-1.4,1.1-2.9,1.1-4.4 c0-1-0.2-2.1-0.6-3c-0.9-2.2-3-3.7-6-4.3c-1.9-0.4-3.4-0.7-4.9-1c-0.6-0.1-1.1-0.2-1.6-0.2c-1.9-0.2-3.2-0.4-4.1-1.4 c-0.2-0.2-0.7-0.8-0.7-1.9c0-1.7,1.7-3.6,4.8-3.6c1.1,0,2.1,0.2,2.6,0.4l0.2,0.1c2.1,0.7,3.3,1.5,4.9,3.1l4.7-3.4 c-1.3-1.2-1.9-1.6-2.8-2.2c-2.8-1.9-6-2.9-9.5-2.9c-5,0-7.7,1.9-8.9,3c-1.3,1.3-2.1,2.7-2.4,4.5c-0.1,0.8-0.2,1.8-0.2,2 c0,1.1,0.2,1.9,0.4,2.5c0.3,1,0.9,1.7,1.2,2c1.5,1.8,3.5,2.5,5.3,3c1.3,0.3,2.7,0.6,4.1,0.7c0.3,0,0.7,0.1,1,0.1 c2.6,0.3,5.9,0.7,5.9,3.5c0,2.7-3.5,3.6-3.5,3.6c-1,0.3-2,0.3-2.4,0.3c-2.7,0-5.6-1-7.5-2.6c-0.4-0.3-0.8-0.8-1.1-1L132.5,25.6z M145.3,32c-4.6,0-8.4-1.2-11.4-3.7c-0.8-0.7-1.2-1.1-2.4-2.5l-0.3-0.4l6.3-4l0.4,0.4c0.2,0.2,0.7,0.7,1.1,1.1 c1.7,1.5,4.5,2.4,7,2.4c0.3,0,1.3,0,2.2-0.3c0.1,0,2.8-0.7,2.8-2.7c0-1.8-2.2-2.3-5.1-2.6c-0.4,0-0.7-0.1-1.1-0.1 c-1.4-0.2-2.9-0.4-4.2-0.8c-1.9-0.5-4.1-1.3-5.8-3.3c-0.3-0.4-0.9-1.2-1.3-2.3c-0.2-0.6-0.4-1.6-0.4-2.8c0-0.3,0-1.2,0.2-2.1 c0.4-2,1.2-3.6,2.7-5c1.3-1.2,4.2-3.2,9.5-3.2c3.7,0,7,1,10,3c1,0.7,1.7,1.2,3.3,2.7l0.4,0.4l-6.2,4.5l-0.3-0.3 c-1.7-1.7-2.7-2.5-4.8-3.1l-0.2,0c-0.5-0.1-1.4-0.4-2.4-0.4c-2.9,0-3.9,1.7-3.9,2.7c0,0.7,0.4,1.1,0.5,1.2c0.7,0.8,1.8,0.9,3.6,1.1 c0.5,0.1,1,0.1,1.6,0.2c1.5,0.2,3.1,0.5,5,1c3.4,0.7,5.6,2.3,6.7,4.8c0.4,1.1,0.6,2.2,0.6,3.4c0,1.7-0.4,3.3-1.2,4.8l0,0 c-1.8,3.2-5,5.1-9.6,5.7C147.2,31.9,146.2,32,145.3,32z M182.4,30.4h6.5V1.6h-6.5v10.7h-11.7V1.6H164v28.9h6.6V17.7h11.7V30.4z M189.8,31.3h-8.3V18.6h-9.9v12.7h-8.4V0.7h8.4v10.7h9.9V0.7h8.3V31.3z"/></svg></a>
+	<div class="nav-menu">
+		<div class="nav-menu-inner">
+							
+					<div class="menu-item-wrap">
+												<span class="menu-item spoiler-click">About Fresh</span>
+						<div class="spoiler-content">
+														<a href="https://thefreshcollective.com.au/about-the-fresh-collective" class="menu-item-sub">About</a>
+														<a href="https://thefreshcollective.com.au/our-team" class="menu-item-sub">The Team</a>
+														<a href="https://thefreshcollective.com.au/catering/major-events" class="menu-item-sub">Major Events</a>
+														<a href="https://thefreshcollective.com.au/contract-catering" class="menu-item-sub">Contract &amp; Office Catering</a>
+														<a href="https://thefreshcollective.com.au/catering/event-styling" class="menu-item-sub">Event Styling</a>
+														<a href="https://thefreshcollective.com.au/partners" class="menu-item-sub">Partners</a>
+														<a href="https://thefreshcollective.com.au/suppliers" class="menu-item-sub">Suppliers</a>
+													</div>
+											</div>
+
+				
+							
+					<div class="menu-item-wrap">
+												<a href="https://thefreshcollective.com.au/delivered" class="menu-item">Order Online</a>
+											</div>
+
+				
+							
+					<div class="menu-item-wrap">
+												<span class="menu-item spoiler-click">Event Catering</span>
+						<div class="spoiler-content">
+														<a href="https://thefreshcollective.com.au/catering/event-catering-sydney" class="menu-item-sub">Catering Sydney</a>
+														<a href="https://thefreshcollective.com.au/catering/event-catering-brisbane-overview" class="menu-item-sub">Catering Brisbane</a>
+														<a href="https://thefreshcollective.com.au/catering/event-catering-canberra-overview-2" class="menu-item-sub">Catering Canberra</a>
+														<a href="https://thefreshcollective.com.au/catering/menus" class="menu-item-sub">Menus</a>
+													</div>
+											</div>
+
+				
+							
+					<div class="menu-item-wrap">
+												<a href="https://thefreshcollective.com.au/venues" class="menu-item">Event Venues</a>
+											</div>
+
+				
+							
+					<div class="menu-item-wrap">
+												<span class="menu-item spoiler-click">Cafés</span>
+						<div class="spoiler-content">
+														<a href="https://thefreshcollective.com.au/cafes-stores/the-gallery-cafe" class="menu-item-sub">The Gallery Cafe</a>
+														<a href="https://thefreshcollective.com.au/cafes-stores/kiosk" class="menu-item-sub">KIOSK</a>
+														<a href="https://thefreshcollective.com.au/cafes-stores/billabong-waterhole" class="menu-item-sub">Billabong Waterhole</a>
+														<a href="https://thefreshcollective.com.au/cafes-stores/cafe-muse" class="menu-item-sub">Café Muse</a>
+														<a href="https://thefreshcollective.com.au/cafes-stores/portrait-cafe" class="menu-item-sub">Portrait Cafe</a>
+														<a href="https://thefreshcollective.com.au/cafes-stores/acmi-cafe-bar" class="menu-item-sub">ACMI Cafe + Bar</a>
+														<a href="https://thefreshcollective.com.au/cafes-stores/lamericano" class="menu-item-sub">L&#039;Americano</a>
+														<a href="https://thefreshcollective.com.au/cafes-stores/market-cafe" class="menu-item-sub">Market Cafe</a>
+														<a href="https://thefreshcollective.com.au/cafes-stores/and-sando" class="menu-item-sub">&amp;Sando</a>
+													</div>
+											</div>
+
+				
+							
+					<div class="menu-item-wrap">
+												<span class="menu-item spoiler-click">Dining &amp; Bars</span>
+						<div class="spoiler-content">
+														<a href="https://thefreshcollective.com.au/dining-bars/crafted-by-matt-moran" class="menu-item-sub">Crafted by Matt Moran</a>
+														<a href="https://thefreshcollective.com.au/dining-bars/theatre-bar-at-the-end-of-the-wharf" class="menu-item-sub">The Theatre Bar At The End Of The Wharf</a>
+														<a href="https://thefreshcollective.com.au/dining-bars/miss-pearl-bar-and-dining" class="menu-item-sub">Miss Pearl Bar + Dining</a>
+														<a href="https://thefreshcollective.com.au/dining-bars/mod-dining-by-clayton-wells" class="menu-item-sub">MOD. Dining by Clayton Wells</a>
+														<a href="https://thefreshcollective.com.au/dining-bars/bistro-gadi" class="menu-item-sub">Bistro GADI</a>
+														<a href="https://thefreshcollective.com.au/dining-bars/mercury-restaurant" class="menu-item-sub">Mercury Restaurant</a>
+														<a href="https://thefreshcollective.com.au/dining-bars/compa" class="menu-item-sub">Compa</a>
+													</div>
+											</div>
+
+					<div class="menu-item-wrap">
+						<a href="http://careers.thefreshcollective.com.au/" class="menu-item">Careers</a>
+					</div>
+
+					<div class="menu-item-wrap">
+						<a href="https://thefreshcollective.com.au/partners" class="menu-item">Chef Ambassadors</a>
+					</div>
+
+					<div class="menu-item-wrap">
+						<a href="https://thefreshcollective.com.au/enquiry" class="menu-item">Enquire</a>
+					</div>
+ 
+				
+							
+					<div class="menu-item-wrap">
+												<a href="https://thefreshcollective.com.au/contact" class="menu-item">Contact</a>
+											</div>
+
+				
+					</div>
+		<a href="/" class="nav-menu-logo">
+			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 190 60"><path d="M2.5,31.5h1.7c0.3,0,0.3,0,0.3-0.3V19H4.3c-2,0-3.2,1.4-3.9,4.5c0,0.1-0.1,0.1-0.2,0.1c-0.1,0-0.1,0-0.1-0.1V19 c0-0.2,0.1-0.3,0.4-0.3h11.5c0.3,0,0.4,0.1,0.4,0.3v4.4c0,0.1,0,0.1-0.2,0.1c-0.1,0-0.1,0-0.2-0.1C11.1,20.4,10,19,8,19H7.8v12.3 c0,0.3,0,0.3,0.3,0.3h1.7c0.1,0,0.1,0,0.1,0.2c0,0.1,0,0.2-0.1,0.2H2.5c-0.1,0-0.1,0-0.1-0.2C2.3,31.6,2.4,31.5,2.5,31.5 M21.2,31.6 h0.9c0.3,0,0.3,0,0.3-0.3v-6.5h-4.2v6.5c0,0.3,0,0.3,0.3,0.3h0.9c0.1,0,0.1,0,0.1,0.2c0,0.1,0,0.2-0.1,0.2h-6c-0.1,0-0.1,0-0.1-0.2 c0-0.1,0-0.2,0.1-0.2h1.1c0.3,0,0.3,0,0.3-0.3V19.3c0-0.3,0-0.3-0.3-0.3h-1.1c-0.1,0-0.1,0-0.1-0.2c0-0.1,0-0.2,0.1-0.2h5.9 c0.1,0,0.1,0,0.1,0.2c0,0.1,0,0.2-0.1,0.2h-0.9c-0.3,0-0.3,0-0.3,0.3v5.2h4.2v-5.2c0-0.3,0-0.3-0.3-0.3h-0.9c-0.1,0-0.1,0-0.1-0.2 c0-0.1,0-0.2,0.1-0.2h5.9c0.1,0,0.1,0,0.1,0.2c0,0.1,0,0.2-0.1,0.2h-1.1c-0.3,0-0.3,0-0.3,0.3v12.1c0,0.3,0,0.3,0.3,0.3h1.1 c0.1,0,0.1,0,0.1,0.2c0,0.1,0,0.2-0.1,0.2h-6c-0.1,0-0.1,0-0.1-0.2C21.1,31.7,21.1,31.6,21.2,31.6 M28.1,31.6h1.1 c0.3,0,0.3,0,0.3-0.3V19.3c0-0.3,0-0.3-0.3-0.3h-1.1C28,19,28,19,28,18.8c0-0.1,0-0.2,0.1-0.2h10.7c0.3,0,0.3,0.1,0.3,0.3v4.1 c0,0.1-0.1,0.1-0.1,0.1c-0.1,0-0.2,0-0.2-0.1c-0.8-3.1-2-4.1-4.5-4.1h-1.2c-0.3,0-0.3,0-0.3,0.3v5.4h0.8c1.4,0,2.4-0.5,2.7-2.3 c0-0.1,0.1-0.1,0.2-0.1c0.1,0,0.2,0,0.2,0.1v5c0,0.1-0.1,0.1-0.2,0.1c-0.1,0-0.1-0.1-0.2-0.1C35.9,25.5,35,25,33.6,25h-0.8v6.3 c0,0.3,0,0.3,0.3,0.3h0.8c2.7,0,4.1-1.4,5-4.8c0-0.1,0.1-0.1,0.2-0.1c0.1,0,0.1,0,0.1,0.1v4.8c0,0.3-0.1,0.3-0.3,0.3H28.1 c-0.1,0-0.1,0-0.1-0.2C28,31.7,28,31.6,28.1,31.6"/><path d="M18.3,56.4c-1,1.1-3.7,3.5-7.9,3.5c-0.8,0-2.5-0.1-4.4-0.9c-5.7-2.6-6-8.8-6-10.5c0-1.3,0.2-4.7,2.6-7.7 c1-1.2,3.4-3.7,7.9-3.7c2.9,0,5.7,1.2,7.6,3.4c0.8,0.9,1.3,1.9,1.5,2.2l-4.3,2.1c-0.3-0.6-0.5-0.9-0.7-1.2c-0.4-0.6-1.7-2.1-3.9-2.1 c-0.6,0-2.1,0.1-3.3,1.3c-0.9,0.8-2.1,2.6-2.1,5.6c0,0.3,0,0.8,0.1,1.5c0.4,3,1.7,4.3,2.9,5c0.4,0.2,1.2,0.6,2.4,0.6 c3,0,4.2-2.3,4.7-3.2l4.3,2.2C19.1,55.4,18.6,56,18.3,56.4 M37.1,43.6c-0.3-0.4-0.9-1.1-2.1-1.6c-0.9-0.4-1.7-0.4-2.1-0.4 c-1.2,0-2,0.4-2.4,0.6c-2.2,1.2-2.9,3.9-2.9,6.2c0,2.9,0.9,4.5,1.8,5.5c1,1,2.2,1.6,3.7,1.6c0.7,0,2.4-0.2,3.7-1.6 c1.2-1.3,1.7-3,1.7-4.7C38.5,46.3,37.7,44.5,37.1,43.6 M39.8,57.7c-1.2,0.9-3.3,2.3-6.8,2.3c-1.3,0-4.9-0.2-7.7-3.1 c-2.9-3-3.1-7.1-3.1-8.4c0-1.1,0.2-4.2,2.1-6.9c1.1-1.6,3.6-4.4,8.7-4.4c4.1,0,6.6,1.8,7.7,3c2.1,2.1,3.3,5.6,3.3,8.6 C43.9,52,42.4,55.5,39.8,57.7 M46.6,59.3V38h5.4v16.8h8.5v4.5H46.6z M63.9,59.3V38h5.4v16.8h8.5v4.5H63.9z M81.2,59.3V38h15.7v4.1 H86.5V46h9.7v4h-9.7v5.1h11.4v4.2H81.2z M118.1,56.4c-1,1.1-3.6,3.5-7.7,3.5c-0.7,0-2.5-0.1-4.3-0.9c-5.6-2.6-5.8-8.8-5.8-10.5 c0-1.3,0.2-4.7,2.6-7.7c1-1.2,3.4-3.7,7.7-3.7c2.8,0,5.6,1.2,7.5,3.4c0.8,0.9,1.3,1.9,1.5,2.2l-4.2,2.1c-0.3-0.6-0.5-0.9-0.7-1.2 c-0.4-0.6-1.7-2.1-3.8-2.1c-0.6,0-2,0.1-3.2,1.3c-0.9,0.8-2,2.6-2,5.6c0,0.3,0,0.8,0.1,1.5c0.4,3,1.6,4.3,2.8,5 c0.4,0.2,1.2,0.6,2.3,0.6c3,0,4.1-2.3,4.6-3.2l4.2,2.2C118.8,55.4,118.4,56,118.1,56.4 M132.9,42.2v17.1h-5.4V42.2h-5.6V38h16.6v4.2 H132.9z M141.8,59.3h5.3V38h-5.3V59.3z M173.1,59.3V38h15.7v4.1h-10.4V46h9.7v4h-9.7v5.1h11.4v4.2H173.1z M162.5,59.3h-5.4L149.8,38 h5.6l4.4,15.2l4.3-15.2h5.6L162.5,59.3z"/><path d="M46.9,30.4h6.6v-12h14.3v-4.8H53.4V6.4H69V1.6H46.9V30.4z M54.3,31.3H46V0.7h24v6.6H54.3v5.4h14.3v6.6H54.3 V31.3z M82.2,14.3h5.7c0.3,0,1.1,0,1.8-0.3c1.4-0.5,2.2-1.6,2.2-3.4c0-3.1-1.9-3.5-3.8-3.5h-5.8V14.3z M87.9,15.2h-6.6v-9h6.7 c1.2,0,4.7,0,4.7,4.4c0,2.1-1,3.7-2.8,4.3C89.1,15.2,88.2,15.2,87.9,15.2z M92.6,30.4h7.1L93,18.7l0.5-0.2c1.2-0.5,1.8-0.7,2.3-1 c0.3-0.2,0.8-0.6,1.3-1c1.5-1.4,2.2-3.3,2.2-5.8c0-2.2-0.6-3.8-1.1-4.8c-1.4-2.7-4.1-4.2-8-4.4c-0.8,0-1.7,0-2.5,0H74.8v28.9h6.6 V19.8h5.3L92.6,30.4z M101.2,31.3h-9.2l-5.9-10.6h-3.9v10.6h-8.3V0.7h13.8c0.8,0,1.7,0,2.5,0c4.2,0.3,7.1,1.9,8.7,4.9 c0.6,1.1,1.2,2.8,1.2,5.2c0,2.7-0.8,4.8-2.4,6.4c-0.5,0.5-1.1,0.9-1.5,1.1c-0.4,0.2-1,0.5-2,0.9L101.2,31.3z M105.4,30.4h22.2v-5 h-15.8v-8h13.5v-4.8h-13.5V6.4h14.4V1.6h-20.9V30.4z M128.5,31.3h-24V0.7h22.6v6.6h-14.4v4.5h13.5v6.5h-13.5v6.2h15.8V31.3z M132.5,25.6c0.9,1.1,1.3,1.5,2,2c2.9,2.3,6.4,3.5,10.8,3.5c0.9,0,1.8-0.1,2.9-0.2c4.3-0.5,7.3-2.3,8.9-5.2c0.7-1.4,1.1-2.9,1.1-4.4 c0-1-0.2-2.1-0.6-3c-0.9-2.2-3-3.7-6-4.3c-1.9-0.4-3.4-0.7-4.9-1c-0.6-0.1-1.1-0.2-1.6-0.2c-1.9-0.2-3.2-0.4-4.1-1.4 c-0.2-0.2-0.7-0.8-0.7-1.9c0-1.7,1.7-3.6,4.8-3.6c1.1,0,2.1,0.2,2.6,0.4l0.2,0.1c2.1,0.7,3.3,1.5,4.9,3.1l4.7-3.4 c-1.3-1.2-1.9-1.6-2.8-2.2c-2.8-1.9-6-2.9-9.5-2.9c-5,0-7.7,1.9-8.9,3c-1.3,1.3-2.1,2.7-2.4,4.5c-0.1,0.8-0.2,1.8-0.2,2 c0,1.1,0.2,1.9,0.4,2.5c0.3,1,0.9,1.7,1.2,2c1.5,1.8,3.5,2.5,5.3,3c1.3,0.3,2.7,0.6,4.1,0.7c0.3,0,0.7,0.1,1,0.1 c2.6,0.3,5.9,0.7,5.9,3.5c0,2.7-3.5,3.6-3.5,3.6c-1,0.3-2,0.3-2.4,0.3c-2.7,0-5.6-1-7.5-2.6c-0.4-0.3-0.8-0.8-1.1-1L132.5,25.6z M145.3,32c-4.6,0-8.4-1.2-11.4-3.7c-0.8-0.7-1.2-1.1-2.4-2.5l-0.3-0.4l6.3-4l0.4,0.4c0.2,0.2,0.7,0.7,1.1,1.1 c1.7,1.5,4.5,2.4,7,2.4c0.3,0,1.3,0,2.2-0.3c0.1,0,2.8-0.7,2.8-2.7c0-1.8-2.2-2.3-5.1-2.6c-0.4,0-0.7-0.1-1.1-0.1 c-1.4-0.2-2.9-0.4-4.2-0.8c-1.9-0.5-4.1-1.3-5.8-3.3c-0.3-0.4-0.9-1.2-1.3-2.3c-0.2-0.6-0.4-1.6-0.4-2.8c0-0.3,0-1.2,0.2-2.1 c0.4-2,1.2-3.6,2.7-5c1.3-1.2,4.2-3.2,9.5-3.2c3.7,0,7,1,10,3c1,0.7,1.7,1.2,3.3,2.7l0.4,0.4l-6.2,4.5l-0.3-0.3 c-1.7-1.7-2.7-2.5-4.8-3.1l-0.2,0c-0.5-0.1-1.4-0.4-2.4-0.4c-2.9,0-3.9,1.7-3.9,2.7c0,0.7,0.4,1.1,0.5,1.2c0.7,0.8,1.8,0.9,3.6,1.1 c0.5,0.1,1,0.1,1.6,0.2c1.5,0.2,3.1,0.5,5,1c3.4,0.7,5.6,2.3,6.7,4.8c0.4,1.1,0.6,2.2,0.6,3.4c0,1.7-0.4,3.3-1.2,4.8l0,0 c-1.8,3.2-5,5.1-9.6,5.7C147.2,31.9,146.2,32,145.3,32z M182.4,30.4h6.5V1.6h-6.5v10.7h-11.7V1.6H164v28.9h6.6V17.7h11.7V30.4z M189.8,31.3h-8.3V18.6h-9.9v12.7h-8.4V0.7h8.4v10.7h9.9V0.7h8.3V31.3z"/></svg>		</a>
+	</div>
+</header>
+<style>
+	@media(max-width:722px){
+		.chef-ambassadors {
+			display:none !important;
+		}
+	}
+</style>
+<div class="click-area"></div><main id="barba-wrapper">
+	<div class="barba-container" data-namespace="homepage" id="homepage">
+		<section class="section is-cover is-full-resp">
+	<div class="half-cover">
+		<div class="swiper-container" id="swiper-cover">
+			<div class="swiper-wrapper">
+								<div class="swiper-slide">
+					<div class="img-wrap">
+							<img
+class=""
+src="https://thefreshcollective.com.au/web/assets/img/temp/home1.jpg"
+alt="Home1">
+					</div>
+				</div>
+								<div class="swiper-slide">
+					<div class="img-wrap">
+							<img
+class=""
+src="https://thefreshcollective.com.au/web/assets/img/Styling/Hero_0272.jpg"
+alt="Wedding Catering Sydney Brisbane Melbourne">
+					</div>
+				</div>
+								<div class="swiper-slide">
+					<div class="img-wrap">
+							<img
+class=""
+src="https://thefreshcollective.com.au/web/assets/img/Styling/FreshStudio_0255.jpg"
+alt="Freshstudio 0255">
+					</div>
+				</div>
+								<div class="swiper-slide">
+					<div class="img-wrap">
+							<img
+class=""
+src="https://thefreshcollective.com.au/web/assets/img/temp/Rectangle-Copdy.jpg"
+alt="Rectangle Copdy">
+					</div>
+				</div>
+							</div>
+		</div>
+	</div>
+	<div class="cont">
+		<div class="columns">
+			<div class="column is-5-tablet is-4-desktop">
+								<h1 class="title is-0">The fresh collective</h1>
+				
+				
+				<div><p>Delivering exceptional experiences and event catering across a portfolio of event venues, cafes and restaurants in <strong>Sydney, Melbourne, Canberra</strong> and <strong>Brisbane</strong></p></div>
+								<hr class="fix">
+				<div class="button-group">
+										            <a class="button is-responsive" href="https://thefreshcollective.com.au/catering">Catering & Events</a>
+     										            <a class="button is-responsive" href="https://thefreshcollective.com.au/cafes-stores">Cafés & Stores</a>
+     										            <a class="button is-responsive" href="https://thefreshcollective.com.au/dining-bars">Dining & Bars</a>
+     									</div>
+							</div>
+		</div>
+	</div>
+	<a href="#next" class="sroll-down"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 56 32"><polygon points="28,32 0,4 0,0 4,0 28,24 52,0 56,0 56,4 "/></svg></a>
+</section>
+
+			<section class="right-img-columns body  section-imageLeft" id="next">
+			<div>
+					<img
+class=""
+src="https://thefreshcollective.com.au/web/assets/img/Food/Other_0106.jpg"
+alt="Conference Catering Brisbane">
+			</div>
+			<div>
+				<div class="vertical-align max600 max700-wider">
+										<h2 class="title is-2">Whom We Serve</h2>					<p>The Fresh Collective delivers exceptional experiences and event catering services across a portfolio of premium event venues, cafés, restaurants and stores in <strong>Sydney, Melbourne, Canberra</strong> and <strong>Brisbane</strong>. Founded in 1998 by Peter McCloskey, The Fresh Collective employs a team of experts who stand by the company’s values of excellence, innovation and integrity. <br /><br />The Fresh Collective manages the event catering and services, restaurants and cafés in a number of iconic venues across <strong>Sydney, Melbourne, Canberra</strong> and <strong>Brisbane</strong> including: <a href="{entry:484:url}">the Museum of Contemporary Art</a>, <a href="https://thefreshcollective.com.au/venues/brisbane/queensland-museum-kurilpa-brisbane">Queensland Museum</a>, <a href="https://thefreshcollective.com.au/venues/canberra/national-portrait-gallery">National Portrait Gallery</a> and the <a href="https://thefreshcollective.com.au/venues/sydney/art-gallery-nsw">Art Gallery of New South Wales. </a><br /></p>
+					 				</div>
+			</div>
+		</section>
+
+					<section class="section body section-imageRight">
+			<div class="cont">
+				<div class="columns pic-right"> 
+					<div class="column is-4-deskto p is-offset-1-desktop vertical-align text-col">
+												<h2 class="title is-2">We care about produce</h2>						<p>At The Fresh Collective we care about produce – where is comes from and how it’s farmed. We source produce that is local and seasonal wherever possible and we work with suppliers who farm ethically. Our menus change with the seasons and we have a broad menu offering that works for any style of event from a simple boardroom lunch to a grand banquet with grazing tables and a three course lunch or dinner. Menus can be tailored and bespoke for themed events.</p>
+
+						 					</div>
+					<div class="column is-5-desktop is-offset-2-desktop">
+							<img
+class=""
+src="https://thefreshcollective.com.au/web/assets/img/Food/Other_0775.jpg"
+alt="The Lounge Function Menus">
+					</div>
+				</div>
+			</div>
+		</section>
+
+					<section class="right-img-columns body  section-imageLeft is-deeper-bottom">
+			<div>
+					<img
+class=""
+src="https://thefreshcollective.com.au/web/assets/img/Staff/Hero-staff-Waiter3.jpg"
+alt="Event Catering">
+			</div>
+			<div>
+				<div class="vertical-align max600 max700-wider">
+										<h2 class="title is-2">Work with us</h2>					<p>Care and respect for staff is deeply rooted in the culture of The Fresh Collective. A team of dedicated professionals, who are among the best in the industry deliver exceptional event catering experiences and have a reputation for the delivery of excellent food and service each and every day. The Fresh Collective are always on the lookout for talented, passionate and professional staff to help Fresh to grow and diversify. For current job opportunities visit:</p>
+					            <a class="button is-wide is-dark" href="http://careers.freshcatering.com.au/">CAREERS </a>
+     				</div>
+			</div>
+		</section>
+
+			</div>
+</main>
+<div class="pop" id="download-pop">
+    <div class="pop-inner">
+        <div class="close-small"></div>
+            <h3 class="title is-2 has-text-white">Please enter your email to download</h3>
+        <div class="sign-up-wrap">
+            <form method="POST" id="form-download">
+                <form  method="post" data-id="46b373-form-loMgBWAVz_g1qJzGBL2_b54ba65cb012a107d8ee05911ca59613e2c8b1e7668424ca9f3d9" data-handle="downloads" data-success-message="Form has been submitted successfully!" data-error-message="Sorry, there was an error submitting the form. Please try again." data-freeform >
+<input type="hidden" name="action" value="freeform/api/form" /><input type="hidden" name="formHash" value="loMgBWAVz_g1qJzGBL2_b54ba65cb012a107d8ee05911ca59613e2c8b1e7668424ca9f3d9" /><input type="hidden" name="CRAFT_CSRF_TOKEN" value="56pbhN3y3WDcgxGkvTYV8stbHsK_VmeM6DiwsZoONQwxC2USUMS3y6TOOciVsKQrrrFf6eJxY5zmY2y3-Bswu4d6w-PIYgA9X0g2VR6B0_0=" /><div id="46b373-form-loMgBWAVz_g1qJzGBL2_b54ba65cb012a107d8ee05911ca59613e2c8b1e7668424ca9f3d9" data-scroll-anchor></div>
+                <input type="email" name="email" class="input-footer" id="signup" required>
+                <label class="input-label-footer" for="signup">Enter your Email</label>
+                <button type="submit" class="button is-dark input-button-footer">Download</button>
+                <input type="text" name="nickname" class="is-hidden">
+            </form>
+        </div>
+    </div>
+</div>	
+<div class="prefooter"></div>
+<footer class="footer section">
+	<div>
+		<h3 class="title is-2 has-text-white">KEEP UPDATED</h3>
+		<p class="has-text-white">Stay up-to-date with the latest Fresh Collective news,<br> special events information with our newsletter.</p>
+		<div class="sign-up-wrap">
+			<form action="post" id="form-signup">
+				<form  method="post" data-id="a005a9-form-q6353O58B_Avxry7Jy8_e9e270b54638011db16bc3d1fc523b08a4fd719f668424caa1f22" data-handle="signUp" data-success-message="Form has been submitted successfully!" data-error-message="Sorry, there was an error submitting the form. Please try again." data-freeform >
+<input type="hidden" name="action" value="freeform/api/form" /><input type="hidden" name="formHash" value="q6353O58B_Avxry7Jy8_e9e270b54638011db16bc3d1fc523b08a4fd719f668424caa1f22" /><input type="hidden" name="CRAFT_CSRF_TOKEN" value="56pbhN3y3WDcgxGkvTYV8stbHsK_VmeM6DiwsZoONQwxC2USUMS3y6TOOciVsKQrrrFf6eJxY5zmY2y3-Bswu4d6w-PIYgA9X0g2VR6B0_0=" /><input  class name="dv832lDWR" type="hidden" id="form-input-dv832lDWR" value="1"/><div id="a005a9-form-q6353O58B_Avxry7Jy8_e9e270b54638011db16bc3d1fc523b08a4fd719f668424caa1f22" data-scroll-anchor></div>
+				<input type="email" name="email" class="input-footer" id="signup" required>
+				<label class="input-label-footer" for="signup">Enter your Email</label>
+				<button type="submit" class="button is-dark input-button-footer">Sign me up</button>
+				<input type="text" name="nickname" class="is-hidden">
+			</form>
+		</div>
+	</div>
+	<div class="footer-buttons bigger-buttons">
+				<a href="https://thefreshcollective.com.au/" class="footer-button" target=""><span>The Fresh Collective</span></a>
+				<a href="https://thefreshcollective.com.au/catering" class="footer-button" target=""><span>Catering</span></a>
+				<a href="https://thefreshcollective.com.au/cafes-stores" class="footer-button" target=""><span>Cafés</span></a>
+				<a href="https://thefreshcollective.foodstorm.com/" class="footer-button" target="_blank"><span>Delivered by The Fresh Collective </span></a>
+			</div>
+        <div class="footer-buttons bigger-buttons is-cities">
+                    <a href="https://thefreshcollective.com.au/venues/sydney" class="footer-button" target=""><span>Sydney</span></a>
+                    <a href="https://thefreshcollective.com.au/venues/brisbane" class="footer-button" target=""><span>Brisbane</span></a>
+                    <a href="https://thefreshcollective.com.au/venues/canberra" class="footer-button" target=""><span>Canberra</span></a>
+                    <a href="https://thefreshcollective.com.au/venues/melbourne" class="footer-button" target=""><span>Melbourne</span></a>
+            </div>
+    	<div class="footer-buttons smaller-buttons">
+				<a href="https://thefreshcollective.com.au/venues" class="footer-button" target=""><span>Venues</span></a>
+				<a href="https://thefreshcollective.com.au/contact" class="footer-button" target=""><span>Contact</span></a>
+				<a href="https://thefreshcollective.com.au/enquiry" class="footer-button" target=""><span>Enquire</span></a>
+				<a href="http://careers.freshcatering.com.au/" class="footer-button" target="_blank"><span>Careers</span></a>
+				<a href="https://thefreshcollective.com.au/privacy-policy" class="footer-button" target=""><span>Privacy policy</span></a>
+				<a href="https://thefreshcollective.com.au/site-credits" class="footer-button" target=""><span>Site Credits</span></a>
+						<a href="https://www.instagram.com/thefreshcollectiveau/" target="_blank" class="footer-button"><span><svg aria-hidden="true" data-prefix="fab" data-icon="instagram" class="svg-inline--fa fa-instagram fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span></a>
+				<a href="https://www.facebook.com/TheFreshCollectiveAu/" target="_blank" class="footer-button"><span><svg aria-hidden="true" data-prefix="fab" data-icon="facebook-square" class="svg-inline--fa fa-facebook-square fa-w-14" role="img" width="1em" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M448 80v352c0 26.5-21.5 48-48 48h-85.3V302.8h60.6l8.7-67.6h-69.3V192c0-19.6 5.4-32.9 33.5-32.9H384V98.7c-6.2-.8-27.4-2.7-52.2-2.7-51.6 0-87 31.5-87 89.4v49.9H184v67.6h60.9V480H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48z"></path></svg></span></a>
+			</div>
+</footer>
+	<script src="https://cdn.polyfill.io/v2/polyfill.min.js" async defer></script>	
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA3Wu24rUrhYTLLB_RpcDz_tr6IrHd2PaA" async defer></script>
+
+  	<script type="text/javascript" src="/web/assets/js/app.js?ver=2.1" async defer></script>  
+
+	<!-- Start of HubSpot Embed Code -->
+	<script type="text/javascript" id="hs-script-loader" async defer src="https://js.hs-scripts.com/5034397.js"></script>
+	<!-- End of HubSpot Embed Code -->
+	<!-- Facebook Pixel Code --> 
+	<script>
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '473183880184729');fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=473183880184729&ev=PageView&noscript=1"/></noscript>
+	<!-- End Facebook Pixel Code -->
+	<!-- Start of Mouseflow Code -->
+	<script type="text/javascript">
+		window._mfq = window._mfq || [];
+		(function() {
+			var mf = document.createElement("script");
+			mf.type = "text/javascript"; mf.async = true;
+			mf.src = "//cdn.mouseflow.com/projects/bd76a6e3-f704-4170-b110-1a1a5f9ebd6d.js";
+			document.getElementsByTagName("head")[0].appendChild(mf);
+		})();
+	</script>
+	<!-- End of HubSpot Mouseflow Code -->
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+
+	<script type="text/javascript">
+		setTimeout(function(){
+			jQuery('body').on('click','.button, .popup',function(){
+				var trigger = jQuery(this).attr('href');
+
+				if(trigger.indexOf("#popup") >= 0){
+					console.log('popup');
+
+					setTimeout(function(){
+					Fancybox.show([{ src: "#enquiry-pop", type: "inline" }]);
+					},500);
+				}
+			});  
+			jQuery('body').on('click', '[name="location"]', function(){
+				var location = jQuery(this).val();
+				jQuery('#selectVenue').val('');
+				jQuery('#selectVenue option').each(function(){
+					var dataLocation = jQuery(this).attr('data-parent');
+					if(location == dataLocation){
+						jQuery(this).show();
+					} else {
+						if(dataLocation != 'other'){
+							jQuery(this).hide();
+						}
+					} 
+				});
+			});
+		},500);
+	</script> 
+	
+</body>
+</html>
