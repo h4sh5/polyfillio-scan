@@ -1,0 +1,1139 @@
+	
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+	<!-- RCI [BOM] -headertags-addswitch : includes/runtime/headertags/CDS_headertags_addswitch.php -->
+<!-- RCI [EOM] -headertags-addswitch : includes/runtime/headertags/CDS_headertags_addswitch.php -->
+<!-- RCI [BOM] -headertags-addswitch : includes/runtime/headertags/FDMS_headertags_addswitch.php -->
+<!-- RCI [EOM] -headertags-addswitch : includes/runtime/headertags/FDMS_headertags_addswitch.php -->
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ <title>Promotional Pens Online | Ball Pens | Plastic Pens | Metal Pens - Pens International Australia</title>
+ <meta name="Description" content="Pens international have a wide range of personalised pens in Australia – to buy pens online and can buy promotional pens in both plastic pens & metal pens. " />
+ <meta name="Keywords" content="Buy Pens Online, Buy Promotional Pens, Custom Printed Pens, Plastic Pens, Metal Pens, Sydney, Brisbane, Australia, Ball Pens, Promotional Pens Australia" />
+ <meta name="google-site-verification=XmOsbPqVYMRCZiGymy_-X0WM_PaIu5P7lBiI8FHo6Jk" /> <meta name="robots" content="INDEX,FOLLOW" />
+ <meta name="author" content="Pens International" />
+ <meta name="search engines" content="ALL" />
+ <meta name="YahooSeeker" content="INDEX, FOLLOW" />
+ <meta name="msnbot" content="INDEX, FOLLOW" />
+ <meta name="audience" content="All" />
+ <meta name="generator" content="CRE Loaded PCI B2B v6.4.1" />
+ <!-- EOF: Generated Meta Tags -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSQND3FYXV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XSQND3FYXV');
+</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"pensstore","image":["http://pensinternational.com.au/templates/pti/image/pen_printing.jpg"],"@id":"http://pensinternational.com.au/","name":"Pens International","description":"Plasti pens & Metal Pens with No Setup Fees!","telephone":"+612 8003 5046","email":"mailto:sales@pensinternational.com.au","url":"http://pensinternational.com.au","priceRange":"AU$0.43-AU$15.59","address":{"@type":"PostalAddress","streetAddress":"110 George Street","addressLocality":"Parramatta","addressRegion":"NSW","addressCountry":"Australia","name":"Pens International.","postalCode":"2150"}}</script>
+
+	<base href="https://pensinternational.com.au/" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="canonical" href="https://pensinternational.com.au" />
+	
+	<link rel="stylesheet" type="text/css" href="templates/pti/css/bootstrap.css" />
+	<link rel="stylesheet" type="text/css" href="templates/pti/css/stylesheet.css" />
+	<link rel="stylesheet" type="text/css" href="templates/pti/css/jquery-ui.min.css" />
+	<link rel="stylesheet" type="text/css" href="templates/pti/css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="templates/pti/css/pens/slick.css" />
+	
+	<script type="text/javascript" src="templates/pti/js/jquery.js"></script>
+	<script type="text/javascript" src="templates/pti/js/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="templates/pti/js//bootstrap.js"></script>
+</head>
+<body>
+<header class="header" id="header" style="position:absolute;background: white;width:100%;z-index: 100;   ">
+<style>
+
+@media (max-width: 968px) {
+    .col-sm-7 {
+        padding-left: 2%;
+        font-size:10px !important;
+    }
+}
+@media (min-width: 768px) {
+    .col-sm-7 {
+        padding-left: 2%;
+        font-size:10px !important;
+    }
+	.col-sm-4
+		{
+			width:30%;
+		}	
+}
+@media (max-width: 600px) {
+	{
+		.col-sm-4
+		{
+			width:100%;
+		}	
+		
+		.navbar-toggle {
+		margin-top: 27px;
+		}
+		
+	}	
+	
+</style>
+
+<nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+      
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+	   <div class="col-sm-1" style="float:left;">
+            <a href="https://pensinternational.com.au/"><img src="https://pensinternational.com.au/images/pens-logo.svg" alt=""width="200px"></a>
+            </div>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+     
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div class="row">
+         
+            <div class="col-sm-7">
+      <ul class="nav navbar-nav">
+          <li><a href="" >Home</a></li>
+		  <li><a  href= "/instant_quote.php">Quote</a></li>
+		  <li><a href="/index.php?cPath=366">Plastic Pens</a></li>
+		   <li><a href="/index.php?cPath=371">Metal Pens</a></li>
+		  <li><a href="/pages.php?pID=78&CDpath=0">Artwork</a></li>
+		  <li><a href="/pages.php?pID=22&amp;CDpath=0">About Us</a></li>
+		  <li><a href="https://pensinternational.com.au/contact.php">Contact</a></li>
+      </ul>
+      </div>
+     <div class="col-sm-4"  >
+      <ul class="nav navbar-nav navbar-right">
+        <li style="background-color: #8d191d;">
+		     <p style="margin-top: 20px;font-size: 17px;color:white;"> Need help? Call us on 02 8003 5046 &nbsp;&nbsp;</p>
+		      <div style="margin-top: 3%;color:white;">
+		                            			<a  style="padding-right: 1%;background-image: url('../image/Asset_11.png');color: #fff !important" href="create_account.php"><i class="fa fa-user" aria-hidden="true"></i>&nbsp;&nbsp;REGISTER&nbsp;|</a> 
+                			<a  style="padding-right: 1%;color: #fff !important" href="login.php"><i class="fa fa-sign-in" aria-hidden="true"></i>&nbsp;LOGIN&nbsp;|</a>
+                		                		<a  style="padding-right: 1%;color: #fff !important" href="shopping_cart.php"><i class="fa fa-shopping-cart" aria-hidden="true"></i>&nbsp;CART&nbsp; </a>	
+                </div>
+    		     		      
+		  </li>
+    </ul>
+      </ul>
+      </div>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+	<div class="wrapper-box">  
+		<div class="main-wrapper">    
+			<div id="container">		
+	   <!-- <div class="col-lg-3 col-md-3">
+			<div id="column-left">
+				<div class="box">
+					<div id="logo"><a href="https://pensinternational.com.au">&nbsp;</a></div>
+					
+				</div>
+				
+			</div>
+		</div>
+		-->
+			
+		  <div class="col-lg-12 col-md-12" >
+		
+			<div id="content">        
+           
+			
+				
+								  
+				  <section class="hsecond">							
+					<!-- Nivo Slider Start -->
+					
+					<section class="slider-wrapper">
+					  
+					  						
+					<div id="slideshow" class="nivoSlider"> 
+					    
+							<img src="templates/pti/image/slider/slider2.jpg" alt="aluminium-pet-tags-online" title="#aluminium-pet-tags" />
+							
+				
+					 </div>
+
+					 <!-- <div id="pet-tags-online" class="nivo-html-caption">
+						  <br /> 
+						  <br />
+						    <h1>No worries, the design is easy</h1>
+							<div class="name">Here It's quick and easy to create an<br /><br />exclusive tag for your paw buddy</div><br />
+							<br />
+							<br />
+							<a class="button" href="http://localhost/pettags/index.php?cPath=298/">Start Designing</a>
+					  </div>
+					  
+					  <div id="aluminium-pet-tags" class="nivo-html-caption">
+							<h1>Aluminium Pet Tags</h1>
+							<p>Using our popular Aluminium Pet Tags with<br />choice of sizes & background colors.</p>
+							<ul><li>Choice of shapes, colour & sizes</li><li>Engraving Both Sides</li><li>Includes 10mm Jump Ring</li><li>Include the message on a card</li></ul>
+							<a class="button" href="http://localhost/pettags/index.php?cPath=302/">Start Designing</a>
+					  </div>
+					  
+					  <div id="metal-pet-tags-online" class="nivo-html-caption">
+							<h1>Metal Pet Tags</h1>
+							<p>The most popular style of pet tags.<br />You can choose Brass & Silver with 2 sizes!</p>
+							<ul><li>Choice of shapes, colour & sizes</li><li>Engraving Both Sides</li><li>Includes 10mm Jump Ring</li><li>Include the message on a card</li></ul>
+							<a class="button" href="http://localhost/pettags/index.php?cPath=312/">Start Designing</a>
+					  </div>
+					  <div id="design-full-colour-pet-tags-online" class="nivo-html-caption">
+							<h1>Full Colour Pet Tags</h1>
+							<p>Full colour print at the front with dome coating<br />and engraving on rear.</p>
+							<ul><li>Choice of shapes, colour & sizes</li><li>Full Colour on Front & rear on Engraving</li><li>Includes 10mm Jump Ring</li><li>Include the message on a card</li></ul>
+							<a class="button" href="http://localhost/pettags/index.php?cPath=310/">Start Designing</a>
+					  </div>-->
+					  
+					  					  
+					</section>
+					
+					<script type="text/javascript"><!--
+					$(document).ready(function() {
+						//$('#slideshow').nivoSlider();
+						$('#slideshow').nivoSlider({ 
+							effect: 'random',                 // Specify sets like: 'fold,fade,sliceDown' 
+							slices: 15,                       // For slice animations 
+							boxCols: 8,                       // For box animations 
+							boxRows: 4,                       // For box animations 
+							//animSpeed: 2000,                   // Slide transition speed 
+							//pauseTime: 6000,                  // How long each slide will show 
+//startSlide: 0,                    // Set starting Slide (0 index) 
+							//directionNav: true,               // Next & Prev navigation 
+							controlNav: true,                 // 1,2,3... navigation 
+							controlNavThumbs: false,          // Use thumbnails for Control Nav 
+							pauseOnHover: true,               // Stop animation while hovering 
+							manualAdvance: false,             // Force manual transitions 
+							//prevText: 'Prev',                 // Prev directionNav text 
+							//nextText: 'Next',                 // Next directionNav text 
+							
+						});
+					});
+					--></script>
+
+				  	
+					
+				  </section>
+				  <style type="text/css">
+      .slick-slide img{
+      margin: 0 auto;
+      }
+      ul.products li.product{
+      padding: 10px;
+      
+      background:white;
+    //  min-width:400px;	
+      }
+	  ul.carousel li.product{
+      padding: 10px;
+      
+      background:white;
+     // min-width:400px;	
+	  border-radius: 10px;
+      // margin-left: 25px;
+	  border: 2px solid #e4e4e4;
+	  min-width:373px;
+      }
+      
+      body.home #featured-prods{
+      margin-top: 0px;
+     max-height:500px;
+      background:#c1372f
+      }
+	   body.home #featured-prods2{
+      margin-top: 0px;
+      max-height:500px;
+      background:#e4e4e4;
+      }
+      //  BOXES CSS
+      .signpost{border:1px solid transparent;border-radius:4px;display:flex;flex-direction:column;font-size:14px;justify-content:center;min-height:5.57143em;padding:.71429em 1.42857em .71429em 8.57143em;position:relative;text-decoration:none !important;transition-property:border-color, box-shadow;transition-duration:.1s;transition-timing-function:ease-out;z-index:1}.noscript .signpost:focus,.signpost.focus-ring{border-color:#c7017f;box-shadow:#c7017f 0 0 5px}.signpost__icon{position:absolute;bottom:0;left:0;width:14.28571em}.signpost__pre,.signpost__title,.signpost__info{position:relative;z-index:1}.signpost__pre{color:#000;font-size:1.28571em;line-height:1.22222}.signpost__title{color:#000;display:block;font-size:1.57143em;font-weight:700;line-height:1.18182;padding:2px 0}.signpost__info{color:#4d4d4d;display:block;font-size:1.07143em;line-height:1.26667;padding:2px 0}.signpost em,.signpost strong{color:#608daf;font-style:inherit;font-weight:inherit}.signpost.large{padding-top:.35714em;padding-bottom:.35714em}.signpost.large .signpost__pre{font-size:1.71429em;line-height:1.16667}.signpost.large .signpost__title{font-size:2.28571em;line-height:1.125}.signpost.large .signpost__info{font-size:1.28571em;line-height:1.22222}@media (min-width: 65em) and (max-width: 84.99em){.signpost{font-size:1.02941vw}}@media (max-width: 29.99em){.signpost{font-size:2.91667vw}}.v2-icon--v3__signpost{color:#000 !important;height:7.14286em}.signpost--skin-default{background:#e4e4e4;padding: 10px;
+      border-radius: 7px;}.signpost--skin-ghost{background:#fff;border:1px solid #ccc;border-radius:6px;padding-left:7.14286em;padding-top:1.28571em;padding-bottom:1.28571em}.signpost--skin-ghost .signpost__info{font-size:1em}.signpost--skin-coloured{min-height:6.57143em;padding:1.28571em 1.42857em 1.28571em 10em}.signpost--skin-coloured .signpost__title{font-weight:400}.signpost--skin-coloured .signpost__info{display:none}.signpost--skin-coloured em,.signpost--skin-coloured strong{color:inherit;font-weight:700}.signpost--skin-coloured[data-icon='coloured/telephone'],.signpost--skin-coloured[data-icon='coloured/variable-data']{background-color:#cbedeb}.signpost--skin-coloured[data-icon='coloured/mixed-designs']{background-color:#fcf4cc}.signpost--skin-coloured[data-icon='coloured/artwork-guidelines']{background-color:#cbebf8}
+      .signpost-section{
+      //border-left:3.5vw solid transparent;
+      //border-right:3.5vw solid transparent;
+      display:block;margin:0 auto;
+      position:relative;max-width:100%;display:flex;margin-top:40px;margin-bottom:40px}
+      @media (min-width: 85em){.signpost-section{max-width:1336px;border-left-width:46px;border-right-width:46px}}@media (min-width: 65em){.signpost-section{flex-wrap:wrap}.signpost-section .signpost:not(:root){flex:0 0 auto;margin:0;width:calc(33.33333% - 13.33333px)}.signpost-section .signpost:not(:nth-child(3n-2)){margin-left:20px}.signpost-section .signpost:nth-child(n+4){margin-top:20px}}@media (max-width: 64.99em){.signpost-section{flex-wrap:wrap}.signpost-section .signpost:not(:root){flex:0 0 auto;margin:0;width:100%}.signpost-section .signpost:nth-child(n+2){margin-top:20px}}.slideshow{padding-bottom:1px;position:relative}
+   </style><br/>
+   <!--<h4 style="font-size: 15px;"><center><span style="color:#004365;font-weight:700;">***CHRISTMAS CLOSURE***</span><br /><br/><strong>Please note, we will be closing for our Christmas break at 12pm, 18th December 2020 and reopening 8am, 11th January 2021. Merry Christmas to All!</strong></center></h4>-->
+				  <div class="signpost-section">
+                        <a class="signpost signpost--skin-default" href="https://pensinternational.com.au/instant_quote.php" style="text-decoration:none;" data-icon="default/money-gbp">
+                           <table style="width:100%";
+                              class="signpost signpost--skin-default" >
+                              <tr>
+                                 <td><i class="fa fa-dollar" style="font-size:48px;color:
+                                    #8d191d"></i></td>
+                                 <td><span class="signpost__title">Free <strong>Quote</strong></span><span class="signpost__info">No more waiting for an&nbsp;email!</span></td>
+                              </tr>
+                           </table>
+                        </a>
+                        <a class="signpost signpost--skin-default" href="https://pensinternational.com.au/p78/Artwork-guidelines/" style="text-decoration:none;"  data-icon="default/delivery-parcel">
+                           <table style="width:100%";class="signpost signpost--skin-default" >
+                              <tr>
+                                 <td><i class="fa fa-paint-brush" style="font-size:48px;color:#8d191d"></i></td>
+                                 <td><span class="signpost__title"><strong>Free </strong>Design</span><span class="signpost__info">Free initial design plus one revision!</span></td>
+                              </tr>
+                           </table>
+                        </a>
+                        <a class="signpost signpost--skin-default" href="https://pensinternational.com.au" style="text-decoration:none;" data-icon="default/shopping-cart">
+                           <table style="width:100%";class="signpost signpost--skin-default" >
+                              <tr>
+                                 <td><i class="fa fa-shopping-cart" style="font-size:48px;color:#8d191d"></i></td>
+                                 <td><span class="signpost__title"> No<strong> Minimum </strong> Qty</span><span class="signpost__info">Quantity based prices!</span></td>
+                              </tr>
+                           </table>
+                        </a>
+                     </div>
+				  
+								
+				<div class="row no-margin">
+
+				<!-- RCI [BOM] -global-top : includes/runtime/global/CDS_header_banner_global_top.php -->
+<!-- RCI [EOM] -global-top : includes/runtime/global/CDS_header_banner_global_top.php -->
+<div class="content"><!--<div class="image"><img alt="Free engraving Pet Tags Australia" src="/images/pet-tags/free-delivery-free-engraving-for-pet-tags.jpg" title="Free delivery &amp; Free engraving for pet tags" width="100%" /><a href="http://pettagsinternational.com.au/pages.php?cPath=0&amp;pID=79"></a></div>-->
+<!-- Pens  style start--->
+<script src="https://use.typekit.net/vxz3nqn.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<!-- End Typekit -->
+<link rel="stylesheet" type="text/css" href="https://pensinternational.com.au/templates/pti/css/slick.css" />
+<link rel="stylesheet" type="text/css" href="https://pensinternational.com.au/templates/pti/css/mytheme.css" />
+<link rel="stylesheet" type="text/css" href="https://pensinternational.com.au/templates/pti/css/jqvmap.css" />
+<link rel="stylesheet" type="text/css" href="https://pensinternational.com.au/templates/pti/css/pens/slick.css" />
+<link rel="stylesheet" type="text/css" href="https://pensinternational.com.au/templates/pti/css/pens/slick-theme.css" />
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/jquery-1.7.1.min.js"></script>
+<script src="https://www.fast-pens.co.uk/v3/scripts/main.js?1560849287"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdn.polyfill.io/v2/polyfill.js?features=Object.values%2CElement.prototype.classList"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/pens/homepage_pen.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<style  type="text/css">
+   .col-8 {
+   -ms-flex: 0 0 66.666667%;
+   flex: 0 0 66.666667%;
+   max-width: 66.666667%;
+   position: relative;
+   width: 100%;
+   padding-right: 15px;
+   padding-left: 15px;
+   }
+   .col-4 {
+   -ms-flex: 0 0 33.333333%;
+   flex: 0 0 33.333333%;
+   max-width: 33.333333%;
+   position: relative;
+   width: 100%;
+   padding-right: 15px;
+   padding-left: 15px;
+   }
+   .XProductPromo_gallery{
+   flex: 0 0 auto;
+   height: 150px;
+   margin-top: 10px;
+   overflow: hidden;
+   text-align: center;
+   white-space: nowrap;
+   width: 100%;
+   }
+   .XProductPromo_colours {
+   align-self: flex-start;
+   margin-top: 10px;
+   }
+   .swatch-list__item{height:23px;width:23px;background:transparent;border:0 none;cursor:pointer;display:inline-block;padding:0;vertical-align:top}.swatch-list__item::before{height:20px;width:20px;background-color:currentColor;border-radius:50%;box-shadow:0 0 2px black;content:'';display:inline-block;margin:3px;overflow:hidden;pointer-events:none;vertical-align:top}.swatch-list__item:hover::before{-webkit-transform:scale(1.1);transform:scale(1.1)}.tab-set__tab-group{height:57px;overflow:hidden;position:relative;z-index:2}
+   .XProductPromo_image {
+   height: 150px;
+   width: 100%;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   line-height: 128px;
+   overflow: hidden;
+   vertical-align: top;
+   transition: opacity 0.3s ease, -webkit-transform 0.3s ease;
+   transition: opacity 0.3s ease, transform 0.3s ease;
+   transition: opacity 0.3s ease, transform 0.3s ease, -webkit-transform 0.3s ease;
+   will-change: transform;
+   -webkit-backface-visibility: hidden;
+   }
+   .XProductPromo_action {
+   display: flex;
+   flex: 0 0 auto;
+   margin-top: 15px;
+   }
+   .XProductPromo_action_moreInfo {
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 40px;
+   margin-left: 20px;
+   order: 1;
+   }
+   .XProductPromo .v2-button {
+   order: 0;
+   }
+   .noscript a:active, .noscript a:focus, a.focus-ring, a:hover {
+   color: black;
+   }
+   .button, .v2-button, .Action-Button, .slideshow__slide-button, :root .product-page .product-page__cta-button {
+   overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+   border-radius: 4px;
+   border: 1px solid transparent;
+   cursor: pointer;
+   display: inline-block;
+   font-family: "HelveticaNeue-Light","Helvetica Neue Light",Helvetica,Arial,"Lucida Grande",sans-serif;
+   font-weight: 700;
+   outline: 0 none !important;
+   text-align: center;
+   text-decoration: none !important;
+   vertical-align: top;
+   transition-property: background-color,border-color,color,opacity,box-shadow,-webkit-transform;
+   transition-property: background-color,border-color,color,opacity,transform,box-shadow;
+   transition-property: background-color,border-color,color,opacity,transform,box-shadow,-webkit-transform;
+   transition-duration: .1s;
+   transition-timing-function: ease-out;
+   font-size: 13px;
+   height: 40px;
+   line-height: 38px;
+   padding: 0 23px;
+   background: #c7017f;
+   border-color: rgba(199,1,127,0);
+   color: #fff;
+   }
+   a, label, button {
+   touch-action: manipulation;
+   }
+   a {
+   color: #608daf;
+   cursor: pointer;
+   outline: 0 none !important;
+   text-decoration: inherit;
+   transition-property: background-color, color;
+   transition-duration: .1s;
+   transition-timing-function: ease-out;
+   }
+   .slider {
+   width: 650px;
+   margin: 0 auto;
+   }
+   .slick-dots{
+   display: none !important;
+   }
+   .product-grid
+   {
+   background:#8d191d; min-height: 400px; padding: 20px 50px 30px 50px;
+   }
+   @media only screen and (max-width: 480px) {
+   .product-grid
+   {
+   background:#8d191d; min-height: 400px; padding: 0px;
+   }
+   .woocommerce-loop-product__title
+   {font-szie:10px;
+   }
+   h2 {
+   font-size: 10px;
+   margin-bottom: 15px;
+   border-bottom: 1px solid #ddd;
+   text-transform: uppercase;
+   }
+   .product-grid2 product-grid
+   {
+   padding: 0px;background-color: #e4e4e4;
+   }
+   .slick-prev {
+    background-color: transparent;
+    height: 51% !important;
+    /* margin: -6%; */
+    width: 54px;
+    margin-top: -18%;
+    margin-left: -6%;
+   }
+   .slick-prev:hover
+   {
+   background-color: #c5baba;
+   height: 50% !important;
+   width:54px;
+   opacity: .4
+   }
+   .slick-next {
+    right: 0px;
+    background-color: transparent;
+    margin-right: -6%;
+    height: 51% !important;
+    width: 54px;
+    margin-top: -18%;
+    }
+   .slick-next:hover
+   {
+   background-color: #c5baba;
+   height:50% !important;
+   width:54px;
+   opacity: .4
+   }
+   ul.carousel li.product {
+   padding: 10px;
+   background: white;
+   
+   border-radius: 10px;
+   margin-bottom: 20px;
+   margin-left: 6px;
+  
+   }	
+   h1{
+	   padding-top:10px;
+	   margin-bottom:10px;
+   }
+   }		
+</style>
+<!---- Pens style end-->
+
+<div class="product-grid" >
+   <h1 style="color: white;font-size: 28px;   text-align: center;">Plastic Pens</h1>
+   <ul class="carousel">
+       <!-- New product test start 03-JAN-2020 -->   
+      <li class="product" id="plstica_86901">
+         <div>
+            <a  class="XProductPromo_gallery" href="?ds=design&dsp=87258&c=fixed&type=rect">
+               <span class="XProductPromo_image" id="86901">
+               
+                <img src="images/pens/plastic-pens/standard-ballpen-base-orange.jpg" alt="Metal Bone Shaped Pet Tags Online">
+               </span>
+               <h2 class="woocommerce-loop-product__title"><b style="color:#c1372f";>Standard Ballpen <br>White with Coloured Base (Printed)</b><br/></h2>
+            </a>
+         </div>
+         <div class="XProductPromo_colours swatch-list" image_id="86901" data-ref="colour-peek-swatch-list">
+            <button class="swatch-list__item swatch-list_orange" title="Orange" style="color: #f16720" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_red" title="Red" style="color: #bf0010" tabindex="-1"></button>
+            <button class="swatch-list__item  swatch-list_blue" title="Blue" style="color: #1a44a7" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_purple" title="Purple" style="color: #902da7" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_green" title="Green" style="color: #3d9f54" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_magenta" title="Pink" style="color: #ef1397" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_light_blue" title="Light Blue" style="color: #51c8e6" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_yellow" title="Yellow" style="color: #f8cb31" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_transparent" title="White" style="color: #f2f2f2" tabindex="-1"></button>
+            <!--<button class="swatch-list__item swatch-list_black" title="Brown" style="color: #813a00" tabindex="-1"></button>-->
+            <button class="swatch-list__item" title="Black" style="color: #424242" tabindex="-1"></button>
+         </div>
+         <div class="XProductPromo_action"><a class="XProductPromo_action_moreInfo" href="/Plastic-Pens/c366/">More info</a><a class="v2-button" href="?ds=design&dsp=87258&c=fixed&type=rect">Customise and buy</a></div>
+      </li>
+   <!-- New product test End 03-JAN-2020 -->
+   <!--
+      <li class="product" id="plstica_86901">
+         <div>
+            <a  class="XProductPromo_gallery" href="?ds=design&dsp=87258&c=fixed&type=rect">
+               <span class="XProductPromo_image" id="">
+               <img src="images/pens/plastic-pens/standard-ballpen-coloured-base.jpg" alt="Metal Bone Shaped Pet Tags Online">
+               </span>
+               <h2 class="woocommerce-loop-product__title"><b style="color:#c1372f";>Standard Ballpen <br>White with Coloured Base (Printed)</b><br/></h2>
+            </a>
+         </div>
+         <div class="XProductPromo_colours swatch-list" image_id="" data-ref="colour-peek-swatch-list">
+            <button class="swatch-list__item swatch-list_orange" title="Orange" style="color: #f16720" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_red" title="Red" style="color: #bf0010" tabindex="-1"></button>
+            <button class="swatch-list__item  swatch-list_blue" title="Blue" style="color: #1a44a7" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_purple" title="Purple" style="color: #902da7" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_green" title="Green" style="color: #3d9f54" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_magenta" title="Pink" style="color: #ef1397" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_light_blue" title="Light Blue" style="color: #51c8e6" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_yellow" title="Yellow" style="color: #f8cb31" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_transparent" title="White" style="color: #f2f2f2" tabindex="-1"></button>
+            <!--<button class="swatch-list__item swatch-list_black" title="Black " style="color: #424242" tabindex="-1"></button>-->
+           <!-- <button class="swatch-list__item swatch-list_black" title="Brown" style="color: #813a00" tabindex="-1"></button>
+         </div>
+         <div class="XProductPromo_action"><a class="XProductPromo_action_moreInfo" href="/Plastic-Pens/c366/">More info</a><a class="v2-button" href="?ds=design&dsp=87258&c=fixed&type=rect">Customise and buy</a></div>
+      </li>
+      
+   -->
+        <li class="product" id="plstica_86902">
+         <div>
+            <a  class="XProductPromo_gallery" href="?ds=design&dsp=87298&c=fixed&type=rect">
+               <span class="XProductPromo_image" id="86902">
+               <img src="images/pens/plastic-pens/standard-ballpen-top-base-orange.jpg" alt="Metal Bone Shaped Pet Tags Online">
+               </span>
+               <h2 class="woocommerce-loop-product__title"><b style="color:#c1372f";>Standard Ballpen <br> Coloured Top and Base (Printed) </b><br/></h2>
+            </a>
+         </div>
+         <div class="XProductPromo_colours swatch-list" image_id="86902" data-ref="colour-peek-swatch-list">
+            <button class="swatch-list__item swatch-list_orange" title="Orange" style="color: #f16720" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_red" title="Red" style="color: #bf0010" tabindex="-1"></button>
+            <button class="swatch-list__item  swatch-list_blue" title="Blue" style="color: #1a44a7" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_purple" title="Purple" style="color: #902da7" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_green" title="Green" style="color: #3d9f54" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_magenta" title="Pink" style="color: #ef1397" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_light_blue" title="Light Blue" style="color: #51c8e6" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_yellow" title="Yellow" style="color: #f8cb31" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_transparent" title="White" style="color: #f2f2f2" tabindex="-1"></button>
+            <!--<button class="swatch-list__item swatch-list_black" title="Brown" style="color: #813a00" tabindex="-1"></button>-->
+            <button class="swatch-list__item" title="Black" style="color: #424242" tabindex="-1"></button>
+         </div>
+         <div class="XProductPromo_action"><a class="XProductPromo_action_moreInfo" href="/Plastic-Pens/c366/">More info</a><a class="v2-button" href="?ds=design&dsp=87298&c=fixed&type=rect">Customise and buy</a></div>
+      </li>
+         
+      <li class="product" id="plstica_86903">
+         <a  class="XProductPromo_gallery" href="?ds=design&dsp=87299&c=fixed&type=rect">
+            <span class="XProductPromo_image" id="86903">
+            <img src="images/pens/plastic-pens/prestige-ballpen-twist-blue.jpg" alt="Metal Bone Shaped Pet Tags Online">
+            </span>
+            <h2 class="woocommerce-loop-product__title"><b style="color:#c1372f";>Prestige Ballpen <br> Full Coloured Twist Action (Printed)</b><br/></h2>
+         </a>
+         <div class="XProductPromo_colours swatch-list" image_id="86903" data-ref="colour-peek-swatch-list">
+            <button class="swatch-list__item" title="Blue" style="color: #1a44a7" tabindex="-1"></button>
+            <button class="swatch-list__item" title="Silver" style="color: #C0C0C0" tabindex="-1"></button>
+            <button class="swatch-list__item" title="Green" style="color: #3d9f54" tabindex="-1"></button>
+            <button class="swatch-list__item" title="Black" style="color: #424242" tabindex="-1"></button>
+            <button class="swatch-list__item" title="Red" style="color: #bf0010" tabindex="-1"></button>
+            <!--<button class="swatch-list__item" title="Orange" style="color: #f16720" tabindex="-1"></button>-->
+         </div>
+         <div class="XProductPromo_action"><a class="XProductPromo_action_moreInfo" href="/Plastic-Pens/c366/">More info</a><a class="v2-button" href="?ds=design&dsp=87299&c=fixed&type=rect">Customise and buy</a></div>
+      </li>
+      <li class="product"   id="plstica_86904">
+         <a  class="XProductPromo_gallery" href="?ds=design&dsp=87300&c=fixed&type=rect">
+            <span class="XProductPromo_image" id="86904">
+            <img src="images/pens/plastic-pens/prestige-ballpen-click-action-blue.jpg" alt="Metal Bone Shaped Pet Tags Online">
+            </span>
+            <h2 class="woocommerce-loop-product__title"><b style="color:#c1372f";>Prestige Ballpen <br> Full Coloured Click Action (Printed)
+               </b><br/>
+            </h2>
+         </a>
+         <div class="XProductPromo_colours swatch-list" image_id="86904" data-ref="colour-peek-swatch-list">
+            <button class="swatch-list__item" title="Blue" style="color: #1a44a7" tabindex="-1"></button>
+            <button class="swatch-list__item" title="Silver" style="color: #C0C0C0" tabindex="-1"></button>
+            <button class="swatch-list__item" title="Green" style="color: #3d9f54" tabindex="-1"></button>
+            <button class="swatch-list__item" title="Black" style="color: #424242" tabindex="-1"></button>
+            <button class="swatch-list__item" title="Red" style="color: #bf0010" tabindex="-1"></button>
+            <button class="swatch-list__item" title="Light Blue" style="color: #51c8e6" tabindex="-1"></button>
+         </div>
+         <div class="XProductPromo_action"><a class="XProductPromo_action_moreInfo" href="/Plastic-Pens/c366">More info</a><a class="v2-button" href="?ds=design&dsp=87300&c=fixed&type=rect">Customise and buy</a></div>
+      </li>
+   </ul>
+</div>
+<!--
+   <div class="container-fluid product-grid1">
+     <span style="margin-left: 45%;font-size: 28px;">Metal Pens<br/></span><br/>
+     <div class="row">
+       <div class="col-sm-5" id="metal_86917"style="background-color:white;padding: 1.5%;margin-left: 5%;">
+       
+       <a  class="XProductPromo_gallery" href="/?ds=design&dsp=87261&c=fixed&type=rect" title="PIMP2 Metal Pens">
+                        <span class="XProductPromo_image" id="86917">
+                        <img src="images/PIMP1-MetalPens.png" alt="PIMP1 Metal Pens" style="width: 100%;" >
+                        </span>
+                        <h2 class="woocommerce-loop-product__title"><b style="color:#c1372f";></b><br/><br/> Metal Prestige Pen 1 (Engraved)<BR/></h2>
+                     </a>
+                     <div class="XProductPromo_colours swatch-list" image_id="86917" data-ref="colour-peek-swatch-list">
+                        <button class="swatch-list__item" title="Gold" style="color: #f0e2ab" tabindex="-1"></button>
+                        <button class="swatch-list__item" title="White" style="color: #fcfcfc" tabindex="-1"></button>
+                        <button class="swatch-list__item" title="Silver" style="color: #dfdfdf" tabindex="-1"></button>
+                        <button class="swatch-list__item" title="Dark Blue" style="color: #2c6bc1" tabindex="-1"></button>
+                        <button class="swatch-list__item" title="Amber" style="color: #eba724" tabindex="-1"></button>
+                        <button class="swatch-list__item" title="Light Blue" style="color: #7fc6d1" tabindex="-1"></button>
+                        <button class="swatch-list__item" title="Black" style="color: #3d3d3d" tabindex="-1"></button>
+                        <button class="swatch-list__item" title="Purple" style="color: #a021b4" tabindex="-1"></button>
+                        <button class="swatch-list__item" title="Pink" style="color: #e52ba6" tabindex="-1"></button>
+                        <button class="swatch-list__item" title="Red" style="color: #830008" tabindex="-1"></button>
+                        <button class="swatch-list__item" title="Green" style="color: #2b7634" tabindex="-1"></button>
+                        <button class="swatch-list__item" title="Gunmetal" style="color: #5e5e55" tabindex="-1"></button>
+                     </div>
+                     <div class="XProductPromo_action"><a class="XProductPromo_action_moreInfo" href="/?ds=design&dsp=87261&c=fixed&type=rect">More info</a><a class="v2-button" href="/?ds=design&dsp=87261&c=fixed&type=rect">Customise and buy</a></div>
+       
+       </div>
+       <div class="col-sm-1"></div>
+       
+       <div class="col-sm-5"  id="metal_86929" style="background-color:white;padding: 1.5%;">
+           <a  class="XProductPromo_gallery" href="/?ds=design&dsp=87262&c=fixed&type=rect" title="PIMP1-MetalPens">
+                        <span class="XProductPromo_image" id="86929">
+                        <img src="images/PIMP2-MetalPens.png" alt="PIMP2-MetalPens" style="width: 100%;">
+                        </span>
+                        <h2 class="woocommerce-loop-product__title"><b style="color:#c1372f";></b><br/><br/>Metal Prestige Pen 2 (Engraved)<BR/></h2>
+   					
+                     </a>
+                     <div class="XProductPromo_colours swatch-list" image_id="86929" data-ref="colour-peek-swatch-list">
+                        <button class="swatch-list__item swatch-list_blue" title="Light Blue" style="color: #51c8e6" tabindex="-1"></button>
+                        <button class="swatch-list__item swatch-list_purple" title="Purple" style="color: #97268F" tabindex="-1"></button>
+                        <button class="swatch-list__item swatch-list_red" title="Dark Blue" style="color: #366C8F" tabindex="-1"></button>
+                        <button class="swatch-list__item swatch-list_orange" title="Pink" style="color: #E365A6" tabindex="-1"></button>
+                        <button class="swatch-list__item swatch-list_yellow" title="Green" style="color: #7FA850" tabindex="-1"></button>
+                        <button class="swatch-list__item swatch-list_green" title="Orange" style="color: #F15A22" tabindex="-1"></button>
+                        <button class="swatch-list__item swatch-list_transparent" title="Red" style="color: #BA2025" tabindex="-1"></button>
+                        <button class="swatch-list__item swatch-list_black" title="Gunmetal" style="color: #64655D" tabindex="-1"></button>
+                        <button class="swatch-list__item swatch-list_light_blue" title="Black" style="color: #28292A" tabindex="-1"></button>
+                        <button class="swatch-list__item swatch-list_magenta" title="Gold" style="color: #F0CA8A" tabindex="-1"></button>
+                        <button class="swatch-list__item swatch-list_magenta" title="Silver" style="color: #E5E5E5" tabindex="-1"></button>
+                        <button class="swatch-list__item swatch-list_magenta" title="White" style="color: #FFFFFF" tabindex="-1"></button>
+                     </div>
+                     <div class="XProductPromo_action"><a class="XProductPromo_action_moreInfo" href="/?ds=design&dsp=87261&c=fixed&type=rect">More info</a><a class="v2-button" href="/?ds=design&dsp=87261&c=fixed&type=rect">Customise and buy</a></div>
+                 
+       </div>
+       
+     </div>
+   </div>    --->
+<div class="product-grid2 product-grid" >
+   <h1 style="color:black;font-size: 28px;    text-align: center;">Metal Pens</h1>
+   <ul class="carousel" >
+      <!---   PIMP1 Metal Pens     -->   
+      <li  class="product" id="metal_86917">
+         <a  class="XProductPromo_gallery" href="/?ds=design&dsp=87261&c=fixed&type=rect" title="PIMP2 Metal Pens">
+            <span class="XProductPromo_image" id="86917">
+            <img src="images/pens/metal-pens/executive-ballpen-full-colour-orange.jpg" alt="PIMP1 Metal Pens">
+            </span>
+            <h2 class="woocommerce-loop-product__title"><b style="color:#c1372f";><br/><br/>Executive Ballpen <br>Full Colour (Printed)</b><BR/></h2>
+         </a>
+         <div class="XProductPromo_colours swatch-list" image_id="86917" data-ref="colour-peek-swatch-list">
+            <button class="swatch-list__item swatch-list_magenta" title="Orange" style="color: #f16720" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_transparent" title="Red" style="color: #bf0010" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_red" title="Blue" style="color: #1a44a7" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_light_blue" title="Purple" style="color: #902da7" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_magenta" title="Green" style="color: #3d9f54" tabindex="-1"></button>
+            <button class="swatch-list__item" title="White" style="color: #f2f2f2" tabindex="-1"></button>
+            <button class="swatch-list__item" title="Gold" style="color: #F0CA8A" tabindex="-1"></button>
+            <!--<button class="swatch-list__item swatch-list_green" title="Brown" style="color: #813a00" tabindex="-1"></button>-->
+            <button class="swatch-list__item swatch-list_yellow" title="Black" style="color: #424242" tabindex="-1"></button>
+         </div>
+         <div class="XProductPromo_action"><a class="XProductPromo_action_moreInfo" href="/Metal-Pens/c371/">More info</a><a class="v2-button" href="/?ds=design&dsp=87261&c=fixed&type=rect">Customise and buy</a></div>
+      </li>
+      <!--metal 2 pen -->
+      <li class="product" id="metal_86931">
+         <a  class="XProductPromo_gallery" href="/?ds=design&dsp=87307&c=fixed&type=rect" title="PIMP3 Metal Pens">
+            <span class="XProductPromo_image" id="86931">
+            <img src="images/pens/metal-pens/executive-ballpen-full-colour-blue.jpg" alt="PIMP2 Metal Pens">
+            </span>
+            <h2 class="woocommerce-loop-product__title"><b style="color:#c1372f";><br/><br/>  Executive Ballpen <br> Full Colour (Engraved)</b><BR/></h2>
+         </a>
+         <div class="XProductPromo_colours swatch-list" image_id="86931" data-ref="colour-peek-swatch-list">
+            <button class="swatch-list__item swatch-list_red" title="Blue" style="color: #1a44a7" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_magenta" title="Orange" style="color: #f16720" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_transparent" title="Red" style="color: #bf0010" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_light_blue" title="Purple" style="color: #902da7" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_magenta" title="Green" style="color: #3d9f54" tabindex="-1"></button>
+            <button class="swatch-list__item" title="White" style="color: #f2f2f2" tabindex="-1"></button>
+            <!--<button class="swatch-list__item swatch-list_black" title="Yellow" style="color: #FFE600" tabindex="-1"></button>-->
+            <button class="swatch-list__item" title="Gold" style="color: #F0CA8A" tabindex="-1"></button>
+            <!--<button class="swatch-list__item swatch-list_green" title="Brown" style="color: #813a00" tabindex="-1"></button>-->
+            <button class="swatch-list__item swatch-list_yellow" title="Black" style="color: #424242" tabindex="-1"></button>
+         </div>
+         <div class="XProductPromo_action"><a class="XProductPromo_action_moreInfo" href="/Metal-Pens/c371/">More info</a><a class="v2-button" href="/?ds=design&dsp=87307&c=fixed&type=rect">Customise and buy</a></div>
+      </li>
+      <li  class="product" id="metal_86929">
+         <a  class="XProductPromo_gallery" href="/?ds=design&dsp=87262&c=fixed&type=rect" title="PIMP1-MetalPens">
+            <span class="XProductPromo_image" id="86929">
+            <img src="images/pens/metal-pens/executive-ballpen-slimline-colour-purple.jpg" alt="PIMP3-MetalPens">
+            </span>
+            <h2 class="woocommerce-loop-product__title"><b style="color:#c1372f";><br/><br/>Executive Ballpen <br> Slimline Coloured (Printed)</b><BR/></h2>
+         </a>
+         <div class="XProductPromo_colours swatch-list" image_id="86929" data-ref="colour-peek-swatch-list">
+            <button class="swatch-list__item swatch-list_light_blue" title="Purple" style="color: #902da7" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_magenta" title="Orange" style="color: #f16720" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_transparent" title="Red" style="color: #bf0010" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_red" title="Blue" style="color: #1a44a7" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_magenta" title="Green" style="color: #3d9f54" tabindex="-1"></button>
+            <button class="swatch-list__item" title="White" style="color: #f2f2f2" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_black" title="Yellow" style="color: #f8cb31" tabindex="-1"></button>
+            <button class="swatch-list__item" title="Gold" style="color: #F0CA8A" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_orange" title="Pink" style="color: #ef1397" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_yellow" title="Black" style="color: #424242" tabindex="-1"></button>
+         </div>
+         <div class="XProductPromo_action"><a class="XProductPromo_action_moreInfo" href="/Metal-Pens/c371/">More info</a><a class="v2-button" href="/?ds=design&dsp=87262&c=fixed&type=rect">Customise and buy</a></div>
+      </li>
+      <li  class="product" id="metal_86928">
+         <a  class="XProductPromo_gallery" href="/?ds=design&dsp=87308&c=fixed&type=rect" title="PIMP4 Metal Pens">
+            <span class="XProductPromo_image"  id="86928">
+            <img src="images/pens/metal-pens/executive-ballpen-slimline-colour-green.jpg" alt="PIMP4 Metal Pens">
+            </span>	
+            <h2 class="woocommerce-loop-product__title"><b style="color:#c1372f";><br/><br/>Executive Ballpen <br> Slimline Coloured (Engraved)</b><BR/></h2>
+         </a>
+         <div class="XProductPromo_colours swatch-list" data-ref="colour-peek-swatch-list" image_id="86928">
+            <button class="swatch-list__item swatch-list_magenta" title="Green" style="color: #3d9f54" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_magenta" title="Orange" style="color: #f16720" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_transparent" title="Red" style="color: #bf0010" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_red" title="Blue" style="color: #1a44a7" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_light_blue" title="Purple" style="color: #902da7" tabindex="-1"></button>
+            <button class="swatch-list__item" title="White" style="color: #f2f2f2" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_black" title="Yellow" style="color: #f8cb31" tabindex="-1"></button>
+            <button class="swatch-list__item" title="Gold" style="color: #F0CA8A" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_orange" title="Pink" style="color: #ef1397" tabindex="-1"></button>
+            <button class="swatch-list__item swatch-list_yellow" title="Black" style="color: #424242" tabindex="-1"></button>
+         </div>
+         <div class="XProductPromo_action"><a class="XProductPromo_action_moreInfo" href="/Metal-Pens/c371/">More info</a><a class="v2-button" href="/?ds=design&dsp=87308&c=fixed&type=rect">Customise and buy</a></div>
+      </li>
+   </ul>
+</div>
+<!-- Text boxes started -->
+<div class="container-fluid" style="width: 100%;padding-right: 15px;padding-left: 15px;margin-right: auto; margin-left: auto;">
+   <div class="row" style="display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap;margin-right: -15px;margin-left: -15px;">
+      <br/>
+      <div class=" col-sm-8 col-md-8 ">
+         <h2 style="font-size: 20px;font-style: normal; font-weight: 500;padding-top:5%;    color: #222222;    text-transform: capitalize;
+            letter-spacing: 1px;    border: none;    font-family: Myriad pro,sans-serif;    line-height: 1;color: #315F89;text-align:center;">About Pens International</h2>
+         <p style="text-align:center";><br/>Pens International Australia can help boost the visibility of your brand or design with our selective choice of Pens. Our small boutique range of pens removes the complexity for customer choice. We have selected the most popular styles of <a href="http://pensinternational.com.au/Plastic-Pens/c366/">plastic pens</a> / <a href="http://pensinternational.com.au/Metal-Pens/c371/">metal pens</a> and designed our website accordingly. Most importantly, our customers can purchase from 1 customised pen up to as many pens as you like. </p>
+      </div>
+      <div class=" col-sm-4 col-md-4 "><br/><img src="templates/pti/image/1.jpg" alt="aluminium-pet-tags-online" style="width: 100%;height: 100%;" title="#aluminium-pet-tags" />
+      </div>
+   </div>
+   <br/>
+   <div class="col-12" style="border-top:3px solid #c9c8c8;margin-top: 2%;"> </div>
+   <br/>
+   <div class="row" style="display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap;margin-right: -15px;margin-left: -15px;">
+      <div class=" col-sm-4 col-md-4"><img src="templates/pti/image/quality.jpg" alt="aluminium-pet-tags-online" style="width: 100%;height: 100%;"  title=  "#aluminium-pet-tags" />
+      </div>
+      <div class=" col-sm-8 col-md-8">
+         <h2 style="font-size: 20px;font-style: normal; font-weight: 500;padding-top:5%;    color: #222222;    text-transform: capitalize;
+            letter-spacing: 1px;    border: none;    font-family: Myriad pro,sans-serif;    line-height: 1;color: #315F89;text-align:center;">Quality Finish</h2>
+         <p style="text-align:center";>Our Pens are printed or engraved  with care and attention to detail. From Design Online to Artwork approval through to production we know how to provide great professional service to our customers. You will not be disappointed with your own customised pen making your Event, Advertising Campaign, Charity Fund Raise or simply a personalised Identification for your business or organisation a success. Whatever the reason you will not be disappointed with this product!</p>
+      </div>
+   </div>
+   <br/>
+   <div class="col-12" style="border-top:3px solid #c9c8c8;"> </div>
+   <br/>
+   <div class="row" style="display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap;margin-right: -15px;margin-left: -15px;">
+      <div class="col-sm-8 col-md-8">
+         <h2 style="font-size: 20px;font-style: normal; font-weight: 500;padding-top:5%;    color: #222222;    text-transform: capitalize;
+            letter-spacing: 1px;    border: none;    font-family: Myriad pro,sans-serif;    line-height: 1;color: #315F89;text-align:center;">Free Design Service</h2>
+         <p style="text-align:center";>We don't have any hidden charges! We offer first design absolutely at no cost for our customers. We also offer one artwork revision again for free with any order placed. This benefit can be utilised even if you order only 1 Pen or 10,000 Pens. We present simple, competitive and quantity based prices for existing and new customers.</p>
+      </div>
+      <div class=" col-sm-4 col-md-4"><img src="templates/pti/image/free_design.jpg" alt="aluminium-pet-tags-online" style="width: 100%;height: 100%;" title="#aluminium-pet-tags" />
+      </div>
+   </div>
+   <br/>
+   <div class="col-12" style="border-top:3px solid #c9c8c8;"> </div>
+   <br/>
+   <div class="row" style="display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap;margin-right: -15px;margin-left: -15px;">
+      <div class=" col-sm-4 col-md-4"><img src="templates/pti/image/pen_printing.jpg" alt="aluminium-pet-tags-online" style="width: 100%;height: 100%;" title=  "#aluminium-pet-tags" />
+      </div>
+      <div class=" col-sm-8 col-md-8">
+         <h2 style="font-size: 20px;font-style: normal; font-weight: 500;padding-top:5%;    color: #222222;    text-transform: capitalize;
+            letter-spacing: 1px;    border: none;    font-family: Myriad pro,sans-serif;    line-height: 1;color: #315F89;text-align:center;">Pen Printing</h2>
+         <p style="text-align:center";>Our extensive range of products are available in a variety of sizes with full colours, giving you the freedom of choice to design the perfect Pen online. Our website allows anyone to upload their own design on fantastic Pens quickly with easy accessibility. Also you can order pens online anytime 24/7.</p>
+      </div>
+   </div>
+   <br/>
+</div>
+<!--
+   <div id="recipe-list">
+   <div class="recipes flexbox align-center flex-wrap space-between">
+   <div class="recipe flexbox">
+   <div class="content flexbox align-center">
+   <div>
+   <h2 style="color:#315F89;">About Pens International</h2>
+   <div>
+   
+   <p>Button Badges International can help boost the visibility of your brand or design,with our fantastic range of badges. With 80 staffs and 100+ years of badge printing experience, Button Badges International is your ideal partner for all your custom sticker requirements.</p>
+   
+   </div>
+   </div>
+   </div>
+   </div>
+   <div class="recipe flexbox">
+   <div class="content flexbox align-center">
+   <div>
+   <h2 style="color:#315F89;">Badge Printing</h2>
+   <div>
+   <p>Our extensive range of products are available in a variety of sizes with full colours, giving you the freedom of choice to design the perfect Button Badge. Our website allows anyone to upload their own design on fantastic badges quickly with easy accessibility. Also you can order online anytime 24/7.
+   </p>
+   </div>
+   </div>
+   </div>
+   </div>
+   <div class="recipe flexbox">
+   <div class="content flexbox align-center">
+   <div>
+   <h2 style="color:#315F89;">Quality Finish</h2>
+   <div>
+   <p>Our Button Badges are printed with care and attention to detail. From Design Online to Artwork approval through to production we know how to provide great professional service to our customers. You will not be disappointed with your own customised Button Badge making your Event, Advertising Campaign, Charity Fund Raise or simply a personalised Identification for your business or organisation a success. Whatever the reason you will not be disappointed with this Button Badge product!
+   
+   </p>
+   </div>
+   </div>
+   </div>
+   </div>
+   <div class="recipe flexbox">
+   <div class="content flexbox align-center">
+   <div>
+   <h2 style="color:#315F89;">Free Design Service </h2>
+   <div>
+   <p> We don't have any hidden charges! We offer first design absolutely at no cost for our customers. We also offer one artwork revision again for free with any order placed. This benefit can be utilised even if you order 10  Badges or 10,000 Badges. We present simple, competitive and quantity based prices for existing and new customers.
+   </p>
+   </div>
+   </div>
+   </div>
+   </div>
+   </div>
+   </div>-->
+<!--<div class="col-lg-4 col-md-4 no-pad">
+   <div>
+   <div class="image"><a href="http://pettagsinternational.com.au/index.php?cPath=307"><img alt="Full Colour Round Shaped Pet Id Tags Australia" class="img-responsive" src="images/fullcolour-round-brass-silver-pet-tags.png" /></a></div>
+   <div class="name"><a href="http://pettagsinternational.com.au/index.php?cPath=307">Round Full Colour Tags</a></div>
+   <div class="description">Full color graphics, Dome coating,<br />Durable metal, Free split ring</div>
+   <div class="price"><span class="price_from">From</span> A$20.35<br /></div>
+   <div class="cart"><a class="more" href="http://pettagsinternational.com.au/index.php?cPath=307">Details</a> <a class="buy button" href="http://pettagsinternational.com.au/index.php?cPath=307">Start Designing</a></div>
+   </div>
+   </div>
+   <div class="col-lg-4 col-md-4 no-pad">
+   <div>
+   <div class="image"><a href="http://pettagsinternational.com.au/index.php?cPath=305"><img alt="Design Aluminium Pet Tags Online" class="img-responsive" src="images/round-aluminum-pet-tags.png" /></a></div>
+   <div class="name"><a href="http://pettagsinternational.com.au/index.php?cPath=305">Aluminium Round Tags</a></div>
+   <div class="description">Anodized Aluminium, Diamond<br />engraved, Free split ring</div>
+   <div class="price"><span class="price_from">From</span> A$9.90</div>
+   <div class="cart"><a class="more" href="http://pettagsinternational.com.au/index.php?cPath=305">Details</a> <a class="buy button" href="http://pettagsinternational.com.au/index.php?cPath=305">Start Designing</a></div>
+   </div>
+   </div>
+   <div class="col-lg-4 col-md-4 no-pad">
+   <div>
+   <div class="image"><a href="http://pettagsinternational.com.au/index.php?cPath=312"><img alt="Metal Pet Tags online Australia" class="img-responsive" src="images/Bowtie-brass-silver-pet-tags.png" /></a></div>
+   <div class="name"><a href="http://pettagsinternational.com.au/index.php?cPath=312">Bowtie Metal Tags</a></div>
+   <div class="description">Front and back Diamond engraved<br />on Durable metal, Free split ring</div>
+   <div class="price"><span class="price_from">From</span> A$13.75<br /></div>
+   <div class="cart"><a class="more" href="http://pettagsinternational.com.au/index.php?cPath=312">Details</a> <a class="buy button" href="http://pettagsinternational.com.au/index.php?cPath=312">Start Designing</a></div>
+   </div>
+   </div>
+   <div class="col-lg-4 col-md-4 no-pad">
+   <div>
+   <div class="image"><a href="http://pettagsinternational.com.au/index.php?cPath=313"><img alt="Full Colour Bowtie Shaped Pet Tags for your pets" class="img-responsive" src="images/fullcolour-Bowtie-brass-silver-pet-tags.png" /></a></div>
+   <div class="name"><a href="http://pettagsinternational.com.au/index.php?cPath=313">Bowtie Full Colour Tags</a></div>
+   <div class="description">Full color graphics, Dome coating,<br />Durable metal, Free split ring</div>
+   <div class="price"><span class="price_from">From</span> A$20.35<br /></div>
+   <div class="cart"><a class="more" href="http://pettagsinternational.com.au/index.php?cPath=313">Details</a> <a class="buy button" href="http://pettagsinternational.com.au/index.php?cPath=313">Start Designing</a></div>
+   </div>
+   </div>
+   <div class="col-lg-4 col-md-4 no-pad">
+   <div>
+   <div class="image"><a href="http://pettagsinternational.com.au/index.php?cPath=311"><img alt="Aluminium Bowtie shaped Pet Tags Online" class="img-responsive" src="images/bowtie-aluminum-pet-tags.png" /></a></div>
+   <div class="name"><a href="http://pettagsinternational.com.au/index.php?cPath=311">Aluminium Bowtie Tags</a></div>
+   <div class="description">Anodized Aluminium, Diamond<br />engraved, Free split ring</div>
+   <div class="price"><span class="price_from">From</span> A$9.90</div>
+   <div class="cart"><a class="more" href="http://pettagsinternational.com.au/index.php?cPath=311">Details</a> <a class="buy button" href="http://pettagsinternational.com.au/index.php?cPath=311">Start Designing</a></div>
+   </div>
+   </div>
+   <div class="col-lg-4 col-md-4 no-pad">
+   <div>
+   <div class="image"><a href="http://pettagsinternational.com.au/index.php?cPath=309"><img alt="Metal Pet Tags in Australia" class="img-responsive" src="images/heart-brass-silver-pet-tags.png" /></a></div>
+   <div class="name"><a href="http://pettagsinternational.com.au/index.php?cPath=309">Heart Metal Tags</a></div>
+   <div class="description">Front and back Diamond engraved<br />on Durable metal, Free split ring</div>
+   <div class="price"><span class="price_from">From</span> A$13.75<br /></div>
+   <div class="cart"><a class="more" href="http://pettagsinternational.com.au/index.php?cPath=309">Details</a> <a class="buy button" href="http://pettagsinternational.com.au/index.php?cPath=309">Start Designing</a></div>
+   </div>
+   </div>
+   <div class="col-lg-4 col-md-4 no-pad">
+   <div>
+   <div class="image"><a href="http://pettagsinternational.com.au/index.php?cPath=310"><img alt="Full Colour Bowtie Shaped Pet Id Tags" class="img-responsive" src="images/fullcolour-heart-brass-silver-pet-tags.png" /></a></div>
+   <div class="name"><a href="http://pettagsinternational.com.au/index.php?cPath=310">Heart Full Colour Tags</a></div>
+   <div class="description">Full color graphics, Dome coating,<br />Durable metal, Free split ring</div>
+   <div class="price"><span class="price_from">From</span> A$20.35<br /></div>
+   <div class="cart"><a class="more" href="http://pettagsinternational.com.au/index.php?cPath=310">Details</a> <a class="buy button" href="http://pettagsinternational.com.au/index.php?cPath=310">Start Designing</a></div>
+   </div>
+   </div>
+   <div class="col-lg-4 col-md-4 no-pad">
+   <div>
+   <div class="image"><a href="http://pettagsinternational.com.au/index.php?cPath=308"><img alt="Aluminium Heart Shaped Pet Tags Online" class="img-responsive" src="images/heart-aluminum-pet-tags.png" /></a></div>
+   <div class="name"><a href="http://pettagsinternational.com.au/index.php?cPath=308">Aluminium Heart Tags</a></div>
+   <div class="description">Anodized Aluminium, Diamond<br />engraved, Free split ring</div>
+   <div class="price"><span class="price_from">From</span> A$9.90</div>
+   <div class="cart"><a class="more" href="http://pettagsinternational.com.au/index.php?cPath=308">Details</a> <a class="buy button" href="http://pettagsinternational.com.au/index.php?cPath=308">Start Designing</a></div>
+   </div>
+   </div>
+   </div>
+   <div class="inner-content">
+   <div class="col-lg-6 col-md-6">
+   <h4>Dog Tags &amp; Cat Id Tags</h4>
+   <p>These pet Id tags are used to make your dogs &amp; Cats as cute as possible. Each tag is made from high-quality Metal &amp; Aluminum. Along with laser engraving on both sides. They come with various range of colours and shapes, Like rounded ones, heart, bone &amp; Bowtie shapes.</p>
+   <h4>Free delivery - Free engraving - Free design</h4>
+   <p>We don't believe in hidden costs and extra charges! For this reason, we offer our experienced design service complimentary for the initial design work and one modification ABSOLUTELY FREE OF CHARGE with any order for our identification products. Whether ordering one Tag or hundreds, we offer simple, competitive, quantity based pricing for all customers, new or old. Free delivery everywhere in Australia, New South Wales, Queensland, Victoria, South Australia, Western Australia, Sydney, Brisbane, Melbourne, Adelaide, Perth, Darwin.</p>
+   </div>
+   <div class="col-lg-6 col-md-6">
+   <h4>Confidence &amp; Experience - Pet Tags International</h4>
+   <p>Pet tags International is well known for manufacturing and supplying the best quality <a href="http://pettagsinternational.com.au/p82/Dog-Tags/">dog tags</a>, <a href="http://pettagsinternational.com.au/p82/Dog-Tags/">cat tags</a> with variety of different materials, shapes and sizes to suit all type of dogs or cats. Our Pet tags can be engraved both on the front and back of the tag, and you can choose what information goes on each side of your <a href="http://pettagsinternational.com.au/">engraved pet tags</a> when you place your order.</p>
+   <h4>Free Engraved Pet Tags - Quality Finish</h4>
+   <p>All Our pet id tags are thick enough with Deep Engraving and much cheaper compared to others. The Metal pet tags used are extremely of high grade. Also finishing and engraving requires great amount of hand labour and time. Which results in ultimate customer satisfaction.<br /><br />For free help, advice or pet tags design suggestions please give us a call on 02 8003 5046 or email us using the <a href="http://pettagsinternational.com.au/p51/Contact-Pet-Tags-International/">contact form</a>.</p>
+   </div>-->
+</div>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/pens/slick.min.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/pens/bootstrap.min.js"></script>
+<script>
+   // $('.carousel').slick({slidesToShow:3, slidesToScroll:1, dots:true});
+   $('.carousel').slick({
+                      infinite: false,
+                      slidesToShow: 3,
+                      slidesToScroll: 1,
+                      arrows: true,
+                     // autoplay: true,
+                      //autoplaySpeed: 2000,
+                      responsive: [
+                            {
+                              breakpoint: 1200,
+                              settings: {
+                                slidesToShow: 2,
+                                slidesToScroll: 1
+                              }
+                            },
+                            {
+                              breakpoint: 1008,
+                              settings: {
+                                slidesToShow: 1,
+                                slidesToScroll: 1
+                              }
+                            },
+   				 {
+                              breakpoint: 800,
+                              settings: {
+                                slidesToShow: 1,
+                                slidesToScroll: 1
+                              }
+                            },
+   				
+                            {
+                              breakpoint: 480,
+   				  settings: {
+                                slidesToShow: 1,
+                                slidesToScroll: 1
+                              }
+                              //settings: "unslick"
+                            }
+   
+                          ]
+            });
+   
+</script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/pens/homepage_metal_pen.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/acea0db5c5.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/slick.min.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/mytheme.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/custom.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/jquery.flexslider.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/jquery.easing-1.3.min.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/colorbox/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/tabs.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/cloud_zoom.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/jquery.dcjqaccordion.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/custom.js"></script>
+<script type="text/javascript" src="https://pensinternational.com.au/templates/pti/js/html5.js"></script></div><!-- D featured_products_mainpage //-->
+<!-- featured_products_eof //-->
+<!-- RCI [BOM] -global-bottom : includes/runtime/global/CDS_CDpathSession_global_bottom.php -->
+<!-- RCI [EOM] -global-bottom : includes/runtime/global/CDS_CDpathSession_global_bottom.php -->
+<!-- RCI [BOM] -global-bottom : includes/runtime/global/CDS_navigation_global_bottom.php -->
+<!-- RCI [EOM] -global-bottom : includes/runtime/global/CDS_navigation_global_bottom.php -->
+				
+				</div>
+			
+				<!-- Footer start -->
+				
+<!--Footer Part Start-->
+
+<div id="footer">
+     
+        <div id="footer-nav" class="section flexbox align-center justify-center flex-wrap">
+                <div class="menu-item-wrapper">
+                    <a class="" href="https://pensinternational.com.au/" title="">Home</a>
+                </div>
+                <div class="menu-item-wrapper">
+				    <a class="" href="https://pensinternational.com.au/p79/delivery/" title="">Delivery</a><!-- <a  href=""> Delivery</a>-->
+                </div>
+			    <div class="menu-item-wrapper">
+			      <a class="" href="https://pensinternational.com.au/p78/Artwork-guidelines/" title="">Artwork</a>		
+               </div>
+                <div class="menu-item-wrapper">
+                    <a class="" href="https://pensinternational.com.au/p63/privacy-policy/" title="">Privacy Policy</a>		
+                 </div>
+                <div class="menu-item-wrapper">
+                    <a class="" href="https://pensinternational.com.au/p80/terms-and-conditions/" title="">Terms and Conditions</a>		    
+                </div>
+                <div class="menu-item-wrapper">
+                    <a class="" href="https://pensinternational.com.au/p56/sitemap/" title="">Site Map</a>		
+                </div>
+        </div>
+ <br/>
+      <div class="section" id="social-cont">
+          <div class="flexbox align-center justify-center">
+          
+            <!--<a id="facebook" class="social-icon" target="_blank" href="https://www.facebook.com/Button-Badges-International-389150145145666/">
+              <i class="fa fa-facebook" aria-hidden="true"></i>
+            </a>
+            <a id="twitter" class="social-icon" target="_blank" href="https://twitter.com/badges_button">
+              <i class="fa fa-twitter" aria-hidden="true"></i>
+            </a>
+            <a id="tumblr" class="social-icon" target="_blank" href="#">
+              <i class="fa fa-tumblr" aria-hidden="true"></i>-->
+            </a>
+          </div>
+        </div>
+ <br/>
+        <div class="section flexbox align-center justify-center" id="copyright">
+          <p>&copy; 2024 Pens International<br/></p>   <br/>
+        </div>
+
+    </div> 
+    
+    
+    
+
+      <!-- Back to Top Button Start-->
+      <div class="back-to-top" id="back-top"><a title="Back to Top" href="javascript:void(0)" class="backtotop">Top</a></div>                      
+      <!-- Back to Top Button End-->
+	  <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+	<!-- CSS Part Start-->
+	
+	<link rel="stylesheet" type="text/css" href="templates/pti/css/slideshow.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="templates/pti/css/flexslider.css" media="screen" />
+
+	<link rel="stylesheet" type="text/css" href="templates/pti/css/carousel.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="templates/pti/css/custom.css" />
+	<!-- CSS Part End-->
+	
+	
+	
+	<script type="text/javascript" src="templates/pti/js/jquery.nivo.slider.js"></script>
+	<script type="text/javascript" src="templates/pti/js/jquery.flexslider.js"></script>
+	<script type="text/javascript" src="templates/pti/js/jquery.easing-1.3.min.js"></script>
+	<script type="text/javascript" src="templates/pti/js/jquery.jcarousel.min.js"></script>
+
+	<script type="text/javascript" src="templates/pti/js/tabs.js"></script>
+
+	<script type="text/javascript" src="templates/pti/js/jquery.dcjqaccordion.js"></script>
+	<script type="text/javascript" src="templates/pti/js/custom.js"></script>
+	<script type="text/javascript" src="templates/pti/js/html5.js"></script>
+	
+	<script type="text/javascript" src="templates/pti/js/jquery.metadata.js"></script>
+	<script type="text/javascript" src="templates/pti/js/jquery.validate.js"></script>
+
+			
+		<!-- custom javascript for each page content -->
+			
+	<!-- START Chatstack Live Chat HTML Code - chatstack.com  -->
+<script type="text/javascript">
+ var Chatstack = { server: 'pensinternational.com.au', embedded: true };
+ (function(d, undefined) {
+  // JavaScript
+  Chatstack.e = []; Chatstack.ready = function (c) { Chatstack.e.push(c); }
+  var b = d.createElement('script'); b.type = 'text/javascript'; b.async = true;
+  b.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + Chatstack.server + '/livehelp/scripts/js.min.js';
+  var s = d.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(b, s);
+ })(document);
+</script>
+<!-- END Chatstack Live Chat HTML Code - chatstack.com  -->
+
+		
+  </footer>
+  <!--Footer Part End-->
+  
+  				<!-- Footer end -->
+		    </div>
+		 <!--right body content end -->
+		 </div>
+
+	     </div>
+		 
+	  </div>
+		
+	</div>
+	
+  </body>
+</html>

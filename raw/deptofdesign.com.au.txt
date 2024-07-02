@@ -1,0 +1,472 @@
+<!doctype html>
+<html lang="en-AU">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+        
+		
+		<link rel="icon" type="image/png" href="https://deptofdesign.com.au/favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="https://deptofdesign.com.au/favicon-16x16.png" sizes="16x16" />
+		
+        <link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="stylesheet" type="text/css" media="all" href="https://deptofdesign.com.au/wp-content/themes/dept_design/style.css" />
+        <link rel="pingback" href="https://deptofdesign.com.au/xmlrpc.php" />
+		<link rel="stylesheet" href="https://deptofdesign.com.au/wp-content/themes/dept_design/assets/css/outdatedbrowser.min.css">
+        
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>The Dept. of Design | Interior Designers</title>
+	<meta name="description" content="We’re a collaborative design team with a vision to think outside the box, delivering creative, functional results and a great customer experience." />
+	<link rel="canonical" href="https://deptofdesign.com.au/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="The Dept. of Design | Interior Designers" />
+	<meta property="og:description" content="We’re a collaborative design team with a vision to think outside the box, delivering creative, functional results and a great customer experience." />
+	<meta property="og:url" content="https://deptofdesign.com.au/" />
+	<meta property="og:site_name" content="The Dept. of Design" />
+	<meta property="article:modified_time" content="2022-06-10T06:07:09+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://deptofdesign.com.au/#website","url":"https://deptofdesign.com.au/","name":"The Dept. of Design","description":"Interior Designers","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://deptofdesign.com.au/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-AU"},{"@type":"WebPage","@id":"https://deptofdesign.com.au/#webpage","url":"https://deptofdesign.com.au/","name":"The Dept. of Design | Interior Designers","isPartOf":{"@id":"https://deptofdesign.com.au/#website"},"datePublished":"2020-09-18T02:07:15+00:00","dateModified":"2022-06-10T06:07:09+00:00","description":"We’re a collaborative design team with a vision to think outside the box, delivering creative, functional results and a great customer experience.","breadcrumb":{"@id":"https://deptofdesign.com.au/#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://deptofdesign.com.au/"]}]},{"@type":"BreadcrumbList","@id":"https://deptofdesign.com.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//cdn.polyfill.io' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Dept. of Design &raquo; Feed" href="https://deptofdesign.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Dept. of Design &raquo; Comments Feed" href="https://deptofdesign.com.au/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/deptofdesign.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.10"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://deptofdesign.com.au/wp-includes/css/dist/block-library/style.min.css?ver=5.9.10' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='foundation-css'  href='https://deptofdesign.com.au/wp-content/themes/dept_design/assets/css/foundation.xy.css?ver=1' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='https://use.typekit.net/jlu2kur.css?ver=1' media='all' />
+<link rel='stylesheet' id='app-css'  href='https://deptofdesign.com.au/wp-content/themes/dept_design/assets/css/app.css?ver=1.0.2' media='all' />
+<script src='https://deptofdesign.com.au/wp-content/themes/dept_design/assets/js/vendor/jquery-3.3.1.min.js?ver=3.3.1' id='jquery-js'></script>
+<script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAmavXi5FuDFXst4AwLTbHspttwp7LmalU&#038;ver=1' id='google-js'></script>
+<link rel="https://api.w.org/" href="https://deptofdesign.com.au/wp-json/" /><link rel="alternate" type="application/json" href="https://deptofdesign.com.au/wp-json/wp/v2/pages/7" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://deptofdesign.com.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://deptofdesign.com.au/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://deptofdesign.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://deptofdesign.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdeptofdesign.com.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://deptofdesign.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdeptofdesign.com.au%2F&#038;format=xml" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T76LMJQ');</script>
+<!-- End Google Tag Manager -->        
+    </head>
+    
+    <body class="home page-template page-template-templates page-template-home-page page-template-templateshome-page-php page page-id-7">
+		
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T76LMJQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>		
+	        
+    <header id="top-bar" class="top-bar top-bar--absolute outer-row">
+		<div class="grid-container">
+			<div class="grid-x grid-padding-x align-justify align-middle">
+				<div class="cell shrink">
+					<h1 class="site-logo">
+						<a class="site-logo__link" href="https://deptofdesign.com.au/" title="The Dept. of Design" rel="home"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="332.7px"
+	 height="42.4px" viewBox="0 0 332.7 42.4" style="enable-background:new 0 0 332.7 42.4;" xml:space="preserve">
+	<g class="site-logo__icon">
+		<path d="M25.3,6l-6-6l-6.4,6.4L0,19.3l19.2,19.2l19.2-19.2L25.3,6z M34.3,19.3L20.8,32.8v-27L34.3,19.3z M17.8,5.7v27L4.2,19.3
+		L17.8,5.7z"/>
+	</g>
+	<g class="site-logo__text">
+		<path d="M60.1,32.9v-0.8l2.1-0.2c0.7-0.1,1.2-0.2,1.5-0.4c0.2-0.2,0.3-0.5,0.3-0.9V6.3c0-0.5-0.1-0.8-0.3-0.9
+		C63.5,5.2,63,5.1,62.3,5l-2.1-0.2V3.9h12.5c4.9,0,8.7,1.2,11.4,3.7c2.7,2.5,4.1,6,4.1,10.7c0,3-0.6,5.5-1.9,7.7
+		c-1.3,2.2-3,3.9-5.3,5.1s-5,1.8-8.1,1.8H60.1z M72.1,31.8c7.8,0,11.8-4.5,11.8-13.6c0-4.3-1-7.5-3.1-9.8S75.9,5,72.3,5
+		c-0.7,0-1.5,0-2.3,0c-0.8,0-1.6,0.1-2.2,0.2v25.4c0,0.3,0.1,0.6,0.3,0.8s0.6,0.3,1.2,0.3C69.9,31.7,70.9,31.8,72.1,31.8z"/>
+		<path d="M100.1,33.4c-1.8,0-3.4-0.4-4.8-1.2c-1.3-0.8-2.4-2-3.1-3.5c-0.7-1.5-1.1-3.2-1.1-5.2c0-1.9,0.4-3.7,1.2-5.2
+		c0.8-1.5,1.9-2.7,3.3-3.5c1.4-0.8,3-1.3,4.8-1.3c2.3,0,4,0.7,5.3,2.1c1.3,1.4,1.9,3.3,1.9,5.8c0,0.4,0,0.7-0.1,1l-0.4,0.4H94.9v0.5
+		c0,2.7,0.5,4.8,1.6,6.3c1.1,1.5,2.6,2.2,4.5,2.2c1.3,0,2.5-0.3,3.5-1c1.1-0.7,2-1.6,2.8-2.9l0.6,0.5c-0.8,1.4-1.9,2.6-3.3,3.5
+		C103.2,33,101.7,33.4,100.1,33.4z M100.4,14.5c-1.6,0-2.8,0.7-3.8,2S95.1,19.6,95,22l9.2-0.1c0-0.1,0-0.3,0.1-0.5
+		c0-0.2,0-0.4,0-0.7c0-2.2-0.3-3.7-0.9-4.7C102.8,15,101.9,14.5,100.4,14.5z"/>
+		<path d="M110.1,14.4l5.9-0.7l0.4,0.3c-0.1,0.9-0.1,1.8-0.2,2.8c0,0.9-0.1,1.9-0.1,2.8c0.2-1.1,0.7-2.2,1.3-3.1
+		c0.7-0.9,1.5-1.6,2.5-2.2c1-0.5,2-0.8,3.2-0.8c1.6,0,3,0.4,4.1,1.3c1.2,0.8,2.1,2,2.7,3.5c0.7,1.5,1,3.3,1,5.3
+		c0,1.9-0.4,3.6-1.1,5.1c-0.7,1.5-1.8,2.6-3,3.5c-1.3,0.8-2.8,1.3-4.4,1.3c-2.7,0-4.6-1.3-5.9-3.9v11.3l3.4,0.3v0.7h-9.8v-0.7
+		l1.1-0.1c0.7-0.1,1.2-0.2,1.5-0.4s0.3-0.5,0.3-0.9V16.4c0-0.5-0.1-0.8-0.4-0.9c-0.3-0.2-0.7-0.3-1.4-0.3l-1.3-0.1V14.4z
+		 M116.5,23.6c0,2.7,0.5,4.8,1.5,6.3c1,1.5,2.4,2.2,4.1,2.2c1.6,0,2.9-0.8,3.8-2.3c0.9-1.6,1.4-3.7,1.4-6.3c0-2.7-0.5-4.7-1.4-6.2
+		c-0.9-1.5-2.2-2.2-3.8-2.2c-1.1,0-2,0.4-2.9,1.1c-0.8,0.7-1.5,1.7-2,3C116.7,20.4,116.5,21.9,116.5,23.6z"/>
+		<path d="M142.2,31.7c0.7,0,1.3-0.2,1.9-0.6s1.1-1,1.6-1.9l0.6,0.5c-0.5,1.1-1.3,2-2.3,2.6c-1,0.6-2,1-3.2,1c-1.5,0-2.6-0.5-3.4-1.4
+		c-0.8-0.9-1.2-2.3-1.2-4.1V15.2h-3.8v-1h3.8V7.5l2.9-0.5l0.5,0.3v6.8h5.8l-0.2,1h-5.6v12.1c0,1.7,0.2,2.8,0.6,3.4
+		S141.3,31.7,142.2,31.7z"/>
+		<path d="M148.9,30.8c0-0.7,0.2-1.2,0.7-1.7c0.5-0.5,1.1-0.7,1.7-0.7c0.7,0,1.3,0.2,1.8,0.7c0.5,0.5,0.7,1,0.7,1.7
+		c0,0.7-0.2,1.3-0.7,1.7c-0.5,0.5-1.1,0.7-1.8,0.7c-0.7,0-1.3-0.2-1.7-0.7C149.1,32,148.9,31.5,148.9,30.8z"/>
+		<path d="M176.3,33.4c-1.8,0-3.4-0.4-4.8-1.3c-1.4-0.8-2.5-2-3.3-3.5s-1.2-3.2-1.2-5.2c0-1.9,0.4-3.7,1.2-5.1
+		c0.8-1.5,1.9-2.7,3.3-3.5c1.4-0.8,3-1.3,4.9-1.3c1.8,0,3.4,0.4,4.8,1.3c1.4,0.8,2.5,2,3.2,3.5c0.8,1.5,1.2,3.2,1.2,5.2
+		c0,1.9-0.4,3.7-1.2,5.2c-0.8,1.5-1.9,2.7-3.3,3.5C179.7,33,178.1,33.4,176.3,33.4z M176.2,14.5c-1.7,0-3,0.8-4,2.4
+		c-1,1.6-1.5,3.7-1.5,6.3c0,2.9,0.5,5.2,1.5,6.8c1,1.6,2.4,2.4,4.1,2.4c1.7,0,3.1-0.8,4-2.4c1-1.6,1.4-3.9,1.4-6.8
+		c0-2.7-0.5-4.8-1.5-6.4S178,14.5,176.2,14.5z"/>
+		<path d="M200,7.9c0.2-0.8,0.3-1.5,0.4-2.3c0.1-0.8,0.1-1.4,0.1-2c-0.4-0.4-0.9-0.6-1.7-0.6c-1.3,0-2.4,0.7-3.1,2
+		c-0.7,1.3-1,3.3-1,6.1v3.2h5.5l-0.2,1h-5.3v16.7l3.4,0.3v0.7h-9.8v-0.7l1.1-0.1c0.7-0.1,1.2-0.2,1.5-0.4c0.2-0.2,0.3-0.5,0.3-0.9
+		V15.2h-4.1v-1h4.1v-1.8c0-3.3,0.7-5.9,2.1-7.6c1.4-1.8,3.3-2.7,5.7-2.7c1.4,0,2.6,0.4,3.6,1.2c0.9,0.8,1.4,1.8,1.4,2.8
+		c0,0.7-0.2,1.3-0.6,1.8c-0.4,0.5-0.9,0.7-1.6,0.7c-0.4,0-0.8-0.1-1.1-0.2C200.5,8.3,200.2,8.1,200,7.9z"/>
+		<path d="M211.6,32.9v-0.8l2.1-0.2c0.7-0.1,1.2-0.2,1.5-0.4c0.2-0.2,0.3-0.5,0.3-0.9V6.3c0-0.5-0.1-0.8-0.3-0.9
+		c-0.2-0.2-0.7-0.3-1.5-0.4l-2.1-0.2V3.9h12.5c4.9,0,8.7,1.2,11.4,3.7c2.7,2.5,4.1,6,4.1,10.7c0,3-0.6,5.5-1.9,7.7
+		c-1.3,2.2-3,3.9-5.3,5.1s-5,1.8-8.1,1.8H211.6z M223.6,31.8c7.8,0,11.8-4.5,11.8-13.6c0-4.3-1-7.5-3.1-9.8S227.4,5,223.7,5
+		c-0.7,0-1.5,0-2.3,0c-0.8,0-1.6,0.1-2.2,0.2v25.4c0,0.3,0.1,0.6,0.3,0.8s0.6,0.3,1.2,0.3C221.4,31.7,222.3,31.8,223.6,31.8z"/>
+		<path d="M251.6,33.4c-1.8,0-3.4-0.4-4.8-1.2c-1.3-0.8-2.4-2-3.1-3.5c-0.7-1.5-1.1-3.2-1.1-5.2c0-1.9,0.4-3.7,1.2-5.2
+		c0.8-1.5,1.9-2.7,3.3-3.5c1.4-0.8,3-1.3,4.8-1.3c2.3,0,4,0.7,5.3,2.1c1.3,1.4,1.9,3.3,1.9,5.8c0,0.4,0,0.7-0.1,1l-0.4,0.4h-12.4
+		v0.5c0,2.7,0.5,4.8,1.6,6.3c1.1,1.5,2.6,2.2,4.5,2.2c1.3,0,2.5-0.3,3.5-1c1.1-0.7,2-1.6,2.8-2.9l0.6,0.5c-0.8,1.4-1.9,2.6-3.3,3.5
+		C254.7,33,253.2,33.4,251.6,33.4z M251.9,14.5c-1.6,0-2.8,0.7-3.8,2s-1.5,3.1-1.7,5.5l9.2-0.1c0-0.1,0-0.3,0.1-0.5
+		c0-0.2,0-0.4,0-0.7c0-2.2-0.3-3.7-0.9-4.7C254.3,15,253.3,14.5,251.9,14.5z"/>
+		<path d="M269.4,33.4c-2.3,0-4.2-0.6-5.6-1.9l-0.6,1.8h-0.8l-0.3-7.1h0.9c0.7,4,2.8,6.1,6.3,6.1c1.3,0,2.2-0.3,2.9-1s1-1.5,1-2.7
+		c0-0.9-0.3-1.6-0.8-2.2c-0.5-0.6-1.4-1.1-2.6-1.6l-3-1.1c-1.5-0.6-2.6-1.3-3.2-2.1c-0.6-0.8-0.9-1.8-0.9-3c0-1.5,0.6-2.8,1.8-3.8
+		c1.2-1,2.7-1.5,4.7-1.5c1.9,0,3.5,0.5,4.8,1.5l0.6-1.4h0.8l0.2,5.9h-0.8c-0.2-1.6-0.9-2.8-1.8-3.7c-1-0.9-2.2-1.3-3.8-1.3
+		c-1.1,0-2.1,0.3-2.8,0.8c-0.7,0.5-1,1.3-1,2.2c0,0.8,0.3,1.4,0.8,1.9c0.5,0.5,1.3,1,2.4,1.4l3,1.1c1.7,0.7,3,1.4,3.8,2.3
+		c0.8,0.8,1.1,1.9,1.1,3.2c0,1.8-0.6,3.2-1.9,4.3C273.1,32.9,271.5,33.4,269.4,33.4z"/>
+		<path d="M285.5,31.9l3,0.3v0.7h-9.3v-0.7l1.1-0.1c0.7-0.1,1.2-0.2,1.5-0.4c0.2-0.2,0.3-0.5,0.3-0.9V16.6c0-0.5-0.1-0.8-0.3-0.9
+		c-0.2-0.2-0.7-0.3-1.5-0.4l-1.5-0.2v-0.7l6.4-0.7l0.5,0.3c-0.1,1.1-0.2,2.2-0.2,3.4c0,1.2,0,2.4,0,3.5V31.9z M281.2,5.8
+		c0-0.6,0.2-1.1,0.7-1.6c0.5-0.5,1-0.7,1.7-0.7c0.6,0,1.2,0.2,1.6,0.7c0.5,0.5,0.7,1,0.7,1.6c0,0.6-0.2,1.1-0.7,1.6
+		c-0.5,0.5-1,0.7-1.6,0.7c-0.7,0-1.2-0.2-1.7-0.7C281.4,6.9,281.2,6.4,281.2,5.8z"/>
+		<path d="M308.5,35.3c0,1.3-0.4,2.5-1.3,3.6c-0.9,1.1-2.1,1.9-3.5,2.6c-1.5,0.6-3.2,0.9-5,0.9c-2.6,0-4.7-0.4-6.2-1.3
+		c-1.5-0.9-2.3-2-2.3-3.5c0-1.2,0.5-2.3,1.6-3.1c1.1-0.8,2.4-1.3,4.1-1.5c-1.3-0.2-2.3-0.6-3.1-1.2c-0.8-0.6-1.1-1.4-1.1-2.3
+		c0-1,0.4-1.8,1.1-2.5c0.8-0.7,1.7-1,3-1.1c-1.3-0.5-2.4-1.3-3.2-2.3c-0.8-1-1.1-2.2-1.1-3.4c0-1.2,0.3-2.3,1-3.3
+		c0.7-1,1.6-1.8,2.7-2.4c1.2-0.6,2.5-0.9,3.9-0.9c1.4,0,2.7,0.3,3.8,0.9c0.4-1.2,1-2.2,1.8-3c0.8-0.7,1.6-1.1,2.5-1.1
+		c0.8,0,1.4,0.2,1.8,0.6c0.5,0.4,0.7,1,0.7,1.7c0,0.5-0.2,0.9-0.5,1.3s-0.7,0.5-1.3,0.5c-0.3,0-0.5-0.1-0.7-0.2
+		c-0.2-1.2-0.6-2-0.9-2.4c-0.5,0.1-1,0.4-1.4,0.9c-0.4,0.5-0.8,1.2-1.1,2.1c2,1.2,3,2.9,3,5.1c0,1.2-0.3,2.3-1,3.3
+		c-0.7,1-1.6,1.8-2.7,2.3c-1.2,0.6-2.5,0.9-4,0.9c-0.4,0-0.8,0-1.2-0.1c-0.4-0.1-0.7-0.1-1.1-0.1c-0.7,0-1.2,0.2-1.6,0.6
+		s-0.6,0.9-0.6,1.5c0,0.7,0.3,1.2,0.8,1.5c0.5,0.3,1.2,0.5,2.2,0.5l5.1,0.1c1.9,0,3.4,0.5,4.4,1.3C308,32.7,308.5,33.9,308.5,35.3z
+		 M297.8,33.4c-1.4,0-2.5,0.3-3.3,1c-0.8,0.7-1.3,1.6-1.3,2.6c0,1.3,0.5,2.4,1.5,3.2c1,0.8,2.4,1.1,4.2,1.1c2.1,0,3.7-0.5,4.9-1.4
+		c1.2-0.9,1.8-2.1,1.8-3.7c0-0.8-0.3-1.5-0.8-2c-0.5-0.5-1.3-0.8-2.4-0.8L297.8,33.4z M294.9,20c0,1.9,0.4,3.3,1.1,4.2
+		c0.7,0.9,1.8,1.4,3.1,1.4c1.3,0,2.4-0.5,3.1-1.4c0.7-0.9,1.1-2.3,1.1-4.2s-0.4-3.3-1.2-4.2c-0.8-0.9-1.8-1.3-3-1.3
+		c-1.2,0-2.2,0.5-3,1.4C295.3,16.9,294.9,18.2,294.9,20z"/>
+		<path d="M313.9,16.4c0-0.5-0.1-0.8-0.4-0.9c-0.3-0.2-0.7-0.3-1.4-0.3l-1.3-0.1v-0.7l5.8-0.7l0.5,0.3c-0.1,0.9-0.1,1.9-0.2,2.9
+		c0,1-0.1,2-0.1,3c0.4-1.9,1.2-3.4,2.4-4.6c1.2-1.1,2.7-1.7,4.5-1.7c2.1,0,3.6,0.6,4.6,1.9c1,1.3,1.4,3,1.4,5.1v11.3l2.9,0.3v0.7
+		h-9.2v-0.7l1.1-0.1c0.7-0.1,1.2-0.2,1.5-0.4c0.2-0.2,0.3-0.5,0.3-0.9v-9.5c0-4-1.2-5.9-3.7-5.9c-1.6,0-3,0.8-4,2.3
+		c-1,1.5-1.5,3.6-1.5,6.2v8.1l3,0.3v0.7H311v-0.7l1.1-0.1c0.7-0.1,1.2-0.2,1.5-0.4c0.2-0.2,0.3-0.5,0.3-0.9V16.4z"/>
+	</g>
+</svg></a>
+					</h1>
+				</div>
+				<div class="cell shrink">
+					<div class="grid-x grid-padding-x align-middle">
+						<div class="cell shrink hide-for-large">
+							<button type="button" class="menu-button menu-button--closed js-menu-trigger">
+								<span></span>
+								<span></span>
+								<span></span>
+							</button>
+						</div>
+						<div class="cell shrink show-for-large">
+							<nav class="top-bar__navigation"><ul id="menu-menu-1" class="menu"><li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="https://deptofdesign.com.au/projects/">Projects</a></li>
+<li id="menu-item-486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://deptofdesign.com.au/about/">About</a></li>
+<li id="menu-item-492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-492"><a href="https://deptofdesign.com.au/contact/">Contact</a></li>
+</ul></nav>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </header>
+		
+	<div class="site-navigation top-bar-offset outer-row hide-for-large">
+    	<div class="grid-container content-area">
+			<div class="grid-x grid-padding-x">
+				<div class="cell">
+					<nav class="site-navigation__navigation"><ul id="menu-menu-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523 "><a href="https://deptofdesign.com.au/projects/">Projects</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486 "><a href="https://deptofdesign.com.au/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-492 "><a href="https://deptofdesign.com.au/contact/">Contact</a></li>
+</ul></nav>				</div>
+			</div>
+		</div>
+    </div>
+    
+    <main class="">
+	
+		<article id="post-7" class="home post-7 page type-page status-publish hentry">
+				
+			<section class="banner-row position_relative">
+	<div class="flexslider flexslider--paging-left">
+		<ul class="slides">
+						<li class="background-image background-image--overlay" style="background-image:url(https://deptofdesign.com.au/wp-content/uploads/2022/04/Sutton-Residence_04-1800x1200.jpg)">
+				<div class="grid-x banner-row__slide outer-row height_100 height_100--vh">
+					<div class="grid-container content-area-x2 position_relative text-white align-self-middle">
+						<div class="banner-row__slide__content grid-x align-center text-center content-area-x2">
+							<div class="cell medium-10 large-8 xlarge-6">
+															</div>
+						</div>
+					</div>
+									</div>
+			</li>
+						<li class="background-image background-image--overlay" style="background-image:url(https://deptofdesign.com.au/wp-content/uploads/2022/03/home-banner-01.jpg)">
+				<div class="grid-x banner-row__slide outer-row height_100 height_100--vh">
+					<div class="grid-container content-area-x2 position_relative text-white align-self-middle">
+						<div class="banner-row__slide__content grid-x align-center text-center content-area-x2">
+							<div class="cell medium-10 large-8 xlarge-6">
+															</div>
+						</div>
+					</div>
+									</div>
+			</li>
+						<li class="background-image background-image--overlay" style="background-image:url(https://deptofdesign.com.au/wp-content/uploads/2022/04/2574_dod_014-1365x1200.jpg)">
+				<div class="grid-x banner-row__slide outer-row height_100 height_100--vh">
+					<div class="grid-container content-area-x2 position_relative text-white align-self-middle">
+						<div class="banner-row__slide__content grid-x align-center text-center content-area-x2">
+							<div class="cell medium-10 large-8 xlarge-6">
+															</div>
+						</div>
+					</div>
+									</div>
+			</li>
+						<li class="background-image background-image--overlay" style="background-image:url(https://deptofdesign.com.au/wp-content/uploads/2022/04/AnneStroudPhoto_Eliott-Place_DOD-33-1800x1200.jpg)">
+				<div class="grid-x banner-row__slide outer-row height_100 height_100--vh">
+					<div class="grid-container content-area-x2 position_relative text-white align-self-middle">
+						<div class="banner-row__slide__content grid-x align-center text-center content-area-x2">
+							<div class="cell medium-10 large-8 xlarge-6">
+															</div>
+						</div>
+					</div>
+									</div>
+			</li>
+						<li class="background-image background-image--overlay" style="background-image:url(https://deptofdesign.com.au/wp-content/uploads/2022/04/2357_dod_012-1800x1200.jpg)">
+				<div class="grid-x banner-row__slide outer-row height_100 height_100--vh">
+					<div class="grid-container content-area-x2 position_relative text-white align-self-middle">
+						<div class="banner-row__slide__content grid-x align-center text-center content-area-x2">
+							<div class="cell medium-10 large-8 xlarge-6">
+															</div>
+						</div>
+					</div>
+									</div>
+			</li>
+						<li class="background-image background-image--overlay" style="background-image:url(https://deptofdesign.com.au/wp-content/uploads/2022/04/2464_dod_014-1365x1200.jpg)">
+				<div class="grid-x banner-row__slide outer-row height_100 height_100--vh">
+					<div class="grid-container content-area-x2 position_relative text-white align-self-middle">
+						<div class="banner-row__slide__content grid-x align-center text-center content-area-x2">
+							<div class="cell medium-10 large-8 xlarge-6">
+															</div>
+						</div>
+					</div>
+									</div>
+			</li>
+						<li class="background-image background-image--overlay" style="background-image:url(https://deptofdesign.com.au/wp-content/uploads/2022/04/AS_DOD_PateySt-20-1800x1200.jpg)">
+				<div class="grid-x banner-row__slide outer-row height_100 height_100--vh">
+					<div class="grid-container content-area-x2 position_relative text-white align-self-middle">
+						<div class="banner-row__slide__content grid-x align-center text-center content-area-x2">
+							<div class="cell medium-10 large-8 xlarge-6">
+															</div>
+						</div>
+					</div>
+									</div>
+			</li>
+						<li class="background-image background-image--overlay" style="background-image:url(https://deptofdesign.com.au/wp-content/uploads/2022/04/2357_dod_086-1800x1200.jpg)">
+				<div class="grid-x banner-row__slide outer-row height_100 height_100--vh">
+					<div class="grid-container content-area-x2 position_relative text-white align-self-middle">
+						<div class="banner-row__slide__content grid-x align-center text-center content-area-x2">
+							<div class="cell medium-10 large-8 xlarge-6">
+															</div>
+						</div>
+					</div>
+									</div>
+			</li>
+						<li class="background-image background-image--overlay" style="background-image:url(https://deptofdesign.com.au/wp-content/uploads/2022/04/AS_DOD_Torrens-14-1800x1200.jpg)">
+				<div class="grid-x banner-row__slide outer-row height_100 height_100--vh">
+					<div class="grid-container content-area-x2 position_relative text-white align-self-middle">
+						<div class="banner-row__slide__content grid-x align-center text-center content-area-x2">
+							<div class="cell medium-10 large-8 xlarge-6">
+															</div>
+						</div>
+					</div>
+									</div>
+			</li>
+					</ul>
+				<div class="banner-row__pagination outer-row">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x grid-padding-y align-bottom align-justify">
+					<div class="cell auto">
+						<div class="slider-pagination"></div>
+					</div>
+					<div class="cell shrink">
+						<a href="#" class="banner-row__next-section banner-row__next-section--static js-next-section"><span class="link-icon link-icon--large link-icon--white"><i class="fal fa-long-arrow-alt-down" aria-hidden="true"></i></span></a>
+					</div>
+				</div>
+			</div>
+		</div>
+			</div>
+	</section>
+<section class="content-area-x2 outer-row background-white" data-row-type="content_row_two_columns" data-row-index="row-1">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="cell">
+								
+								<div class="grid-x grid-padding-x grid-padding-y wysiwyg">
+					<div class="cell large-6">
+                        <div class="grid-x">
+                            <div class="cell xlarge-11">
+						        <h3>We love our work and we love our clients.<br />
+You’re the reason we’re here.</h3>
+                            </div>
+                        </div>
+					</div>
+					<div class="cell large-6">
+                         <div class="grid-x">
+                            <div class="cell xlarge-11">
+						        <p>We want to help you create engaging spaces that look and feel amazing.</p>
+<p>For us, design is all about collaboration. We’re big on relationships and we work together with some of Canberra’s best architects, builders, marketing agencies and project managers to ensure all your needs are met.</p>
+                            </div>
+                        </div>
+					</div>
+				</div>
+								
+							</div>
+		</div>
+	</div>
+</section><section class="content-area-x2 outer-row background-white" data-row-type="projects_row" data-row-index="row-2">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="cell">	
+				<style type="text/css">.alm-btn-wrap{display:block;text-align:center;padding:10px 0;margin:0 0 15px;position:relative}.alm-btn-wrap:after{display:table;clear:both;height:0;content:''}.alm-btn-wrap .alm-load-more-btn{font-size:15px;font-weight:500;width:auto;height:43px;line-height:1;background:#ed7070;-webkit-box-shadow:0 1px 1px rgba(0,0,0,.04);box-shadow:0 1px 1px rgba(0,0,0,.04);color:#fff;border:none;border-radius:4px;margin:0;padding:0 20px;display:inline-block;position:relative;-webkit-transition:all .3s ease;transition:all .3s ease;text-align:center;text-decoration:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:pointer}.alm-btn-wrap .alm-load-more-btn.loading,.alm-btn-wrap .alm-load-more-btn:hover{background-color:#e06161;-webkit-box-shadow:0 1px 3px rgba(0,0,0,.09);box-shadow:0 1px 3px rgba(0,0,0,.09);color:#fff;text-decoration:none}.alm-btn-wrap .alm-load-more-btn:active{-webkit-box-shadow:none;box-shadow:none;text-decoration:none}.alm-btn-wrap .alm-load-more-btn.loading{cursor:wait;outline:0;padding-left:44px}.alm-btn-wrap .alm-load-more-btn.done{cursor:default;opacity:.15;background-color:#ed7070;outline:0!important;-webkit-box-shadow:none!important;box-shadow:none!important}.alm-btn-wrap .alm-load-more-btn.done:before,.alm-btn-wrap .alm-load-more-btn:before{background:0 0;width:0}.alm-btn-wrap .alm-load-more-btn.loading:before{background:#fff url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/ajax-loader.gif) no-repeat center center;width:30px;height:31px;margin:6px;border-radius:3px;display:inline-block;z-index:0;content:'';position:absolute;left:0;top:0;overflow:hidden;-webkit-transition:width .5s ease-in-out;transition:width .5s ease-in-out}.alm-btn-wrap .alm-elementor-link{display:block;font-size:13px;margin:0 0 15px}@media screen and (min-width:768px){.alm-btn-wrap .alm-elementor-link{position:absolute;left:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);margin:0}}.ajax-load-more-wrap.white .alm-load-more-btn{background-color:#fff;color:#787878;border:1px solid #e0e0e0;overflow:hidden;-webkit-transition:none;transition:none;outline:0}.ajax-load-more-wrap.white .alm-load-more-btn.loading,.ajax-load-more-wrap.white .alm-load-more-btn:focus,.ajax-load-more-wrap.white .alm-load-more-btn:hover{background-color:#fff;color:#333;border-color:#aaa}.ajax-load-more-wrap.white .alm-load-more-btn.done{background-color:#fff;color:#444;border-color:#ccc}.ajax-load-more-wrap.white .alm-load-more-btn.loading{color:rgba(255,255,255,0)!important;outline:0!important;background-color:transparent;border-color:transparent!important;-webkit-box-shadow:none!important;box-shadow:none!important;padding-left:20px}.ajax-load-more-wrap.white .alm-load-more-btn.loading:before{margin:0;left:0;top:0;width:100%;height:100%;background-color:transparent;background-image:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/ajax-loader-lg.gif);background-size:25px 25px;background-position:center center}.ajax-load-more-wrap.light-grey .alm-load-more-btn{background-color:#efefef;color:#787878;border:1px solid #e0e0e0;overflow:hidden;-webkit-transition:all 75ms ease;transition:all 75ms ease;outline:0}.ajax-load-more-wrap.light-grey .alm-load-more-btn.done,.ajax-load-more-wrap.light-grey .alm-load-more-btn.loading,.ajax-load-more-wrap.light-grey .alm-load-more-btn:focus,.ajax-load-more-wrap.light-grey .alm-load-more-btn:hover{background-color:#f1f1f1;color:#222;border-color:#aaa}.ajax-load-more-wrap.light-grey .alm-load-more-btn.loading{color:rgba(255,255,255,0)!important;outline:0!important;background-color:transparent;border-color:transparent!important;-webkit-box-shadow:none!important;box-shadow:none!important;padding-left:20px}.ajax-load-more-wrap.light-grey .alm-load-more-btn.loading:before{margin:0;left:0;top:0;width:100%;height:100%;background-color:transparent;background-image:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/ajax-loader-lg.gif);background-size:25px 25px;background-position:center center}.ajax-load-more-wrap.blue .alm-load-more-btn{background-color:#1b91ca}.ajax-load-more-wrap.blue .alm-load-more-btn.done,.ajax-load-more-wrap.blue .alm-load-more-btn.loading,.ajax-load-more-wrap.blue .alm-load-more-btn:hover{background-color:#1b84b7}.ajax-load-more-wrap.green .alm-load-more-btn{background-color:#80ca7a}.ajax-load-more-wrap.green .alm-load-more-btn.done,.ajax-load-more-wrap.green .alm-load-more-btn.loading,.ajax-load-more-wrap.green .alm-load-more-btn:hover{background-color:#81c17b}.ajax-load-more-wrap.purple .alm-load-more-btn{background-color:#b97eca}.ajax-load-more-wrap.purple .alm-load-more-btn.done,.ajax-load-more-wrap.purple .alm-load-more-btn.loading,.ajax-load-more-wrap.purple .alm-load-more-btn:hover{background-color:#a477b1}.ajax-load-more-wrap.grey .alm-load-more-btn{background-color:#a09e9e}.ajax-load-more-wrap.grey .alm-load-more-btn.done,.ajax-load-more-wrap.grey .alm-load-more-btn.loading,.ajax-load-more-wrap.grey .alm-load-more-btn:hover{background-color:#888}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn{width:100%;background-color:transparent!important;background-position:center center;background-repeat:no-repeat;background-image:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/spinner.gif);border:none!important;opacity:0;-webkit-transition:opacity .2s ease;transition:opacity .2s ease;-webkit-box-shadow:none!important;box-shadow:none!important;overflow:hidden;text-indent:-9999px;cursor:default!important;outline:0!important}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn:before{display:none!important}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn:active,.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn:focus{outline:0}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn.done{opacity:0}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn.loading{opacity:1}.ajax-load-more-wrap.infinite.skype>.alm-btn-wrap .alm-load-more-btn{background-image:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/spinner-skype.gif)}.ajax-load-more-wrap.infinite.ring>.alm-btn-wrap .alm-load-more-btn{background-image:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/spinner-ring.gif)}.ajax-load-more-wrap.infinite.fading-blocks>.alm-btn-wrap .alm-load-more-btn{background-image:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/loader-fading-blocks.gif)}.ajax-load-more-wrap.infinite.fading-circles>.alm-btn-wrap .alm-load-more-btn{background-image:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/loader-fading-circles.gif)}.ajax-load-more-wrap.infinite.chasing-arrows>.alm-btn-wrap .alm-load-more-btn{background-image:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/spinner-chasing-arrows.gif)}.ajax-load-more-wrap.alm-horizontal .alm-btn-wrap{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:0;margin:0}.ajax-load-more-wrap.alm-horizontal .alm-btn-wrap button{margin:0}.ajax-load-more-wrap.alm-horizontal .alm-btn-wrap button.done{display:none}.alm-btn-wrap--prev{display:-webkit-box;display:-ms-flexbox;display:flex;width:100%;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;clear:both;padding:0;margin:0}.alm-btn-wrap--prev:after{display:table;clear:both;height:0;content:''}.alm-btn-wrap--prev a.alm-load-more-btn--prev{line-height:1;font-size:14px;font-weight:500;padding:5px;display:inline-block;position:relative;margin:0 0 15px;text-decoration:none}.alm-btn-wrap--prev a.alm-load-more-btn--prev:focus,.alm-btn-wrap--prev a.alm-load-more-btn--prev:hover{text-decoration:underline}.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading,.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading:focus{cursor:wait;text-decoration:none}.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading:before,.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading:focus:before{content:'';display:block;position:absolute;left:-18px;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);width:16px;height:16px;background:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/ajax-loader-lg.gif) no-repeat left center;background-size:16px 16px}.alm-btn-wrap--prev a.alm-load-more-btn--prev.skype.loading:before{background-image:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/spinner-skype.gif)}.alm-btn-wrap--prev a.alm-load-more-btn--prev.ring.loading:before{background-image:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/spinner-ring.gif)}.alm-btn-wrap--prev a.alm-load-more-btn--prev.fading-blocks.loading:before{background-image:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/spinner-fading-blocks.gif)}.alm-btn-wrap--prev a.alm-load-more-btn--prev.circles.loading:before{background-image:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/spinner-circles.gif)}.alm-btn-wrap--prev a.alm-load-more-btn--prev.chasing-arrows.loading:before{background-image:url(https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/img/spinner-chasing-arrows.gif)}.alm-btn-wrap--prev a.alm-load-more-btn--prev button:not([disabled]),.alm-btn-wrap--prev a.alm-load-more-btn--prev:not(.disabled){cursor:pointer}.alm-btn-wrap--prev a.alm-load-more-btn--prev.done{display:none!important}.alm-listing .alm-reveal{outline:0}.alm-listing .alm-reveal:after{display:table;clear:both;height:0;content:''}.alm-listing{margin:0;padding:0}.alm-listing .alm-paging-content>li,.alm-listing .alm-reveal>li,.alm-listing>li{position:relative}.alm-listing .alm-paging-content>li.alm-item,.alm-listing .alm-reveal>li.alm-item,.alm-listing>li.alm-item{background:0 0;margin:0 0 30px;padding:0 0 0 80px;position:relative;list-style:none}@media screen and (min-width:480px){.alm-listing .alm-paging-content>li.alm-item,.alm-listing .alm-reveal>li.alm-item,.alm-listing>li.alm-item{padding:0 0 0 100px}}@media screen and (min-width:768px){.alm-listing .alm-paging-content>li.alm-item,.alm-listing .alm-reveal>li.alm-item,.alm-listing>li.alm-item{padding:0 0 0 135px}}@media screen and (min-width:1024px){.alm-listing .alm-paging-content>li.alm-item,.alm-listing .alm-reveal>li.alm-item,.alm-listing>li.alm-item{padding:0 0 0 160px}}.alm-listing .alm-paging-content>li.alm-item h3,.alm-listing .alm-reveal>li.alm-item h3,.alm-listing>li.alm-item h3{margin:0}.alm-listing .alm-paging-content>li.alm-item p,.alm-listing .alm-reveal>li.alm-item p,.alm-listing>li.alm-item p{margin:10px 0 0}.alm-listing .alm-paging-content>li.alm-item p.entry-meta,.alm-listing .alm-reveal>li.alm-item p.entry-meta,.alm-listing>li.alm-item p.entry-meta{opacity:.75}.alm-listing .alm-paging-content>li.alm-item img,.alm-listing .alm-reveal>li.alm-item img,.alm-listing>li.alm-item img{position:absolute;left:0;top:0;border-radius:2px;max-width:65px}@media screen and (min-width:480px){.alm-listing .alm-paging-content>li.alm-item img,.alm-listing .alm-reveal>li.alm-item img,.alm-listing>li.alm-item img{max-width:85px}}@media screen and (min-width:768px){.alm-listing .alm-paging-content>li.alm-item img,.alm-listing .alm-reveal>li.alm-item img,.alm-listing>li.alm-item img{max-width:115px}}@media screen and (min-width:1024px){.alm-listing .alm-paging-content>li.alm-item img,.alm-listing .alm-reveal>li.alm-item img,.alm-listing>li.alm-item img{max-width:140px}}.alm-listing .alm-paging-content>li.no-img,.alm-listing .alm-reveal>li.no-img,.alm-listing>li.no-img{padding:0}.alm-listing.products li.product{padding-left:inherit}.alm-listing.products li.product img{position:static;border-radius:inherit}.alm-listing.stylefree .alm-paging-content>li,.alm-listing.stylefree .alm-reveal>li,.alm-listing.stylefree>li{padding:inherit;margin:inherit}.alm-listing.stylefree .alm-paging-content>li img,.alm-listing.stylefree .alm-reveal>li img,.alm-listing.stylefree>li img{padding:inherit;margin:inherit;position:static;border-radius:inherit}.alm-listing.rtl .alm-paging-content>li,.alm-listing.rtl .alm-reveal>li{padding:0 170px 0 0;text-align:right}.alm-listing.rtl .alm-paging-content>li img,.alm-listing.rtl .alm-reveal>li img{left:auto;right:0}.alm-listing.rtl.products li.product{padding-right:inherit}.alm-masonry{display:block;overflow:hidden;clear:both}.alm-placeholder{opacity:0;-webkit-transition:opacity .2s ease;transition:opacity .2s ease;display:none}.ajax-load-more-wrap.alm-horizontal{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:nowrap;flex-wrap:nowrap;width:100%}.ajax-load-more-wrap.alm-horizontal .alm-listing,.ajax-load-more-wrap.alm-horizontal .alm-listing .alm-reveal{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.ajax-load-more-wrap.alm-horizontal .alm-listing .alm-reveal>li.alm-item,.ajax-load-more-wrap.alm-horizontal .alm-listing>li.alm-item{padding:0;text-align:center;margin:0 2px;padding:20px 20px 30px;height:auto;background-color:#fff;border:1px solid #efefef;border-radius:4px;width:300px}.ajax-load-more-wrap.alm-horizontal .alm-listing .alm-reveal>li.alm-item img,.ajax-load-more-wrap.alm-horizontal .alm-listing>li.alm-item img{position:static;border-radius:100%;max-width:125px;margin:0 auto 15px;border-radius:4px;-webkit-box-shadow:0 2px 10px rgba(0,0,0,.075);box-shadow:0 2px 10px rgba(0,0,0,.075)}.ajax-load-more-wrap.alm-horizontal .alm-listing .alm-reveal:after{display:none}.alm-toc{display:-webkit-box;display:-ms-flexbox;display:flex;width:auto;padding:10px 0}.alm-toc button{background:#f7f7f7;border-radius:4px;-webkit-transition:all .15s ease;transition:all .15s ease;outline:0;border:1px solid #efefef;-webkit-box-shadow:none;box-shadow:none;color:#454545;cursor:pointer;font-size:14px;font-weight:500;padding:7px 10px;line-height:1;margin:0 5px 0 0;height:auto}.alm-toc button:focus,.alm-toc button:hover{border-color:#ccc;color:#222}.alm-toc button:hover{text-decoration:underline}.alm-toc button:focus{-webkit-box-shadow:0 0 0 3px rgba(0,0,0,.05);box-shadow:0 0 0 3px rgba(0,0,0,.05)}</style><div id="ajax-load-more" class="ajax-load-more-wrap default"  data-alm-id="" data-canonical-url="https://deptofdesign.com.au/" data-slug="home" data-post-id="0"  data-localized="ajax_load_more_vars"><div class="alm-masonry" style="opacity: 0;"><div aria-live="polite" aria-atomic="true" class="alm-listing alm-ajax grid-x grid-x--large grid-padding-x grid-padding-y alm-disable-button" data-container-type="div" data-loading-style="default" data-repeater="default" data-post-type="dd_project" data-order="ASC" data-orderby="menu_order date" data-offset="0" data-posts-per-page="4" data-scroll="false" data-pause="false" data-button-label="Load more" data-transition="masonry" data-masonry-config="{&quot;selector&quot;:&quot;.cell--masonary&quot;,&quot;columnwidth&quot;:&quot;&quot;,&quot;animation&quot;:&quot;none&quot;,&quot;horizontalorder&quot;:&quot;&quot;}"></div></div><div class="alm-btn-wrap" style="visibility: hidden;"><button class="alm-load-more-btn more" rel="next" type="button">Load more</button></div></div><div class="content-area-x2 padding-bottom-x0 text-center"><a class="h3 animated-underline" href="https://deptofdesign.com.au/projects/" target="_self">All Projects</a></div>			</div>
+		</div>
+	</div>
+</section>			
+		</article>
+
+	
+	</main>
+	<footer class="bottom-bar background-white">
+		<div class="outer-row show-for-medium">
+			<div class="grid-container content-area padding-top-x0">
+				<div class="grid-x grid-padding-x grid-padding-y">
+										<div class="cell large-6">
+						<p>The Dept. of Design is an Interior Design firm based in Canberra that has the ability to offer complete design packages for any type of interior project.</p>
+					</div>
+										<div class="cell medium-6 large-2 large-offset-1">
+						<div class="grid-x grid-x--xsmall grid-padding-x grid-padding-y">
+														<div class="cell">
+								<a class="animated-underline" href="tel:02 6176 0330">02 6176 0330</a>
+							</div>
+														<div class="cell">
+								<a class="animated-underline" href="mailto:info@deptofdesign.com.au">info@deptofdesign.com.au</a>
+							</div>
+													</div>
+					</div>
+										<div class="cell medium-6 large-2 large-offset-1">
+						<div class="grid-x grid-x--xsmall grid-padding-x grid-padding-y">
+														<div class="cell">
+								<a class="animated-underline" href="https://www.facebook.com/thedeptofdesign" target="_blank">Facebook</a>
+							</div>
+														<div class="cell">
+								<a class="animated-underline" href="https://www.instagram.com/deptofdesign" target="_blank">Instagram</a>
+							</div>
+														<div class="cell">
+								<a class="animated-underline" href="https://www.pinterest.com.au/deptofdesign1" target="_blank">Pinterest</a>
+							</div>
+														<div class="cell">
+								<a class="animated-underline" href="https://www.houzz.com.au/professionals/interior-designers-and-decorators/the-dept-of-design-pfvwau-pf~59447966" target="_blank">Houzz</a>
+							</div>
+													</div>
+					</div>
+									</div>
+			</div>
+		</div>
+		<div class="bottom-bar__legality outer-row">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x text-center">
+					<div class="cell large-9 large-text-left">
+						&copy; 2024 by The Dept. of Design Pty Limited.  					</div>
+					<div class="cell large-2 large-offset-1 large-text-left">
+						Site by <a href="https://coordinate.com.au" target="_blank" rel="nofollow">Coordinate</a>.					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	
+	<section class="grid-x popup js-ajax-popup content-area outer-row">
+		<div class="grid-container medium-align-self-middle">
+			<div class="grid-x grid-padding-x align-center">
+				<div class="cell large-10 xlarge-8">
+					<div class="popup__content boxed-content large-boxed-content--sides-x2 content-area large-content-area-x2 background-white wysiwyg position_relative">
+						<div class="js-ajax-loader">
+							
+						</div>
+						<a href="#" class="close-btn js-close-trigger"></a>
+					</article>
+				</div>
+			</div>
+		</div>
+		<div class="popup__close js-close-trigger"></div>
+	</section>
+
+	
+	    
+    <div id="outdated"></div>
+
+	<script src="https://deptofdesign.com.au/wp-content/themes/dept_design/assets/js/outdatedbrowser.min.js"></script>
+
+	<script>		
+	//event listener: DOM ready
+	function addLoadEvent(func) {
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function') {
+			window.onload = func;
+		} else {
+			window.onload = function() {
+				if (oldonload) {
+					oldonload();
+				}
+				func();
+			}
+		}
+	}
+	//call plugin function after DOM ready
+	addLoadEvent(function(){
+		outdatedBrowser({
+			bgColor: '#f25648',
+			color: '#ffffff',
+			lowerThan: 'borderImage',
+			languagePath: 'https://deptofdesign.com.au/wp-content/themes/dept_design/assets/js/lang/en.html'
+		})
+	});
+    </script>
+
+	<script src='https://deptofdesign.com.au/wp-includes/js/comment-reply.min.js?ver=5.9.10' id='comment-reply-js'></script>
+<script src='https://deptofdesign.com.au/wp-content/themes/dept_design/assets/js/vendor/jquery-migrate-3.0.1.min.js?ver=3.0.1' id='migrate-js'></script>
+<script src='https://kit.fontawesome.com/51f96badd0.js?ver=1' id='icons-js'></script>
+<script src='https://cdn.polyfill.io/v3/polyfill.min.js?ver=1' id='polyfill-js'></script>
+<script src='https://deptofdesign.com.au/wp-content/themes/dept_design/assets/js/plugins.js?ver=1' id='plugins-js'></script>
+<script id='app-js-extra'>
+var themeurl = {"templateUrl":"https:\/\/deptofdesign.com.au\/wp-content\/themes\/dept_design"};
+</script>
+<script src='https://deptofdesign.com.au/wp-content/themes/dept_design/assets/js/app.js?ver=1.0.1' id='app-js'></script>
+<script id='ajax-load-more-js-extra'>
+var alm_localize = {"ajaxurl":"https:\/\/deptofdesign.com.au\/wp-admin\/admin-ajax.php","alm_nonce":"e9e0c5ee06","rest_api":"https:\/\/deptofdesign.com.au\/wp-json\/","rest_nonce":"a9bedbcbf6","pluginurl":"https:\/\/deptofdesign.com.au\/wp-content\/plugins\/ajax-load-more","speed":"200","ga_debug":"false","results_text":"Viewing {post_count} of {total_posts} results.","no_results_text":"No results found.","alm_debug":"","a11y_focus":"1","site_title":"The Dept. of Design","site_tagline":"Interior Designers"};
+var ajax_load_more_vars = {"id":"ajax-load-more"};
+</script>
+<script src='https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/dist/js/ajax-load-more.min.js?ver=5.5.2' id='ajax-load-more-js'></script>
+<script src='https://deptofdesign.com.au/wp-content/plugins/ajax-load-more/core/dist/vendor/js/masonry/masonry.pkgd.min.js?ver=4.2.1' id='ajax-load-more-masonry-js'></script>
+    
+    <!--[if lt IE 9]>
+      <script src="https://deptofdesign.com.au/wp-content/themes/dept_design/assets/js/html5shiv.js"></script>
+      <script src="https://deptofdesign.com.au/wp-content/themes/dept_design/assets/js/respond.min.js"></script>
+    <![endif]-->
+    
+</body>
+</html>
