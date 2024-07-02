@@ -1,0 +1,1197 @@
+<!doctype html>
+<html class="no-js" lang="en-AU">
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes">
+        <link rel="preconnect" href="https://unpkg.com/" crossorigin>
+        <link rel="dns-prefetch" href="https://unpkg.com/">
+
+        
+        <!-- favicon ssr -->
+        
+        <title>Sal Salis - Luxury Safari Tent Accommodation in Ningaloo Reef WA</title>
+        <!-- Inline Js vars -->
+        <script id="frame-inline">
+            document.documentElement.classList.remove('no-js');
+
+            var journeyBeyond = {};
+
+            var themeVars = {
+                siteUrl: "https://www.salsalis.com.au",
+                themeLink: "https://www.salsalis.com.au/wp-content/themes/journey-beyond",
+                brand: "ssr",
+                bookingEndDate: "",
+                bookingSystem: {
+                    destinations: false,
+                    packages: false,
+                    activities: false,
+                    phone: {
+                        link: {"title":"08 9949 1776","url":"tel:0899491776","target":""},
+                        message: "",
+                    },
+                },
+                            }
+        </script>
+        <!-- Polyfills for IE / Edge -->
+        <script id="rex-polyfills">
+            (function () {
+
+                if (this.customElements) try {
+                    customElements.define('built-in', document.createElement('p').constructor, {'extends': 'p'})
+                } catch (a) {
+                    document.write('<script src="https://unpkg.com/@@ungap/custom-elements-builtin@0.2.7/min.js" crossorigin="anonymous" ><' + '/script>')
+                } else document.write('<script src="https://unpkg.com/document-register-element@1.13.2/build/document-register-element.js" crossorigin="anonymous" ><' + '/script>');
+
+                /* On IE11, typeof HTMLElement === 'object',
+                this breaks babel 7/TS compilation of built in extension
+                Adding an adapter to add an intermediate constructor wrapping native HTMLElement to fix this issue
+                */
+                if (typeof HTMLElement === 'object') document.write('<script src="https://unpkg.com/custom-elements-es5-adapter@@1.0.0/custom-elements-es5-adapter.js" crossorigin="anonymous"><' + '/script>');
+
+                var testFormat = window.Intl.DateTimeFormat('en-AU', {day: '2-digit', month: 'short', year: 'numeric'});
+                if (typeof testFormat.formatToParts === 'function') {
+                    return;
+                }
+                /* code */
+                console.log('Removing default window.Intl and attempting polyfill');
+                delete window.Intl;
+                document.write('<script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Intl.~locale.en-AU|always" crossorigin="anonymous"><' + '/script>');
+            })();
+        </script>
+
+
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Experience a once-in-a-lifetime eco luxury safari tent stay at Sal Salis, nestled on the largest fringing coral reef and surrounded by Western Australia&#039;s ancient terrain. Book now!" />
+	<link rel="canonical" href="https://www.salsalis.com.au/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Sal Salis - Luxury Safari Tent Accommodation in Ningaloo Reef WA" />
+	<meta property="og:description" content="Experience a once-in-a-lifetime eco luxury safari tent stay at Sal Salis, nestled on the largest fringing coral reef and surrounded by Western Australia&#039;s ancient terrain. Book now!" />
+	<meta property="og:url" content="https://www.salsalis.com.au/" />
+	<meta property="og:site_name" content="Sal Salis Ningaloo Reef" />
+	<meta property="article:modified_time" content="2023-08-18T07:05:26+00:00" />
+	<meta property="og:image" content="https://www.salsalis.com.au/wp-content/uploads/2023/07/SS-Accommodation-Camp-Aerial-64.jpg" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="1080" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<!-- / Yoast SEO plugin. -->
+
+
+
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+						'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-MTWLLBB');</script>
+		<!-- End Google Tag Manager -->
+
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.salsalis.com.au/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='frame-app-css' href='https://www.salsalis.com.au/wp-content/themes/journey-beyond/built/styles/app-ssr-c8ddb96541.css?t=20240702' type='text/css' media='all' />
+<link rel='stylesheet' id='searchwp-forms-css' href='https://www.salsalis.com.au/wp-content/plugins/searchwp/assets/css/frontend/search-forms.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.salsalis.com.au/wp-includes/js/jquery/jquery.js" id="jquery-js"></script>
+<script type="text/javascript" src="https://www.salsalis.com.au/wp-content/themes/journey-beyond/built/scripts/modernizr.js" id="modernizr-js"></script>
+<script type="text/javascript" id="whp7666front.js7090-js-extra">
+/* <![CDATA[ */
+var whp_local_data = {"add_url":"https:\/\/www.salsalis.com.au\/wp-admin\/post-new.php?post_type=event","ajaxurl":"https:\/\/www.salsalis.com.au\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.salsalis.com.au/wp-content/plugins/wp-security-hardening/modules/js/front.js" id="whp7666front.js7090-js"></script>
+<link rel="https://api.w.org/" href="https://www.salsalis.com.au/wp-json/" /><link rel="alternate" type="application/json" href="https://www.salsalis.com.au/wp-json/wp/v2/pages/9" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.salsalis.com.au/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.salsalis.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.salsalis.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.salsalis.com.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.salsalis.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.salsalis.com.au%2F&#038;format=xml" />
+<meta name="facebook-domain-verification" content="oo8ep672xelhe12iiyjx6upvfkcfvg" />
+<!-- Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '3274418129448159');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=3274418129448159&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code --><!-- Stream WordPress user activity plugin v4.0.0 -->
+
+
+<script type="application/ld+json" class="saswp-schema-markup-output">
+[{"@context":"https://schema.org/","@graph":[{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Home","url":"https://www.salsalis.com.au/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Destination","url":"https://www.salsalis.com.au/destination/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Sal Salis","url":"https://www.salsalis.com.au/destination/sal-salis/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Getting There","url":"https://www.salsalis.com.au/destination/getting-there/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Accommodation","url":"https://www.salsalis.com.au/accommodation/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Wilderness Tents","url":"https://www.salsalis.com.au/accommodation/wilderness-tents/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Honeymoon Tent","url":"https://www.salsalis.com.au/accommodation/honeymoon-tents/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"The Lodge","url":"https://www.salsalis.com.au/accommodation/the-lodge/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Group Bookings","url":"https://www.salsalis.com.au/accommodation/group-bookings/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Wine &#038; Dine","url":"https://www.salsalis.com.au/accommodation/wine-dine/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Our Eco Journey","url":"https://www.salsalis.com.au/accommodation/eco-credentials/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Seasonal Rates","url":"https://www.salsalis.com.au/accommodation/seasonal-rates/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Holiday Packages","url":"https://www.salsalis.com.au/accommodation/packages/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Experiences","url":"https://www.salsalis.com.au/experiences/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Whale Shark Swim","url":"https://www.salsalis.com.au/experiences/whale-shark-swim/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Humpback Whale Swim","url":"https://www.salsalis.com.au/experiences/humpback-whale-swim/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Snorkelling","url":"https://www.salsalis.com.au/experiences/snorkelling/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Guided Gorge Walks","url":"https://www.salsalis.com.au/experiences/guided-gorge-walks/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Kayaking","url":"https://www.salsalis.com.au/experiences/kayaking/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Stargazing","url":"https://www.salsalis.com.au/experiences/stargazing/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Guest Information","url":"https://www.salsalis.com.au/guest-information/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Testimonials","url":"https://www.salsalis.com.au/guest-information/testimonials/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Seasonal Calendar","url":"https://www.salsalis.com.au/guest-information/seasonal-calendar/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Downloadable Resources","url":"https://www.salsalis.com.au/guest-information/downloadable-resources/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Terms and Conditions","url":"https://www.salsalis.com.au/guest-information/terms-and-conditions/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Frequently Asked Questions","url":"https://www.salsalis.com.au/guest-information/faqs/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"About Journey Beyond","url":"https://www.salsalis.com.au/about-journey-beyond/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Join The Travel Club","url":"https://www.salsalis.com.au/journey-beyond-travel-club/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Contact Us","url":"https://www.salsalis.com.au/contact/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Special Offers","url":"https://www.salsalis.com.au/special-offers/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Gifts","url":"https://www.salsalis.com.au/gifts/"},{"@context":"https://schema.org/","@type":"SiteNavigationElement","@id":"https://www.salsalis.com.au#Main Menu","name":"Gift Shop","url":"https://shop.journeybeyond.com/collections/sal-sails"}]},
+
+{"@context":"https://schema.org/","@type":"Organization","@id":"https://www.salsalis.com.au#Organization","name":"Sal Salis","url":"https://www.salsalis.com.au","sameAs":["https://www.facebook.com/salsalisningaloo/","https://www.instagram.com/salsalisningaloo/","https://www.youtube.com/channel/UCeyIzbwQ11cCw4FtTCzTnPg"],"legalName":"Sal Salis","logo":{"@type":"ImageObject","url":"https://www.salsalis.com.au/wp-content/uploads/2023/06/logo-ssr.svg","width":"1060","height":"250"},"contactPoint":{"@type":"ContactPoint","contactType":"customer support","telephone":"+61899491776","url":"https://www.salsalis.com.au/contact/"}}]
+</script>
+
+
+
+<script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Sal Salis",
+  "image": "https://www.salsalis.com.au/wp-content/themes/journey-beyond/built/images/logo-ssr.svg",
+  "@id": "",
+  "url": "https://www.salsalis.com.au/",
+  "telephone": "(08) 9949 1776",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Yardie Creek Rd",
+    "addressLocality": "Cape Range National Park",
+    "addressRegion": "WA",
+    "postalCode": "6707",
+    "addressCountry": "AU"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -22.1283214,
+    "longitude": 113.8877391
+  }  
+}</script>
+
+
+
+        
+    </head>
+    <body class="home page-template page-template-home-page page page-id-9 forest-color-style v-ssr" data-icons="https://www.salsalis.com.au/wp-content/themes/journey-beyond/built/icons-12ce1a678a.svg">
+
+    
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTWLLBB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+	
+    <nav data-sj-ignore class="nav js-nav">
+    <div data-sj-ignore class="nav_top">
+    <div class="nav_top_left">
+                                        </div>
+
+    <div class="nav_logo_container nav_logo_container--ssr">
+       <div class="site_logo">
+    <img src="https://www.salsalis.com.au/wp-content/themes/journey-beyond/built/images/logo-ssr.svg" alt="Sal Salis Ningaloo Reef">
+</div >
+
+    </div>
+
+    <div class="nav_top_info">
+
+        
+                            <a href="tel:0899491776">
+                08 9949 1776
+            </a>
+                <div class="search-toggle">
+            <button type="button" class="search-toggle__button nav_top__link" data-open-search>
+                <span class="search-toggle__text">Search</span>
+            </button>
+        </div>
+    </div>
+</div>
+    <div class="searchBar_container">
+
+        <form role="search" action="https://www.salsalis.com.au" class="searchForm" data-overlay="searchForm" aria-hidden="false">
+
+            <div class="searchForm_inner">
+
+                <div class="searchForm_field">
+
+                    <input type="text" name="s" class="searchForm_input js-searchForm-input" placeholder="Search" autocomplete="off" aria-label="Search Query" autofocus>
+
+                </div>
+
+            </div>
+
+    </form>
+    </div>
+</nav>
+
+
+<div class="nav_sticky_container js-nav-sticky-container" data-nav-sticky data-sj-ignore>
+    <div class="nav_primary_container" data-nav-primary>
+        <div class="u-hide-below-md nav_primary__logo_container">
+                    </div>         <div class="nav_primary__mobile_toggle u-hide-above-md">
+            <button type="button" aria-label="menu" aria-pressed="false" class="burger-button" data-menu-open>
+    <span class="burger-button__container">
+            <span class="one"></span>
+            <span class="two"></span>
+            <span class="three"></span>
+    </span>
+
+    <span class="burger-button__text">
+        MENU
+    </span>
+</button>
+        </div>
+        <ul class="nav_primary__menu v-hide-below-md">
+                            <li class="nav_item nav_item--current ">
+                    <a class="nav_link" href="https://www.salsalis.com.au/" >Home</a>
+
+                    
+                </li>
+                            <li class="nav_item  nav_item--has-children">
+                    <a class="nav_link" href="https://www.salsalis.com.au/destination/" >Destination</a>
+
+                                            <ul class="nav_primary_children">
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/destination/sal-salis/" >Sal Salis</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/destination/getting-there/" >Getting There</a>
+                                </li>
+                                                    </ul>
+                    
+                </li>
+                            <li class="nav_item  nav_item--has-children">
+                    <a class="nav_link" href="https://www.salsalis.com.au/accommodation/" >Accommodation</a>
+
+                                            <ul class="nav_primary_children">
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/accommodation/wilderness-tents/" >Wilderness Tents</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/accommodation/honeymoon-tents/" >Honeymoon Tent</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/accommodation/the-lodge/" >The Lodge</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/accommodation/group-bookings/" >Group Bookings</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/accommodation/wine-dine/" >Wine &#038; Dine</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/accommodation/eco-credentials/" >Our Eco Journey</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/accommodation/seasonal-rates/" >Seasonal Rates</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/accommodation/packages/" >Holiday Packages</a>
+                                </li>
+                                                    </ul>
+                    
+                </li>
+                            <li class="nav_item  nav_item--has-children">
+                    <a class="nav_link" href="https://www.salsalis.com.au/experiences/" >Experiences</a>
+
+                                            <ul class="nav_primary_children">
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/experiences/whale-shark-swim/" >Whale Shark Swim</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/experiences/humpback-whale-swim/" >Humpback Whale Swim</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/experiences/snorkelling/" >Snorkelling</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/experiences/guided-gorge-walks/" >Guided Gorge Walks</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/experiences/kayaking/" >Kayaking</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/experiences/stargazing/" >Stargazing</a>
+                                </li>
+                                                    </ul>
+                    
+                </li>
+                            <li class="nav_item  nav_item--has-children">
+                    <a class="nav_link" href="https://www.salsalis.com.au/guest-information/" >Guest Information</a>
+
+                                            <ul class="nav_primary_children">
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/guest-information/testimonials/" >Testimonials</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/guest-information/seasonal-calendar/" >Seasonal Calendar</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/guest-information/downloadable-resources/" >Downloadable Resources</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/guest-information/terms-and-conditions/" >Terms and Conditions</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/guest-information/faqs/" >Frequently Asked Questions</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/about-journey-beyond/" >About Journey Beyond</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/journey-beyond-travel-club/" >Join The Travel Club</a>
+                                </li>
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://www.salsalis.com.au/contact/" >Contact Us</a>
+                                </li>
+                                                    </ul>
+                    
+                </li>
+                            <li class="nav_item  ">
+                    <a class="nav_link" href="https://www.salsalis.com.au/special-offers/" >Special Offers</a>
+
+                    
+                </li>
+                            <li class="nav_item  nav_item--has-children">
+                    <a class="nav_link" href="https://www.salsalis.com.au/gifts/" >Gifts</a>
+
+                                            <ul class="nav_primary_children">
+                                                            <li class="">
+                                    <a class="nav_item_child" href="https://shop.journeybeyond.com/collections/sal-sails" target="_blank">Gift Shop</a>
+                                </li>
+                                                    </ul>
+                    
+                </li>
+                    </ul>
+        <div class="nav_primary__mobile_actions u-hide-above-md">
+                                </div>
+        <div class="nav_primary__button_container">
+                
+<a href="https://www.salsalis.com.au/make-a-booking/" class="nav_button u-flex-center"
+   target="_blank"
+   rel="noreferrer noopener"
+   data-instant-booking-button
+   data-booking-params='currentProduct'
+>
+    <span>Book Now</span>
+</a>
+        </div>
+    </div>
+</div>
+
+
+<nav data-sj-ignore class="nav_mobile_container u-nosel">
+    <div class="nav_mobile" data-nav-mobile-scroll-container>
+    <ul class="nav_mobile__list">
+
+                    <li class="nav_mobile_item nav_item--current ">
+                <a href="https://www.salsalis.com.au/"  class="nav_link js-nav-link">Home</a>
+                            </li>
+                    <li class="nav_mobile_item nav_item--has-children">
+                <a href="https://www.salsalis.com.au/destination/"  class="nav_link js-nav-link">Destination</a>
+                 <span class="js-nav-drop o-btn-arrow-menu">
+	<span class="o-icon o-icon-arrow">
+		<svg aria-hidden="true"><use xlink:href="#icons--down-arrow"/></svg>
+	</span>
+
+</span>
+                    <ul class="nav_drop">
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/destination/sal-salis/" class="nav_link nav_link--child js-nav-link" >
+                                    Sal Salis
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/destination/getting-there/" class="nav_link nav_link--child js-nav-link" >
+                                    Getting There
+                                </a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_mobile_item nav_item--has-children">
+                <a href="https://www.salsalis.com.au/accommodation/"  class="nav_link js-nav-link">Accommodation</a>
+                 <span class="js-nav-drop o-btn-arrow-menu">
+	<span class="o-icon o-icon-arrow">
+		<svg aria-hidden="true"><use xlink:href="#icons--down-arrow"/></svg>
+	</span>
+
+</span>
+                    <ul class="nav_drop">
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/accommodation/wilderness-tents/" class="nav_link nav_link--child js-nav-link" >
+                                    Wilderness Tents
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/accommodation/honeymoon-tents/" class="nav_link nav_link--child js-nav-link" >
+                                    Honeymoon Tent
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/accommodation/the-lodge/" class="nav_link nav_link--child js-nav-link" >
+                                    The Lodge
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/accommodation/group-bookings/" class="nav_link nav_link--child js-nav-link" >
+                                    Group Bookings
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/accommodation/wine-dine/" class="nav_link nav_link--child js-nav-link" >
+                                    Wine &#038; Dine
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/accommodation/eco-credentials/" class="nav_link nav_link--child js-nav-link" >
+                                    Our Eco Journey
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/accommodation/seasonal-rates/" class="nav_link nav_link--child js-nav-link" >
+                                    Seasonal Rates
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/accommodation/packages/" class="nav_link nav_link--child js-nav-link" >
+                                    Holiday Packages
+                                </a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_mobile_item nav_item--has-children">
+                <a href="https://www.salsalis.com.au/experiences/"  class="nav_link js-nav-link">Experiences</a>
+                 <span class="js-nav-drop o-btn-arrow-menu">
+	<span class="o-icon o-icon-arrow">
+		<svg aria-hidden="true"><use xlink:href="#icons--down-arrow"/></svg>
+	</span>
+
+</span>
+                    <ul class="nav_drop">
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/experiences/whale-shark-swim/" class="nav_link nav_link--child js-nav-link" >
+                                    Whale Shark Swim
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/experiences/humpback-whale-swim/" class="nav_link nav_link--child js-nav-link" >
+                                    Humpback Whale Swim
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/experiences/snorkelling/" class="nav_link nav_link--child js-nav-link" >
+                                    Snorkelling
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/experiences/guided-gorge-walks/" class="nav_link nav_link--child js-nav-link" >
+                                    Guided Gorge Walks
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/experiences/kayaking/" class="nav_link nav_link--child js-nav-link" >
+                                    Kayaking
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/experiences/stargazing/" class="nav_link nav_link--child js-nav-link" >
+                                    Stargazing
+                                </a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_mobile_item nav_item--has-children">
+                <a href="https://www.salsalis.com.au/guest-information/"  class="nav_link js-nav-link">Guest Information</a>
+                 <span class="js-nav-drop o-btn-arrow-menu">
+	<span class="o-icon o-icon-arrow">
+		<svg aria-hidden="true"><use xlink:href="#icons--down-arrow"/></svg>
+	</span>
+
+</span>
+                    <ul class="nav_drop">
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/guest-information/testimonials/" class="nav_link nav_link--child js-nav-link" >
+                                    Testimonials
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/guest-information/seasonal-calendar/" class="nav_link nav_link--child js-nav-link" >
+                                    Seasonal Calendar
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/guest-information/downloadable-resources/" class="nav_link nav_link--child js-nav-link" >
+                                    Downloadable Resources
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/guest-information/terms-and-conditions/" class="nav_link nav_link--child js-nav-link" >
+                                    Terms and Conditions
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/guest-information/faqs/" class="nav_link nav_link--child js-nav-link" >
+                                    Frequently Asked Questions
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/about-journey-beyond/" class="nav_link nav_link--child js-nav-link" >
+                                    About Journey Beyond
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/journey-beyond-travel-club/" class="nav_link nav_link--child js-nav-link" >
+                                    Join The Travel Club
+                                </a>
+                            </li>
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://www.salsalis.com.au/contact/" class="nav_link nav_link--child js-nav-link" >
+                                    Contact Us
+                                </a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_mobile_item ">
+                <a href="https://www.salsalis.com.au/special-offers/"  class="nav_link js-nav-link">Special Offers</a>
+                            </li>
+                    <li class="nav_mobile_item nav_item--has-children">
+                <a href="https://www.salsalis.com.au/gifts/"  class="nav_link js-nav-link">Gifts</a>
+                 <span class="js-nav-drop o-btn-arrow-menu">
+	<span class="o-icon o-icon-arrow">
+		<svg aria-hidden="true"><use xlink:href="#icons--down-arrow"/></svg>
+	</span>
+
+</span>
+                    <ul class="nav_drop">
+                                                    <li class="nav_item nav_item--child">
+                                <a href="https://shop.journeybeyond.com/collections/sal-sails" class="nav_link nav_link--child js-nav-link" target="_blank">
+                                    Gift Shop
+                                </a>
+                            </li>
+                                            </ul>
+                            </li>
+        
+    </ul>
+
+            <div class="nav_mobile_social nav_mobile_social--4">
+                    <a href="https://www.facebook.com/salsalisningaloo/" class="nav_mobile_social_item" target="_blank">
+                                    
+	<span class="o-icon">
+		<svg aria-hidden="true"><use xlink:href="#icons--fb"/></svg>
+	</span>
+
+
+                                <span class="sr-only">Facebook</span>
+            </a>
+                    <a href="https://www.instagram.com/salsalisningaloo/" class="nav_mobile_social_item" target="_blank">
+                                    
+	<span class="o-icon">
+		<svg aria-hidden="true"><use xlink:href="#icons--insta"/></svg>
+	</span>
+
+
+                                <span class="sr-only">Instagram</span>
+            </a>
+                    <a href="https://www.tripadvisor.com.au/Hotel_Review-g488342-d598887-Reviews-Sal_Salis_Ningaloo_Reef-Exmouth_Western_Australia.html" class="nav_mobile_social_item" target="_blank">
+                                    
+	<span class="o-icon">
+		<svg aria-hidden="true"><use xlink:href="#icons--tripadvisor"/></svg>
+	</span>
+
+
+                                <span class="sr-only">Trip Advisor</span>
+            </a>
+                    <a href="https://www.youtube.com/channel/UCeyIzbwQ11cCw4FtTCzTnPg" class="nav_mobile_social_item" target="_blank">
+                                    
+	<span class="o-icon">
+		<svg aria-hidden="true"><use xlink:href="#icons--youtube"/></svg>
+	</span>
+
+
+                                <span class="sr-only">Youtube</span>
+            </a>
+            </div>
+        </div>
+</nav>
+
+
+    
+
+    <header>
+
+                    
+
+
+
+
+
+<div data-hero class="hero hero--auto hero--carousel">
+
+    <div data-carousel="hero" data-carousel-duration="4000" class="" >
+
+        
+            <div data-carousel-item class="hero_carousel_inner" >
+
+                                    <div class="hero_image">
+                        
+    
+	<div class="o-image is-lazy  is-cover-parent "  >
+        
+            
+				<img src="https://www.salsalis.com.au/wp-content/uploads/2023/07/00086SS-2023-Winter-Campaign-Website-Banner-1894x630-1.jpg?w=50" data-lazy data-src="https://www.salsalis.com.au/wp-content/uploads/2023/07/00086SS-2023-Winter-Campaign-Website-Banner-1894x630-1.jpg" alt="" />
+
+				<noscript>
+					<img src="https://www.salsalis.com.au/wp-content/uploads/2023/07/00086SS-2023-Winter-Campaign-Website-Banner-1894x630-1.jpg" />
+				</noscript>
+
+            
+        	</div>
+
+
+                    </div>
+                
+                <div class="hero_content_container content-h-align--centre content-v-align--centre content-t-align--centre">
+
+                    <div class="hero_copy hero_copy--full ">
+                                                                                <div class="hero_content_image image_wrap">
+                                <img class="hero_content_image_elem" src="https://www.salsalis.com.au/wp-content/uploads/2023/07/00086SS-2023-Winter-Campaign-Website-Overlay-564x271-1.png" alt="">
+                            </div>
+                                                                                                                            <div class="hero_advanced_action">
+                                <div class="actions_container">
+
+
+    
+        <a href="https://www.salsalis.com.au/luxury-as-nature-intended/" class="o-button o-button--fill" >Explore Sal Salis</a>
+
+    
+
+</div>
+                            </div>
+                                            </div>
+
+                </div>
+
+                
+                <span class="hero_arrow"></span>
+
+            </div>
+
+        
+    </div>
+
+</div>
+
+
+
+
+
+        
+    </header>
+
+    <div class="site_container">
+
+        
+        <div class="content_container">
+            
+
+
+<div data-aos="fade-up" class="module featured_text">
+
+    
+    <div class="module__inner featured_text_inner">
+        <div class="featured-text_inner">
+
+    <div class="featured-text t-copy-featured">
+        Wake up with the sun from your eco-luxury safari tent, peeking out to the largest fringing World Heritage-listed coral reef in the world just metres away… with the ancient Western Australian folklore-filled terrain behind you.
+    </div>
+
+</div>
+    </div>
+</div>
+    
+            
+                
+
+
+<div data-aos="fade-up" class="module combo_block v-cover v-full v-reversed">
+
+    
+    <div class="module__inner combo_block_inner">
+            <div class="combo_block__columns">
+
+        <div class="combo_block__columns_media">
+            
+<div data-media-block-image class="combo_block_media combo_block_media--cover ">
+
+    
+        
+        
+    
+	<div class="o-image is-lazy  is-cover-parent "  >
+        
+            
+				<img src="https://www.salsalis.com.au/wp-content/uploads/2023/07/SS-Hero-23.jpg?w=50" data-lazy data-src="https://www.salsalis.com.au/wp-content/uploads/2023/07/SS-Hero-23.jpg" alt="person hanging in hammock" />
+
+				<noscript>
+					<img src="https://www.salsalis.com.au/wp-content/uploads/2023/07/SS-Hero-23.jpg" />
+				</noscript>
+
+            
+        	</div>
+
+
+
+    
+</div>
+
+        </div>
+
+        <div class="combo_block__columns_content">
+            <div class="combo_block_text_inner">
+                <div class="combo_block_text_heading">
+                                            <h2 class="t-heading">Drop yourself here, for a second </h2>                                                        </div>
+
+                <div class="combo_block_text t-copy">
+                    <p><span style="font-weight: 400;">The sand’s a welcoming warm, the native birds are in song, and the sun’s inviting golden tone blankets the ground. </span></p>
+<p><span style="font-weight: 400;">This is Sal Salis Ningaloo Reef and it can be your <a href="https://www.salsalis.com.au/accommodation/">luxury safari style tent</a> home for the next few days… with the Cape Range National Park, kilometres of Indian Ocean and a thousand-star sky all to yourself. </span></p>
+<p><span style="font-weight: 400;">Here, time stretches and slows down. It’s an opportunity to disconnect from responsibilities and routines, to connect with nature, and most importantly, yourself. </span></p>
+<p><span style="font-weight: 400;">The Sal Salis experience envelops you. It encourages a new way of being… intentional and exploratory. Of connecting to and living in sync with, the land. </span></p>
+
+                </div>
+                                    <div class="actions_container">
+
+
+    
+        <a href="https://www.salsalis.com.au/make-a-booking/" class="o-button o-button--stroke" >Explore our Availability</a>
+
+    
+
+</div>
+                                            </div>
+        </div>
+    </div>
+    </div>
+</div>
+
+
+                
+
+
+<div data-aos="fade-up" class="module combo_block v-cover v-full v-reversed">
+
+    
+    <div class="module__inner combo_block_inner">
+            <div class="combo_block__columns">
+
+        <div class="combo_block__columns_media">
+            
+<div data-media-block-image class="combo_block_media combo_block_media--cover ">
+
+    
+        
+        
+    
+	<div class="o-image is-lazy  is-cover-parent "  >
+        
+            
+				<img src="https://www.salsalis.com.au/wp-content/uploads/2023/07/SS-Accommodation-Camp-Aerial-64.jpg?w=50" data-lazy data-src="https://www.salsalis.com.au/wp-content/uploads/2023/07/SS-Accommodation-Camp-Aerial-64.jpg" alt="sal salis camp overview" />
+
+				<noscript>
+					<img src="https://www.salsalis.com.au/wp-content/uploads/2023/07/SS-Accommodation-Camp-Aerial-64.jpg" />
+				</noscript>
+
+            
+        	</div>
+
+
+
+    
+</div>
+
+        </div>
+
+        <div class="combo_block__columns_content">
+            <div class="combo_block_text_inner">
+                <div class="combo_block_text_heading">
+                                            <h2 class="t-heading">You map your days</h2>                                                        </div>
+
+                <div class="combo_block_text t-copy">
+                    <p><span style="font-weight: 400;">Fill your days however you like. </span></p>
+<p><span style="font-weight: 400;">Sal Salis offers <a href="https://www.salsalis.com.au/accommodation/">luxurious and eco-friendly beachfront accommodation</a>, allowing guests to immerse themselves in the pristine beauty of the Ningaloo Reef. Enjoy the comfort and seclusion of your luxury safari tent, and switch off from the world. </span></p>
+<p><span style="font-weight: 400;">Relax in your tent’s hammock with a book, laze on the beach and let any worries float away.</span></p>
+<p><span style="font-weight: 400;">Kayak, paddle board and snorkel just off your camp, with more than 500 species of colourful fish and 250 coral types. </span></p>
+<p><span style="font-weight: 400;">Join the experience that’s made Ningaloo Reef famous worldwide – swimming with magnificent whale sharks and humpback whales. </span></p>
+
+                </div>
+                                    <div class="actions_container">
+
+
+    
+        <a href="https://www.salsalis.com.au/accommodation/" class="o-button o-button--stroke" >Explore Accommodation</a>
+
+    
+
+</div>
+                                            </div>
+        </div>
+    </div>
+    </div>
+</div>
+
+
+                
+
+
+<div data-aos="fade-up" class="module combo_block v-cover v-full v-reversed">
+
+    
+    <div class="module__inner combo_block_inner">
+            <div class="combo_block__columns">
+
+        <div class="combo_block__columns_media">
+            
+<div data-media-block-image class="combo_block_media combo_block_media--cover ">
+
+    
+        
+        
+    
+	<div class="o-image is-lazy  is-cover-parent "  >
+        
+            
+				<img src="https://www.salsalis.com.au/wp-content/uploads/2023/07/SS-Experiences-Beach-35.jpg?w=50" data-lazy data-src="https://www.salsalis.com.au/wp-content/uploads/2023/07/SS-Experiences-Beach-35.jpg" alt="chairs looking out of beach sunrise" />
+
+				<noscript>
+					<img src="https://www.salsalis.com.au/wp-content/uploads/2023/07/SS-Experiences-Beach-35.jpg" />
+				</noscript>
+
+            
+        	</div>
+
+
+
+    
+</div>
+
+        </div>
+
+        <div class="combo_block__columns_content">
+            <div class="combo_block_text_inner">
+                <div class="combo_block_text_heading">
+                                            <h2 class="t-heading">Lifts your idea of paradise into a new realm </h2>                                                        </div>
+
+                <div class="combo_block_text t-copy">
+                    <p><span style="font-weight: 400;">Out ‘bush’, explore the ancient ranges and canyons, steeped in 30,000-year-old lessons. You never know what you’ll discover. </span></p>
+<p><span style="font-weight: 400;">Let the terrain guide and teach you. After a dreamy day out, return to a shared long table, <a href="https://www.salsalis.com.au/accommodation/wine-dine/">five-star dining experience</a>. </span></p>
+<p><span style="font-weight: 400;">With chefs that celebrate the best in local food and a dash of serendipity… a surprise gin bar on the sand… a skewered shrimp appetiser sprawled out on blankets… or bubbly on the water’s edge, with the sinking sun giving your glass an orange hue.</span></p>
+<p>Choose to fill your days at Sal Salis however you like, from whale shark experiences, to kayaking, hiking and much more, we&#8217;re certain you&#8217;ll never want to leave.</p>
+
+                </div>
+                                    <div class="actions_container">
+
+
+    
+        <a href="https://www.salsalis.com.au/experiences/" class="o-button o-button--stroke" >Explore Experiences</a>
+
+    
+
+</div>
+                                            </div>
+        </div>
+    </div>
+    </div>
+</div>
+
+
+    
+
+
+<div data-aos="fade-up" class="module full_width_text">
+
+    
+    <div class="module__inner full_width_text_inner">
+        <div class="full_width_text_inner l-contained l-content-contain">
+
+        
+    <div class="full-width-text">
+        <div class="t-copy">
+            <p style="text-align: center;"><em>We&#8217;ve recently updated our Privacy Policy which you can review by clicking <a href="https://www.salsalis.com.au/privacy-policy/">here</a>. </em></p>
+
+        </div>
+
+    </div>
+
+    
+</div>
+    </div>
+</div>
+
+    
+    
+    
+                    
+
+
+<div data-aos="fade-up" class="module full_width_image module--bg module--bg-image v-signup v-gradientAndDarken">
+
+    
+        
+    
+	<div class="o-image is-lazy  is-cover-parent "  >
+        
+            
+				<img src="https://www.salsalis.com.au/wp-content/uploads/2021/06/Sal-Salis-5-scaled.jpg?w=50" data-lazy data-src="https://www.salsalis.com.au/wp-content/uploads/2021/06/Sal-Salis-5-scaled.jpg" alt="" />
+
+				<noscript>
+					<img src="https://www.salsalis.com.au/wp-content/uploads/2021/06/Sal-Salis-5-scaled.jpg" />
+				</noscript>
+
+            
+        	</div>
+
+
+
+    
+    <div class="module__inner full_width_image_inner">
+        
+
+<div data-sj-ignore class="full-width-image_content l-contained">
+
+    
+            <h2 class="t-hero full-width-image_heading">
+            Sign up to receive the latest news and offers
+        </h2>
+    
+    
+            <a href="https://www.salsalis.com.au/signup/" class="o-button o-button--fill full-width-image_button ">
+            Sign Up
+        </a>
+    
+</div>
+
+    </div>
+</div>
+
+</div>
+
+        <footer>
+
+    <div class="footer_social_bar footer_social_bar--4">
+    <a href="https://www.facebook.com/salsalisningaloo/" class="footer_social_item" target="_blank">
+                    
+	<span class="o-icon">
+		<svg aria-hidden="true"><use xlink:href="#icons--fb"/></svg>
+	</span>
+
+
+                <span class="footer_social_text">Facebook</span>
+    </a>
+    <a href="https://www.instagram.com/salsalisningaloo/" class="footer_social_item" target="_blank">
+                    
+	<span class="o-icon">
+		<svg aria-hidden="true"><use xlink:href="#icons--insta"/></svg>
+	</span>
+
+
+                <span class="footer_social_text">Instagram</span>
+    </a>
+    <a href="https://www.tripadvisor.com.au/Hotel_Review-g488342-d598887-Reviews-Sal_Salis_Ningaloo_Reef-Exmouth_Western_Australia.html" class="footer_social_item" target="_blank">
+                    
+	<span class="o-icon">
+		<svg aria-hidden="true"><use xlink:href="#icons--tripadvisor"/></svg>
+	</span>
+
+
+                <span class="footer_social_text">Trip Advisor</span>
+    </a>
+    <a href="https://www.youtube.com/channel/UCeyIzbwQ11cCw4FtTCzTnPg" class="footer_social_item" target="_blank">
+                    
+	<span class="o-icon">
+		<svg aria-hidden="true"><use xlink:href="#icons--youtube"/></svg>
+	</span>
+
+
+                <span class="footer_social_text">Youtube</span>
+    </a>
+</div>
+
+    <div class="footer_main_container">
+        <a class="footer_logo">
+            <img src="https://www.salsalis.com.au/wp-content/themes/journey-beyond/built/images/jb_logo.png" alt="Journey Beyond">
+        </a>
+        <div class="footer_main">
+
+            <div class="nav_group">
+                <div class="nav_heading">Sal Salis Ningaloo Reef</div>
+                <div class="nav_item_child">
+                    <p class="subscribe-hide-on-mobile">Phone from within Australia: 08 9949 1776<br />
+Phone from overseas: +61 8 9949 1776<br />
+Email: <a href="/cdn-cgi/l/email-protection#c1a8afa7ae81b2a0adb2a0ada8b2efa2aeacefa0b4"><span class="__cf_email__" data-cfemail="bbd2d5ddd4fbc8dad7c8dad7d2c895d8d4d695dace">[email&#160;protected]</span></a></p>
+<p class="subscribe-hide-on-mobile">Open Monday to Friday, 8.00am to 6.00pm ACST<br />
+Saturday 9.00am to 5.00pm ACST</p>
+
+                </div>
+            </div>
+
+            
+                <div class="nav_group">
+                    <div class="nav_heading">
+                        <a href="https://www.salsalis.com.au/guest-information/" >About</a>
+                    </div>
+
+                                            <ul class="nav_primary_children">
+                                                            <li class="nav_item_child">
+                                    <a href="https://www.salsalis.com.au/destination/sal-salis/" >Sal Salis</a>
+                                </li>
+                                                            <li class="nav_item_child">
+                                    <a href="https://www.salsalis.com.au/destination/getting-there/" >Getting There</a>
+                                </li>
+                                                            <li class="nav_item_child">
+                                    <a href="https://www.salsalis.com.au/accommodation/eco-credentials/" >Our Eco Journey</a>
+                                </li>
+                                                            <li class="nav_item_child">
+                                    <a href="https://media.journeybeyond.com.au/press-rooms/sal-salis/" >Media Portal</a>
+                                </li>
+                                                    </ul>
+                                    </div>
+
+            
+                <div class="nav_group">
+                    <div class="nav_heading">
+                        <a href="https://www.salsalis.com.au/make-a-booking/" >Bookings</a>
+                    </div>
+
+                                            <ul class="nav_primary_children">
+                                                            <li class="nav_item_child">
+                                    <a href="https://www.salsalis.com.au/accommodation/group-bookings/" >Group Bookings</a>
+                                </li>
+                                                            <li class="nav_item_child">
+                                    <a href="https://www.salsalis.com.au/accommodation/seasonal-rates/" >Seasonal Rates</a>
+                                </li>
+                                                            <li class="nav_item_child">
+                                    <a href="https://www.salsalis.com.au/special-offers/" >Special Offers</a>
+                                </li>
+                                                            <li class="nav_item_child">
+                                    <a href="https://www.salsalis.com.au/guest-information/terms-and-conditions/" >Terms and Conditions</a>
+                                </li>
+                                                    </ul>
+                                    </div>
+
+            
+                <div class="nav_group">
+                    <div class="nav_heading">
+                        <a href="https://www.salsalis.com.au/contact/" >Contact Us</a>
+                    </div>
+
+                                            <ul class="nav_primary_children">
+                                                            <li class="nav_item_child">
+                                    <a href="https://www.salsalis.com.au/guest-information/downloadable-resources/" >Downloadable Resources</a>
+                                </li>
+                                                            <li class="nav_item_child">
+                                    <a href="https://www.salsalis.com.au/guest-information/seasonal-calendar/" >Seasonal Calendar</a>
+                                </li>
+                                                            <li class="nav_item_child">
+                                    <a href="https://www.salsalis.com.au/?page_id=435" >Travel Updates</a>
+                                </li>
+                                                            <li class="nav_item_child">
+                                    <a href="https://www.salsalis.com.au/guest-information/faqs/" >FAQs</a>
+                                </li>
+                                                            <li class="nav_item_child">
+                                    <a href="https://www.salsalis.com.au/privacy-policy/" >Privacy Policy</a>
+                                </li>
+                                                    </ul>
+                                    </div>
+
+            
+
+        </div>
+        <div class="footer_copyright">
+            <p>Address: Cape Range National Park, Yardie Creek Road, North West Cape Exmouth 6707 | Phone: +61 8 9949 4173 | Licence Number: 6090127978 | Class of Licence: Special Facility Licence | Licensee: Journey Beyond Ningaloo Pty Ltd. Warning: Under the Liquor Control Act 1988, it is an offence to sell or supply liquor to a person under the age of 18 years on licensed or regulated premises or for a person under the age of 18 years to purchase, or attempt to purchase, liquor on licensed or regulated premises.</p>
+
+            <span>&copy; 2024 Journey Beyond</span>
+        </div>
+    </div>
+
+</footer>
+
+
+
+
+    </div>
+
+    
+    
+        <div class="modal_wrapper modal_wrapper--subscribe" data-modal="subscribe" >
+    <div class="modal__overlay" data-modal-overlay data-modal-close="subscribe"></div>
+    <div class="modal">
+        <div class="modal__inner" data-modal-scroll-container>
+        
+    <div class="subscribeModal">
+
+        
+            <div class="subscribeModal_header">
+
+                                    <h3 class="t-hero">Sign up for our newsletter</h3>
+                
+                                    <div class="t-copy-featured" >
+                        
+                    </div>
+                
+            </div>
+
+        
+        <div class="subscribeModal_content">
+
+            <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" >document.write('<script src="http' + ( ("https:" == document.location.protocol) ? "s" : "") + '://survey.alchemer.com/s3/6448075/SS-Website-sign-up-form?__no_style=true&__output=embedjs&__ref=' + escape(document.location.href) + '" type="text/javascript" ></scr' + 'ipt>');</script>
+
+        </div>
+
+    </div>
+
+        </div>
+        <button type="button" class="modal__close" data-modal-close="subscribe"><span class="sr-only">Close Modal</span><span class="modal__close_icon"><span></span><span></span></span></button>
+            </div>
+</div>
+
+        
+<div class="prompt" data-prompt="subscribe" data-delay="20" data-sj-ignore >
+
+    <div class="prompt_text">
+        Sign up to receive our latest news & exclusive offers
+    </div>
+
+    <div class="prompt_actions" >
+
+        <div>
+            <button class="o-button o-button--fill" data-prompt-accept >Sign Up</button>
+        </div>
+
+        <div>
+            <button class="o-button o-button--stroke" data-prompt-decline >No thanks</button>
+        </div>
+
+    </div>
+
+</div>
+
+    
+        <script>
+        AOS.init({
+            once: true
+        });
+    </script>
+
+        <link rel='stylesheet' id='whp2306tw-bs4.css-css' href='https://www.salsalis.com.au/wp-content/plugins/wp-security-hardening/modules/inc/assets/css/tw-bs4.css' type='text/css' media='all' />
+<link rel='stylesheet' id='whp7520font-awesome.min.css-css' href='https://www.salsalis.com.au/wp-content/plugins/wp-security-hardening/modules/inc/fa/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='whp2275front.css-css' href='https://www.salsalis.com.au/wp-content/plugins/wp-security-hardening/modules/css/front.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.salsalis.com.au/wp-content/themes/journey-beyond/built/scripts/app-50cb413ffb.js?t=20240702" id="frame-app-js"></script>
+
+
+    </body>
+</html>

@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en-AU" class="no-js no-svg">
+<head> <script type="text/javascript">
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+	
+
+	
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114575894-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114575894-1');
+</script>
+
+   
+
+   
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MJJFJW5');</script>
+<!-- End Google Tag Manager -->
+
+    
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Satisfy&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap" rel="stylesheet">
+
+    <script>window.WP_SITE_URI = "https://sa.alp.org.au"</script>
+    <script>window.RECAPTCHA_SITE_KEY = "6Lf6LEcUAAAAADvIeMmjhjS4LoPHdxKD_Z4qg1w_"</script>
+    <script>window.PAYPAL_USE_SANDBOX = ""</script>
+    <script>window.PAYPAL_CLIENT_ID = "AaPXUeBvOf88ITA3II4J-A381DuVuizbAiHqU725au62SxW0bQ0ZHgjCetX5FDRUCw8DIiSonb5jlA7I"</script>
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <script src="https://www.paypalobjects.com/api/checkout.js"></script>
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>South Australian Labor Party - Home</title>
+	<meta name="description" content="Jobs, health, education and environment are not just about the next four years, but about the next generation." />
+	<link rel="canonical" href="https://sa.alp.org.au/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="South Australian Labor Party | Policies For the Future" />
+	<meta property="og:description" content="Labor&#039;s policies are not just about the next four years, but the next generation. Explore our policies around health, jobs, education and environment, designed to create a better future for all South Australians." />
+	<meta property="og:url" content="https://sa.alp.org.au/" />
+	<meta property="og:site_name" content="SA Labor" />
+	<meta property="article:modified_time" content="2023-09-05T05:31:07+00:00" />
+	<meta property="og:image" content="https://sa.alp.org.au/wp-content/uploads/2022/01/LABOR011-FTF-Logo-3D-7.png" />
+	<meta property="og:image:width" content="945" />
+	<meta property="og:image:height" content="770" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="South Australian Labor Party | Policies For the Future" />
+	<meta name="twitter:description" content="Labor&#039;s policies are not just about the next four years, but the next generation. Explore our policies around health, jobs, education and environment, designed to create a better future for all South Australians." />
+	<meta name="twitter:image" content="https://sa.alp.org.au/wp-content/uploads/2022/01/LABOR011-FTF-Logo-3D-7.png" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://sa.alp.org.au/","url":"https://sa.alp.org.au/","name":"South Australian Labor Party - Home","isPartOf":{"@id":"https://sa.alp.org.au/#website"},"datePublished":"2018-01-16T12:03:29+00:00","dateModified":"2023-09-05T05:31:07+00:00","description":"Jobs, health, education and environment are not just about the next four years, but about the next generation.","breadcrumb":{"@id":"https://sa.alp.org.au/#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://sa.alp.org.au/"]}]},{"@type":"BreadcrumbList","@id":"https://sa.alp.org.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://sa.alp.org.au/#website","url":"https://sa.alp.org.au/","name":"SA Labor","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://sa.alp.org.au/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-AU"}]}</script>
+	<meta name="google-site-verification" content="9ihHAEH63qjFjndZMT927NFBWiezWFYMS7pYzXZJhAo" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sa.alp.org.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.9"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://sa.alp.org.au/wp-includes/css/dist/block-library/style.min.css?ver=6.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='https://sa.alp.org.au/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='https://sa.alp.org.au/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.5.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='ce_responsive-css'  href='https://sa.alp.org.au/wp-content/plugins/simple-embed-code/css/video-container.min.css?ver=2.3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://sa.alp.org.au/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://sa.alp.org.au/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.0.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://sa.alp.org.au/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=7.0.1' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='megamenu-css'  href='https://sa.alp.org.au/wp-content/uploads/maxmegamenu/style.css?ver=685ccd' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://sa.alp.org.au/wp-includes/css/dashicons.min.css?ver=6.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://sa.alp.org.au/wp-content/themes/alp/style.css?ver=6.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='site-css'  href='https://sa.alp.org.au/wp-content/themes/alp/site.css?ver=1.51719928984' type='text/css' media='all' />
+<script type='text/javascript' src='https://sa.alp.org.au/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/themes/alp/dist/runtime.bundle.js?ver=1.51719928984' id='runtime-js'></script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/themes/alp/dist/vendor.bundle.js?ver=1.51719928984' id='vendor-js'></script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/themes/alp/js/lazysizes.js?ver=1.51719928984' id='js-lazysizes-js'></script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.6.7' id='gform_json-js'></script>
+<script type='text/javascript' id='gform_gravityforms-js-extra'>
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mon","tuesday":"Tue","wednesday":"Wed","thursday":"Thu","friday":"Fri","saturday":"Sat","sunday":"Sun"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/sa.alp.org.au\/wp-content\/plugins\/gravityforms\/images"}};
+/* ]]> */
+</script>
+<script type='text/javascript' id='gform_gravityforms-js-before'>
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.6.7' id='gform_gravityforms-js'></script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/themes/alp/js/plugins.js?ver=1.51719928984' id='js-plugins-js'></script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/themes/alp/js/form.js?ver=1.51719928984' id='js-form-js'></script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/themes/alp/js/magnific.popup.js?ver=1.51719928984' id='js-magnific-js'></script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/themes/alp/js/main.js?ver=1.51719928984' id='js-main-js'></script>
+<link rel="https://api.w.org/" href="https://sa.alp.org.au/wp-json/" /><link rel="alternate" type="application/json" href="https://sa.alp.org.au/wp-json/wp/v2/pages/6" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sa.alp.org.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sa.alp.org.au/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.9" />
+<meta name="generator" content="WooCommerce 7.0.1" />
+<link rel='shortlink' href='https://sa.alp.org.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://sa.alp.org.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsa.alp.org.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://sa.alp.org.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsa.alp.org.au%2F&#038;format=xml" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MJJFJW5');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '3002129110068859');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=3002129110068859&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<meta name="facebook-domain-verification" content="0aun7k99gsiaovmorx0naesdqo51oa" /><meta name="et-api-version" content="v1"><meta name="et-api-origin" content="https://sa.alp.org.au"><link rel="https://theeventscalendar.com/" href="https://sa.alp.org.au/wp-json/tribe/tickets/v1/" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://sa.alp.org.au/wp-content/uploads/2024/05/cropped-logo-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://sa.alp.org.au/wp-content/uploads/2024/05/cropped-logo-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://sa.alp.org.au/wp-content/uploads/2024/05/cropped-logo-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://sa.alp.org.au/wp-content/uploads/2024/05/cropped-logo-1-270x270.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			input#email {
+    text-transform: lowercase;
+}
+.gfield_checkbox li input[type="checkbox"] {
+    display: inline-block !important;
+    float: left;
+    width: 20px;
+    clear: none;
+    margin-top: 3px;
+    margin-right: 5px;
+}
+.gfield_checkbox li input[type="checkbox"] + label {
+    float: left;
+    width: calc(100% - 25px) !important;
+}
+.gform_wrapper ul.gform_fields li.gfield.gfield-date .clear-multi {
+    display: flex;
+    width: 100%;
+}
+.gform_wrapper ul.gform_fields li.gfield.gfield-date .clear-multi .gfield_date_month {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.page-id-663 .gform_wrapper .ginput_container_checkbox .gfield_checkbox input {
+    display: none !important;
+}
+
+.woocommerce-page #order_review {
+  display: flex;
+  flex-direction: column;
+}
+.woocommerce-page #order_review .g-recaptcha {
+  order: 3;
+  position: relative;
+  top: -170px;
+}
+.woocommerce #payment #place_order, .woocommerce-page #payment #place_order {
+  margin-top: 100px;
+}		</style>
+		<style type="text/css">/** Mega Menu CSS: fs **/</style>
+</head>
+
+<body class="home page-template page-template-page-t-homepage page-template-page-t-homepage-php page page-id-6 theme-alp woocommerce-no-js tribe-no-js mega-menu-top-menu mega-menu-main-menu tribe-theme-alp" data-spy='scroll' data-target="#navbar-example">
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJJFJW5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.11';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+<div class="page-wrap js-page-wrap">
+
+<div id="masthead">
+    <div class="inner">
+    <div class="container">
+        <div class="logo">
+            <a href="https://sa.alp.org.au">
+                <img src="https://sa.alp.org.au/wp-content/themes/alp/img/Square Lockup CMYK.jpg" width="170" height="138" alt="ALP logo">
+            </a>
+        </div>
+        <div class="header-left d-none d-xl-block">
+            <div class="main-navi">
+                <div id="mega-menu-wrap-main-menu" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0' id='mega-toggle-block-0'><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                  <span class="mega-toggle-animated-box">
+                    <span class="mega-toggle-animated-inner"></span>
+                  </span>
+                </button></div></div></div><ul id="mega-menu-main-menu" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="false" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="768" data-unbind="true" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-280' id='mega-menu-item-280'><a class="mega-menu-link" href="https://sa.alp.org.au/about-us/" tabindex="0">ABOUT US</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-265' id='mega-menu-item-265'><a class="mega-menu-link" href="https://sa.alp.org.au/our-team/" tabindex="0">MEMBERS OF PARLIAMENT</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-816' id='mega-menu-item-816'><a class="mega-menu-link" href="https://sa.alp.org.au/events/" tabindex="0">EVENTS</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-817' id='mega-menu-item-817'><a class="mega-menu-link" href="https://sa.alp.org.au/volunteer/" tabindex="0">VOLUNTEER</a></li></ul></div>            </div>
+        </div>
+        <div class="header-right d-none d-xl-block">
+            <div class="menu-right-menu-container"><ul id="menu-right-menu" class="main-right-menu"><li id="menu-item-24066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24066"><a href="https://sa.alp.org.au/donate/">DONATE</a></li>
+<li id="menu-item-32807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32807"><a href="http://membership.sa.alp.org.au/">JOIN LABOR</a></li>
+</ul></div>        </div>
+        <div class="burger-menus d-xl-none">
+            <button aria-label="hamburger-menu">
+                <span><span></span></span>
+            </button>
+        </div>
+    </div>
+</div></div>
+
+
+<div class="content-inner-wrap ">
+    
+    <div class="home-hero">
+        <div class="lazyload bg-image bg-image-24073" style="background-position-x:13%;background-position-y:21%;" data-bgset="https://sa.alp.org.au/wp-content/uploads/2021/10/hero-background@2x-1920x1080.jpg 1920w 1080h, https://sa.alp.org.au/wp-content/uploads/2021/10/hero-background@2x-300x169.jpg 300w 169h, https://sa.alp.org.au/wp-content/uploads/2021/10/hero-background@2x-1024x576.jpg 1024w 576h, https://sa.alp.org.au/wp-content/uploads/2021/10/hero-background@2x-768x432.jpg 768w 432h, https://sa.alp.org.au/wp-content/uploads/2021/10/hero-background@2x-1536x864.jpg 1536w 864h, https://sa.alp.org.au/wp-content/uploads/2021/10/hero-background@2x-2048x1152.jpg 2048w 1152h, https://sa.alp.org.au/wp-content/uploads/2021/10/hero-background@2x-1600x900.jpg 1600w 900h, https://sa.alp.org.au/wp-content/uploads/2021/10/hero-background@2x-1366x769.jpg 1366w 769h, https://sa.alp.org.au/wp-content/uploads/2021/10/hero-background@2x-800x450.jpg 800w 450h, https://sa.alp.org.au/wp-content/uploads/2021/10/hero-background@2x-600x338.jpg 600w 338h" data-sizes="auto" ></div>        <div class="inner">
+            <div class="container">
+                <div class="stand">
+                                        <h1>We are SA Labor</h1>
+                    <div class="cta-link">
+                        <a href="http://membership.sa.alp.org.au/" class="featured dn-button" ><span>Join</span> </a><br><a href="https://www.youtube.com/watch?v=aTOvy17ahzc" class="video-popup"  target="_blank" ><svg xmlns="http://www.w3.org/2000/svg" width="21.325" height="21.325" viewBox="0 0 21.325 21.325">
+  <path d="M13.662,3A10.662,10.662,0,1,0,24.325,13.662,10.666,10.666,0,0,0,13.662,3ZM11.53,18.46v-9.6l6.4,4.8Z" transform="translate(-3 -3)" fill="#fff"/>
+</svg>
+<span>Meet Pete</span> </a>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="home-intro">
+        <div class="container">
+            <div class="intro-row">
+                
+                <div class="intro">
+                    <div class="head"><h2>We aren't just about the next four years, we're about the next generation. About a better future for all South Australians. </h2></div>
+                    <div class="desc"><p>We believe that everyone deserves a fair go, access to a good education, quality health services and opportunities to succeed and prosper. SA Labor has a long and proud history of fighting for and delivering on these goals.</p>
+<p>Since the ALP was established in 1891, it has always been the party with the vision for a better future. The labour movement won better pay and safer worksites for all workers – hard-fought gains which the ALP will defend and extend.</p>
+</div>
+                </div>
+
+                <div class="cta-box">
+                    <div class="inner">
+                        <h3>BECOME A MEMBER</h3>
+                        <div class="desc">
+                            <p>South Australians from all walks of life, of all ages and backgrounds play an important part in the life of our society through their involvement with SA Labor.</p>
+                        </div>
+                        <div class="link-cta">
+                            <a href="http://membership.sa.alp.org.au/" class="salmon dn-button" ><span>Join</span> </a><a href="http://membership.sa.alp.org.au/" class="outline-white dn-button" ><span>Renew Membership</span> </a>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <div class="home-vision">
+        <div class="first-row vision-row">
+            <div class="vision"><h2>Our plans</h2></div>
+            <div class="card-vision">
+                <div class="inner">
+                    <div class="lazyload bg-image bg-image-32839" style="background-position-x:50%;background-position-y:41%;" data-bgset="https://sa.alp.org.au/wp-content/uploads/2023/09/DSC07612.png 923w 1154h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC07612-240x300.png 240w 300h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC07612-673x842.png 673w 842h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC07612-768x960.png 768w 960h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC07612-800x1000.png 800w 1000h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC07612-600x750.png 600w 750h" data-sizes="auto" ></div>                                            <h3>Jobs & Economy</h3>
+                                    </div>
+            </div>
+            <div class="card-vision">
+                <div class="inner">
+                    <div class="lazyload bg-image bg-image-25937" style="background-position-x:72%;background-position-y:15%;" data-bgset="https://sa.alp.org.au/wp-content/uploads/2022/01/Health-1920x1266.jpeg 1920w 1266h, https://sa.alp.org.au/wp-content/uploads/2022/01/Health-300x198.jpeg 300w 198h, https://sa.alp.org.au/wp-content/uploads/2022/01/Health-1024x675.jpeg 1024w 675h, https://sa.alp.org.au/wp-content/uploads/2022/01/Health-768x506.jpeg 768w 506h, https://sa.alp.org.au/wp-content/uploads/2022/01/Health-1536x1013.jpeg 1536w 1013h, https://sa.alp.org.au/wp-content/uploads/2022/01/Health-2048x1350.jpeg 2048w 1350h, https://sa.alp.org.au/wp-content/uploads/2022/01/Health-1600x1055.jpeg 1600w 1055h, https://sa.alp.org.au/wp-content/uploads/2022/01/Health-1366x900.jpeg 1366w 900h, https://sa.alp.org.au/wp-content/uploads/2022/01/Health-800x527.jpeg 800w 527h, https://sa.alp.org.au/wp-content/uploads/2022/01/Health-600x396.jpeg 600w 396h" data-sizes="auto" ></div>                                            <h3>Health </h3>
+                                    </div>
+            </div>
+        </div>
+
+        <div class="second-row vision-row">
+            <div class="card-vision vision-1">
+                <div class="inner">
+                    <div class="lazyload bg-image bg-image-32841" style="background-position-x:65%;background-position-y:54%;" data-bgset="https://sa.alp.org.au/wp-content/uploads/2023/09/DSC4018.jpg 1620w 1080h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC4018-300x200.jpg 300w 200h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC4018-1200x800.jpg 1200w 800h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC4018-768x512.jpg 768w 512h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC4018-1536x1024.jpg 1536w 1024h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC4018-1600x1067.jpg 1600w 1067h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC4018-1366x911.jpg 1366w 911h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC4018-1024x683.jpg 1024w 683h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC4018-800x533.jpg 800w 533h, https://sa.alp.org.au/wp-content/uploads/2023/09/DSC4018-600x400.jpg 600w 400h" data-sizes="auto" ></div>                                            <h3>Education</h3>
+                                    </div>
+            </div>
+            <div class="card-vision vision-2">
+                <div class="vision-inner">
+                    <div class="inner">
+                        <div class="lazyload bg-image bg-image-25938" style="background-position-x:67%;background-position-y:40%;" data-bgset="https://sa.alp.org.au/wp-content/uploads/2022/01/Environment-1920x1617.jpg 1920w 1617h, https://sa.alp.org.au/wp-content/uploads/2022/01/Environment-300x253.jpg 300w 253h, https://sa.alp.org.au/wp-content/uploads/2022/01/Environment-1024x862.jpg 1024w 862h, https://sa.alp.org.au/wp-content/uploads/2022/01/Environment-768x647.jpg 768w 647h, https://sa.alp.org.au/wp-content/uploads/2022/01/Environment-1536x1293.jpg 1536w 1293h, https://sa.alp.org.au/wp-content/uploads/2022/01/Environment-2048x1724.jpg 2048w 1724h, https://sa.alp.org.au/wp-content/uploads/2022/01/Environment-1600x1347.jpg 1600w 1347h, https://sa.alp.org.au/wp-content/uploads/2022/01/Environment-1366x1150.jpg 1366w 1150h, https://sa.alp.org.au/wp-content/uploads/2022/01/Environment-800x674.jpg 800w 674h, https://sa.alp.org.au/wp-content/uploads/2022/01/Environment-600x505.jpg 600w 505h" data-sizes="auto" ></div>                                                    <h3>Environment</h3>
+                                            </div>
+                </div>
+                <div class="vision-cta vision-3">
+                    <div class="inner">
+                                            </div>
+                </div>
+            </div>
+           
+        </div>
+    </div>
+
+
+
+
+    <div class="latest-event">
+        
+         
+               <div class="container">
+                    <div class="event-head">
+                        <h2>Upcoming Events</h2>
+                        <a href="/events" class="arrow-button">See all Events <svg xmlns="http://www.w3.org/2000/svg" width="7.558" height="12.454" viewBox="0 0 7.558 12.454" fill="#fff">
+  <path d="M9.291,9.359,3.748,14.9a.684.684,0,0,1-.968,0l-.646-.646a.684.684,0,0,1,0-.967L6.525,8.875,2.133,4.462a.684.684,0,0,1,0-.967l.646-.646a.684.684,0,0,1,.968,0L9.291,8.391A.684.684,0,0,1,9.291,9.359Z" transform="translate(-1.933 -2.648)" />
+</svg>
+</a>
+                    </div>
+                </div>
+                <div class="container-event-card">
+                    <div class="container-homve-event">
+                                                <div class="event-card card-1">
+                                <a href="https://sa.alp.org.au/event/uk-election-breakfast/">
+                                    <h3>UK Election Breakfast</h3>
+                                    <div class="event-date">05 July 2024</div>
+                                    <div class="location"><svg xmlns="http://www.w3.org/2000/svg" width="10.144" height="14.492" viewBox="0 0 10.144 14.492">
+  <path d="M12.572,3A5.068,5.068,0,0,0,7.5,8.072c0,3.8,5.072,9.42,5.072,9.42s5.072-5.616,5.072-9.42A5.068,5.068,0,0,0,12.572,3Zm0,6.884a1.811,1.811,0,1,1,1.811-1.811A1.812,1.812,0,0,1,12.572,9.884Z" transform="translate(-7.5 -3)" opacity="0.213"/>
+</svg>
+ <span>IBIS, 122 Grenfell St, Adelaide </span></div>
+                                                                    </a>
+                            </div>
+                                                    <div class="event-card card-2">
+                                <a href="https://sa.alp.org.au/event/34265/">
+                                    <h3>Heysen Politics at the Pub</h3>
+                                    <div class="event-date">11 July 2024</div>
+                                    <div class="location"><svg xmlns="http://www.w3.org/2000/svg" width="10.144" height="14.492" viewBox="0 0 10.144 14.492">
+  <path d="M12.572,3A5.068,5.068,0,0,0,7.5,8.072c0,3.8,5.072,9.42,5.072,9.42s5.072-5.616,5.072-9.42A5.068,5.068,0,0,0,12.572,3Zm0,6.884a1.811,1.811,0,1,1,1.811-1.811A1.812,1.812,0,0,1,12.572,9.884Z" transform="translate(-7.5 -3)" opacity="0.213"/>
+</svg>
+ <span>The Terrace, Stirling Hotel, Stirling</span></div>
+                                    <span class="not-avail">Sold Out</span>                                </a>
+                            </div>
+                                            </div>
+                </div>
+
+                <div class="all-links-mobile visible-xs"><div class="container"><a href="/events" class="arrow-button">See all Events <svg xmlns="http://www.w3.org/2000/svg" width="7.558" height="12.454" viewBox="0 0 7.558 12.454" fill="#fff">
+  <path d="M9.291,9.359,3.748,14.9a.684.684,0,0,1-.968,0l-.646-.646a.684.684,0,0,1,0-.967L6.525,8.875,2.133,4.462a.684.684,0,0,1,0-.967l.646-.646a.684.684,0,0,1,.968,0L9.291,8.391A.684.684,0,0,1,9.291,9.359Z" transform="translate(-1.933 -2.648)" />
+</svg>
+</a></div></div>
+
+                
+    </div><!-- latest-event -->
+
+            
+    <div class="footer-subscribe">
+        <div class="container">
+            <div class="row">
+                <div class="newsletter-title">
+                    <div class="head">
+                        <h2>Subscribe to the SA Labor Mailer</h2>
+                        <p>Join the campaign and stay in the loop.</p>
+                    </div>
+                    <div class="plane"><img src="https://sa.alp.org.au/wp-content/themes/alp/img/paperplane.png" width="110" height="58" alt="Paper Plane" /></div>
+                </div>
+                <div class="newsletter-form">
+                    <div id="subscribe-form" class="subscribe-form"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="logo d-none col-lg-2 d-sm-block">
+                <a href="https://sa.alp.org.au">
+                    <img src="https://sa.alp.org.au/wp-content/themes/alp/img/Square Lockup CMYK.jpg" width="170" height="138" alt="ALP logo">
+                </a>
+            </div>
+            <div class="address col-sm-12 col-md-6 col-lg-5">
+                <div id="text-2" class="widget widget_text">			<div class="textwidget"><p><strong>SA Labor</strong><br />
+<strong>141 Gilles Street</strong><br />
+<strong>Adelaide SA 5000</strong></p>
+<p>Operating hours:<br />
+<strong>Monday – Friday: 9:00am – 5:00pm</strong></p>
+<p>Phone: <strong>8418 6700</strong><br />
+Email: <strong>info@sa.alp.org.au</strong></p>
+</div>
+		</div><div id="nav_menu-4" class="widget widget_nav_menu"></div>            </div>
+            <div class="foot-menu col-sm-12 col-md-6 col-lg-5">
+                <div class="inner-right">
+                    <div class="footer-menu-left">
+                        <div id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-menu1-container"><ul id="menu-footer-menu1" class="menu"><li id="menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-819"><a href="https://sa.alp.org.au/volunteer/">Volunteer</a></li>
+<li id="menu-item-24069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24069"><a href="https://sa.alp.org.au/true-believer-fund/">True Believer</a></li>
+<li id="menu-item-32906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32906"><a href="https://sa.alp.org.au/labor-code-of-conduct/">Code of Conduct</a></li>
+</ul></div></div>                    </div>
+                    <div class="footer-menu-right">
+                        <div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-footer-menu2-container"><ul id="menu-footer-menu2" class="menu"><li id="menu-item-32907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32907"><a href="https://sa.alp.org.au/about-us/">About Us</a></li>
+<li id="menu-item-32809" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32809"><a href="http://membership.sa.alp.org.au/">Membership Application</a></li>
+<li id="menu-item-32808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32808"><a href="http://membership.sa.alp.org.au/">Renew Membership</a></li>
+</ul></div></div>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="authorized"><div class="copyright">Authorised by A. Bourke for the Australian Labor Party, 141 Gilles St, Adelaide SA 5000.</div></div>
+
+<div id="mobile-menu-wrap">
+    <div class="menu-mobi">
+        <div class="container-menu">
+            <div class="menu-top container">
+                <div class="menu-right-menu-container"><ul id="menu-right-menu-1" class="main-right-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24066"><a href="https://sa.alp.org.au/donate/">DONATE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32807"><a href="http://membership.sa.alp.org.au/">JOIN LABOR</a></li>
+</ul></div>            </div>
+            <div class="menu-bottom container">
+                <div id="mega-menu-wrap-main-menu" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0' id='mega-toggle-block-0'><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                  <span class="mega-toggle-animated-box">
+                    <span class="mega-toggle-animated-inner"></span>
+                  </span>
+                </button></div></div></div><ul id="mega-menu-main-menu" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="false" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="768" data-unbind="true" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-280' id='mega-menu-item-280'><a class="mega-menu-link" href="https://sa.alp.org.au/about-us/" tabindex="0">ABOUT US</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-265' id='mega-menu-item-265'><a class="mega-menu-link" href="https://sa.alp.org.au/our-team/" tabindex="0">MEMBERS OF PARLIAMENT</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-816' id='mega-menu-item-816'><a class="mega-menu-link" href="https://sa.alp.org.au/events/" tabindex="0">EVENTS</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-817' id='mega-menu-item-817'><a class="mega-menu-link" href="https://sa.alp.org.au/volunteer/" tabindex="0">VOLUNTEER</a></li></ul></div>            </div>
+            <div class="menu-blue container">
+                <ul>
+                    <li><a href="tel:"><svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <path d="M18.458,13.427,14.3,11.645a.891.891,0,0,0-1.039.256L11.422,14.15A13.755,13.755,0,0,1,4.847,7.575L7.1,5.734a.888.888,0,0,0,.256-1.039L5.57.539A.9.9,0,0,0,4.55.023L.69.913A.891.891,0,0,0,0,1.781,17.217,17.217,0,0,0,17.219,19a.891.891,0,0,0,.868-.69l.891-3.859a.9.9,0,0,0-.52-1.024Z" transform="translate(0 0)" fill="#fff"/>
+</svg>
+ <span>Call Us</span></a></li>
+                    <li><a href="mailto:"><svg xmlns="http://www.w3.org/2000/svg" width="23.75" height="19" viewBox="0 0 23.75 19">
+  <path d="M24.375,6h-19A2.372,2.372,0,0,0,3.012,8.375L3,22.625A2.382,2.382,0,0,0,5.375,25h19a2.382,2.382,0,0,0,2.375-2.375V8.375A2.382,2.382,0,0,0,24.375,6Zm0,4.75-9.5,5.938-9.5-5.937V8.375l9.5,5.938,9.5-5.937Z" transform="translate(-3 -6)" fill="#fff"/>
+</svg>
+ <span>Email Us</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div><!-- close .page-wrapper in header.php -->
+
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"},"registration_prompt":"There is unsaved attendee information. Are you sure you want to continue?"};/* ]]> */ </script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type='text/javascript' src='https://sa.alp.org.au/wp-content/plugins/recaptcha-woo/js/rcfwc.js?ver=1.0' id='rcfwc-js-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?explicit&#038;hl=en_AU' id='recaptcha-js'></script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.0.1' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/sa.alp.org.au\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.0.1' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.0.1' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.0.1' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_b9b882465603d54ab8f74af5344b1716","fragment_name":"wc_fragments_b9b882465603d54ab8f74af5344b1716","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.0.1' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/themes/alp/js/main.bundle.js?ver=1.51719928984' id='main-js'></script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-includes/js/hoverIntent.min.js?ver=1.10.2' id='hoverIntent-js'></script>
+<script type='text/javascript' id='megamenu-js-extra'>
+/* <![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sa.alp.org.au/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.9.8' id='megamenu-js'></script>
+</body>
+</html>

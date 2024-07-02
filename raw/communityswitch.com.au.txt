@@ -1,0 +1,798 @@
+		
+<!doctype html>
+<html lang="en-AU">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		
+        <title>Ginninderry Community Switch | </title>
+		
+		<link rel="icon" type="image/png" href="https://communityswitch.com.au/favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="https://communityswitch.com.au/favicon-16x16.png" sizes="16x16" />
+		
+		<link rel="pingback" href="https://communityswitch.com.au/xmlrpc.php" />
+        <link rel="profile" href="http://gmpg.org/xfn/11" />
+		
+		<link rel="stylesheet" type="text/css" media="all" href="https://communityswitch.com.au/wp-content/themes/coordinate_communityswitch/style.css" />
+		<link rel="stylesheet" href="https://communityswitch.com.au/wp-content/themes/coordinate_communityswitch/assets/css/outdatedbrowser.min.css">
+        <link rel="stylesheet" href=https://use.typekit.net/qfw4sua.css>
+		
+				<script src="https://cdn.polyfill.io/v3/polyfill.min.js"></script>
+        
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://communityswitch.com.au/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home - Ginninderry Community Switch" />
+	<meta property="og:url" content="https://communityswitch.com.au/" />
+	<meta property="og:site_name" content="Ginninderry Community Switch" />
+	<meta property="article:modified_time" content="2024-02-27T04:32:00+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://communityswitch.com.au/","url":"https://communityswitch.com.au/","name":"Home - Ginninderry Community Switch","isPartOf":{"@id":"https://communityswitch.com.au/#website"},"datePublished":"2023-06-23T10:22:09+00:00","dateModified":"2024-02-27T04:32:00+00:00","breadcrumb":{"@id":"https://communityswitch.com.au/#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://communityswitch.com.au/"]}]},{"@type":"BreadcrumbList","@id":"https://communityswitch.com.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://communityswitch.com.au/#website","url":"https://communityswitch.com.au/","name":"Ginninderry Community Switch","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://communityswitch.com.au/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-AU"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Ginninderry Community Switch &raquo; Feed" href="https://communityswitch.com.au/feed/" />
+<link rel="alternate" type="text/calendar" title="Ginninderry Community Switch &raquo; iCal Feed" href="https://communityswitch.com.au/events/?ical=1" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/communityswitch.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://communityswitch.com.au/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5' media='all' />
+<style id='safe-svg-svg-icon-style-inline-css'>
+.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='foundation-css' href='https://communityswitch.com.au/wp-content/themes/coordinate_communityswitch/assets/css/foundation.xy.css?ver=1' media='all' />
+<link rel='stylesheet' id='app-css' href='https://communityswitch.com.au/wp-content/themes/coordinate_communityswitch/assets/css/app.css?ver=1' media='all' />
+<link rel='stylesheet' id='colour-variations-css' href='https://communityswitch.com.au/wp-content/themes/coordinate_communityswitch/assets/css/colour-variations.css?ver=1' media='all' />
+<script src="https://communityswitch.com.au/wp-content/themes/coordinate_communityswitch/assets/js/vendor/jquery-3.6.1.min.js?ver=3.6.1" id="jquery-js"></script>
+<script id="google-maps-js-before">
+function googleMapsLoaded() { console.log("Google Maps loaded successfully.") }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAmavXi5FuDFXst4AwLTbHspttwp7LmalU&amp;callback=googleMapsLoaded&amp;ver=1" id="google-maps-js"></script>
+<link rel="https://api.w.org/" href="https://communityswitch.com.au/wp-json/" /><link rel="alternate" type="application/json" href="https://communityswitch.com.au/wp-json/wp/v2/pages/200" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://communityswitch.com.au/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://communityswitch.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://communityswitch.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcommunityswitch.com.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://communityswitch.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcommunityswitch.com.au%2F&#038;format=xml" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TS6N5MWB');</script>
+<!-- End Google Tag Manager -->
+
+
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-6636347-2']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://communityswitch.com.au"><link rel="alternate" href="https://communityswitch.com.au/wp-json/tribe/events/v1/" />    </head>
+    
+    <body class="home page-template page-template-templates page-template-page-builder page-template-templatespage-builder-php page page-id-200 tribe-no-js">
+		
+		<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TS6N5MWB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+						<section class="background-secondary listen_live_podcasts hide_row show-for-large">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x grid-padding-y grid-margin-y">
+										<div class="cell medium-6">
+						<p><iframe src="https://www.iheart.com/live/hit1047-6243/?embed=true" width="100%" height="200" frameborder="0"></iframe></p>
+					</div>
+					
+										<div class="cell medium-6">
+						<p><iframe src="https://www.iheart.com/live/mix-1063-6244/?embed=true" width="100%" height="200" frameborder="0"></iframe></p>
+					</div>
+									</div>
+			</div>	
+		</section>	
+				<header id="top-bar" class="top-bar">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x align-right">
+					<div class="cell shrink align-self-bottom listen_live_row has_play_icon show-for-large">
+						<div class="grid-x grid-padding-x grid-x--small align-middle position_relative"> 
+							<div class="cell shrink">
+								<h6 class="size-body">Listen live</h6>
+							</div>
+							<div class="cell shrink">
+								<i class="fa fa-chevron-down live_ply_icon" aria-hidden="true"></i>
+								<i class="fa-solid fa-chevron-down live_pause_icon"></i>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="grid-x grid-padding-x align-justify align-middle large-padding-top">
+					<div class="cell shrink">
+						<h1 class="site-logo">
+							<a class="site-logo__link ir" href="https://communityswitch.com.au/" title="Ginninderry Community Switch" rel="home">Ginninderry Community Switch</a>
+						</h1>
+					</div>
+					<div class="cell shrink hide-for-large">
+						<button type="button" class="menu-button menu-button--closed js-menu-trigger">
+							<span></span>
+							<span></span>
+							<span></span>
+						</button>
+					</div>
+					<div class="cell shrink show-for-large">
+						<div class="grid-x align-justify align-middle">
+							<div class="cell shrink">
+							<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" x="0px" y="0px"
+									viewBox="0 0 566.929 566.929" enable-background="new 0 0 566.929 566.929" xml:space="preserve">
+								<g>
+									<defs>
+										<rect id="SVGID_1_" x="9.071" width="548.788" height="566.929"/>
+									</defs>
+									<clipPath id="SVGID_00000015316371250484740650000010498205131977463976_">
+										<use xlink:href="#SVGID_1_"  overflow="visible"/>
+									</clipPath>
+									<path clip-path="url(#SVGID_00000015316371250484740650000010498205131977463976_)" fill="#FFFFFF" d="M291.029,65.787
+										c123.312,0,225.209,91.634,241.355,210.522c0,0.01,0.001,0.019,0.004,0.029v-0.002v0.002c1.453-10.802,2.237-21.827,2.237-33.033
+										c0-94.441-53.749-176.315-132.307-216.737c-9.559-4.701-28.152-12.551-44.914-12.044c-10.301,0.31-18.432,1.947-24.877,3.991
+										c-2.152,0.68-4.115,1.407-5.906,2.036c-23.26,10.711-46.84,10.711-71.184-0.067c-1.794-0.572-3.756-1.289-5.906-1.969
+										c-6.45-2.044-14.581-3.681-24.882-3.991c-16.767-0.507-35.367,7.353-44.919,12.05C101.175,66.992,47.433,148.871,47.433,243.305
+										c0,11.194,0.775,22.207,2.239,32.997c0.001,0.013,0.002,0.026,0.004,0.037C65.797,157.436,167.704,65.787,291.029,65.787"/>
+									<path clip-path="url(#SVGID_00000015316371250484740650000010498205131977463976_)" fill="#FFFFFF" d="M532.388,276.337v0.001
+										c-0.002,0.009-0.004,0.018-0.004,0.028c-16.146,118.891-118.04,210.527-241.355,210.527c-123.325,0-225.232-91.651-241.355-210.556
+										c-0.001,0.004-0.001,0.01-0.001,0.014c-1.465,10.801-2.24,21.821-2.24,33.026c0,134.532,109.063,243.585,243.596,243.585
+										c134.531,0,243.598-109.053,243.598-243.585c0-11.209-0.787-22.233-2.239-33.039V276.337z"/>
+								</g>
+								<g>
+									<defs>
+										<rect id="SVGID_00000067225290511708571940000002263223463799552698_" width="566.929" height="566.929"/>
+									</defs>
+									<clipPath id="SVGID_00000108284831644500823300000000600025023585422978_">
+										<use xlink:href="#SVGID_00000067225290511708571940000002263223463799552698_"  overflow="visible"/>
+									</clipPath>
+									<path clip-path="url(#SVGID_00000108284831644500823300000000600025023585422978_)" fill="#FFFFFF" d="M256.648,331.926
+										c-10.697,0-19.027-6.366-20.735-15.843l-5.241-26.198c-0.184-0.927-0.962-1.618-1.908-1.69c-0.054-0.004-0.109-0.006-0.16-0.006
+										c-0.883,0-1.676,0.548-1.98,1.387l-8.999,24.693c-4.296,11.714-11.584,17.657-21.665,17.657c-10.362,0-16.98-5.385-21.462-17.458
+										l-9.202-24.901c-0.309-0.834-1.106-1.378-1.981-1.378c-0.066,0-0.132,0.003-0.196,0.009c-0.953,0.089-1.723,0.805-1.883,1.748
+										l-3.77,22.183c-2.128,12.394-9.958,19.797-20.937,19.797c-12.433,0-21.117-9.459-21.117-23.003c0-1.798,0.203-3.638,0.404-5.415
+										l15.886-89.223c2.129-12.409,9.802-19.812,20.52-19.812c9.021,0,17.493,5.705,21.077,14.197l20.734,46.289
+										c0.339,0.753,1.083,1.239,1.908,1.246h0.019c0.817,0,1.562-0.472,1.907-1.212l23.229-49.386c3.23-6.649,10.626-11.134,18.39-11.134
+										c5.045,0,10.856,2.292,14.454,5.699c3.671,3.477,5.306,7.033,6.485,14.092l15.907,90.004c0.669,3.113,0.804,5.722,0.804,7.376
+										C277.136,323.016,268.136,331.926,256.648,331.926"/>
+									<path clip-path="url(#SVGID_00000108284831644500823300000000600025023585422978_)" fill="#FFFFFF" d="M309.544,331.926
+										c-5.743,0-12.009-2.664-15.592-6.629c-4.026-4.408-5.316-8.741-5.316-17.837v-86.429c0-11.335,0.988-15.019,5.301-19.706
+										c3.857-4.435,9.308-6.852,15.397-6.852c6.08,0,11.768,2.417,15.602,6.632c4.275,4.865,5.518,9.339,5.518,19.926v86.429
+										c0,8.327-1.487,13.21-5.311,17.413C321.232,329.156,315.109,331.926,309.544,331.926"/>
+									<path clip-path="url(#SVGID_00000108284831644500823300000000600025023585422978_)" fill="#FFFFFF" d="M436.358,331.926
+										c-6.757,0-12.84-3.19-17.14-8.984l-18.849-24.714c-0.399-0.522-1.017-0.83-1.675-0.831h-0.004c-0.654,0-1.272,0.303-1.671,0.824
+										l-18.834,24.483c-5.266,6.63-10.082,9.222-17.162,9.222c-11.336,0-20.91-9.478-20.91-20.699c0-5.149,1.857-10.521,4.969-14.37
+										l26.205-34.582c0.57-0.752,0.57-1.794,0-2.546l-19.463-25.739c-6.4-8.599-8.781-13.646-8.781-18.609
+										c0-11.137,9.966-20.908,21.326-20.908c6.859,0,12.686,3.16,17.806,9.659l14.833,19.638c0.391,0.52,1.002,0.829,1.653,0.837h0.029
+										c0.644,0,1.25-0.292,1.651-0.794l14.021-17.579c6.713-8.691,11.591-11.761,18.648-11.761c11.563,0,21.328,9.477,21.328,20.699
+										c0,4.587-2.388,10.229-6.91,16.321l-21.333,28.236c-0.568,0.751-0.571,1.785-0.007,2.538l26.16,34.947
+										c2.966,3.955,4.598,8.932,4.598,14.013C456.846,322.64,447.658,331.926,436.358,331.926"/>
+									<path clip-path="url(#SVGID_00000108284831644500823300000000600025023585422978_)" fill="#FFFFFF" d="M182.715,371.319h-1.054
+										c-3.377,0-5.488-1.97-5.488-4.924c0-2.887,2.18-4.926,5.488-4.926h1.054h6.335c4.081,0,6.051,2.462,6.051,7.248v32.927v1.199
+										c0,3.729-2.111,6.051-5.349,6.051c-3.236,0-5.416-2.463-5.416-6.051v-1.199V371.39L182.715,371.319z"/>
+									<path clip-path="url(#SVGID_00000108284831644500823300000000600025023585422978_)" fill="#FFFFFF" d="M267.278,384.899
+										c0,13.367-10.765,24.206-24.133,24.206c-13.37,0-24.206-10.839-24.206-24.206c0-13.299,10.836-24.135,24.065-24.135
+										C256.444,360.764,267.278,371.6,267.278,384.899 M229.563,384.757c0,7.599,5.983,13.651,13.509,13.651
+										c7.458,0,13.441-6.052,13.441-13.509c0-7.389-6.052-13.44-13.509-13.44C235.687,371.459,229.563,377.441,229.563,384.757"/>
+									<path clip-path="url(#SVGID_00000108284831644500823300000000600025023585422978_)" fill="#FFFFFF" d="M342.308,402.98
+										c0-3.376,2.675-6.051,6.051-6.051c3.377,0,6.121,2.675,6.121,6.051c0,3.381-2.744,6.124-6.121,6.124
+										C344.983,409.104,342.308,406.361,342.308,402.98"/>
+									<path clip-path="url(#SVGID_00000108284831644500823300000000600025023585422978_)" fill="#FFFFFF" d="M402.88,384.193
+										c1.76,2.043,2.886,5.278,2.886,8.163c0,8.937-8.091,16.748-17.381,16.748c-9.216,0-17.448-7.742-17.448-16.326
+										c0-3.446,2.391-5.978,5.63-5.978c2.954,0,5.066,1.828,5.346,4.572l0.069,1.336c0.283,3.235,3.097,5.841,6.403,5.841
+										c3.449,0,6.332-2.817,6.332-6.051c0-2.817-2.25-5.561-5.063-6.474c-2.253-0.635-2.185-0.635-2.675-1.126
+										c-0.563-0.563-0.843-1.548-0.843-2.533c0-1.48,0.491-2.534,1.548-3.023l1.76-0.917c1.333-0.706,2.249-2.042,2.249-3.447
+										c0-1.972-1.69-3.66-3.587-3.66c-1.76,0-3.027,1.195-3.801,3.517c-0.913,2.394-2.25,3.379-4.784,3.379
+										c-3.308,0-5.561-2.321-5.561-5.701c0-2.32,1.411-5.135,3.871-7.598c2.676-2.673,6.194-4.151,10.063-4.151
+										c7.67,0,14.495,6.121,14.495,13.087c0,2.745-0.915,4.996-3.027,7.388C401.193,382.435,402.037,383.07,402.88,384.193"/>
+									<path clip-path="url(#SVGID_00000108284831644500823300000000600025023585422978_)" fill="#FFFFFF" d="M307.539,375.366
+										l2.747-3.846l0.687-0.893c0.961-1.236,1.442-2.678,1.442-3.845c0-2.609-2.472-5.013-5.288-5.013c-1.717,0-3.09,0.755-4.463,2.541
+										l-1.236,1.648l-11.125,14.695c-2.335,3.09-3.777,7.279-3.777,11.056c0,9.614,8.103,17.579,17.854,17.579
+										c9.82,0,17.717-7.897,17.717-17.785C322.097,382.851,316.191,376.327,307.539,375.366 M304.243,384.224
+										c4.051,0,7.348,3.227,7.348,7.279c0,3.983-3.297,7.279-7.279,7.279c-4.052,0-7.279-3.296-7.279-7.348
+										C297.033,387.52,300.26,384.224,304.243,384.224"/>
+								</g>
+							</svg>
+							</div>
+							<div class="cell shrink">
+							
+							<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="122" x="0px" y="0px"
+								viewBox="0 0 673.456 312.256" enable-background="new 0 0 673.456 312.256" xml:space="preserve">
+							<g>
+								<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M439.418,130.398c-0.468,0.354-0.933,0.717-1.391,1.098
+									l-32.585,27.081l-10.886,61.735c-1.288,7.303-5.665,13.891-11.649,18.581c0.563-0.417,1.121-0.847,1.669-1.303l34.273-28.484
+									l11.275-63.946C431.126,139.483,434.572,134.307,439.418,130.398z"/>
+								<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M397.398,49.749c-15.041,0-29.268,11.538-31.778,25.771
+									l-25.531,144.793c-2.51,14.233,7.649,25.771,22.69,25.771c7.323,0,14.45-2.74,20.129-7.19c5.984-4.689,10.361-11.277,11.649-18.581
+									l10.886-61.735l14.645-83.057C422.597,61.288,412.439,49.749,397.398,49.749z"/>
+								<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M460.017,123.109c-7.665,0-15.051,2.814-20.599,7.289
+									c-4.847,3.909-8.292,9.085-9.293,14.763l-11.275,63.946l-2.632,14.924c-2.147,12.178,7.754,22.052,22.115,22.052
+									c14.362,0,27.745-9.874,29.892-22.052l13.907-78.87C484.28,132.983,474.379,123.109,460.017,123.109z"/>
+							</g>
+							<ellipse transform="matrix(0.7375 -0.6753 0.6753 0.7375 -12.6387 407.1466)" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" cx="517.428" cy="219.832" rx="28.668" ry="24.039"/>
+							<g>
+								<path fill="#FFFFFF" d="M158.656,107.453h22.734l-5.916,33.561h19.892l5.916-33.561h22.875l-15.914,90.265h-22.875l6.608-37.487
+									h-19.892l-6.608,37.487h-22.734L158.656,107.453z"/>
+								<path fill="#FFFFFF" d="M238.229,107.453h22.734l-15.914,90.265h-22.734L238.229,107.453z"/>
+								<path fill="#FFFFFF" d="M287.187,125.315h-19.489l3.146-17.862h61.844l-3.146,17.862h-19.489l-12.763,72.403h-22.87
+									L287.187,125.315z"/>
+							</g>
+							<g>
+								<path fill="#FFFFFF" d="M195.504,245.168l4.545-25.773c-1.05,0.065-2.117,0.186-3.201,0.364c-1.086,0.178-2.031,0.349-2.838,0.51
+									l1.055-5.982c0.445-0.129,1.056-0.283,1.832-0.462c0.777-0.177,1.618-0.348,2.521-0.51c0.905-0.162,1.828-0.299,2.773-0.413
+									c0.944-0.113,1.837-0.17,2.68-0.17h4.134l-5.72,32.436H195.504z"/>
+								<path fill="#FFFFFF" d="M219.746,245.85c-1.816,0-3.381-0.268-4.697-0.804c-1.317-0.534-2.366-1.385-3.149-2.552
+									c-0.784-1.167-1.271-2.675-1.464-4.523c-0.193-1.847-0.055-4.1,0.414-6.759l0.797-4.522c0.469-2.659,1.134-4.912,1.995-6.76
+									c0.861-1.848,1.888-3.355,3.083-4.522c1.195-1.167,2.552-2.019,4.074-2.553c1.52-0.535,3.156-0.803,4.907-0.803
+									c1.783,0,3.34,0.268,4.673,0.803c1.332,0.535,2.389,1.386,3.172,2.553c0.782,1.167,1.27,2.674,1.464,4.522
+									c0.192,1.848,0.054,4.101-0.415,6.76l-0.797,4.522c-0.469,2.659-1.125,4.912-1.969,6.759c-0.845,1.848-1.856,3.356-3.034,4.523
+									c-1.179,1.167-2.529,2.019-4.049,2.552C223.23,245.582,221.561,245.85,219.746,245.85z M224.717,217.935
+									c-0.844,0-1.523,0.179-2.04,0.536c-0.517,0.357-0.954,0.899-1.308,1.629c-0.357,0.729-0.654,1.637-0.894,2.723
+									c-0.24,1.086-0.488,2.359-0.745,3.818l-0.806,4.571c-0.257,1.458-0.458,2.732-0.601,3.818c-0.143,1.086-0.173,1.993-0.091,2.723
+									c0.082,0.729,0.319,1.273,0.709,1.629c0.391,0.357,0.992,0.535,1.803,0.535c0.81,0,1.482-0.178,2.015-0.535
+									c0.533-0.356,0.977-0.9,1.333-1.629c0.355-0.73,0.653-1.637,0.893-2.723c0.24-1.086,0.489-2.36,0.746-3.818l0.806-4.571
+									c0.257-1.459,0.45-2.732,0.575-3.818c0.127-1.086,0.149-1.994,0.067-2.723c-0.083-0.73-0.319-1.272-0.709-1.629
+									C226.079,218.114,225.495,217.935,224.717,217.935z"/>
+								<path fill="#FFFFFF" d="M259.627,212.732l-3.439,19.501h2.578l-1.063,6.03h-2.578l-1.218,6.905h-7.003l1.218-6.905h-12.742
+									l1.072-6.079l15.685-19.452H259.627z M249.185,232.232l1.784-10.115l-7.814,10.115H249.185z"/>
+								<path fill="#FFFFFF" d="M261.308,237.388h7.392l-1.372,7.78h-7.392L261.308,237.388z"/>
+								<path fill="#FFFFFF" d="M271.997,245.168c1.974-4.765,4.095-9.207,6.362-13.325c2.265-4.116,4.603-8.137,7.014-12.06H274.09
+									l1.244-7.051h19.306l-1.141,6.468c-2.503,4.085-4.932,8.3-7.286,12.643c-2.356,4.346-4.419,8.786-6.193,13.325H271.997z"/>
+							</g>
+							</svg>
+
+							</div>
+						</div>	
+					</div>
+				</div>
+			</div>
+		</header>
+		<section class="background-primary">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x align-justify align-middle">
+					<div class="cell shrink large-align-self-bottom">
+						<div class="grid-x grid-padding-x align-middle">
+							<div class="cell shrink show-for-large">
+								<nav class="top-bar__navigation"><ul id="menu-header-menu" class="menu"><li id="menu-item-269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a href="https://communityswitch.com.au/whats-on/">What’s on</a></li>
+<li id="menu-item-559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-559"><a href="https://communityswitch.com.au/amplify-your-event/">Amplify your event</a></li>
+<li id="menu-item-281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-281"><a href="https://communityswitch.com.au/get-in-touch/">Contact Us</a></li>
+</ul></nav>							</div>
+						</div>
+					</div>
+				</div>			
+			</div>
+		</section>
+
+		<div class="site-navigation top-bar-offset hide-for-large">
+			<div class="grid-container content-area">
+				<div class="grid-x grid-padding-x">
+					<div class="cell">
+						<nav class="site-navigation__navigation"><ul id="menu-header-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a href="https://communityswitch.com.au/whats-on/">What’s on</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-559"><a href="https://communityswitch.com.au/amplify-your-event/">Amplify your event</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-281"><a href="https://communityswitch.com.au/get-in-touch/">Contact Us</a></li>
+</ul></nav>					</div>
+				</div>
+			</div>
+		</div>
+
+		<main>
+	<article id="post-200" class="home post-200 page type-page status-publish hentry">
+
+		<section id="whats-on-this-week" class="content-area-x2 background-grey" data-row-type="whats_on_posts_row" data-row-index="row_2">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x grid-padding-y align-justify align-middle padding-bottom">
+            <div class="cell shrink medium-auto">
+                <h2>What’s on this week</h2>
+            </div>
+            <div class="cell shrink padding-top medium-padding-top-x0">
+                <a class="btn btn--hollow btn--hollow--highlight" href="https://communityswitch.com.au/whats-on/?event_date=weekly" target="_self">View all</a>
+            </div>
+        </div>
+        <div class="grid-x grid-padding-x grid-padding-y">
+            <div class="cell medium-6 large-3"><article id="post-5182" class="moving-targets-finding-young-people-in-the-early-modern-world-with-professor-nicholas-terpstra grid-x height_100 flex-dir-column post-5182 tribe_events type-tribe_events status-publish hentry tribe_events_cat-events cat_events">
+    	<div class="cell flex-child-shrink position_relative"> 
+        <a href="https://communityswitch.com.au/event/moving-targets-finding-young-people-in-the-early-modern-world-with-professor-nicholas-terpstra/">
+		<figure class="margin-bottom-x0">
+			<span class="tile-link__image-container set-size set-size--landscape">
+				<span class="set-size__image background-image" style="background-image:url('https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/Professor-Nicholas-Terpstra_July-Event_Whats-On-Image-Artshub.jpg');">
+					<img src="https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/Professor-Nicholas-Terpstra_July-Event_Whats-On-Image-Artshub.jpg" alt="Moving targets: Finding Young People in the Early Modern World with Professor Nicholas Terpstra image">
+				</span>
+			</span>
+		</figure>
+        </a>
+        <figcaption class="whatson_img_text background-primary">
+            <h6>
+            02 July            </h6>
+        </figcaption>
+	</div>
+		<div class="cell flex-child-grow padding-top">
+       <span class="color-primary font-weight-medium"><a class="color-primary icon-link" href="https://communityswitch.com.au/whats-on/?event_category=events">Events</a></span> 
+        <h6 class="size-body"><a class="tile-link" href="https://communityswitch.com.au/event/moving-targets-finding-young-people-in-the-early-modern-world-with-professor-nicholas-terpstra/">Moving targets: Finding Young People in the Early Modern World with Professor Nicholas Terpstra</a></h6>
+        <p>Join Professor Nicholas Terpstra as he discusses where we can find youths in the histories of </p>
+        <div class="grid-x">
+            <div class="cell align-self-bottom">
+                <a href="https://communityswitch.com.au/event/moving-targets-finding-young-people-in-the-early-modern-world-with-professor-nicholas-terpstra/">View details</a>
+            </div>
+        </div>
+	</div>
+</article></div><div class="cell medium-6 large-3"><article id="post-4996" class="supporting-neurodivergent-kids-free-seminar grid-x height_100 flex-dir-column post-4996 tribe_events type-tribe_events status-publish hentry tribe_events_cat-events cat_events">
+    	<div class="cell flex-child-shrink position_relative"> 
+        <a href="https://communityswitch.com.au/event/supporting-neurodivergent-kids-free-seminar/">
+		<figure class="margin-bottom-x0">
+			<span class="tile-link__image-container set-size set-size--landscape">
+				<span class="set-size__image background-image" style="background-image:url('https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/1-1080x800.jpeg');">
+					<img src="https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/1-1080x800.jpeg" alt="Supporting Neurodivergent Kids Free Seminar image">
+				</span>
+			</span>
+		</figure>
+        </a>
+        <figcaption class="whatson_img_text background-primary">
+            <h6>
+            03 July            </h6>
+        </figcaption>
+	</div>
+		<div class="cell flex-child-grow padding-top">
+       <span class="color-primary font-weight-medium"><a class="color-primary icon-link" href="https://communityswitch.com.au/whats-on/?event_category=events">Events</a></span> 
+        <h6 class="size-body"><a class="tile-link" href="https://communityswitch.com.au/event/supporting-neurodivergent-kids-free-seminar/">Supporting Neurodivergent Kids Free Seminar</a></h6>
+        <p>A free seminar run by clinical psychologists that you can attend online or in person, about </p>
+        <div class="grid-x">
+            <div class="cell align-self-bottom">
+                <a href="https://communityswitch.com.au/event/supporting-neurodivergent-kids-free-seminar/">View details</a>
+            </div>
+        </div>
+	</div>
+</article></div><div class="cell medium-6 large-3"><article id="post-5102" class="tracing-aviatrix-archives-with-dr-jo-langdon grid-x height_100 flex-dir-column post-5102 tribe_events type-tribe_events status-publish hentry tribe_events_cat-events cat_events">
+    	<div class="cell flex-child-shrink position_relative"> 
+        <a href="https://communityswitch.com.au/event/tracing-aviatrix-archives-with-dr-jo-langdon/">
+		<figure class="margin-bottom-x0">
+			<span class="tile-link__image-container set-size set-size--landscape">
+				<span class="set-size__image background-image" style="background-image:url('https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/Pioneer-aviator-Amy-Johnson-nla.obj-150938035-Artshub.jpg');">
+					<img src="https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/Pioneer-aviator-Amy-Johnson-nla.obj-150938035-Artshub.jpg" alt="Tracing aviatrix archives with Dr Jo Langdon image">
+				</span>
+			</span>
+		</figure>
+        </a>
+        <figcaption class="whatson_img_text background-primary">
+            <h6>
+            04 July            </h6>
+        </figcaption>
+	</div>
+		<div class="cell flex-child-grow padding-top">
+       <span class="color-primary font-weight-medium"><a class="color-primary icon-link" href="https://communityswitch.com.au/whats-on/?event_category=events">Events</a></span> 
+        <h6 class="size-body"><a class="tile-link" href="https://communityswitch.com.au/event/tracing-aviatrix-archives-with-dr-jo-langdon/">Tracing aviatrix archives with Dr Jo Langdon</a></h6>
+        <p>Join Dr Jo Langdon as she presents a lecture on her 2024 Creative Arts Fellowship research </p>
+        <div class="grid-x">
+            <div class="cell align-self-bottom">
+                <a href="https://communityswitch.com.au/event/tracing-aviatrix-archives-with-dr-jo-langdon/">View details</a>
+            </div>
+        </div>
+	</div>
+</article></div><div class="cell medium-6 large-3"><article id="post-5197" class="spotlight-conversations-gina-williams-and-guy-ghouse grid-x height_100 flex-dir-column post-5197 tribe_events type-tribe_events status-publish hentry tribe_events_cat-events cat_events">
+    	<div class="cell flex-child-shrink position_relative"> 
+        <a href="https://communityswitch.com.au/event/spotlight-conversations-gina-williams-and-guy-ghouse-3/">
+		<figure class="margin-bottom-x0">
+			<span class="tile-link__image-container set-size set-size--landscape">
+				<span class="set-size__image background-image" style="background-image:url('https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/LL_1495_FA_Spotlight_Conv_5_Web-Listing_CommunitySwitch_340x278px.jpg');">
+					<img src="https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/LL_1495_FA_Spotlight_Conv_5_Web-Listing_CommunitySwitch_340x278px.jpg" alt="Spotlight Conversations: Gina Williams and Guy Ghouse image">
+				</span>
+			</span>
+		</figure>
+        </a>
+        <figcaption class="whatson_img_text background-primary">
+            <h6>
+            04 July            </h6>
+        </figcaption>
+	</div>
+		<div class="cell flex-child-grow padding-top">
+       <span class="color-primary font-weight-medium"><a class="color-primary icon-link" href="https://communityswitch.com.au/whats-on/?event_category=events">Events</a></span> 
+        <h6 class="size-body"><a class="tile-link" href="https://communityswitch.com.au/event/spotlight-conversations-gina-williams-and-guy-ghouse-3/">Spotlight Conversations: Gina Williams and Guy Ghouse</a></h6>
+        <p>Join us in the lead up to NAIDOC Week for a conversation with award-winning musicians Gina </p>
+        <div class="grid-x">
+            <div class="cell align-self-bottom">
+                <a href="https://communityswitch.com.au/event/spotlight-conversations-gina-williams-and-guy-ghouse-3/">View details</a>
+            </div>
+        </div>
+	</div>
+</article></div>        </div>
+    </div>
+</section>
+<section id="ginninderry-events" class="content-area-x2 background-white" data-row-type="ginninderry_events_row" data-row-index="row_3">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x align-justify align-middle padding-bottom">
+            <div class="cell shrink medium-auto">
+                <h2>Ginninderry events</h2>
+            </div>
+                        <div class="cell shrink padding-top medium-padding-top-x0">
+                <a class="btn btn--hollow btn--hollow--highlight" href="https://ginninderry.com/whats-on/" target="_blank">View all</a>
+            </div>
+                    </div>
+        <div class="grid-x grid-padding-x grid-padding-y">
+            <div class="cell">
+                				
+				<div class="grid-x grid-padding-x grid-padding-y medium-up-2 large-up-4">
+										<div class="cell">
+					    
+					    <article class="grid-x height_100 flex-dir-column">
+                                                            	<div class="cell flex-child-shrink position_relative"> 
+                                    <a href="https://ginninderry.com/event/exhibition-eclectic-by-gm-frew/" target="blank">
+                            		<figure class="margin-bottom-x0">
+                            			<span class="tile-link__image-container set-size set-size--landscape">
+                            				<span class="set-size__image background-image" style="background-image:url('https://ginninderry.com/wp-content/uploads/2023/11/gm-frew.png');">
+                            					<img src="https://ginninderry.com/wp-content/uploads/2023/11/gm-frew.png" alt="Exhibition: Eclectic by gm frew image">
+                            				</span>
+                            			</span>
+                            		</figure>
+                                    </a>
+                                    <figcaption class="whatson_img_text background-primary">
+                                        <p><strong>
+                                        May 28 - July 7                                        </strong></p>
+                                    </figcaption>
+                            	</div>
+                            	                            	<div class="cell flex-child-grow padding-top">
+                            	    <span class="color-primary">Arts</span>                                    <h6 class="size-body"><a class="tile-link" href="https://ginninderry.com/event/exhibition-eclectic-by-gm-frew/" target="_blank">Exhibition: Eclectic by gm frew</a></h6>
+                                    <p>From the drama and whimsey of Nature, through the vast expanse of Panoramas to the confounding </p>
+                                    <div class="grid-x">
+                                        <div class="cell align-self-bottom">
+                                            <a href="https://ginninderry.com/event/exhibition-eclectic-by-gm-frew/" target="_blank">View details</a>
+                                        </div>
+                                    </div>
+                            	</div>
+                            </article>
+					    
+					</div>
+										<div class="cell">
+					    
+					    <article class="grid-x height_100 flex-dir-column">
+                                                            	<div class="cell flex-child-shrink position_relative"> 
+                                    <a href="https://ginninderry.com/event/fitness-in-the-park-2/2024-07-03/" target="blank">
+                            		<figure class="margin-bottom-x0">
+                            			<span class="tile-link__image-container set-size set-size--landscape">
+                            				<span class="set-size__image background-image" style="background-image:url('https://ginninderry.com/wp-content/uploads/2024/01/The-Smart-Centre-Group-Fitness-Photo.jpeg');">
+                            					<img src="https://ginninderry.com/wp-content/uploads/2024/01/The-Smart-Centre-Group-Fitness-Photo.jpeg" alt="Fitness in the park image">
+                            				</span>
+                            			</span>
+                            		</figure>
+                                    </a>
+                                    <figcaption class="whatson_img_text background-primary">
+                                        <p><strong>
+                                        July 3 @ 6:30 pm - 7:30 pm                                        </strong></p>
+                                    </figcaption>
+                            	</div>
+                            	                            	<div class="cell flex-child-grow padding-top">
+                            	    <span class="color-primary">Community, Fitness</span>                                    <h6 class="size-body"><a class="tile-link" href="https://ginninderry.com/event/fitness-in-the-park-2/2024-07-03/" target="_blank">Fitness in the park</a></h6>
+                                    <p>Fitness class for all levels of fitness for the whole community. Join local resident Vince as </p>
+                                    <div class="grid-x">
+                                        <div class="cell align-self-bottom">
+                                            <a href="https://ginninderry.com/event/fitness-in-the-park-2/2024-07-03/" target="_blank">View details</a>
+                                        </div>
+                                    </div>
+                            	</div>
+                            </article>
+					    
+					</div>
+										<div class="cell">
+					    
+					    <article class="grid-x height_100 flex-dir-column">
+                                                            	<div class="cell flex-child-shrink position_relative"> 
+                                    <a href="https://ginninderry.com/event/yoga-at-ginninderry-2/2024-07-04/" target="blank">
+                            		<figure class="margin-bottom-x0">
+                            			<span class="tile-link__image-container set-size set-size--landscape">
+                            				<span class="set-size__image background-image" style="background-image:url('https://ginninderry.com/wp-content/uploads/2021/09/GIN_56173_Yoga_Ginninderry_Community_Tile_1200x800px.jpg');">
+                            					<img src="https://ginninderry.com/wp-content/uploads/2021/09/GIN_56173_Yoga_Ginninderry_Community_Tile_1200x800px.jpg" alt="Yoga at Ginninderry image">
+                            				</span>
+                            			</span>
+                            		</figure>
+                                    </a>
+                                    <figcaption class="whatson_img_text background-primary">
+                                        <p><strong>
+                                        July 4 @ 6:45 pm - 7:45 pm                                        </strong></p>
+                                    </figcaption>
+                            	</div>
+                            	                            	<div class="cell flex-child-grow padding-top">
+                            	    <span class="color-primary">Community, Fitness</span>                                    <h6 class="size-body"><a class="tile-link" href="https://ginninderry.com/event/yoga-at-ginninderry-2/2024-07-04/" target="_blank">Yoga at Ginninderry</a></h6>
+                                    <p>Locals of Strathnairn and surrounding suburbs in West Belconnen are invited to a weekly community yoga </p>
+                                    <div class="grid-x">
+                                        <div class="cell align-self-bottom">
+                                            <a href="https://ginninderry.com/event/yoga-at-ginninderry-2/2024-07-04/" target="_blank">View details</a>
+                                        </div>
+                                    </div>
+                            	</div>
+                            </article>
+					    
+					</div>
+					                        <div class="cell">				
+            				<a href="https://ginninderry.com/" target="_blank">
+            					<img src="https://communityswitch.com.au/wp-content/uploads/sites/3/2024/01/GIN_Community-Switch_600x500px.gif" height="250px" width="970px" alt="Ginninderry MREC January 2024">
+            				</a>
+            			</div>   
+                        				</div>
+				            </div>
+        </div>
+    </div>
+</section><section id="whats-on-this-month" class="content-area-x2 background-grey" data-row-type="whats_on_posts_row" data-row-index="row_4">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x grid-padding-y align-justify align-middle padding-bottom">
+            <div class="cell shrink medium-auto">
+                <h2>What’s on this month</h2>
+            </div>
+            <div class="cell shrink padding-top medium-padding-top-x0">
+                <a class="btn btn--hollow btn--hollow--highlight" href="https://communityswitch.com.au/whats-on/?event_date=monthly" target="_self">View all</a>
+            </div>
+        </div>
+        <div class="grid-x grid-padding-x grid-padding-y">
+            <div class="cell medium-6 large-3"><article id="post-5007" class="vinyl-lounge grid-x height_100 flex-dir-column post-5007 tribe_events type-tribe_events status-publish hentry tribe_events_cat-events cat_events">
+    	<div class="cell flex-child-shrink position_relative"> 
+        <a href="https://communityswitch.com.au/event/vinyl-lounge-3/">
+		<figure class="margin-bottom-x0">
+			<span class="tile-link__image-container set-size set-size--landscape">
+				<span class="set-size__image background-image" style="background-image:url('https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/Vinyl-Lounge.jpg');">
+					<img src="https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/Vinyl-Lounge.jpg" alt="Vinyl Lounge image">
+				</span>
+			</span>
+		</figure>
+        </a>
+        <figcaption class="whatson_img_text background-primary">
+            <h6>
+            05 July            </h6>
+        </figcaption>
+	</div>
+		<div class="cell flex-child-grow padding-top">
+       <span class="color-primary font-weight-medium"><a class="color-primary icon-link" href="https://communityswitch.com.au/whats-on/?event_category=events">Events</a></span> 
+        <h6 class="size-body"><a class="tile-link" href="https://communityswitch.com.au/event/vinyl-lounge-3/">Vinyl Lounge</a></h6>
+        <p>Vinyl lovers rejoice! Bring your treasured vinyl records and hear what’s spinning on the NFSA’s turntables </p>
+        <div class="grid-x">
+            <div class="cell align-self-bottom">
+                <a href="https://communityswitch.com.au/event/vinyl-lounge-3/">View details</a>
+            </div>
+        </div>
+	</div>
+</article></div><div class="cell medium-6 large-3"><article id="post-4897" class="community-climate-gathering-with-rising-tide grid-x height_100 flex-dir-column post-4897 tribe_events type-tribe_events status-publish hentry tribe_events_cat-events cat_events">
+    	<div class="cell flex-child-shrink position_relative"> 
+        <a href="https://communityswitch.com.au/event/community-climate-gathering-with-rising-tide/">
+		<figure class="margin-bottom-x0">
+			<span class="tile-link__image-container set-size set-size--landscape">
+				<span class="set-size__image background-image" style="background-image:url('https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/RT-Tour-Canberra-FB-banner-updated-1200x800.jpg');">
+					<img src="https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/RT-Tour-Canberra-FB-banner-updated-1200x800.jpg" alt="Community Climate Gathering with Rising Tide image">
+				</span>
+			</span>
+		</figure>
+        </a>
+        <figcaption class="whatson_img_text background-primary">
+            <h6>
+            05 July            </h6>
+        </figcaption>
+	</div>
+		<div class="cell flex-child-grow padding-top">
+       <span class="color-primary font-weight-medium"><a class="color-primary icon-link" href="https://communityswitch.com.au/whats-on/?event_category=events">Events</a></span> 
+        <h6 class="size-body"><a class="tile-link" href="https://communityswitch.com.au/event/community-climate-gathering-with-rising-tide/">Community Climate Gathering with Rising Tide</a></h6>
+        <p>The Rising Tide Tour event for Canberra. A night of inspiring speakers, live music and food. </p>
+        <div class="grid-x">
+            <div class="cell align-self-bottom">
+                <a href="https://communityswitch.com.au/event/community-climate-gathering-with-rising-tide/">View details</a>
+            </div>
+        </div>
+	</div>
+</article></div><div class="cell medium-6 large-3"><article id="post-4760" class="winter-wonderland-comes-to-the-little-burley-markets grid-x height_100 flex-dir-column post-4760 tribe_events type-tribe_events status-publish hentry">
+    	<div class="cell flex-child-shrink position_relative"> 
+        <a href="https://communityswitch.com.au/event/winter-wonderland-comes-to-the-little-burley-markets/">
+		<figure class="margin-bottom-x0">
+			<span class="tile-link__image-container set-size set-size--landscape">
+				<span class="set-size__image background-image" style="background-image:url('https://communityswitch.com.au/wp-content/uploads/sites/3/2024/05/2-1200x800.jpg');">
+					<img src="https://communityswitch.com.au/wp-content/uploads/sites/3/2024/05/2-1200x800.jpg" alt="Winter Wonderland Comes to The Little Burley Markets! image">
+				</span>
+			</span>
+		</figure>
+        </a>
+        <figcaption class="whatson_img_text background-primary">
+            <h6>
+            06 July            </h6>
+        </figcaption>
+	</div>
+		<div class="cell flex-child-grow padding-top">
+        
+        <h6 class="size-body"><a class="tile-link" href="https://communityswitch.com.au/event/winter-wonderland-comes-to-the-little-burley-markets/">Winter Wonderland Comes to The Little Burley Markets!</a></h6>
+        <p>On July 6th, welcome Winter Wonderland: Canberra’s cosiest community event, to The Little Burley Market. A </p>
+        <div class="grid-x">
+            <div class="cell align-self-bottom">
+                <a href="https://communityswitch.com.au/event/winter-wonderland-comes-to-the-little-burley-markets/">View details</a>
+            </div>
+        </div>
+	</div>
+</article></div><div class="cell medium-6 large-3"><article id="post-5011" class="dig-deeper-art-meets-film-free-naidoc-week-screening grid-x height_100 flex-dir-column post-5011 tribe_events type-tribe_events status-publish hentry tribe_events_cat-events cat_events">
+    	<div class="cell flex-child-shrink position_relative"> 
+        <a href="https://communityswitch.com.au/event/dig-deeper-art-meets-film-free-naidoc-week-screening/">
+		<figure class="margin-bottom-x0">
+			<span class="tile-link__image-container set-size set-size--landscape">
+				<span class="set-size__image background-image" style="background-image:url('https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/DigDeeper-ATDW2048x1536-1200x800.png');">
+					<img src="https://communityswitch.com.au/wp-content/uploads/sites/3/2024/06/DigDeeper-ATDW2048x1536-1200x800.png" alt="Dig Deeper | Art Meets Film | Free NAIDOC Week Screening image">
+				</span>
+			</span>
+		</figure>
+        </a>
+        <figcaption class="whatson_img_text background-primary">
+            <h6>
+            06 July            </h6>
+        </figcaption>
+	</div>
+		<div class="cell flex-child-grow padding-top">
+       <span class="color-primary font-weight-medium"><a class="color-primary icon-link" href="https://communityswitch.com.au/whats-on/?event_category=events">Events</a></span> 
+        <h6 class="size-body"><a class="tile-link" href="https://communityswitch.com.au/event/dig-deeper-art-meets-film-free-naidoc-week-screening/">Dig Deeper | Art Meets Film | Free NAIDOC Week Screening</a></h6>
+        <p>A thought-provoking portrait of the ground-breaking creative practice of First Nations artists Blak Douglas, Maree Clarke, </p>
+        <div class="grid-x">
+            <div class="cell align-self-bottom">
+                <a href="https://communityswitch.com.au/event/dig-deeper-art-meets-film-free-naidoc-week-screening/">View details</a>
+            </div>
+        </div>
+	</div>
+</article></div>        </div>
+    </div>
+</section>
+<section id="row-5" class="content-area-x2 background-grey" data-row-type="ad_row" data-row-index="row_5">    
+	<div class="grid-container">        
+		<div class="grid-x align-center text-center">            
+			<div class="cell large-8">				
+				<a href="https://ginninderry.com/" target="_blank">
+					<img src="https://communityswitch.com.au/wp-content/uploads/sites/3/2024/01/GIN_Community-Switch_1940x500px.gif" height="250px" width="970px" alt="Ginninderry Banner January 2024">
+				</a>
+			</div>        
+		</div>    
+	</div>
+</section> 
+
+	</article>
+
+			</main>
+
+		<footer class="bottom-bar background-gradient large-content-area">
+			<div class="show-for-medium">
+				<div class="grid-container content-area">
+					<div class="grid-x grid-padding-x grid-padding-y">
+						<div class="cell large-3">
+							<h3 class="site-logo site-logo-footer">
+								<a class="site-logo__link ir" href="https://communityswitch.com.au/" title="Ginninderry Community Switch" rel="home">Ginninderry Community Switch</a>
+							</h3>
+							<div class="show-for-large padding-top bottom_bar_links">
+								&copy; 2024 Ginninderry Community Switch.<br>All rights reserved.<br> <a href="https://communityswitch.com.au/disclaimer/">Disclaimer</a>.							</div>
+						</div>
+												<div class="cell large-6">
+							<nav class="bottom-bar__navigation"><ul id="menu-footer-menu" class="menu"><li id="menu-item-4" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4"><a href="https://communityswitch.com.au/whats-on/?event_date=weekly">What’s on this week</a></li>
+<li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5"><a href="https://communityswitch.com.au/whats-on/?event_category=eat-and-drink">Eat and drink</a></li>
+<li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6"><a href="https://communityswitch.com.au/whats-on/?event_category=things-to-do">Things to do</a></li>
+<li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="https://communityswitch.com.au/whats-on/?event_category=family-friendly-events">Family friendly events</a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="https://communityswitch.com.au/amplify-your-event/">Promote</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9"><a href="http://communityswitch.com.au/get-in-touch/">Contact us</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="http://communityswitch.com.au/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a target="_blank" rel="noopener" href="https://www.mix106.com.au/">Mix 106.3</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a target="_blank" rel="noopener" href="https://www.hit.com.au/canberra">Hit 104.7</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="https://seearsworkwearroundabout.com.au/">Roundabout</a></li>
+<li id="menu-item-2263" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2263"><a target="_blank" rel="noopener" href="https://nige.au/">NIGE</a></li>
+</ul></nav>						</div>
+						
+											</div>
+				</div>
+			</div>
+			<div class="bottom-bar__legality large-padding-top-x0">
+				<div class="grid-container">
+					<div class="grid-x grid-padding-x text-center large-text-left">
+						<div class="cell large-9">
+							<div class="wysiwyg padding-bottom large-padding-bottom-x0">We acknowledge Traditional Owners of Country throughout Australia and recognises the continuing connection to lands, waters and communities. We pay our respect to Aboriginal and Torres Strait Islander cultures; and to Elders past, present and emerging. Aboriginal and Torres Strait Islander peoples should be aware that this website may contain images or names of people who have passed away.</div>			
+						</div>
+						<div class="cell large-auto large-text-left hide-for-large">
+							&copy; 2024 Ginninderry Community Switch.<br>All rights reserved.<br> <a href="https://communityswitch.com.au/disclaimer/">Disclaimer</a>.						</div>
+						<div class="cell large-3 large-text-right">
+							Site by <a href="https://supercurious.au/" target="_blank" rel="nofollow" class="text-underline color-white">Supercurious</a>.						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+
+		<section class="grid-x popup js-ajax-popup content-area">
+			<div class="grid-container medium-align-self-middle">
+				<div class="grid-x grid-padding-x align-center">
+					<div class="cell large-10 xlarge-8">
+						<div class="popup__content boxed-content large-boxed-content-sides-x2 content-area large-content-area-x2 background-white wysiwyg position_relative">
+							<div class="js-ajax-loader">
+
+							</div>
+							<a href="#" class="close-btn js-close-trigger">
+								<span class="link-icon"><i class="fa-regular fa-xmark"></i></span>
+							</a>
+						</article>
+					</div>
+				</div>
+			</div>
+			<div class="popup__close js-close-trigger"></div>
+		</section>
+
+		
+		
+		<div id="outdated"></div>
+		<script src="https://communityswitch.com.au/wp-content/themes/coordinate_communityswitch/assets/js/outdatedbrowser.min.js"></script>
+		<script>		
+		//event listener: DOM ready
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function() {
+					if (oldonload) {
+						oldonload();
+					}
+					func();
+				}
+			}
+		}
+		//call plugin function after DOM ready
+		addLoadEvent(function(){
+			outdatedBrowser({
+				bgColor: '#f25648',
+				color: '#ffffff',
+				lowerThan: 'borderImage',
+				languagePath: 'https://communityswitch.com.au/wp-content/themes/coordinate_communityswitch/assets/js/lang/en.html'
+			})
+		});
+		</script>
+
+		<!--[if lt IE 9]>
+		  <script src="https://communityswitch.com.au/wp-content/themes/coordinate_communityswitch/assets/js/html5shiv.js"></script>
+		  <script src="https://communityswitch.com.au/wp-content/themes/coordinate_communityswitch/assets/js/respond.min.js"></script>
+		<![endif]-->
+
+				<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><script src="https://communityswitch.com.au/wp-content/themes/coordinate_communityswitch/assets/js/vendor/jquery-migrate-3.0.1.min.js?ver=3.0.1" id="migrate-js"></script>
+<script src="https://kit.fontawesome.com/29b58b9908.js?ver=1" id="icons-js"></script>
+<script src="https://communityswitch.com.au/wp-content/themes/coordinate_communityswitch/assets/js/plugins.js?ver=1" id="plugins-js"></script>
+<script id="app-js-extra">
+var themeurl = {"templateUrl":"https:\/\/communityswitch.com.au\/wp-content\/themes\/coordinate_communityswitch"};
+</script>
+<script src="https://communityswitch.com.au/wp-content/themes/coordinate_communityswitch/assets/js/app.js?ver=1" id="app-js"></script>
+
+	</body>
+</html>

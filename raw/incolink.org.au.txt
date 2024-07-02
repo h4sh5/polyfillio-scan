@@ -1,0 +1,922 @@
+
+<!DOCTYPE html><html
+class="fonts-loaded" lang="en" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head><meta
+charset="utf-8"><meta
+name="viewport" content="width=device-width,minimum-scale=1"><link
+rel="apple-touch-icon" sizes="180x180" href="/dist/favicon/apple-touch-icon.png"><link
+rel="icon" type="image/png" sizes="32x32" href="/dist/favicon/favicon-32x32.png"><link
+rel="icon" type="image/png" sizes="16x16" href="/dist/favicon/favicon-16x16.png"><link
+rel="manifest" href="/dist/favicon/site.webmanifest"><link
+rel="mask-icon" href="/dist/favicon/safari-pinned-tab.svg" color="#005584"><meta
+name="msapplication-TileColor" content="#005584"><meta
+name="theme-color" content="#005584"> <script src="https://cdn.polyfill.io/v3/polyfill.min.js?callback=polyfillsAreLoaded&flags=gated" defer async></script>  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XR1TW9HKKV"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-XR1TW9HKKV');</script> <style>body:not(.user-is-tabbing) button:focus,body:not(.user-is-tabbing) input:focus,body:not(.user-is-tabbing) select:focus,body:not(.user-is-tabbing) textarea:focus{outline:none}</style> <script>function handleFirstTab(e){if(e.keyCode===9){document.documentElement.classList.add('user-is-tabbing');window.removeEventListener('keydown',handleFirstTab);window.addEventListener('mousedown',handleMouseDownOnce);}}
+function handleMouseDownOnce(){document.documentElement.classList.remove('user-is-tabbing');window.removeEventListener('mousedown',handleMouseDownOnce);window.addEventListener('keydown',handleFirstTab);}
+window.addEventListener('keydown',handleFirstTab);</script> <link
+rel=preconnect href="https://translate.google.com"><link
+rel=preconnect href="https://static.zdassets.com"> <script>(function(h,o,t,j,a,r){h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};h._hjSettings={hjid:1826006,hjsv:6};a=o.getElementsByTagName('head')[0];r=o.createElement('script');r.async=1;r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;a.appendChild(r);})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');</script> <title>Entitlements, Insurance, Wellbeing | Incolink</title><meta name="generator" content="SEOmatic">
+<meta name="keywords" content="worker entitlements,construction industry,safety net,entitlement scheme">
+<meta name="description" content="Incolink is the safety net for the building and construction industry. We&#039;re Australia’s oldest and largest workers’ entitlement scheme.">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="robots" content="all">
+<meta content="104640326287498" property="fb:profile_id">
+<meta content="en_AU" property="og:locale">
+<meta content="Incolink" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="https://incolink.org.au/" property="og:url">
+<meta content="Entitlements, Insurance, Wellbeing" property="og:title">
+<meta content="Incolink is the safety net for the building and construction industry. We&#039;re Australia’s oldest and largest workers’ entitlement scheme." property="og:description">
+<meta content="https://d7kulbmmtvghi.cloudfront.net/images/_1200x630_crop_center-center_82_none_ns/workers.jpg?mtime=1663037451" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="630" property="og:image:height">
+<meta content="Two construction workers wearing orange high-vis clothing and smiling while leaning against scaffolding" property="og:image:alt">
+<meta content="https://www.instagram.com/incolink_/" property="og:see_also">
+<meta content="https://www.youtube.com/user/Incolinkheretohelp" property="og:see_also">
+<meta content="https://www.linkedin.com/company/incolink/" property="og:see_also">
+<meta content="https://www.facebook.com/Incolink1/" property="og:see_also">
+<meta content="https://twitter.com/incolink" property="og:see_also">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@incolink">
+<meta name="twitter:creator" content="@incolink">
+<meta name="twitter:title" content="Entitlements, Insurance, Wellbeing">
+<meta name="twitter:description" content="Incolink is the safety net for the building and construction industry. We&#039;re Australia’s oldest and largest workers’ entitlement scheme.">
+<meta name="twitter:image" content="https://d7kulbmmtvghi.cloudfront.net/images/_1200x630_crop_center-center_82_none_ns/workers.jpg?mtime=1663037451">
+<meta name="twitter:image:width" content="1200">
+<meta name="twitter:image:height" content="630">
+<meta name="twitter:image:alt" content="Two construction workers wearing orange high-vis clothing and smiling while leaning against scaffolding">
+<link href="https://incolink.org.au" rel="canonical">
+<link href="https://incolink.org.au" rel="home">
+<link type="text/plain" href="https://incolink.org.au/humans.txt" rel="author">
+<link href="/dist/css/main.css?v=1718187484" rel="stylesheet">
+<link href="/dist/css/picker.css?v=1718158379" rel="stylesheet"></head><body><div
+id="app"><header
+class="theme-dark"><div
+class="bg-blue-900"><div
+class="container"><div
+class="flex justify-center lg:justify-between -mx-4"><div
+class="px-4 flex items-center  py-3">
+<img
+class="mr-2 w-6 h-6" src="/dist/images/icons/info-solid.svg" alt="info icon"><p
+class="text-xs lg:text-sm text-white">You&#039;re browsing the National site.</p></div><div
+class="hidden lg:block px-4"><ul
+class="flex items-center  h-full text-sm text-white uppercase tracking-widest font-semibold "><li
+class="flex items-center h-full px-2">
+<a
+href="#translate" class="opacity-75 hover:opacity-100 transition duration-200">
+<svg
+width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Translate</title>
+<g
+fill="#FFFFFF" fill-rule="nonzero">
+<path
+d="M16.2,2.7 L7.992,2.7 L7.2,0 L1.8,0 C0.81,0 0,0.81 0,1.8 L0,13.5 C0,14.49 0.81,15.3 1.8,15.3 L8.1,15.3 L9,18 L16.2,18 C17.19,18 18,17.19 18,16.2 L18,4.5 C18,3.51 17.19,2.7 16.2,2.7 Z M4.6485,11.3265 C2.619,11.3265 0.972,9.675 0.972,7.65 C0.972,5.625 2.6235,3.9735 4.6485,3.9735 C5.5845,3.9735 6.435,4.3065 7.11,4.932 L7.1685,4.9905 L6.0705,6.0525 L6.0165,6.003 C5.76,5.76 5.3145,5.4765 4.6485,5.4765 C3.4695,5.4765 2.511,6.453 2.511,7.6545 C2.511,8.856 3.4695,9.8325 4.6485,9.8325 C5.8815,9.8325 6.417,9.045 6.561,8.5185 L4.572,8.5185 L4.572,7.1235 L8.127,7.1235 L8.1405,7.1865 C8.1765,7.3755 8.19,7.542 8.19,7.731 C8.1855,9.8505 6.732,11.3265 4.6485,11.3265 Z M10.08,9.7965 C10.3815,10.3365 10.746,10.854 11.151,11.3265 L10.6695,11.8035 L10.08,9.7965 L10.08,9.7965 Z M10.773,9.1035 L9.882,9.1035 L9.6075,8.1675 L13.203,8.1675 C13.203,8.1675 12.897,9.351 11.799,10.629 C11.3175,10.0755 10.9845,9.5355 10.773,9.1035 L10.773,9.1035 Z M17.1,16.2 C17.1,16.695 16.695,17.1 16.2,17.1 L9.9,17.1 L11.7,15.3 L10.9665,12.8115 L11.7945,11.9835 L14.211,14.4 L14.868,13.743 L12.4335,11.3265 C13.2435,10.395 13.8735,9.3015 14.157,8.172 L15.3,8.172 L15.3,7.236 L12.0285,7.236 L12.0285,6.3 L11.0925,6.3 L11.0925,7.236 L9.3285,7.236 L8.2575,3.6 L16.2,3.6 C16.695,3.6 17.1,4.005 17.1,4.5 L17.1,16.2 Z" id="Shape"></path>
+</g>
+</svg>
+</a></li><li
+class="px-2">
+<a
+href="https://incolink.org.au/incolink-app" class="opacity-75 hover:opacity-100 transition duration-200">App</a></li><li
+class="px-2">
+<a
+href="https://incolink.org.au/about" class="opacity-75 hover:opacity-100 transition duration-200">About</a></li><li
+class="px-2">
+<a
+href="https://incolink.org.au/industry-grants" class="opacity-75 hover:opacity-100 transition duration-200">Grants</a></li><li
+class="px-2">
+<a
+href="https://incolinkhelp.zendesk.com/hc/en-au" class="opacity-75 hover:opacity-100 transition duration-200">Help Centre</a></li><li
+class="px-2">
+<a
+href="https://incolink.org.au/news" class="opacity-75 hover:opacity-100 transition duration-200">News</a></li><li
+class="px-2">
+<a
+href="https://incolink.org.au/contact" class="opacity-75 hover:opacity-100 transition duration-200">Contact</a></li><li
+class="site-selector relative flex items-center bg-blue-700 ml-2 h-full px-4"><div
+id="js-site-selector-trigger"  class="site-selector__trigger flex items-center space-x-2">
+<svg
+width="15" height="18" viewBox="0 0 15 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M7.5603 9C8.66487 9 9.5603 8.10457 9.5603 7C9.5603 5.89543 8.66487 5 7.5603 5C6.45573 5 5.5603 5.89543 5.5603 7C5.5603 8.10457 6.45573 9 7.5603 9Z" stroke="#E6EEF3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path
+d="M13.5603 7.15385C13.5603 12.6923 7.5603 17 7.5603 17C7.5603 17 1.5603 12.6923 1.5603 7.15385C1.5603 5.52174 2.19244 3.95649 3.31766 2.80242C4.44288 1.64835 5.969 1 7.5603 1C9.1516 1 10.6777 1.64835 11.8029 2.80242C12.9282 3.95649 13.5603 5.52174 13.5603 7.15385V7.15385Z" stroke="#E6EEF3" stroke-width="1.5" stroke-linecap="round"/>
+</svg><span>national</span></div><ul
+id="js-site-selector-menu"  class="site-selector__menu absolute bottom-0 translate-y-full right-0 text-right bg-blue-700 z-50"><li
+class="text-sm px-3 py-1 hidden">
+<a
+href="https://incolink.org.au/" >NATIONAL</a></li><li
+class="text-sm px-3 py-1 ">
+<a
+href="https://incolink.org.au/sa/" >SA</a></li><li
+class="text-sm px-3 py-1 ">
+<a
+href="https://incolink.org.au/tas/" >TAS</a></li><li
+class="text-sm px-3 py-1 ">
+<a
+href="https://incolink.org.au/nsw/" >NSW</a></li><li
+class="text-sm px-3 py-1 ">
+<a
+href="https://incolink.org.au/vic/" >VIC</a></li></ul></li></ul></div></div></div></div></header><header
+class="sticky top-0 z-40"><div
+class="bg-blue-500 h-16 lg:h-20 relative"><div
+class="container flex items-center">
+<a
+href="https://incolink.org.au/" class="mr-4 mt-2 lg:mt-4">
+<img
+src="/dist/images/logo.svg" alt="Incolink" class="h-14 lg:h-16" loading="eager" height="64" width="122">
+</a><ul
+class="hidden lg:inline-flex text-base text-white font-regular h-full"><li
+class="primary-nav__item px-3 opacity-75 hover:opacity-100 hover:bg-blue-600 transition duration-200 group h-20 flex items-center">
+<a
+href="https://incolink.org.au/workers" class="leading-none">For Workers</a><div
+class="-top-9999 absolute left-0 hover:top-20 group-hover:top-20 w-full bg-white py-8 overflow-hidden shadow-lg  transition opacity-0 group-hover:opacity-100 transform duration-500"><div
+class="container"><div
+class="flex -mx-4"><div
+class="w-1/3 px-4"><div
+class="p-6 rounded bg-light"><h4><a
+href="https://incolink.org.au/workers" class="hover:text-primary transition duration-200">For Workers</a></h4><p
+class="text-sm"><p>We keep your entitlements safe for when you need them most.</p></p>
+<a
+href="https://incolink.org.au/workers" class="link">Read more</a></div></div><div
+class="flex-1 px-4"><ul
+class="flex flex-wrap -mx-3"><li
+class="w-1/3 px-3"><div
+class="menu-card flex relative flex-col items-start h-full p-6 rounded border border-transparent hover:border-light transition duration-200">
+<a
+aria-label="Worker Entitlements" href="https://incolink.org.au/workers/worker-entitlements" class="absolute inset-0" ></a><h5><a
+href="https://incolink.org.au/workers/worker-entitlements" class="hover:text-primary transition duration-200">Worker Entitlements</a></h5><div
+class="relative"><ul><li><a
+href="/workers/worker-entitlements#incolink-redundancy-account">Incolink Redundancy Account</a></li><li><a
+href="/workers/worker-entitlements#making-a-claim">Making a claim</a></li><li><a
+href="/workers/worker-entitlements#incolink-member-card">Incolink Member Card</a></li><li><a
+href="/workers/worker-entitlements#for-apprentices">For Apprentices</a></li><li><a
+href="/workers/worker-entitlements#industry-liaison%0A">Incolink Liaison Officers</a></li></ul></div></div></li><li
+class="w-1/3 px-3"><div
+class="menu-card flex relative flex-col items-start h-full p-6 rounded border border-transparent hover:border-light transition duration-200">
+<a
+aria-label="Insurance" href="https://incolink.org.au/workers/insurance" class="absolute inset-0" ></a><h5><a
+href="https://incolink.org.au/workers/insurance" class="hover:text-primary transition duration-200">Insurance</a></h5><div
+class="relative"><p>As an Incolink Worker Member your employer pays contributions on your behalf. Depending on the contribution type, certain insurance cover may be available.</p></div></div></li><li
+class="w-1/3 px-3"><div
+class="menu-card flex relative flex-col items-start h-full p-6 rounded border border-transparent hover:border-light transition duration-200">
+<a
+aria-label="Work Injury Management" href="https://incolink.org.au/employers/wims" class="absolute inset-0" ></a><h5><a
+href="https://incolink.org.au/employers/wims" class="hover:text-primary transition duration-200">Work Injury Management</a></h5><div
+class="relative"><p>Incolink Worker Injury Management Service (WIMS) is automatically available to employers and injured workers when the applicable levy is paid.</p></div></div></li></ul></div></div></div></div></li><li
+class="primary-nav__item px-3 opacity-75 hover:opacity-100 hover:bg-blue-600 transition duration-200 group h-20 flex items-center">
+<a
+href="https://incolink.org.au/employers" class="leading-none">For Employers</a><div
+class="-top-9999 absolute left-0 hover:top-20 group-hover:top-20 w-full bg-white py-8 overflow-hidden shadow-lg  transition opacity-0 group-hover:opacity-100 transform duration-500"><div
+class="container"><div
+class="flex -mx-4"><div
+class="w-1/3 px-4"><div
+class="p-6 rounded bg-light"><h4><a
+href="https://incolink.org.au/employers" class="hover:text-primary transition duration-200">For Employers</a></h4><p
+class="text-sm"><p>Incolink is Australia’s most secure workers’ entitlements scheme.</p></p>
+<a
+href="https://incolink.org.au/employers" class="link">Read more</a></div></div><div
+class="flex-1 px-4"><ul
+class="flex flex-wrap -mx-3"><li
+class="w-1/3 px-3"><div
+class="menu-card flex relative flex-col items-start h-full p-6 rounded border border-transparent hover:border-light transition duration-200">
+<a
+aria-label="Membership" href="https://incolink.org.au/employers/incolink-membership" class="absolute inset-0" ></a><h5><a
+href="https://incolink.org.au/employers/incolink-membership" class="hover:text-primary transition duration-200">Membership</a></h5><div
+class="relative"><ul><li><a
+href="/employers/incolink-membership#benefits-of-membership">Benefits of Membership</a><br
+/></li><li><a
+href="/employers/incolink-membership#applying-for-membership">Applying for Membership</a></li><li><a
+href="/employers/incolink-membership#manage-your-account-online">Manage your account online</a></li><li><a
+href="/employers/incolink-membership#managing-your-workforce">Manage your workforce</a></li><li><a
+href="/employers/incolink-membership#apprentices">Apprentices</a></li><li><a
+href="/employers/incolink-membership#payments">Payments</a></li><li><a
+href="/employers/incolink-membership#worker-claims">Worker Claims</a></li><li><a
+href="https://incolink.org.au/incolink-assist">Incolink Assist - EAP</a></li></ul></div></div></li><li
+class="w-1/3 px-3"><div
+class="menu-card flex relative flex-col items-start h-full p-6 rounded border border-transparent hover:border-light transition duration-200">
+<a
+aria-label="Insurance" href="https://incolink.org.au/employers/insurance" class="absolute inset-0" ></a><h5><a
+href="https://incolink.org.au/employers/insurance" class="hover:text-primary transition duration-200">Insurance</a></h5><div
+class="relative"><p>Incolink provides an extensive list of insurance options for your workforce, including Discretionary Cover, Leisure Time Injury, and more. Find out more about Insurance with Incolink. <br
+/></p></div></div></li><li
+class="w-1/3 px-3"><div
+class="menu-card flex relative flex-col items-start h-full p-6 rounded border border-transparent hover:border-light transition duration-200">
+<a
+aria-label="Work Injury Management" href="https://incolink.org.au/employers/wims" class="absolute inset-0" ></a><h5><a
+href="https://incolink.org.au/employers/wims" class="hover:text-primary transition duration-200">Work Injury Management</a></h5><div
+class="relative"><p>Incolink Worker Injury Management Service (WIMS) is automatically available to employers and injured workers when the applicable levy is paid.</p></div></div></li></ul></div></div></div></div></li><li
+class="primary-nav__item px-3 opacity-75 hover:opacity-100 hover:bg-blue-600 transition duration-200 group h-20 flex items-center">
+<a
+href="https://incolink.org.au/wellbeing-support-services" class="leading-none">Wellbeing &amp; Support Services</a><div
+class="-top-9999 absolute left-0 hover:top-20 group-hover:top-20 w-full bg-white py-8 overflow-hidden shadow-lg  transition opacity-0 group-hover:opacity-100 transform duration-500"><div
+class="container"><div
+class="flex -mx-4"><div
+class="w-1/3 px-4"><div
+class="p-6 rounded bg-light"><h4><a
+href="https://incolink.org.au/wellbeing-support-services" class="hover:text-primary transition duration-200">Wellbeing &amp; Support Services</a></h4><p
+class="text-sm"><p>Incolink is the safety net for your physical and mental health. Wellbeing &amp; Support services are exclusive to workers in the construction industry as part of your membership.</p><p>Services available may differ based on state.</p></p>
+<a
+href="https://incolink.org.au/wellbeing-support-services" class="link">Read more</a></div></div><div
+class="flex-1 px-4"><ul
+class="flex flex-wrap -mx-3"><li
+class="w-1/3 px-3"><div
+class="menu-card flex relative flex-col items-start h-full p-6 rounded border border-transparent hover:border-light transition duration-200">
+<a
+aria-label="Counselling Support" href="https://incolink.org.au/wellbeing-support-services/counselling-support" class="absolute inset-0" ></a>
+<a
+href="https://incolink.org.au/wellbeing-support-services/counselling-support" class="mb-4 inline-block"><div
+class="w-16 h-16 flex items-center ">
+<img
+class="pointer-events-none max-h-full max-w-full"
+src="https://d7kulbmmtvghi.cloudfront.net/images/Icons/Councelling-icon.svg"
+loading="lazy"
+height="96" width="96"
+alt="Councelling icon"></div>
+</a><h5><a
+href="https://incolink.org.au/wellbeing-support-services/counselling-support" class="hover:text-primary transition duration-200">Counselling Support</a></h5><div
+class="relative"><p>Call <a
+href="tel:13002000020129">1300 000 129</a> any time of the day or night.</p></div></div></li><li
+class="w-1/3 px-3"><div
+class="menu-card flex relative flex-col items-start h-full p-6 rounded border border-transparent hover:border-light transition duration-200">
+<a
+aria-label="Bluehats Suicide Prevention" href="https://incolink.org.au/wellbeing-support-services/bluehats" class="absolute inset-0" ></a>
+<a
+href="https://incolink.org.au/wellbeing-support-services/bluehats" class="mb-4 inline-block"><div
+class="w-16 h-16 flex items-center ">
+<img
+class="pointer-events-none max-h-full max-w-full"
+src="https://d7kulbmmtvghi.cloudfront.net/images/Icons/Bluehats-icon.svg"
+loading="lazy"
+height="96" width="96"
+alt="Bluehats icon"></div>
+</a><h5><a
+href="https://incolink.org.au/wellbeing-support-services/bluehats" class="hover:text-primary transition duration-200">Bluehats Suicide Prevention</a></h5><div
+class="relative"><p>Helping workers who are doing it tough by providing someone to talk to on site.</p></div></div></li><li
+class="w-1/3 px-3"><div
+class="menu-card flex relative flex-col items-start h-full p-6 rounded border border-transparent hover:border-light transition duration-200">
+<a
+aria-label="Onsite Services" href="https://incolink.org.au/wellbeing-support-services/onsite-services" class="absolute inset-0" ></a>
+<a
+href="https://incolink.org.au/wellbeing-support-services/onsite-services" class="mb-4 inline-block"><div
+class="w-16 h-16 flex items-center ">
+<img
+class="pointer-events-none max-h-full max-w-full"
+src="https://d7kulbmmtvghi.cloudfront.net/images/Icons/Bus-icon.svg"
+loading="lazy"
+height="96" width="96"
+alt="Bus icon"></div>
+</a><h5><a
+href="https://incolink.org.au/wellbeing-support-services/onsite-services" class="hover:text-primary transition duration-200">Onsite Services</a></h5><div
+class="relative"><p>Delivering skin checks, flu vaccinations and health checks on site.</p></div></div></li><li
+class="w-1/3 px-3"><div
+class="menu-card flex relative flex-col items-start h-full p-6 rounded border border-transparent hover:border-light transition duration-200">
+<a
+aria-label="Incolink Jobs" href="https://incolink.org.au/wellbeing-support-services/job-support" class="absolute inset-0" ></a>
+<a
+href="https://incolink.org.au/wellbeing-support-services/job-support" class="mb-4 inline-block"><div
+class="w-16 h-16 flex items-center ">
+<img
+class="pointer-events-none max-h-full max-w-full"
+src="https://d7kulbmmtvghi.cloudfront.net/images/Icons/Jobsearch-icon.svg"
+loading="lazy"
+height="96" width="96"
+alt="Jobsearch icon"></div>
+</a><h5><a
+href="https://incolink.org.au/wellbeing-support-services/job-support" class="hover:text-primary transition duration-200">Incolink Jobs</a></h5><div
+class="relative"><p>Incolink Training &amp; Careers Advisors can help you find your next job or training course.</p></div></div></li><li
+class="w-1/3 px-3"><div
+class="menu-card flex relative flex-col items-start h-full p-6 rounded border border-transparent hover:border-light transition duration-200">
+<a
+aria-label="Toolboxes" href="https://incolink.org.au/wellbeing-support-services/toolboxes" class="absolute inset-0" ></a>
+<a
+href="https://incolink.org.au/wellbeing-support-services/toolboxes" class="mb-4 inline-block"><div
+class="w-16 h-16 flex items-center ">
+<img
+class="pointer-events-none max-h-full max-w-full"
+src="https://d7kulbmmtvghi.cloudfront.net/images/Icons/Toolboxes-1.svg"
+loading="lazy"
+height="96" width="96"
+alt="Toolboxes 1"></div>
+</a><h5><a
+href="https://incolink.org.au/wellbeing-support-services/toolboxes" class="hover:text-primary transition duration-200">Toolboxes</a></h5><div
+class="relative"><p>Incolink can come to your site and provide educational toolboxes to workers on a variety of topics.</p></div></div></li><li
+class="w-1/3 px-3"><div
+class="menu-card flex relative flex-col items-start h-full p-6 rounded border border-transparent hover:border-light transition duration-200">
+<a
+aria-label="Financial Counselling" href="https://incolink.org.au/wellbeing-support-services/financial-counselling" class="absolute inset-0" ></a>
+<a
+href="https://incolink.org.au/wellbeing-support-services/financial-counselling" class="mb-4 inline-block"><div
+class="w-16 h-16 flex items-center ">
+<img
+class="pointer-events-none max-h-full max-w-full"
+src="https://d7kulbmmtvghi.cloudfront.net/images/Icons/FinCouns-Wallet2-1_2023-06-23-034029_prvq.svg"
+loading="lazy"
+height="96" width="96"
+alt="Fin Couns Wallet2 1"></div>
+</a><h5><a
+href="https://incolink.org.au/wellbeing-support-services/financial-counselling" class="hover:text-primary transition duration-200">Financial Counselling</a></h5><div
+class="relative"><p>Incolink's Financial Counselling service provides advocacy and options for workers facing financial hardship.</p></div></div></li></ul></div></div></div></div></li></ul><div
+class="flex items-center ml-auto -mx-1">
+<button
+class="search-trigger hidden lg:flex mx-1 h-12 w-12 rounded-full hover:bg-blue-600 items-center justify-center transition duration-200">
+<svg
+width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Search</title>
+<g
+fill="#FFFFFF">
+<path
+d="M9.81818182,0 C15.2406139,0 19.6363636,4.39574973 19.6363636,9.81818182 C19.6363636,15.2406139 15.2406139,19.6363636 9.81818182,19.6363636 C4.39574973,19.6363636 0,15.2406139 0,9.81818182 C0,4.39574973 4.39574973,0 9.81818182,0 Z M9.81818182,2 C5.50031923,2 2,5.50031923 2,9.81818182 C2,14.1360444 5.50031923,17.6363636 9.81818182,17.6363636 C14.1360444,17.6363636 17.6363636,14.1360444 17.6363636,9.81818182 C17.6363636,5.50031923 14.1360444,2 9.81818182,2 Z"></path>
+<path
+d="M9.81818182,4.45454545 L9.81818182,6.45454545 C8.02241959,6.45454545 6.55533302,7.86177328 6.45952254,9.63362851 L6.45454545,9.81818182 L4.45454545,9.81818182 C4.45454545,6.92998362 6.73735902,4.57496509 9.59709312,4.45901929 L9.81818182,4.45454545 Z"></path>
+<polygon
+points="19.2525613 17.8383478 23.6161977 22.2019841 22.2019841 23.6161977 17.8383478 19.2525613"></polygon>
+</g>
+</svg>
+</button>
+<button
+class="login-trigger btn btn-secondary  py-2 lg:py-3 px-3 lg:px-5 mx-1 flex items-center relative">
+Login
+</button><div
+id="js-login-menu" class="modal"><div
+class="modal__overlay login-trigger"></div><div
+class="p-8 w-full flex justify-center overflow-scroll"><div
+class="modal__content flex flex-col items-center w-64 sm:w-full sm:max-w-lg theme-dark"><h2 class="text-white mb-8">Login</h2><div
+class="relative bg-white rounded border border-blue-200 w-full mb-8"><ul
+class="flex flex-col sm:flex-row"><li
+class="w-full md:w-1/2 relative">
+<a
+href="https://workerlink.incolink.org.au/" class="relative"><div
+class="h-0 aspect-ratio-square relative hover:bg-light transition duration-200"><div
+class="flex flex-col absolute inset-0 justify-center items-center p-4"><div
+class="w-24 h-24 flex items-center mb-2">
+<img
+class="pointer-events-none max-h-full max-w-full"
+src="https://d7kulbmmtvghi.cloudfront.net/images/Icons/WorkerLink-icon.svg"
+loading="lazy"
+height="96" width="96"
+alt="Worker Link icon"></div>
+<span
+class="uppercase text-sm font-semibold tracking-wider text-primary">WorkerLink</span></div></div>
+</a></li><li
+class="w-full md:w-1/2 relative">
+<a
+href="https://employerlink.incolink.org.au/" class="relative"><div
+class="h-0 aspect-ratio-square relative hover:bg-light transition duration-200"><div
+class="flex flex-col absolute inset-0 justify-center items-center p-4"><div
+class="w-24 h-24 flex items-center mb-2">
+<img
+class="pointer-events-none max-h-full max-w-full"
+src="https://d7kulbmmtvghi.cloudfront.net/images/Icons/EmployerLink-icon.svg"
+loading="lazy"
+height="96" width="96"
+alt="Employer Link icon"></div>
+<span
+class="uppercase text-sm font-semibold tracking-wider text-primary">EmployerLink</span></div></div>
+</a></li></ul></div></div></div></div></div>
+<button
+id="js-menu-trigger" class="menu-trigger lg:hidden ml-1" aria-label="menu">
+<span></span>
+<span></span>
+<span></span>
+</button></div></div><div
+id="js-mobile-menu" class="menu bg-blue-100 shadow-lg" ><div
+class="container py-6"><form
+action="https://incolink.org.au/search" class="flex mb-3 relative">
+<label
+for="mobile-search-input" class="hidden">Search</label>
+<input
+id="mobile-search-input" type="search" name="q" placeholder="Search..." class="w-full appearance-none relative"><div
+class="absolute h-12 w-12 top-0 right-0 flex items-center justify-center pointer-events-none">
+<svg
+width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Search</title>
+<g
+fill="#99BBCE">
+<path
+d="M9.81818182,0 C15.2406139,0 19.6363636,4.39574973 19.6363636,9.81818182 C19.6363636,15.2406139 15.2406139,19.6363636 9.81818182,19.6363636 C4.39574973,19.6363636 0,15.2406139 0,9.81818182 C0,4.39574973 4.39574973,0 9.81818182,0 Z M9.81818182,2 C5.50031923,2 2,5.50031923 2,9.81818182 C2,14.1360444 5.50031923,17.6363636 9.81818182,17.6363636 C14.1360444,17.6363636 17.6363636,14.1360444 17.6363636,9.81818182 C17.6363636,5.50031923 14.1360444,2 9.81818182,2 Z"></path>
+<path
+d="M9.81818182,4.45454545 L9.81818182,6.45454545 C8.02241959,6.45454545 6.55533302,7.86177328 6.45952254,9.63362851 L6.45454545,9.81818182 L4.45454545,9.81818182 C4.45454545,6.92998362 6.73735902,4.57496509 9.59709312,4.45901929 L9.81818182,4.45454545 Z"></path>
+<polygon
+points="19.2525613 17.8383478 23.6161977 22.2019841 22.2019841 23.6161977 17.8383478 19.2525613"></polygon>
+</g>
+</svg></div></form><ul
+class="flex flex-col text-base text-blue-500 font-regular"><li
+class="mb-2 group">
+<a
+href="https://incolink.org.au/workers" class="parent-link opacity-100 hover:opacity-75 text-lg transition duration-200">For Workers</a><ul
+class="w-full my-1 hidden group-hover:flex flex-col"><li
+class="mb-1">
+<a
+class="" href="https://incolink.org.au/workers/worker-entitlements">Worker Entitlements</a></li><li
+class="mb-1">
+<a
+class="" href="https://incolink.org.au/workers/insurance">Insurance</a></li><li
+class="mb-1">
+<a
+class="" href="https://incolink.org.au/employers/wims">Work Injury Management</a></li></ul></li><li
+class="mb-2 group">
+<a
+href="https://incolink.org.au/employers" class="parent-link opacity-100 hover:opacity-75 text-lg transition duration-200">For Employers</a><ul
+class="w-full my-1 hidden group-hover:flex flex-col"><li
+class="mb-1">
+<a
+class="" href="https://incolink.org.au/employers/incolink-membership">Membership</a></li><li
+class="mb-1">
+<a
+class="" href="https://incolink.org.au/employers/insurance">Insurance</a></li><li
+class="mb-1">
+<a
+class="" href="https://incolink.org.au/employers/wims">Work Injury Management</a></li></ul></li><li
+class="mb-2 group">
+<a
+href="https://incolink.org.au/wellbeing-support-services" class="parent-link opacity-100 hover:opacity-75 text-lg transition duration-200">Wellbeing &amp; Support Services</a><ul
+class="w-full my-1 hidden group-hover:flex flex-col"><li
+class="mb-1">
+<a
+class="" href="https://incolink.org.au/wellbeing-support-services/counselling-support">Counselling Support</a></li><li
+class="mb-1">
+<a
+class="" href="https://incolink.org.au/wellbeing-support-services/onsite-services">Onsite Services</a></li><li
+class="mb-1">
+<a
+class="" href="https://incolink.org.au/wellbeing-support-services/bluehats">Bluehats Suicide Prevention</a></li><li
+class="mb-1">
+<a
+class="" href="https://incolink.org.au/wellbeing-support-services/financial-counselling">Financial Counselling</a></li><li
+class="mb-1">
+<a
+class="" href="https://incolink.org.au/wellbeing-support-services/job-support">Incolink Jobs</a></li><li
+class="mb-1">
+<a
+class="" href="https://incolink.org.au/wellbeing-support-services/toolboxes">Toolboxes</a></li></ul></li><li
+class="mb-2 group">
+<a
+href="https://incolink.org.au/about" class="link transition duration-200">About Incolink</a></li><li
+class="mb-2 group">
+<a
+href="https://incolink.org.au/industry-grants" class="link transition duration-200">Industry Grants</a></li><li
+class="mb-2 group">
+<a
+href="https://incolink.org.au/news" class="link transition duration-200">News</a></li><li
+class="mb-2 group">
+<a
+href="#" class="link transition duration-200">Help Center</a></li><li
+class="mb-2 group">
+<a
+href="https://incolink.org.au/contact" class="link transition duration-200">Contact</a></li><li
+class="relative  group border-t border-blue-300 pt-4 mt-4"><div
+class="parent-link"><div
+class="flex items-center justify-start font-semibold uppercase text-sm space-x-2">
+<svg
+width="15" height="18" viewBox="0 0 15 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path
+d="M7.5603 9C8.66487 9 9.5603 8.10457 9.5603 7C9.5603 5.89543 8.66487 5 7.5603 5C6.45573 5 5.5603 5.89543 5.5603 7C5.5603 8.10457 6.45573 9 7.5603 9Z" stroke="#005584" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path
+d="M13.5603 7.15385C13.5603 12.6923 7.5603 17 7.5603 17C7.5603 17 1.5603 12.6923 1.5603 7.15385C1.5603 5.52174 2.19244 3.95649 3.31766 2.80242C4.44288 1.64835 5.969 1 7.5603 1C9.1516 1 10.6777 1.64835 11.8029 2.80242C12.9282 3.95649 13.5603 5.52174 13.5603 7.15385V7.15385Z" stroke="#005584" stroke-width="1.5" stroke-linecap="round"/>
+</svg><span>National</span></div></div><ul
+class="w-full my-1 hidden group-hover:flex flex-col"><li
+class="mb-1 hidden">
+<a
+href="https://incolink.org.au/" >National</a></li><li
+class="mb-1 ">
+<a
+href="https://incolink.org.au/sa/" >South Australia</a></li><li
+class="mb-1 ">
+<a
+href="https://incolink.org.au/tas/" >Tasmania</a></li><li
+class="mb-1 ">
+<a
+href="https://incolink.org.au/nsw/" >New South Wales</a></li><li
+class="mb-1 ">
+<a
+href="https://incolink.org.au/vic/" >Victoria</a></li></ul></li></ul></div></div></header><div
+id="js-search" class="modal" ><div
+class="modal__overlay search-trigger"></div><div
+class="modal__content container max-w-4xl relative"><form
+action="https://incolink.org.au/search" class="flex w-full item-center relative">
+<label
+for="search-input" class="hidden">Search</label>
+<input
+id="search-input" type="search" name="q" placeholder="Type your search and hit enter..." class=""><div
+class="absolute h-16 w-16 top-1 right-1 flex items-center justify-center pointer-events-none">
+<svg
+width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Search</title>
+<g
+fill="#99BBCE">
+<path
+d="M9.81818182,0 C15.2406139,0 19.6363636,4.39574973 19.6363636,9.81818182 C19.6363636,15.2406139 15.2406139,19.6363636 9.81818182,19.6363636 C4.39574973,19.6363636 0,15.2406139 0,9.81818182 C0,4.39574973 4.39574973,0 9.81818182,0 Z M9.81818182,2 C5.50031923,2 2,5.50031923 2,9.81818182 C2,14.1360444 5.50031923,17.6363636 9.81818182,17.6363636 C14.1360444,17.6363636 17.6363636,14.1360444 17.6363636,9.81818182 C17.6363636,5.50031923 14.1360444,2 9.81818182,2 Z"></path>
+<path
+d="M9.81818182,4.45454545 L9.81818182,6.45454545 C8.02241959,6.45454545 6.55533302,7.86177328 6.45952254,9.63362851 L6.45454545,9.81818182 L4.45454545,9.81818182 C4.45454545,6.92998362 6.73735902,4.57496509 9.59709312,4.45901929 L9.81818182,4.45454545 Z"></path>
+<polygon
+points="19.2525613 17.8383478 23.6161977 22.2019841 22.2019841 23.6161977 17.8383478 19.2525613"></polygon>
+</g>
+</svg></div></form></div></div><main><header
+class="bg-dark theme-dark relative">
+<img
+class="absolute h-full w-full object-cover transform pointer-events-none " srcset="https://d7kulbmmtvghi.cloudfront.net/images/_lg/corp_home.jpg 1200w, https://d7kulbmmtvghi.cloudfront.net/images/_md/corp_home.jpg 1024w, https://d7kulbmmtvghi.cloudfront.net/images/_sm/corp_home.jpg 768w," loading="eager" height="800" width="1200" alt="Corp home"/><div
+class="bg-dark opacity-50 absolute inset-0"></div><div
+class="container relative"><div
+class="max-w-4xl text-center mx-auto"><div
+class=" py-16 md:pb-40 md:pt-32 flex flex-col items-center"><h1>Entitlements, Insurance, Wellbeing</h1><p
+class="lead">Incolink is the safety net for the building and construction industry.</p><div
+class="flex flex-wrap -mx-1 "><div
+class="m-1">
+<a
+class="btn btn-white-outline" href="https://incolink.org.au/about" >About Incolink</a></div></div></div></div></div></header><section
+class="bg-light pb-8 md:pb-16"><div
+class="container"><div
+class="bg-white p-8 rounded-xl grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 relative -mt-8"><div
+class="hidden">
+<a
+href="https://incolink.org.au/"><div
+class="relative aspect-ratio-square h-0 bg-dark rounded overflow-hidden theme-dark group">
+<img
+class="absolute h-full w-full object-cover transform pointer-events-none group-hover:scale-110 duration-500" srcset="https://d7kulbmmtvghi.cloudfront.net/images/_lg/inco_vic.jpg 1200w, https://d7kulbmmtvghi.cloudfront.net/images/_md/inco_vic.jpg 1024w, https://d7kulbmmtvghi.cloudfront.net/images/_sm/inco_vic.jpg 768w," loading="eager" height="800" width="1200" alt="Inco vic"/><div
+class="bg-gradient-to-t from-dark absolute top-1/2 inset-x-0 bottom-0"></div><div
+class="py-8 pl-8 pr-16 absolute inset-x-0 bottom-0"><h4 class="mb-0">National</h4>
+<svg
+class="absolute bottom-8 right-8" width="8" height="14" viewbox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" clip-rule="evenodd" d="M0.416696 2.02172L1.75342 0.684998L6.65491 5.58649L6.65503 5.58636L7.99175 6.92309L1.75371 13.1611L0.416992 11.8244L5.31818 6.92321L0.416696 2.02172Z" fill="white"/>
+</svg></div></div>
+</a></div><div
+class="">
+<a
+href="https://incolink.org.au/sa/"><div
+class="relative aspect-ratio-square h-0 bg-dark rounded overflow-hidden theme-dark group">
+<img
+class="absolute h-full w-full object-cover transform pointer-events-none group-hover:scale-110 duration-500" srcset="https://d7kulbmmtvghi.cloudfront.net/images/_lg/inco_sa.jpg 1200w, https://d7kulbmmtvghi.cloudfront.net/images/_md/inco_sa.jpg 1024w, https://d7kulbmmtvghi.cloudfront.net/images/_sm/inco_sa.jpg 768w," loading="eager" height="800" width="1200" alt="Inco sa"/><div
+class="bg-gradient-to-t from-dark absolute top-1/2 inset-x-0 bottom-0"></div><div
+class="py-8 pl-8 pr-16 absolute inset-x-0 bottom-0"><h4 class="mb-0">South Australia</h4>
+<svg
+class="absolute bottom-8 right-8" width="8" height="14" viewbox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" clip-rule="evenodd" d="M0.416696 2.02172L1.75342 0.684998L6.65491 5.58649L6.65503 5.58636L7.99175 6.92309L1.75371 13.1611L0.416992 11.8244L5.31818 6.92321L0.416696 2.02172Z" fill="white"/>
+</svg></div></div>
+</a></div><div
+class="">
+<a
+href="https://incolink.org.au/tas/"><div
+class="relative aspect-ratio-square h-0 bg-dark rounded overflow-hidden theme-dark group">
+<img
+class="absolute h-full w-full object-cover transform pointer-events-none group-hover:scale-110 duration-500" srcset="https://d7kulbmmtvghi.cloudfront.net/images/_lg/inco_tas.jpg 1200w, https://d7kulbmmtvghi.cloudfront.net/images/_md/inco_tas.jpg 1024w, https://d7kulbmmtvghi.cloudfront.net/images/_sm/inco_tas.jpg 768w," loading="eager" height="800" width="1200" alt="Inco tas"/><div
+class="bg-gradient-to-t from-dark absolute top-1/2 inset-x-0 bottom-0"></div><div
+class="py-8 pl-8 pr-16 absolute inset-x-0 bottom-0"><h4 class="mb-0">Tasmania</h4>
+<svg
+class="absolute bottom-8 right-8" width="8" height="14" viewbox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" clip-rule="evenodd" d="M0.416696 2.02172L1.75342 0.684998L6.65491 5.58649L6.65503 5.58636L7.99175 6.92309L1.75371 13.1611L0.416992 11.8244L5.31818 6.92321L0.416696 2.02172Z" fill="white"/>
+</svg></div></div>
+</a></div><div
+class="">
+<a
+href="https://incolink.org.au/nsw/"><div
+class="relative aspect-ratio-square h-0 bg-dark rounded overflow-hidden theme-dark group">
+<img
+class="absolute h-full w-full object-cover transform pointer-events-none group-hover:scale-110 duration-500" srcset="https://d7kulbmmtvghi.cloudfront.net/images/_lg/inco_nsw.jpg 1200w, https://d7kulbmmtvghi.cloudfront.net/images/_md/inco_nsw.jpg 1024w, https://d7kulbmmtvghi.cloudfront.net/images/_sm/inco_nsw.jpg 768w," loading="eager" height="800" width="1200" alt="Inco nsw"/><div
+class="bg-gradient-to-t from-dark absolute top-1/2 inset-x-0 bottom-0"></div><div
+class="py-8 pl-8 pr-16 absolute inset-x-0 bottom-0"><h4 class="mb-0">New South Wales</h4>
+<svg
+class="absolute bottom-8 right-8" width="8" height="14" viewbox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" clip-rule="evenodd" d="M0.416696 2.02172L1.75342 0.684998L6.65491 5.58649L6.65503 5.58636L7.99175 6.92309L1.75371 13.1611L0.416992 11.8244L5.31818 6.92321L0.416696 2.02172Z" fill="white"/>
+</svg></div></div>
+</a></div><div
+class="">
+<a
+href="https://incolink.org.au/vic/"><div
+class="relative aspect-ratio-square h-0 bg-dark rounded overflow-hidden theme-dark group">
+<img
+class="absolute h-full w-full object-cover transform pointer-events-none group-hover:scale-110 duration-500" srcset="https://d7kulbmmtvghi.cloudfront.net/images/_lg/inco_vic.jpg 1200w, https://d7kulbmmtvghi.cloudfront.net/images/_md/inco_vic.jpg 1024w, https://d7kulbmmtvghi.cloudfront.net/images/_sm/inco_vic.jpg 768w," loading="eager" height="800" width="1200" alt="Inco vic"/><div
+class="bg-gradient-to-t from-dark absolute top-1/2 inset-x-0 bottom-0"></div><div
+class="py-8 pl-8 pr-16 absolute inset-x-0 bottom-0"><h4 class="mb-0">Victoria</h4>
+<svg
+class="absolute bottom-8 right-8" width="8" height="14" viewbox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path
+fill-rule="evenodd" clip-rule="evenodd" d="M0.416696 2.02172L1.75342 0.684998L6.65491 5.58649L6.65503 5.58636L7.99175 6.92309L1.75371 13.1611L0.416992 11.8244L5.31818 6.92321L0.416696 2.02172Z" fill="white"/>
+</svg></div></div>
+</a></div></div></div></section><section
+class="bg-white theme-light relative py-8 md:py-16 overflow-hidden"><div
+class="mb-8"><div
+class="container"><div
+class="grid grid-cols-1 md:grid-cols-2 gap-4 items-center"><div
+class="order-first md:order-last"><div
+class="bg-gray-200 rounded overflow-hidden mb-4"><div
+class="js-player plyr__video-embed">
+<iframe
+src="https://player.vimeo.com/video/659127807?h=7ec6b59675&amp;app_id=122963" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Mental health is not a one person job"></iframe></div></div></div><div
+class="order-last md:order-first"><div
+class="max-w-2xl"><div
+class="richtext mb-6"><h2>Mental health is not a one person job</h2><p
+class="lead">In our industry, safety means knowing when a 1 person job is a 2 person job. The same applies to taking care of ourselves and managing our mental health. Talk to a mate, share the load with a Bluehat or call Incolink Counselling service on 1300 000 129.<br
+/></p></div><div
+class="flex flex-wrap -mx-1 "><div
+class="m-1">
+<a
+class="btn btn-primary-outline" href="https://incolink.org.au/share-the-load" >Find out more</a></div></div></div></div></div></div></div><div
+class="mb-8"><div
+class="container"><h2>Latest news</h2><div
+class="relative swiper-container news-swiper overflow-visible pb-10 lg:pb-0"><div
+class="swiper-wrapper"><div
+class="swiper-slide h-auto"><div
+class="group flex flex-col h-full"><div
+class="rounded relative overflow-hidden h-0 aspect-ratio-16/9 bg-blue-500 mb-4">
+<a
+href="https://incolink.org.au/news/incolink-launches-construction-industry-job-matching-platform" class="block">
+<img
+class="absolute h-full w-full object-cover transform group-hover:scale-110 transition duration-500" loading="lazy"
+srcset="https://d7kulbmmtvghi.cloudfront.net/images/_sm/INCOLINK-JUNE-6th-SOCIAL-MEDIA-FILES-47.jpg 768w,"
+src="https://d7kulbmmtvghi.cloudfront.net/images/_blur/INCOLINK-JUNE-6th-SOCIAL-MEDIA-FILES-47.jpg"
+width="600" height="400"
+alt="INCOLINK JUNE 6th SOCIAL MEDIA FILES 47">
+</a></div><p
+class="font-semibold text-xs uppercase text-gray-600 tracking-widest mb-1">July 01, 2024</p><h3><a
+href="https://incolink.org.au/news/incolink-launches-construction-industry-job-matching-platform" class="hover:text-primary transition duration-200">Incolink launches construction industry job matching platform</a></h3><p
+class="text-sm">Incolink CEO Erik Locke recently launched our new job platform Incolink Jobs, designed by and for industry.
+As the building and construction industry faces...</p>
+<a
+href="https://incolink.org.au/news/incolink-launches-construction-industry-job-matching-platform" class="link mt-auto" aria-label="Read article: Incolink launches construction industry job matching platform">Read more</a></div></div><div
+class="swiper-slide h-auto"><div
+class="group flex flex-col h-full"><div
+class="rounded relative overflow-hidden h-0 aspect-ratio-16/9 bg-blue-500 mb-4">
+<a
+href="https://incolink.org.au/news/supporting-plumbing-apprentices-like-harry" class="block">
+<img
+class="absolute h-full w-full object-cover transform group-hover:scale-110 transition duration-500" loading="lazy"
+srcset="https://d7kulbmmtvghi.cloudfront.net/images/_sm/140193/IMG_4286.jpg 768w,"
+src="https://d7kulbmmtvghi.cloudfront.net/images/_blur/140193/IMG_4286.jpg"
+width="600" height="400"
+alt="IMG 4286">
+</a>
+<a
+class="inline-block absolute top-0 left-0 py-1 px-2 bg-blue-500 hover:bg-blue-700 text-xs tracking-widest text-white uppercase font-semibold rounded-br transition duration-200" href="https://incolink.org.au/news/categories/incolink-news-2">Incolink News</a></div><p
+class="font-semibold text-xs uppercase text-gray-600 tracking-widest mb-1">June 21, 2024</p><h3><a
+href="https://incolink.org.au/news/supporting-plumbing-apprentices-like-harry" class="hover:text-primary transition duration-200">Supporting Plumbing apprentices like Harry</a></h3><p
+class="text-sm">A report we released last year estimated that by 2040, there will be 26,000 vacancies in the construction industry.
+Supporting apprentices through high qu...</p>
+<a
+href="https://incolink.org.au/news/supporting-plumbing-apprentices-like-harry" class="link mt-auto" aria-label="Read article: Supporting Plumbing apprentices like Harry">Read more</a></div></div><div
+class="swiper-slide h-auto"><div
+class="group flex flex-col h-full"><div
+class="rounded relative overflow-hidden h-0 aspect-ratio-16/9 bg-blue-500 mb-4">
+<a
+href="https://incolink.org.au/news/incolink-invests-to-kick-start-iconic-adelaide-market-square-development" class="block">
+<img
+class="absolute h-full w-full object-cover transform group-hover:scale-110 transition duration-500" loading="lazy"
+srcset="https://d7kulbmmtvghi.cloudfront.net/images/_sm/a855a405f8c6b2d4ceec7e5795bc90e9.jpg 768w,"
+src="https://d7kulbmmtvghi.cloudfront.net/images/_blur/a855a405f8c6b2d4ceec7e5795bc90e9.jpg"
+width="600" height="400"
+alt="Adelaide Market Square Site">
+</a>
+<a
+class="inline-block absolute top-0 left-0 py-1 px-2 bg-blue-500 hover:bg-blue-700 text-xs tracking-widest text-white uppercase font-semibold rounded-br transition duration-200" href="https://incolink.org.au/news/categories/incolink-news-2">Incolink News</a></div><p
+class="font-semibold text-xs uppercase text-gray-600 tracking-widest mb-1">June 21, 2024</p><h3><a
+href="https://incolink.org.au/news/incolink-invests-to-kick-start-iconic-adelaide-market-square-development" class="hover:text-primary transition duration-200">Incolink invests to kick-start iconic Adelaide Market Square development</a></h3><p
+class="text-sm">We have provided $15 million in capital to kick-start construction on the Market Square development, which will revitalise Adelaide’s CBD.In a boost to ...</p>
+<a
+href="https://incolink.org.au/news/incolink-invests-to-kick-start-iconic-adelaide-market-square-development" class="link mt-auto" aria-label="Read article: Incolink invests to kick-start iconic Adelaide Market Square development">Read more</a></div></div></div><div
+class="swiper-pagination block lg:hidden"></div></div></div></div></section><section
+class="bg-light theme-light relative py-8 md:py-16 overflow-hidden"><div
+class="mb-8"><div
+class="container relative"><div
+class="flex flex-wrap -mx-4"><div
+class="p-4 w-full md:w-1/3 flex flex-col"><div
+class="bg-white border border-blue-100 rounded overflow-hidden flex flex-col flex-1"><div
+class="p-8 flex flex-col flex-1"><div
+class="w-24 h-24 flex items-center mb-4">
+<img
+class="pointer-events-none w-full h-full"
+src="https://d7kulbmmtvghi.cloudfront.net/images/Icons/WorkerLink-icon.svg" loading="lazy"
+height="96" width="96"
+alt="Worker Link icon"></div><h4>Manage your account</h4><p>Incolink worker members can access their account 24/7 via WorkerLink – make a claim, account balance, active membership and more.</p>
+<a
+href="https://workerlink.incolink.org.au/" class="link mt-auto" target="_blank" rel="noopener">Sign in to WorkerLink</a></div></div></div><div
+class="p-4 w-full md:w-1/3 flex flex-col"><div
+class="bg-white border border-blue-100 rounded overflow-hidden flex flex-col flex-1"><div
+class="p-8 flex flex-col flex-1"><div
+class="w-24 h-24 flex items-center mb-4">
+<img
+class="pointer-events-none w-full h-full"
+src="https://d7kulbmmtvghi.cloudfront.net/images/Icons/Helpcenter-icon.svg" loading="lazy"
+height="96" width="96"
+alt="Helpcenter icon"></div><h4>Incolink Help Centre</h4><p>Use our online chat or visit our Help Centre to answer all of your Incolink Membership questions.</p>
+<a
+href="https://incolinkhelp.zendesk.com/" class="link mt-auto" target="_blank" rel="noopener">Get support</a></div></div></div><div
+class="p-4 w-full md:w-1/3 flex flex-col"><div
+class="bg-white border border-blue-100 rounded overflow-hidden flex flex-col flex-1"><div
+class="p-8 flex flex-col flex-1"><div
+class="w-24 h-24 flex items-center mb-4">
+<img
+class="pointer-events-none w-full h-full"
+src="https://d7kulbmmtvghi.cloudfront.net/images/Icons/EmployerLink-icon.svg" loading="lazy"
+height="96" width="96"
+alt="Employer Link icon"></div><h4>Manage your workers</h4><p>No more paper invoices – EmployerLink is Incolink’s dedicated online account management system.</p>
+<a
+href="https://employerlink.incolink.org.au/" class="link mt-auto" target="_blank" rel="noopener">Sign into EmployerLink</a></div></div></div></div></div></div></section><section
+class="bg-dark theme-dark relative py-8 md:py-16 overflow-hidden"><div
+class="absolute inset-0">
+<img
+class="absolute h-full w-full object-cover transform"
+srcset="https://d7kulbmmtvghi.cloudfront.net/images/_lg/app-background.jpg 1200w,
+https://d7kulbmmtvghi.cloudfront.net/images/_md/app-background.jpg 1024w,
+https://d7kulbmmtvghi.cloudfront.net/images/_sm/app-background.jpg 768w,"
+loading="lazy"
+height="900" width="1200"
+alt="A construction worker on a building site, wearing high-vis clothing, smiling as he looks at his phone"></div><div
+class="bg-dark opacity-75 z-0 absolute inset-0"></div><div
+class="mb-8"><div
+class="container relative"><div
+class="flex flex-wrap justify-center items-center -mx-4"><div
+class="w-full md:w-8/12 lg:w-5/12 px-4 mb-8 md:mb-0 text-center md:text-left"><div
+class="w-24 h-24 flex items-center mb-4 mx-auto md:mx-0">
+<img
+class="pointer-events-none"
+src="https://d7kulbmmtvghi.cloudfront.net/images/Icons/app-icon.svg"
+loading="lazy" height="96" width="96"
+alt="App icon"></div><h2>The Incolink App</h2><p
+class="lead">Make a claim, check your history, update details, and make sure your contributions are up to date.</p><div
+class="flex flex-wrap -mx-1 justify-center md:justify-start"><div
+class="m-1">
+<a
+class="btn btn-secondary" href="https://incolink.org.au/incolink-app" >Download now</a></div></div></div><div
+class="w-full block md:hidden lg:block lg:w-1/12 px-4"></div><div
+class="w-1/2 md:w-4/12 px-4">
+<img
+class="w-full pointer-events-none -mb-16"
+srcset="https://d7kulbmmtvghi.cloudfront.net/images/_lg/app-iphone.png 1200w,
+https://d7kulbmmtvghi.cloudfront.net/images/_md/818/app-iphone.jpg 1024w,
+https://d7kulbmmtvghi.cloudfront.net/images/_sm/818/app-iphone.jpg 768w,"
+loading="lazy"
+height="600" width="400"
+alt="App iphone">
+<span></span></div></div></div></div></section><section
+class="py-8 md:py-16 "><div
+class="container max-w-5xl"> <script src="//r3.dotdigital-pages.com/resources/sharing/embed.js?sharing=lp-embed&domain=r3.dotdigital-pages.com&id=56HR-7EP%2Finsightssubscribe%22"></script> </div></section></main><footer
+class="bg-blue-700 theme-dark"><div
+class="bg-blue-500"><div
+class="container flex items-center justify-between">
+<a
+href="/" class="inline-block mr-8 mt-3 md:mt-4">
+<img
+src="/dist/images/logo.svg" alt="Incolink" class="w-24 md:w-32"  loading="lazy" height="64" width="122">
+</a><ul
+class="flex flex-wrap items-center justify-center md:justify-end text-sm"><li
+class="mx-4 ml-0 md:mr-0 md:ml-6">
+<a
+href="https://www.facebook.com/Incolink1/" aria-label="Facebook" class="hover:opacity-75" target="_blank" rel="noopener">
+<svg
+width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g
+transform="translate(-1074.000000, -56.000000)" fill="#FFFFFF" fill-rule="nonzero">
+<path
+d="M1094.99995,57.6719187 L1094.99995,76.3281242 C1094.99995,76.6406237 1094.89058,76.9140603 1094.67183,77.1484348 C1094.45308,77.3828092 1094.17183,77.4999964 1093.82808,77.4999964 L1088.48434,77.4999964 L1088.48434,69.3437659 L1091.20308,69.3437659 L1091.62496,66.2031484 L1088.48434,66.2031484 L1088.48434,64.1875282 C1088.48434,63.6562797 1088.57809,63.2812806 1088.76559,63.0625308 C1089.01559,62.7812815 1089.43746,62.6406569 1090.03121,62.6406569 L1091.71871,62.6406569 L1091.71871,59.7812887 C1091.06246,59.7187891 1090.24996,59.6875389 1089.28121,59.6875389 C1088.06247,59.6875389 1087.07809,60.0469133 1086.3281,60.7656613 C1085.5781,61.4844094 1085.2031,62.5156569 1085.2031,63.8594039 L1085.2031,66.2031484 L1082.48435,66.2031484 L1082.48435,69.3437659 L1085.2031,69.3437659 L1085.2031,77.4999964 L1075.17187,77.4999964 C1074.82812,77.4999964 1074.54687,77.3828092 1074.32812,77.1484348 C1074.10937,76.9140603 1074,76.6406237 1074,76.3281242 L1074,57.6719187 C1074,57.3281698 1074.10937,57.0469204 1074.32812,56.8281707 C1074.54687,56.609421 1074.82812,56.5000465 1075.17187,56.5000465 L1093.82808,56.5000465 C1094.14058,56.5000465 1094.41401,56.609421 1094.64839,56.8281707 C1094.88276,57.0469204 1094.99995,57.3281698 1094.99995,57.6719187 Z" id="f"></path>
+</g>
+</svg>
+</a></li><li
+class="mx-4 ml-0 md:mr-0 md:ml-6">
+<a
+href="https://twitter.com/incolink" aria-label="Twitter" class="hover:opacity-75" target="_blank" rel="noopener">
+<svg
+width="24px" height="20px" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g
+transform="translate(-1119.000000, -57.000000)" fill="#FFFFFF" fill-rule="nonzero">
+<path
+d="M1140.51557,62.1250331 C1140.54682,62.250033 1140.56245,62.4531573 1140.56245,62.7344066 C1140.56245,64.9844013 1140.01557,67.1562708 1138.92183,69.2500161 C1137.79683,71.4687606 1136.21871,73.2343816 1134.18746,74.5468785 C1131.96872,76.0156247 1129.42185,76.7499982 1126.54686,76.7499982 C1123.79686,76.7499982 1121.28124,76.0156247 1119,74.5468785 C1119.34375,74.5781286 1119.73437,74.5937534 1120.17187,74.5937534 C1122.45312,74.5937534 1124.49999,73.89063 1126.31248,72.4843834 C1125.21874,72.4843834 1124.2578,72.1640719 1123.42968,71.5234482 C1122.60155,70.8828245 1122.03124,70.0781394 1121.71874,69.1093914 C1122.03124,69.1406416 1122.32812,69.1562663 1122.60937,69.1562663 C1123.04687,69.1562663 1123.48436,69.1093914 1123.92186,69.0156417 C1122.79687,68.7656425 1121.85937,68.1875184 1121.10937,67.2812708 C1120.35937,66.3750232 1119.98437,65.3437756 1119.98437,64.1875282 L1119.98437,64.0937784 C1120.67187,64.5000277 1121.40624,64.7187767 1122.18749,64.7500268 C1121.53124,64.2812779 1121,63.6875291 1120.59375,62.9687811 C1120.1875,62.250033 1119.98437,61.4609719 1119.98437,60.6015992 C1119.98437,59.7422265 1120.21875,58.921916 1120.6875,58.1406676 C1121.90624,59.6719142 1123.39843,60.8906613 1125.16405,61.7969089 C1126.92967,62.7031565 1128.81248,63.2031555 1130.81247,63.2969053 C1130.74997,62.9219062 1130.71872,62.5469071 1130.71872,62.171908 C1130.71872,61.2969098 1130.93747,60.4765993 1131.37497,59.7109763 C1131.81247,58.9453534 1132.40622,58.3437919 1133.15622,57.9062931 C1133.90621,57.4687944 1134.71871,57.2500447 1135.59371,57.2500447 C1136.31246,57.2500447 1136.97652,57.3906694 1137.58589,57.6719187 C1138.19527,57.953168 1138.73433,58.3281671 1139.20308,58.796916 C1140.32807,58.5781663 1141.37495,58.1875425 1142.34369,57.6250438 C1141.9687,58.7812913 1141.24995,59.6875389 1140.18745,60.3437873 C1141.12495,60.2187874 1142.06245,59.9531635 1142.99994,59.5469142 C1142.31244,60.5469116 1141.48432,61.406285 1140.51557,62.1250331 Z"></path>
+</g>
+</svg>
+</a></li><li
+class="mx-4 ml-0 md:mr-0 md:ml-6">
+<a
+href="https://www.youtube.com/user/Incolinkheretohelp" aria-label="YouTube" class="hover:opacity-75" target="_blank" rel="noopener">
+<svg
+width="27px" height="18px" viewBox="0 0 27 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g
+transform="translate(-1167.000000, -58.000000)" fill="#FFFFFF" fill-rule="nonzero">
+<path
+d="M1192.78119,60.8125362 C1192.99994,61.6562842 1193.15619,62.9375309 1193.24994,64.656277 L1193.29681,67.0000215 L1193.24994,69.3437659 C1193.15619,71.0937615 1192.99994,72.3906336 1192.78119,73.2343816 C1192.62494,73.7656301 1192.34369,74.234379 1191.93744,74.6406282 C1191.53119,75.0468775 1191.04682,75.3281268 1190.48432,75.4843762 C1189.67182,75.7031259 1187.76558,75.8593753 1184.76558,75.9531251 L1180.49997,76 L1176.23435,75.9531251 C1173.23436,75.8593753 1171.32811,75.7031259 1170.51562,75.4843762 C1169.95312,75.3281268 1169.46874,75.0468775 1169.0625,74.6406282 C1168.65625,74.234379 1168.375,73.7656301 1168.21875,73.2343816 C1168,72.3906336 1167.84375,71.0937615 1167.75,69.3437659 L1167.70312,67.0000215 C1167.70312,66.3125229 1167.71875,65.5312752 1167.75,64.656277 C1167.84375,62.9375309 1168,61.6562842 1168.21875,60.8125362 C1168.375,60.2500376 1168.65625,59.7656639 1169.0625,59.3594147 C1169.46874,58.9531654 1169.95312,58.6719161 1170.51562,58.5156667 C1171.32811,58.296917 1173.23436,58.1406676 1176.23435,58.0469178 L1180.49997,58.0000429 L1184.76558,58.0469178 C1187.76558,58.1406676 1189.67182,58.296917 1190.48432,58.5156667 C1191.04682,58.6719161 1191.53119,58.9531654 1191.93744,59.3594147 C1192.34369,59.7656639 1192.62494,60.2500376 1192.78119,60.8125362 Z M1177.87497,70.8437623 L1184.57808,67.0000215 L1177.87497,63.2031555 L1177.87497,70.8437623 Z"></path>
+</g>
+</svg>
+</a></li><li
+class="mx-4 ml-0 md:mr-0 md:ml-6">
+<a
+href="https://www.linkedin.com/company/incolink" aria-label="LinkedIn" class="hover:opacity-75" target="_blank" rel="noopener">
+<svg
+width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g
+transform="translate(-1218.000000, -56.000000)" fill="#FFFFFF" fill-rule="nonzero">
+<path
+d="M1237.49995,56.5000465 C1237.9062,56.5000465 1238.25776,56.6484839 1238.55464,56.9453579 C1238.85151,57.242232 1238.99995,57.5937936 1238.99995,58.0000465 L1238.99995,76 C1238.99995,76.4062493 1238.85151,76.7578109 1238.55464,77.054685 C1238.25776,77.351559 1237.9062,77.4999964 1237.49995,77.4999964 L1219.5,77.4999964 C1219.09375,77.4999964 1218.74219,77.351559 1218.44531,77.054685 C1218.14844,76.7578109 1218,76.4062493 1218,76 L1218,58.0000465 C1218,57.5937936 1218.14844,57.242232 1218.44531,56.9453579 C1218.74219,56.6484839 1219.09375,56.5000465 1219.5,56.5000465 L1237.49995,56.5000465 Z M1221.23437,74.5000036 L1224.37498,74.5000036 L1224.37498,64.4687775 L1221.23437,64.4687775 L1221.23437,74.5000036 Z M1222.78124,63.1094057 C1223.28124,63.1094057 1223.71092,62.9297189 1224.0703,62.5703445 C1224.42967,62.2109701 1224.60936,61.7890961 1224.60936,61.3047225 C1224.60936,60.8203489 1224.42967,60.3984749 1224.0703,60.0391006 C1223.71092,59.6797262 1223.28124,59.5000393 1222.78124,59.5000393 C1222.28124,59.5000393 1221.85937,59.6797262 1221.51562,60.0391006 C1221.17187,60.3984749 1220.99999,60.8203489 1220.99999,61.3047225 C1220.99999,61.7890961 1221.17187,62.2109701 1221.51562,62.5703445 C1221.85937,62.9297189 1222.28124,63.1094057 1222.78124,63.1094057 Z M1235.99996,74.5000036 L1235.99996,69.0156417 C1235.99996,67.4531456 1235.78121,66.3125229 1235.34371,65.5937748 C1234.74996,64.6875272 1233.73434,64.2344031 1232.29684,64.2344031 C1231.57809,64.2344031 1230.93747,64.4062779 1230.37497,64.7500268 C1229.90622,65.0312762 1229.56247,65.3906505 1229.34372,65.8281493 L1229.29686,65.8281493 L1229.29686,64.4687775 L1226.29686,64.4687775 L1226.29686,74.5000036 L1229.3906,74.5000036 L1229.3906,69.5312654 C1229.3906,68.750017 1229.49997,68.1562689 1229.71872,67.7500197 C1230.03122,67.2187712 1230.54685,66.9531466 1231.26559,66.9531466 C1231.98434,66.9531466 1232.45309,67.2500206 1232.67184,67.8437694 C1232.82809,68.2187686 1232.90621,68.8125174 1232.90621,69.6250152 L1232.90621,74.5000036 L1235.99996,74.5000036 Z"></path>
+</g>
+</svg>
+</a></li><li
+class="mx-4 ml-0 md:mr-0 md:ml-6">
+<a
+href="https://www.instagram.com/incolink_/" aria-label="Instagram" class="hover:opacity-75" target="_blank" rel="noopener">
+<svg
+width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g
+transform="translate(-1263.000000, -56.000000)" fill="#FFFFFF" fill-rule="nonzero">
+<path
+d="M1273.49997,61.6094093 C1274.46872,61.6094093 1275.36716,61.8515965 1276.19528,62.3359701 C1277.0234,62.8203437 1277.67965,63.4765921 1278.16403,64.3047154 C1278.6484,65.1328386 1278.89059,66.0312735 1278.89059,67.0000215 C1278.89059,67.9687694 1278.6484,68.8672043 1278.16403,69.6953275 C1277.67965,70.5234508 1277.0234,71.1796992 1276.19528,71.6640728 C1275.36716,72.1484464 1274.46872,72.3906336 1273.49997,72.3906336 C1272.53123,72.3906336 1271.63279,72.1484464 1270.80467,71.6640728 C1269.97655,71.1796992 1269.3203,70.5234508 1268.83592,69.6953275 C1268.35155,68.8672043 1268.10936,67.9687694 1268.10936,67.0000215 C1268.10936,66.0312735 1268.35155,65.1328386 1268.83592,64.3047154 C1269.3203,63.4765921 1269.97655,62.8203437 1270.80467,62.3359701 C1271.63279,61.8515965 1272.53123,61.6094093 1273.49997,61.6094093 Z M1273.49997,70.5156381 C1274.46872,70.5156381 1275.29685,70.1718891 1275.98434,69.4843905 C1276.67184,68.7968919 1277.01559,67.9687694 1277.01559,67.0000215 C1277.01559,66.0312735 1276.67184,65.203151 1275.98434,64.5156524 C1275.29685,63.8281538 1274.46872,63.4844048 1273.49997,63.4844048 C1272.53123,63.4844048 1271.7031,63.8281538 1271.01561,64.5156524 C1270.32811,65.203151 1269.98436,66.0312735 1269.98436,67.0000215 C1269.98436,67.9687694 1270.32811,68.7968919 1271.01561,69.4843905 C1271.7031,70.1718891 1272.53123,70.5156381 1273.49997,70.5156381 Z M1280.39058,61.3750349 C1280.35934,61.7187838 1280.22652,62.0156586 1279.99215,62.2656577 C1279.75777,62.5156569 1279.46871,62.6406569 1279.12496,62.6406569 C1278.78121,62.6406569 1278.48434,62.5156569 1278.23434,62.2656577 C1277.98434,62.0156586 1277.85934,61.7187838 1277.85934,61.3750349 C1277.85934,61.0312859 1277.98434,60.7344112 1278.23434,60.484412 C1278.48434,60.2344128 1278.78121,60.1094129 1279.12496,60.1094129 C1279.46871,60.1094129 1279.76559,60.2344128 1280.01558,60.484412 C1280.26558,60.7344112 1280.39058,61.0312859 1280.39058,61.3750349 Z M1283.95308,62.6406569 C1283.98433,63.515655 1283.99995,64.9687765 1283.99995,67.0000215 C1283.99995,69.0312664 1283.97651,70.4922006 1283.92964,71.3828235 C1283.88276,72.2734464 1283.74995,73.046882 1283.5312,73.7031305 C1283.24995,74.4843789 1282.82027,75.1640647 1282.24214,75.7421881 C1281.66402,76.3203115 1280.98433,76.7499982 1280.20308,77.0312475 C1279.54684,77.2499973 1278.7734,77.3828092 1277.88278,77.4296841 C1276.99215,77.476559 1275.53122,77.4999964 1273.49997,77.4999964 C1271.46873,77.4999964 1270.0078,77.476559 1269.11717,77.4296841 C1268.22655,77.3828092 1267.45311,77.2343718 1266.79687,76.9843727 C1266.01562,76.7343735 1265.33593,76.3203115 1264.75781,75.7421881 C1264.17968,75.1640647 1263.75,74.4843789 1263.46875,73.7031305 C1263.25,73.046882 1263.11719,72.2734464 1263.07031,71.3828235 C1263.02344,70.4922006 1263,69.0312664 1263,67.0000215 C1263,64.9687765 1263.02344,63.5078423 1263.07031,62.6172194 C1263.11719,61.7265965 1263.25,60.9531609 1263.46875,60.2969124 C1263.75,59.5156641 1264.17968,58.8359782 1264.75781,58.2578548 C1265.33593,57.6797314 1266.01562,57.2500447 1266.79687,56.9687954 C1267.45311,56.7500457 1268.22655,56.6172337 1269.11717,56.5703588 C1270.0078,56.5234839 1271.46873,56.5000465 1273.49997,56.5000465 C1275.53122,56.5000465 1276.99215,56.5234839 1277.88278,56.5703588 C1278.7734,56.6172337 1279.54684,56.7500457 1280.20308,56.9687954 C1280.98433,57.2500447 1281.66402,57.6797314 1282.24214,58.2578548 C1282.82027,58.8359782 1283.24995,59.5156641 1283.5312,60.2969124 C1283.74995,60.9531609 1283.89058,61.7344093 1283.95308,62.6406569 Z M1281.70308,73.1875067 C1281.89058,72.6562582 1282.01558,71.8125102 1282.07808,70.6562627 C1282.10933,69.9687641 1282.12495,69.0000169 1282.12495,67.7500197 L1282.12495,66.2500232 C1282.12495,64.9687765 1282.10933,64.0000286 1282.07808,63.3437802 C1282.01558,62.1562832 1281.89058,61.3125353 1281.70308,60.8125362 C1281.32808,59.8437883 1280.65621,59.1719151 1279.68746,58.796916 C1279.18746,58.6094165 1278.34371,58.4844165 1277.15622,58.4219169 C1276.46872,58.3906667 1275.49997,58.375042 1274.24997,58.375042 L1272.74998,58.375042 C1271.49998,58.375042 1270.53123,58.3906667 1269.84373,58.4219169 C1268.68749,58.4844165 1267.84374,58.6094165 1267.31249,58.796916 C1266.34374,59.1719151 1265.67187,59.8437883 1265.29687,60.8125362 C1265.10937,61.3125353 1264.98437,62.1562832 1264.92187,63.3437802 C1264.89062,64.0312788 1264.875,65.000026 1264.875,66.2500232 L1264.875,67.7500197 C1264.875,69.0000169 1264.89062,69.9687641 1264.92187,70.6562627 C1264.98437,71.8125102 1265.10937,72.6562582 1265.29687,73.1875067 C1265.70312,74.1562546 1266.375,74.8281278 1267.31249,75.2031269 C1267.84374,75.3906265 1268.68749,75.5156264 1269.84373,75.578126 C1270.53123,75.6093762 1271.49998,75.6250009 1272.74998,75.6250009 L1274.24997,75.6250009 C1275.53122,75.6250009 1276.49997,75.6093762 1277.15622,75.578126 C1278.34371,75.5156264 1279.18746,75.3906265 1279.68746,75.2031269 C1280.65621,74.7968776 1281.32808,74.1250045 1281.70308,73.1875067 Z"></path>
+</g>
+</svg>
+</a></li></ul></div></div><div
+class="footer"><div
+class="container py-12"><div
+class="-mx-3 flex flex-wrap"><div
+class="p-4 md:flex-1 w-1/2 md:w-full"><ul
+class=" mb-4 text-sm"><li
+class="mb-2">
+<a
+class="inline-block text-white leading-snug uppercase font-semibold tracking-wider hover:opacity-75 mb-2 transition duration-200" href="https://incolink.org.au/workers">For Workers</a><ul
+class=""><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/workers/worker-entitlements">Worker Entitlements</a></li><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/workers/insurance">Insurance</a></li><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/employers/wims">Work Injury Management</a></li></ul></li></ul></div><div
+class="p-4 md:flex-1 w-1/2 md:w-full"><ul
+class=" mb-4 text-sm"><li
+class="mb-2">
+<a
+class="inline-block text-white leading-snug uppercase font-semibold tracking-wider hover:opacity-75 mb-2 transition duration-200" href="https://incolink.org.au/employers">For Employers</a><ul
+class=""><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/employers/incolink-membership">Membership</a></li><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/employers/insurance">Insurance</a></li><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/employers/wims">Work Injury Management</a></li></ul></li></ul></div><div
+class="p-4 md:flex-1 w-1/2 md:w-full"><ul
+class=" mb-4 text-sm"><li
+class="mb-2">
+<a
+class="inline-block text-white leading-snug uppercase font-semibold tracking-wider hover:opacity-75 mb-2 transition duration-200" href="https://incolink.org.au/wellbeing-support-services">Wellbeing &amp; Support Services</a><ul
+class=""><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/wellbeing-support-services/counselling-support">Counselling Support</a></li><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/wellbeing-support-services/onsite-services">Onsite Services</a></li><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/wellbeing-support-services/bluehats">Bluehats Suicide Prevention</a></li><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/wellbeing-support-services/financial-counselling">Financial Counselling</a></li><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/wellbeing-support-services/job-support">Incolink Jobs</a></li><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/wellbeing-support-services/toolboxes">Toolboxes</a></li></ul></li></ul></div><div
+class="p-4 md:flex-1 w-1/2 md:w-full"><ul
+class=" mb-4 text-sm"><li
+class="mb-2">
+<a
+class="inline-block text-white leading-snug uppercase font-semibold tracking-wider hover:opacity-75 mb-2 transition duration-200" href="https://incolink.org.au/news">Incolink news</a><ul
+class=""><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/news/categories/industry-news">Industry news</a></li><li
+class="mb-1">
+<a
+class="inline-block text-white hover:opacity-75 transition duration-200" href="https://incolink.org.au/news/categories/media-release">Media releases</a></li></ul></li></ul></div><div
+class="p-4 md:flex-1 w-1/2 md:w-full"><ul
+class=" mb-4 text-sm"><li
+class="mb-2">
+<a
+class="inline-block text-white leading-snug uppercase font-semibold tracking-wider hover:opacity-75 mb-2 transition duration-200" href="https://incolink.org.au/about">About Incolink</a></li><li
+class="mb-2">
+<a
+class="inline-block text-white leading-snug uppercase font-semibold tracking-wider hover:opacity-75 mb-2 transition duration-200" href="#">Help Centre</a></li><li
+class="mb-2">
+<a
+class="inline-block text-white leading-snug uppercase font-semibold tracking-wider hover:opacity-75 mb-2 transition duration-200" href="https://incolink.org.au/contact">Contact</a></li><li
+class="mb-2">
+<a
+class="inline-block text-white leading-snug uppercase font-semibold tracking-wider hover:opacity-75 mb-2 transition duration-200" href="https://incolink.org.au/incolink-app">Incolink app</a></li><li
+class="mb-2">
+<a
+class="inline-block text-white leading-snug uppercase font-semibold tracking-wider hover:opacity-75 mb-2 transition duration-200" href="https://compliancelink.incolink.org.au/">ComplianceLink</a></li></ul></div></div><div
+id="translate" class="flex justify-center"><div
+id="google_translate_element"></div></div></div><div
+class="container"><div
+class="flex flex-wrap -mx-4  border-t border-blue-700 py-6"><div
+class="w-full lg:w-3/4 px-4 text-center lg:text-left flex flex-col xl:flex-row justify-center lg:justify-start"><p
+class="text-xs md:text-sm mb-0">ABN 97 007 133 833 &copy; Redundancy Payment Central Fund Ltd 2024. All rights reserved.</p><ul
+class="flex text-xs md:text-sm justify-center lg:justify-start -mx-2 xl:pl-4"><li
+class="px-2">
+<a
+href="https://incolink.org.au/terms-and-conditions" class="opacity-75 hover:opacity-100 transition duration-200">Terms and Conditions</a></li><li
+class="px-2">
+<a
+href="https://incolink.org.au/privacy-policy" class="opacity-75 hover:opacity-100 transition duration-200">Privacy Policy</a></li></ul></div><div
+class="w-full lg:w-1/4 px-4 text-center lg:text-right"><p
+class="text-xs md:text-sm"><a
+href="https://madebyverse.com" target="_blank" rel="noopener" class="opacity-75 hover:opacity-100 transition duration-200"> Website by Verse</a></p></div></div></div></div></footer><!--[if lt IE 9]> <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script> <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script> <![endif]--></div> <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=0b39a98f-9fe2-4dc1-a602-4d54affc7e36" defer async></script> <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" defer async></script> <script type="text/javascript">function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:'en',layout:google.translate.TranslateElement.InlineLayout.HORIZONTAL,includedLanguages:'en,es,zh-CN,hr,tl,de,el,hi,it,mk,pl,sr,tr,vi'},'google_translate_element');}</script> <script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"WebPage","author":{"@id":"https://www.incolink.org.au/#identity"},"copyrightHolder":{"@id":"https://www.incolink.org.au/#identity"},"copyrightYear":"2023","creator":{"@id":"https://www.incolink.org.au/#creator"},"dateCreated":"2023-02-06T12:14:46+11:00","dateModified":"2024-02-12T18:00:12+11:00","datePublished":"2023-02-06T12:14:00+11:00","description":"Incolink is the safety net for the building and construction industry. We're Australia’s oldest and largest workers’ entitlement scheme.","headline":"Entitlements, Insurance, Wellbeing","image":{"@type":"ImageObject","url":"https://d7kulbmmtvghi.cloudfront.net/images/_1200x630_crop_center-center_82_none_ns/workers.jpg?mtime=1663037451"},"inLanguage":"en-au","mainEntityOfPage":"https://incolink.org.au/","name":"Entitlements, Insurance, Wellbeing","publisher":{"@id":"https://www.incolink.org.au/#creator"},"url":"https://incolink.org.au"},{"@id":"https://www.incolink.org.au/#identity","@type":"FundingScheme","address":{"@type":"PostalAddress","addressCountry":"Australia","addressLocality":"Carlton","addressRegion":"Victoria","postalCode":"3053","streetAddress":"1 Pelham Street, Carlton VIC 3053"},"description":"Redundancy. Insurance. Wellbeing. The safety net for workers in the building and construction industry","email":"redund@incolink.org.au","name":"Incolink","sameAs":["https://twitter.com/incolink","https://www.facebook.com/Incolink1/","https://www.linkedin.com/company/incolink/","https://www.youtube.com/user/Incolinkheretohelp","https://www.instagram.com/incolink_/"],"telephone":"03 9639 3000","url":"https://www.incolink.org.au"},{"@id":"https://terrier.studio#creator","@type":"ProfessionalService","alternateName":"Elliot Kidd","name":"Terrier Studio","priceRange":"$","url":"https://terrier.studio"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://incolink.org.au","name":"Entitlements, Insurance, Wellbeing","position":1}],"name":"Breadcrumbs"}]}</script><script src="/dist/js/app.js?v=1718073040"></script>
+<script src="/dist/js/picker.js?v=1718187989"></script></body></html>

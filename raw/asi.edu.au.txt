@@ -1,0 +1,893 @@
+		
+<!doctype html>
+<html lang="en-AU">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		
+        <title>Australian Science Innovations | Innovative Science Programs</title>
+		
+		<link rel="icon" type="image/png" href="https://www.asi.edu.au/favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="https://www.asi.edu.au/favicon-16x16.png" sizes="16x16" />
+		
+		<link rel="pingback" href="https://www.asi.edu.au/xmlrpc.php" />
+        <link rel="profile" href="http://gmpg.org/xfn/11" />
+		
+		<link rel="stylesheet" type="text/css" media="all" href="https://www.asi.edu.au/wp-content/themes/australian-science-innovations/style.css" />
+		<link rel="stylesheet" href="https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/css/outdatedbrowser.min.css">
+        
+		
+				<script src="https://cdn.polyfill.io/v3/polyfill.min.js"></script>
+        
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="We deliver the Australian Science Olympiads, Junior Science Olympiad, Big Science Competition and help deliver the Curious Minds – Girls in STEM programs." />
+	<link rel="canonical" href="https://www.asi.edu.au/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Australian Science Innovations" />
+	<meta property="og:description" content="We deliver the Australian Science Olympiads, Junior Science Olympiad, Big Science Competition and help deliver the Curious Minds – Girls in STEM programs." />
+	<meta property="og:url" content="https://www.asi.edu.au/" />
+	<meta property="og:site_name" content="Australian Science Innovations" />
+	<meta property="article:modified_time" content="2024-06-10T23:23:40+00:00" />
+	<meta property="og:image" content="https://www.asi.edu.au/wp-content/uploads/2024/02/Spring-School-155-smaller-scaled.jpg" />
+	<meta property="og:image:width" content="2560" />
+	<meta property="og:image:height" content="1710" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.asi.edu.au/","url":"https://www.asi.edu.au/","name":"Challenging Science Extension Programs for High School Students | Australian Science Innovations","isPartOf":{"@id":"https://www.asi.edu.au/#website"},"about":{"@id":"https://www.asi.edu.au/#organization"},"datePublished":"2020-09-17T16:07:15+00:00","dateModified":"2024-06-10T23:23:40+00:00","description":"We deliver the Australian Science Olympiads, Junior Science Olympiad, Big Science Competition and help deliver the Curious Minds – Girls in STEM programs.","breadcrumb":{"@id":"https://www.asi.edu.au/#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://www.asi.edu.au/"]}]},{"@type":"BreadcrumbList","@id":"https://www.asi.edu.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.asi.edu.au/#website","url":"https://www.asi.edu.au/","name":"Australian Science Innovations","description":"Innovative Science Programs","publisher":{"@id":"https://www.asi.edu.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.asi.edu.au/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-AU"},{"@type":"Organization","@id":"https://www.asi.edu.au/#organization","name":"Australian Science Innovations","url":"https://www.asi.edu.au/","logo":{"@type":"ImageObject","inLanguage":"en-AU","@id":"https://www.asi.edu.au/#/schema/logo/image/","url":"https://www.asi.edu.au/wp-content/uploads/2022/12/logo-asi.png","contentUrl":"https://www.asi.edu.au/wp-content/uploads/2022/12/logo-asi.png","width":230,"height":77,"caption":"Australian Science Innovations"},"image":{"@id":"https://www.asi.edu.au/#/schema/logo/image/"},"sameAs":["https://www.instagram.com/auscienceinnov/","https://www.youtube.com/user/ASICanberra"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Australian Science Innovations &raquo; Feed" href="https://www.asi.edu.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Australian Science Innovations &raquo; Comments Feed" href="https://www.asi.edu.au/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.asi.edu.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.asi.edu.au/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='foundation-css' href='https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/css/foundation.xy.css?ver=1' media='all' />
+<link rel='stylesheet' id='app-css' href='https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/css/app.css?ver=1.0.1' media='all' />
+<link rel='stylesheet' id='colour-variations-css' href='https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/css/colour-variations.css?ver=1' media='all' />
+<script src="https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/js/vendor/jquery-3.6.1.min.js?ver=3.6.1" id="jquery-js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAmavXi5FuDFXst4AwLTbHspttwp7LmalU&amp;ver=1" id="google-js"></script>
+<link rel="https://api.w.org/" href="https://www.asi.edu.au/wp-json/" /><link rel="alternate" type="application/json" href="https://www.asi.edu.au/wp-json/wp/v2/pages/7" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.asi.edu.au/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.asi.edu.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.asi.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.asi.edu.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.asi.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.asi.edu.au%2F&#038;format=xml" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TVRLX37L');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTC4SHPKBQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FTC4SHPKBQ');
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '296941712909640'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=296941712909640&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code --><link rel="icon" href="https://www.asi.edu.au/wp-content/uploads/2023/04/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.asi.edu.au/wp-content/uploads/2023/04/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.asi.edu.au/wp-content/uploads/2023/04/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.asi.edu.au/wp-content/uploads/2023/04/cropped-favicon-270x270.png" />
+		<style id="wp-custom-css">
+			:target:before {
+content:"";
+display:block;
+height:200px; /* fixed header height*/
+margin:-200px 0 0; /* negative fixed header height */
+}		</style>
+		    </head>
+    
+    <body class="home page-template page-template-templates page-template-page-builder page-template-templatespage-builder-php page page-id-7">
+		
+		<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVRLX37L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+		
+		<header id="top-bar" class="top-bar">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x align-justify align-middle">
+					<div class="cell shrink large-6 small-6">
+						<h1 class="site-logo">
+							<a class="site-logo__link ir" href="https://www.asi.edu.au/" title="Australian Science Innovations" rel="home">Australian Science Innovations</a>
+						</h1>
+						<!--  -->
+					</div>
+					<div class="cell shrink large-6 small-6">
+						<div class="grid-x grid-padding-x align-middle align-right">
+							<div class="cell shrink">
+								<button type="button" class="menu-button menu-button--closed js-menu-trigger">
+									<span class="menu-button__open-text">Close</span>
+									<span class="menu-button__closed-text">Menu</span>
+								</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<div class="site-navigation top-bar-offset background-primary">
+			<div class="active-area">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x">
+					<div class="cell xlarge-10">
+						<div class="grid-x grid-padding-x">
+							<div class="cell shrink">
+								<nav class="site-navigation__navigation"><ul id="menu-header" class="menu"><li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-524"><a href="https://www.asi.edu.au/" aria-current="page">Home</a></li>
+<li id="menu-item-525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525"><a href="https://www.asi.edu.au/about/">About</a></li>
+<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-526"><a href="https://www.asi.edu.au/our-programs/">Our Programs</a><a href='#' class='menu-arrow menu-arrow--closed js-menu-expand'><span class='menu-arrow__icon'><i class="fa-regular fa-chevron-down"></i></span></a>
+
+<ul class="sub-menu">
+	<li id="menu-item-1031" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1031"><a href="https://www.asi.edu.au/program/australian-science-olympiads/">Australian Science Olympiads</a></li>
+	<li id="menu-item-2236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2236"><a href="https://www.asi.edu.au/program/junior-science-olympiad/">Junior Science Olympiad</a></li>
+	<li id="menu-item-1030" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1030"><a href="https://www.asi.edu.au/program/big-science-competition/">Big Science Competition</a></li>
+	<li id="menu-item-1028" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1028"><a href="https://www.asi.edu.au/program/curious-minds/">Curious Minds</a></li>
+	<li id="menu-item-1449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1449"><a href="https://www.asi.edu.au/resources/">Resources</a></li>
+</ul>
+</li>
+<li id="menu-item-1628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1628"><a href="https://www.asi.edu.au/alumni/">Alumni</a><a href='#' class='menu-arrow menu-arrow--closed js-menu-expand'><span class='menu-arrow__icon'><i class="fa-regular fa-chevron-down"></i></span></a>
+
+<ul class="sub-menu">
+	<li id="menu-item-2318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2318"><a href="https://www.asi.edu.au/honour-roll/">Honour Roll</a></li>
+</ul>
+</li>
+<li id="menu-item-527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="https://www.asi.edu.au/partner-with-us/">Partner with us</a></li>
+<li id="menu-item-1640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640"><a href="https://www.asi.edu.au/news/">News</a></li>
+<li id="menu-item-2235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2235"><a href="https://auscienceinnovations.raiselysite.com/">Donate</a></li>
+<li id="menu-item-2514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2514"><a href="https://www.asi.edu.au/teacher-support/">Competition and Exam Support</a></li>
+</ul></nav>							</div>
+														<div class="site-navigation__content cell padding-top-x2">
+								<div class="grid-x align-bottom">
+									<div class="cell large-6">
+										<h4 class="size-body">Contact us</h4>
+																				<p>
+											<a href="tel:(02) 6125 6228" class="color-white">(02) 6125 6228</a>
+										</p>
+																														<p>
+											<a href="mailto:asi@asi.edu.au" class="color-white">asi@asi.edu.au</a>
+										</p>
+																				<p>
+											<address><a href="https://www.google.com/maps/place/Australian+Science+Innovations/@-35.28397,149.1109404,17z/data=!3m2!4b1!5s0x6b164d482a7aabd1:0x8ed42c906aec6ecd!4m5!3m4!1s0x6b164d4827b6c7e9:0xf5e42b7dc9f15b42!8m2!3d-35.2839744!4d149.1131291" class="color-white" target="_blank">Australian Science Innovations<br>Box 7251, Canberra Mail Centre<br>ACT 2610</a></address>
+										</p>
+																				<div class="grid-x grid-x--xsmall grid-padding-x grid-padding-y">
+																						<div class="cell shrink"> 
+												<a target="_blank" href="https://www.facebook.com/auscienceinnovations/"><span class="size-h5"><i class="fa fa-facebook" aria-hidden="true"></i></span></a>
+											</div>
+																																	<div class="cell shrink"> 
+												<a target="_blank" href="https://www.instagram.com/auscienceinnovations/"><span class="size-h5"><i class="fa fa-instagram" aria-hidden="true"></i></span></a> 
+											</div>
+																																												<div class="cell shrink"> 
+												<a target="_blank" href="https://www.linkedin.com/school/auscienceinnovations"><span class="size-h5"><i class="fa fa-linkedin" aria-hidden="true"></i></span></a> 
+											</div>
+																																	<div class="cell shrink"> 
+												<a target="_blank" href="https://www.youtube.com/@auscienceinnovations"><span class="size-h5 "><i class="fa fa-youtube" aria-hidden="true"></i></span></a> 
+											</div>
+																					</div>
+																				<div class="padding-top">
+											<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																								<div class="cell shrink">
+													<a class="btn btn--hollow btn--hollow--white has-icon" href="https://auscienceinnovations.raiselysite.com/" target="_blank">Donate<span class="background-white align-center align-middle color-primary"><i class="fa-regular fa-arrow-up-right-from-square"></i></span></a>
+												</div>
+																																				<div class="cell shrink">
+													<a class="btn btn--hollow btn--hollow--white has-icon" href="https://australianscienceinnovations.force.com/portal" target="_blank">Teachers Portal<span class="background-white align-center align-middle color-primary"><i class="fa-regular fa-arrow-up-right-from-square"></i></span></a>
+												</div>
+																							</div>
+										</div>
+																			</div>
+									<div class="cell large-6 padding-top large-padding-top-x0">
+										<h3 class="fix_line_height">Subscribe to our mailing list</h3>
+										<script type="text/javascript">var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});</script>
+                <div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' ><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/' data-formid='1' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'><fieldset id="field_1_2" class="gfield gfield--type-name gfield--width-full gfield_contains_required field_sublabel_hidden_label gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_1_2" ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend><div class='ginput_complex ginput_container ginput_container--name no_prefix has_first_name no_middle_name has_last_name no_suffix gf_name_has_2 ginput_container_name gform-grid-row' id='input_1_2'>
+                            
+                            <span id='input_1_2_3_container' class='name_first gform-grid-col gform-grid-col--size-auto' >
+                                                    <input type='text' name='input_2.3' id='input_1_2_3' value=''   aria-required='true'   placeholder='First Name'  />
+                                                    <label for='input_1_2_3' class='gform-field-label gform-field-label--type-sub hidden_sub_label screen-reader-text'>First</label>
+                                                </span>
+                            
+                            <span id='input_1_2_6_container' class='name_last gform-grid-col gform-grid-col--size-auto' >
+                                                    <input type='text' name='input_2.6' id='input_1_2_6' value=''   aria-required='true'   placeholder='Last Name'  />
+                                                    <label for='input_1_2_6' class='gform-field-label gform-field-label--type-sub hidden_sub_label screen-reader-text'>Last</label>
+                                                </span>
+                            
+                        </div></fieldset><div id="field_1_1" class="gfield gfield--type-email gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_1_1" ><label class='gfield_label gform-field-label' for='input_1_1'>Enter your email address<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_1_1' type='email' value='' class='large'   placeholder='Email' aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_submit" class="gfield gfield--type-submit gfield--width-half field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-field-class="gform_editor_submit_container" data-field-position="inline" data-js-reload="true" ><button class='button gform_button' id='gform_submit_button_1'><i class='fa-regular fa-chevron-right size-body'></i></button></div><div id="field_1_3" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_1_3" ><label class='gfield_label gform-field-label' for='input_1_3'>Name</label><div class='ginput_container'><input name='input_3' id='input_1_3' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_1_3'>This field is for validation purposes and should be left unchanged.</div></div></div></div>
+        <div class='gform_footer top_label'>  <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=&amp;tabindex=50&amp;theme=gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsImExM2QxNWFhZjBkOGVkOGU3OGFlMmMwN2Q0OTYxZTZhIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script>
+gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/img/svg/gf-spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/img/svg/gf-spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+																			</div>
+								</div>
+							</div>
+													</div>
+					</div>
+				</div>	
+			</div>
+		</div>
+		</div>
+
+		<main>
+	<article id="post-7" class="home post-7 page type-page status-publish hentry">
+
+		<section class="banner-row position_relative">
+	<div class="flexslider flexslider--hide-controls">
+		<ul class="slides">
+						<li class="height_100--min background-image background-image--overlay" style="background-image:url(https://www.asi.edu.au/wp-content/uploads/2022/12/banner-1800x1080.jpg)">
+				<div class="grid-x banner-row__slide height_100">
+					<div class="grid-container content-area-x2 position_relative color-white align-self-middle">
+						<div class="banner-row__slide__content grid-x content-area-x2">
+							<div class="cell">
+								<div class="grid-x"><div class="cell xxlarge-10"><h2 class="h1 fix_line_height">Are you ready for a challenge?</h2></div></div>							</div>
+						</div>
+					</div>
+										<div class="banner-row__video background-image background-image--overlay">
+												<video class="js-banner-video" preload="auto" autoplay loop muted playsinline controlsList="nodownload">
+							<source src="https://www.asi.edu.au/wp-content/uploads/2022/12/ASI-bg-video.mp4" type="video/mp4">
+						</video>
+					</div>
+									</div>
+			</li>
+					</ul>
+	</div>
+	
+	<div class="banner-row__pagination padding-bottom">
+		<div class="grid-container">
+			<div class="grid-x grid-padding-x grid-padding-y align-middle align-justify">
+				<div class="cell shrink">
+					<a href="#" class="js-next-section icon-link color-white h5 grid-x align-middle header-scrolldown">
+						<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+							 width="39.6px" height="91.9px" viewBox="0 0 39.6 91.9" style="enable-background:new 0 0 39.6 91.9;" xml:space="preserve">
+							<polygon fill="#ffffff" class="st0" points="37.4,66.9 21.3,85.5 21.3,0 18.3,0 18.3,85.5 2.3,66.9 0,68.9 19.8,91.9 39.6,68.9 "/>
+						</svg>
+						<span class="padding-left">Explore Now</span>
+					</a>
+				</div>
+							</div>
+		</div>
+	</div>
+</section>
+<section id="row-1" class="background-skew background-skew--flipped background-skew--top-x0 content-area-x2 background-secondary" data-row-type="content_row_no_image" data-row-index="row-1">
+		<div class="grid-container position_relative">
+		<div class="grid-x align-center">
+			<div class="cell">
+				<div class="grid-x grid-padding-x grid-padding-y  ">
+					<div class="cell ">
+											
+						<div class="wysiwyg"><h3>Australian Science Innovations deliver challenging science extension programs for high school students that aim to broaden horizons, identify capabilities and build Australia’s scientific community.</h3>
+</div>						<div class="padding-top-x2">
+							<div class="grid-x grid-x--small grid-padding-x grid-padding-y ">
+																<div class="cell shrink">
+									<a class="btn btn--hollow btn--hollow--white" href="https://www.asi.edu.au/about/" target="_self">Learn more about us</a>
+								</div>
+															</div>
+						</div>
+													
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</section><section id="our-programs" class=" content-area-x2 background-white programs" data-row-type="our_programs_row" data-row-index="row-2">
+	<div class="grid-container position_relative">
+		<div class="grid-x align-center">
+			<div class="cell">	
+				<div class="grid-x grid-padding-x grid-padding-y align-middle align-center">
+					
+					<div class="cell large-6 ">
+                        <div class="grid-x align-middle height_100">
+                            <div class="cell xlarge-11">
+								<div class="program_content">
+								<div class="content content_first content--active"><h2 class="h2 color-primary">Our Programs</h2><div class="wysiwyg"><p>In partnership with teachers and schools, we offer a range of science extension programs for science-loving students who want to challenge themselves, and explore their potential.</p>
+<p>We proudly deliver the Australian Science Olympiads programs, Junior Science Olympiad programs, Big Science Competition and help deliver the Curious Minds – Girls in STEM program.</p>
+</div>								<div class="padding-top-x2">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																				<div class="cell shrink">
+											<a class="btn btn--hollow--primary border" href="https://www.asi.edu.au/our-programs/" target="_self">Learn more</a>
+										</div>
+																			</div>
+								</div>
+								</div>									
+								<div class="content content1"><h3 class="h2 color-primary">Australian Science Olympiads</h3><div class="wysiwyg"><p>The Australian Science Olympiads are a staged science enrichment program for highly motivated students in Australian high schools. The program covers four separate disciplines Biology, Chemistry, Earth and Environmental Science, and Physics.</p>
+<p>It starts by sitting the Australian Science Olympiads exams. Students register through their school and sit the online exam as a cohort at their school. Students who participate in the Australian Science Olympiad exam may earn an invitation to Summer School at the Australian National University. Exceptional students may then be chosen to represent Australia as part of the teams which attend the International Science Olympiads across the world.</p>
+</div></div><div class="content content2"><h3 class="h2 color-primary">Junior Science Olympiad</h3><div class="wysiwyg"><p>The Junior Science Olympiad staged science enrichment program is for highly motivated students in Australian high schools in Years 7 to 10.</p>
+<p>It starts by sitting the Junior Science Olympiad Exam, which covers a wide range of topics in science, including Biology, Chemistry, Earth and Environmental science, and Physics. High achieving students may be selected to attend the Spring School residential camp, and could then be selected to represent Australia at the International Junior Science Olympiad.</p>
+<p>Other opportunities may be offered to selected students to participate in further Junior Science Olympiad extension programs, such as our digital JSO Training Squad or our virtual JSO Academy.</p>
+</div></div><div class="content content3"><h3 class="h2 color-primary">Curious Minds</h3><div class="wysiwyg"><p>Empowering girls who are passionate in STEM to explore their full potential, through a hands-on extension and mentoring program.</p>
+<p>If you’re a girl in year 9 or 10 who is passionate about STEM subjects, or if you’re a female professional working in the STEM industry and would like to become a coach, then please express your interest by following the Learn More link.</p>
+<p>Applications for the Curious Minds program open in September.</p>
+</div></div><div class="content content4"><h3 class="h2 color-primary">Big Science Competition</h3><div class="wysiwyg"><p>The Big Science Competition is open to students in Years 7 to 10 globally. It&#8217;s a 50-minute, multiple choice online competition testing science knowledge, critical-thinking and problem-solving skills. Questions are set in real-life, contemporary contexts, making them relatable&#8230; and interesting!</p>
+<p>The Big Science Competition is one of the biggest international science competitions held in schools. It is an easy way to challenge students from Years 7 to 10 and track their performance against state or national averages. Competition questions are aligned with the Australian Curriculum – Science.</p>
+<p>Australian schools and students can win great prizes!</p>
+<p>&nbsp;</p>
+</div></div>								</div>
+                            </div>
+                        </div>
+					</div>
+					
+					<div class="cell large-6">
+						<div class="programs-container grid-x grid-padding-x position_relative circles align-justify">
+														<div class="cell cell--square small-6 ">
+								<a href="https://www.asi.edu.au/program/australian-science-olympiads/" class="circle data-cnt" data-cnt="1">
+																		<span class="circle__hover background-image background-image--overlay" style="background-image: url('https://www.asi.edu.au/wp-content/uploads/2024/02/5013-ASI_130-800x800.jpg')">
+										<span class="color-white position_relative">Learn more</span>
+									</span>
+									<span class="circle__content bg_color background-secondary">
+										<span class="">Australian Science Olympiads</span>
+									</span>
+								</a>
+							</div>
+														<div class="cell cell--square small-6 padding-top">
+								<a href="https://www.asi.edu.au/program/junior-science-olympiad/" class="circle data-cnt" data-cnt="2">
+																		<span class="circle__hover background-image background-image--overlay" style="background-image: url('https://www.asi.edu.au/wp-content/uploads/2024/02/4.png')">
+										<span class="color-white position_relative">Learn more</span>
+									</span>
+									<span class="circle__content bg_color background-secondary secondary--600">
+										<span class="">Junior Science Olympiad</span>
+									</span>
+								</a>
+							</div>
+														<div class="cell cell--square small-6 ">
+								<a href="https://www.asi.edu.au/program/curious-minds/" class="circle data-cnt" data-cnt="3">
+																		<span class="circle__hover background-image background-image--overlay" style="background-image: url('https://www.asi.edu.au/wp-content/uploads/2023/12/Curious-Minds-479-800x800.jpg')">
+										<span class="color-white position_relative">Learn more</span>
+									</span>
+									<span class="circle__content bg_color background-tertiary">
+										<span class="">Curious Minds</span>
+									</span>
+								</a>
+							</div>
+														<div class="cell cell--square small-6 padding-top">
+								<a href="https://www.asi.edu.au/program/big-science-competition/" class="circle data-cnt" data-cnt="4">
+																		<span class="circle__hover background-image background-image--overlay" style="background-image: url('https://www.asi.edu.au/wp-content/uploads/2024/02/BSC-Website-Image-stock-800x800.png')">
+										<span class="color-white position_relative">Learn more</span>
+									</span>
+									<span class="circle__content bg_color background-primary">
+										<span class="">Big Science Competition</span>
+									</span>
+								</a>
+							</div>
+													</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section id="key-dates-and-events" class=" content-area-x2 background-white" data-row-type="flexible_content_row" data-row-index="row-3">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="cell">						
+				
+					<div class="padding-bottom-x2">
+						<h2 class="h2 fix_line_height">Key Dates and Events</h2>
+					</div>				<div class="grid-x grid-padding-x grid-padding-y medium-up-2 large-up-3">
+									<div class="cell">
+											
+												
+						<div class="grid-x height_100 align-stretch flex-dir-column background-grey">
+														<div class="cell flex-child-shrink">
+								<figure>
+																		<span class="tile-link__image-container set-size set-size--landscape">
+										<span class="set-size__image background-image" style="background-image:url(https://www.asi.edu.au/wp-content/uploads/2024/02/BSC-Website-Image-stock-1200x800.png)">
+											<img src="https://www.asi.edu.au/wp-content/uploads/2024/02/BSC-Website-Image-stock-1200x800.png" alt="Big Science Competition image">
+										</span>
+									</span>
+																	</figure>
+							</div>
+														
+														<div class="cell flex-child-grow boxed-content">
+															<div class="grid-x height_100">
+									<div class="cell">
+										<h3 class="h3">Big Science Competition</h3>
+																				<div class="grid-x">
+											<div class="cell wysiwyg">
+												<h6>Monday 6 May &#8211; Friday 17 May 2024</h6>
+<h6>Registrations are closed for 2024. Please contact asi@asi.edu.au for any inquiries.</h6>
+											</div>
+										</div>
+																			</div>
+																		<div class="cell align-self-bottom padding-top padding-top-x2">
+										<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																						<div class="cell shrink">
+												<a class="btn btn--hollow btn--hollow--secondary" href="https://www.asi.edu.au/program/big-science-competition/" target="_self">Learn More</a>
+											</div>
+																					</div>
+									</div>
+																	</div>
+							</div>
+						</div>
+							
+												
+										</div>
+										<div class="cell">
+											
+												
+						<div class="grid-x height_100 align-stretch flex-dir-column background-grey">
+														<div class="cell flex-child-shrink">
+								<figure>
+																		<span class="tile-link__image-container set-size set-size--landscape">
+										<span class="set-size__image background-image" style="background-image:url(https://www.asi.edu.au/wp-content/uploads/2023/12/Spring-School-257b-Smaller-1200x800.jpg)">
+											<img src="https://www.asi.edu.au/wp-content/uploads/2023/12/Spring-School-257b-Smaller-1200x800.jpg" alt="Junior Science Olympiad Exams image">
+										</span>
+									</span>
+																	</figure>
+							</div>
+														
+														<div class="cell flex-child-grow boxed-content">
+															<div class="grid-x height_100">
+									<div class="cell">
+										<h3 class="h3">Junior Science Olympiad Exams</h3>
+																				<div class="grid-x">
+											<div class="cell wysiwyg">
+												<h6>Wednesday 12 June – Friday 14 June 2024.</h6>
+<h6>Registrations are closed for 2024. Please contact asi@asi.edu.au for any inquiries.</h6>
+											</div>
+										</div>
+																			</div>
+																		<div class="cell align-self-bottom padding-top padding-top-x2">
+										<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																						<div class="cell shrink">
+												<a class="btn btn--hollow btn--hollow--secondary" href="https://www.asi.edu.au/program/junior-science-olympiad/" target="_blank">Learn More</a>
+											</div>
+																					</div>
+									</div>
+																	</div>
+							</div>
+						</div>
+							
+												
+										</div>
+										<div class="cell">
+											
+												
+						<div class="grid-x height_100 align-stretch flex-dir-column background-grey">
+														<div class="cell flex-child-shrink">
+								<figure>
+																		<span class="tile-link__image-container set-size set-size--landscape">
+										<span class="set-size__image background-image" style="background-image:url(https://www.asi.edu.au/wp-content/uploads/2024/02/5013-ASI_130-1200x800.jpg)">
+											<img src="https://www.asi.edu.au/wp-content/uploads/2024/02/5013-ASI_130-1200x800.jpg" alt="Australian Science Olympiad Exams image">
+										</span>
+									</span>
+																	</figure>
+							</div>
+														
+														<div class="cell flex-child-grow boxed-content">
+															<div class="grid-x height_100">
+									<div class="cell">
+										<h3 class="h3">Australian Science Olympiad Exams</h3>
+																				<div class="grid-x">
+											<div class="cell wysiwyg">
+												<h6>Monday 29 July &#8211; Thursday 1 August 2024.</h6>
+<h6>Registrations are now open. Registrations close 24 July 2024 5pm AEST.</h6>
+											</div>
+										</div>
+																			</div>
+																		<div class="cell align-self-bottom padding-top padding-top-x2">
+										<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																						<div class="cell shrink">
+												<a class="btn btn--hollow btn--hollow--secondary" href="https://www.asi.edu.au/program/australian-science-olympiads/" target="_self">Learn more</a>
+											</div>
+																					</div>
+									</div>
+																	</div>
+							</div>
+						</div>
+							
+												
+										</div>
+									</div>
+							</div>
+		</div>
+	</div>
+</section><section id="row-4" data-row-type="content_row_no_image" data-row-index="row-4">
+	<div class="content-area-x2 background-black position_relative">	<div class="grid-container content-area position_relative">
+		<div class="grid-x align-center">
+			<div class="cell">
+				<div class="grid-x grid-padding-x grid-padding-y  align-center  text-center">
+					<div class="cell ">
+											
+						<div class="wysiwyg"><h3>Our mission is to discover and enable Australia’s most talented students to compete in the International Science Olympiads through exceptional education and mentorship programs, and to foster a culture of innovation, inclusion and enthusiasm for science, supporting Australia’s ambition to become a global STEM superpower.</h3>
+</div>						<div class="padding-top-x2">
+							<div class="grid-x grid-x--small grid-padding-x grid-padding-y  align-center">
+																<div class="cell shrink">
+									<a class="btn btn--hollow btn--hollow--white" href="https://www.asi.edu.au/about/" target="_blank">Learn more about us</a>
+								</div>
+															</div>
+						</div>
+													
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="banner-row__video background-image background-image--overlay background-image--overlay--dark">
+		 <video class="js-banner-video" preload="auto" autoplay loop muted playsinline controlsList="nodownload">
+			<source src="https://www.asi.edu.au/wp-content/uploads/2023/01/shutterstock_1059930434_smooth.mp4" type="video/mp4">
+		</video>
+	</div>
+	</div></section><section  id="our-partnerships" class=" content-area-x2 background-white" data-row="row-5">
+	<div class="grid-container content-area padding-top-x0">
+		<div class="grid-x align-center">
+			<div class="cell text-center">	
+				<div class="padding-bottom padding-bottom-x2"><h2 class="h2 fix_line_height color-secondary">Our Partnerships</h2></div>				<div class="grid-x grid-padding-x grid-padding-y align-middle small-up-2 medium-up-3 large-up-4 align-justify">
+										<div class="cell">
+						<a href="https://www.industry.gov.au/" target="_blank">						<img class="partner-logo" src="https://www.asi.edu.au/wp-content/uploads/2022/12/logo-department-of-industry-science-resources.svg" alt="Australian Government">
+						</a>					</div>
+										<div class="cell">
+						<a href="https://www.anu.edu.au/" target="_blank">						<img class="partner-logo" src="https://www.asi.edu.au/wp-content/uploads/2022/12/anu.svg" alt="Australian National University">
+						</a>					</div>
+										<div class="cell">
+						<a href="https://www.3m.com.au/3M/en_AU/company-au/?utm_medium=redirect&utm_source=vanity-url&utm_campaign=www.3m.com.au" target="_blank">						<img class="partner-logo" src="https://www.asi.edu.au/wp-content/uploads/2022/12/3m-logo.svg" alt="3M">
+						</a>					</div>
+										<div class="cell">
+						<a href="https://www.amt.edu.au/" target="_blank">						<img class="partner-logo" src="https://www.asi.edu.au/wp-content/uploads/2022/12/logo-amt.svg" alt="Australian Maths Trust">
+						</a>					</div>
+										<div class="cell">
+						<a href="https://stileeducation.com/au/" target="_blank">						<img class="partner-logo" src="https://www.asi.edu.au/wp-content/uploads/2022/12/logo-stile.svg" alt="Stile">
+						</a>					</div>
+										<div class="cell">
+												<img class="partner-logo" src="https://www.asi.edu.au/wp-content/uploads/2022/12/logo-ixom.svg" alt="IXOM">
+											</div>
+										<div class="cell">
+												<img class="partner-logo" src="https://www.asi.edu.au/wp-content/uploads/2022/12/logo-asta.svg" alt="Australia Science Teachers Association">
+											</div>
+										<div class="cell">
+												<img class="partner-logo" src="https://www.asi.edu.au/wp-content/uploads/2022/12/logo-sta.svg" alt="Science &#038; Technology Australia">
+											</div>
+									</div>
+								<div class="padding-top padding-top-x2">
+					<div class="grid-x grid-x--small grid-padding-x grid-padding-y align-center">
+												<div class="cell shrink">
+							<a class="btn btn--hollow btn--hollow--secondary" href="https://www.asi.edu.au/partner-with-us/" target="_self">Learn more</a>
+						</div>
+											</div>
+				</div>
+							</div>
+		</div>
+	</div>
+</section>
+
+	</article>
+
+			</main>
+
+		<footer class="bottom-bar background-skew background-skew--flipped background-skew--bottom-x0 background-primary content-area-x2 padding-bottom-x0">
+			<div class="">
+				<div class="grid-container content-area padding-top-x0">
+					<div class="grid-x grid-padding-x grid-padding-y">
+						<div class="cell large-6">
+						    <div class="grid-x">
+								<div class="cell large-8">
+									<h3 class="h2 fix_line_height">Subscribe to our mailing list</h3>
+									
+                <div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_2' ><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_2' id='gform_2'  action='/' data-formid='2' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_2' class='gform_fields top_label form_sublabel_below description_below validation_below'><fieldset id="field_2_3" class="gfield gfield--type-name gfield--width-full gfield_contains_required field_sublabel_hidden_label gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_2_3" ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Your Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend><div class='ginput_complex ginput_container ginput_container--name no_prefix has_first_name no_middle_name has_last_name no_suffix gf_name_has_2 ginput_container_name gform-grid-row' id='input_2_3'>
+                            
+                            <span id='input_2_3_3_container' class='name_first gform-grid-col gform-grid-col--size-auto' >
+                                                    <input type='text' name='input_3.3' id='input_2_3_3' value=''   aria-required='true'   placeholder='First Name'  />
+                                                    <label for='input_2_3_3' class='gform-field-label gform-field-label--type-sub hidden_sub_label screen-reader-text'>First</label>
+                                                </span>
+                            
+                            <span id='input_2_3_6_container' class='name_last gform-grid-col gform-grid-col--size-auto' >
+                                                    <input type='text' name='input_3.6' id='input_2_3_6' value=''   aria-required='true'   placeholder='Last Name'  />
+                                                    <label for='input_2_3_6' class='gform-field-label gform-field-label--type-sub hidden_sub_label screen-reader-text'>Last</label>
+                                                </span>
+                            
+                        </div></fieldset><div id="field_2_1" class="gfield gfield--type-email gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_2_1" ><label class='gfield_label gform-field-label' for='input_2_1'>Email address<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_2_1' type='email' value='' class='large'   placeholder='Email' aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_submit" class="gfield gfield--type-submit gfield--width-half field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-field-class="gform_editor_submit_container" data-field-position="inline" data-js-reload="true" ><button class='button gform_button' id='gform_submit_button_2'><i class='fa-regular fa-chevron-right size-body'></i></button></div><div id="field_2_4" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_2_4" ><label class='gfield_label gform-field-label' for='input_2_4'>Name</label><div class='ginput_container'><input name='input_4' id='input_2_4' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_2_4'>This field is for validation purposes and should be left unchanged.</div></div></div></div>
+        <div class='gform_footer top_label'>  <input type='hidden' name='gform_ajax' value='form_id=2&amp;title=&amp;description=&amp;tabindex=60&amp;theme=gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='is_submit_2' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='2' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_2' value='WyJbXSIsImExM2QxNWFhZjBkOGVkOGU3OGFlMmMwN2Q0OTYxZTZhIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_2' id='gform_target_page_number_2' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_2' id='gform_source_page_number_2' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_2' id='gform_ajax_frame_2' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script>
+gform.initializeOnLoaded( function() {gformInitSpinner( 2, 'https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/img/svg/gf-spinner.svg', true );jQuery('#gform_ajax_frame_2').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_2');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_2').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_2').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_2').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_2').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_2').val();gformInitSpinner( 2, 'https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/img/svg/gf-spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [2, current_page]);window['gf_submitting_2'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_2').replaceWith(confirmation_content);jQuery(document).trigger('gform_confirmation_loaded', [2]);window['gf_submitting_2'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_2').text());}else{jQuery('#gform_2').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "2", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_2" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_2";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_2" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [2, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 2, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+																	</div>
+							</div>
+						</div>
+						
+												<div class="cell medium-6 large-3">
+							<h4 class="size-body">Navigation</h4><nav class="bottom-bar__navigation"><ul id="menu-navigation" class="menu"><li id="menu-item-530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-530"><a href="https://www.asi.edu.au/" aria-current="page">Home</a></li>
+<li id="menu-item-531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-531"><a href="https://www.asi.edu.au/about/">About</a></li>
+<li id="menu-item-532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-532"><a href="https://www.asi.edu.au/our-programs/">Our Programs</a></li>
+<li id="menu-item-1625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1625"><a href="https://www.asi.edu.au/alumni/">Alumni</a></li>
+<li id="menu-item-2320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2320"><a href="https://www.asi.edu.au/honour-roll/">Honour Roll</a></li>
+<li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="https://www.asi.edu.au/partner-with-us/">Partner with us</a></li>
+<li id="menu-item-1641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1641"><a href="https://www.asi.edu.au/news/">News</a></li>
+<li id="menu-item-2237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2237"><a href="https://auscienceinnovations.raiselysite.com/">Donate</a></li>
+<li id="menu-item-2276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2276"><a href="https://australianscienceinnovations.my.site.com/portal/login">ASI Teacher Portal</a></li>
+<li id="menu-item-2513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2513"><a href="https://www.asi.edu.au/teacher-support/">Competition and Exam Support</a></li>
+</ul></nav>						</div>
+												<div class="cell medium-6 large-3">
+							<h4 class="size-body margin-top">Contact us</h4>							<p>
+								<a href="tel:(02) 6125 6228">(02) 6125 6228</a>
+							</p>
+																					<p>
+								<a href="mailto:asi@asi.edu.au">asi@asi.edu.au</a>
+							</p>
+														<p>
+								<address><a href="https://www.google.com/maps/place/Australian+Science+Innovations/@-35.28397,149.1109404,17z/data=!3m2!4b1!5s0x6b164d482a7aabd1:0x8ed42c906aec6ecd!4m5!3m4!1s0x6b164d4827b6c7e9:0xf5e42b7dc9f15b42!8m2!3d-35.2839744!4d149.1131291" target="_blank">Australian Science Innovations<br>Box 7251, Canberra Mail Centre<br>ACT 2610</a></address>
+							</p>
+														<p>
+								ABN 81 731 558 309							</p>
+														<div class="grid-x grid-x--xsmall grid-padding-x grid-padding-y">
+																<div class="cell shrink"> 
+									<a target="_blank" href="https://www.facebook.com/auscienceinnovations/"><span class="icon-link size-h5"><i class="fa fa-facebook" aria-hidden="true"></i></span></a>
+								</div>
+																								<div class="cell shrink"> 
+									<a target="_blank" href="https://www.instagram.com/auscienceinnovations/"><span class="icon-link size-h5"><i class="fa fa-instagram" aria-hidden="true"></i></span></a> 
+								</div>
+																																<div class="cell shrink"> 
+									<a target="_blank" href="https://www.linkedin.com/school/auscienceinnovations"><span class="icon-link size-h5"><i class="fa fa-linkedin" aria-hidden="true"></i></span></a> 
+								</div>
+																								<div class="cell shrink"> 
+									<a target="_blank" href="https://www.youtube.com/@auscienceinnovations"><span class="icon-link size-h5 "><i class="fa fa-youtube" aria-hidden="true"></i></span></a> 
+								</div>
+															</div>
+													</div>
+											</div>
+				
+										<div class="padding-top-x2">
+						<div class="grid-x grid-padding-x grid-padding-y">
+														<div class="cell large-auto">
+								<h4 class="size-body">Major Sponsors</h4>
+								<div class="grid-x grid-padding-x grid-padding-y align-middle">
+																		<div class="cell shrink"> 
+																				<img src="https://www.asi.edu.au/wp-content/uploads/2023/01/gov-logo.svg" class="image--height-60" alt="Major Sponsor">
+																			</div>
+																		<div class="cell shrink"> 
+																				<img src="https://www.asi.edu.au/wp-content/uploads/2023/01/logo-anu.svg" class="image--height-60" alt="Major Sponsor">
+																			</div>
+																	</div>
+							</div>
+														<div class="cell large-auto">
+								<h4 class="size-body">Members of</h4>
+								<div class="grid-x grid-padding-x grid-padding-y align-middle">
+																		<div class="cell shrink"> 
+																				<img src="https://www.asi.edu.au/wp-content/uploads/2023/01/diversity-council-council.svg" class="image--height-50" alt="Membership">
+																			</div>
+																		<div class="cell shrink"> 
+																				<img src="https://www.asi.edu.au/wp-content/uploads/2023/01/registered-charity.svg" class="image--height-75" alt="Membership">
+																			</div>
+																	</div>
+							</div>
+													</div>
+					</div>
+					
+										<div class="padding-top-x2">
+						<div class="grid-x grid-padding-x grid-padding-y align-middle">
+														<div class="cell large-auto">
+								<div class="grid-x grid-padding-x grid-padding-y align-middle">
+																		<div class="cell medium-shrink">
+										<img src="https://www.asi.edu.au/wp-content/uploads/2023/01/acknowledgement-of-country.png" class="image--height-40" alt="Acknowledgement Image">
+									</div>
+																		<div class="cell medium-auto">
+										<p>We acknowledge the Aboriginal and Torres Strait Islander peoples, traditional owners of the lands on which we live and meet. We recognise their connection to Country and their important role as Australia’s very first scientists – observing, experimenting and documenting the world around them for many thousands of years.</p>
+									</div>
+								</div>
+							</div>
+														<div class="cell large-shrink">
+								<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																		<div class="cell shrink">
+										<a class="btn btn--hollow btn--hollow--white has-icon" href="https://auscienceinnovations.raiselysite.com/" target="_blank">
+											Donate											<span class="background-white align-center align-middle color-primary">
+												<i class="fa-regular fa-arrow-up-right-from-square"></i>
+											</span>
+										</a>
+									</div>
+																		<div class="cell shrink">
+										<a class="btn btn--hollow btn--hollow--white has-icon" href="https://australianscienceinnovations.force.com/portal" target="_blank">
+											Teachers Portal											<span class="background-white align-center align-middle color-primary">
+												<i class="fa-regular fa-arrow-up-right-from-square"></i>
+											</span>
+										</a>
+									</div>
+																	</div>
+							</div>
+													</div>
+					</div>
+									</div>
+			</div>
+			<div class="grid-container">
+				<div class="bottom-bar__legality  medium-border-top border-white">
+					<div class="grid-x grid-padding-x text-center">
+						<div class="cell large-auto large-text-left">
+							Copyright &copy; 2024 Australian Science Innovations. All rights reserved &nbsp;&nbsp;&nbsp;<a href="https://www.asi.edu.au/privacy-policy/">Privacy Policy</a>   &nbsp;&nbsp;&nbsp;<a href="https://www.asi.edu.au/terms-conditions/">Terms &#038; Conditions</a>						</div>
+						<div class="cell large-shrink large-text-right">
+							Site by <a href="https://coordinate.com.au" target="_blank" rel="nofollow">Coordinate</a>.						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+		<section class="grid-x popup js-ajax-popup content-area">
+			<div class="grid-container medium-align-self-middle">
+				<div class="grid-x grid-padding-x align-center">
+					<div class="cell large-10 xlarge-8">
+						<div class="popup__content boxed-content large-boxed-content-sides-x2 content-area large-content-area-x2 background-white wysiwyg position_relative">
+							<div class="js-ajax-loader">
+
+							</div>
+							<a href="#" class="close-btn js-close-trigger">
+								<span class="link-icon"><i class="fa-regular fa-xmark"></i></span>
+							</a>
+						</article>
+					</div>
+				</div>
+			</div>
+			<div class="popup__close js-close-trigger"></div>
+		</section>
+
+		
+		
+		<div id="outdated"></div>
+		<script src="https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/js/outdatedbrowser.min.js"></script>
+		<script>		
+		//event listener: DOM ready
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function() {
+					if (oldonload) {
+						oldonload();
+					}
+					func();
+				}
+			}
+		}
+		//call plugin function after DOM ready
+		addLoadEvent(function(){
+			outdatedBrowser({
+				bgColor: '#f25648',
+				color: '#ffffff',
+				lowerThan: 'borderImage',
+				languagePath: 'https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/js/lang/en.html'
+			})
+		});
+		</script>
+
+		<!--[if lt IE 9]>
+		  <script src="https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/js/html5shiv.js"></script>
+		  <script src="https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/js/respond.min.js"></script>
+		<![endif]-->
+
+		<script src="https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/js/vendor/jquery-migrate-3.0.1.min.js?ver=3.0.1" id="migrate-js"></script>
+<script src="https://kit.fontawesome.com/29b58b9908.js?ver=1" id="icons-js"></script>
+<script src="https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/js/plugins.js?ver=1" id="plugins-js"></script>
+<script id="app-js-extra">
+var themeurl = {"templateUrl":"https:\/\/www.asi.edu.au\/wp-content\/themes\/australian-science-innovations"};
+</script>
+<script src="https://www.asi.edu.au/wp-content/themes/australian-science-innovations/assets/js/app.js?ver=1.0.2" id="app-js"></script>
+<script src="https://www.asi.edu.au/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://www.asi.edu.au/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script src="https://www.asi.edu.au/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://www.asi.edu.au/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script src="https://www.asi.edu.au/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script src="https://www.asi.edu.au/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="wp-a11y-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2024-04-09 22:54:22+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_AU"},"Notifications":["Notifications"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+</script>
+<script src="https://www.asi.edu.au/wp-includes/js/dist/a11y.min.js?ver=d90eebea464f6c09bfd5" id="wp-a11y-js"></script>
+<script defer='defer' src="https://www.asi.edu.au/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.8.13" id="gform_json-js"></script>
+<script id="gform_gravityforms-js-extra">
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/www.asi.edu.au\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"Australian Dollar","symbol_left":"$","symbol_right":"","symbol_padding":" ","thousand_separator":",","decimal_separator":".","decimals":2,"code":"AUD"},"base_url":"https:\/\/www.asi.edu.au\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.asi.edu.au\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"8bfed157326d27e6804c2f09a48b9aed","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+var gf_global = {"gf_currency_config":{"name":"Australian Dollar","symbol_left":"$","symbol_right":"","symbol_padding":" ","thousand_separator":",","decimal_separator":".","decimals":2,"code":"AUD"},"base_url":"https:\/\/www.asi.edu.au\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.asi.edu.au\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"8bfed157326d27e6804c2f09a48b9aed","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+</script>
+<script defer='defer' src="https://www.asi.edu.au/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.8.13" id="gform_gravityforms-js"></script>
+<script defer='defer' src="https://www.asi.edu.au/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.8.13" id="gform_placeholder-js"></script>
+<script defer='defer' src="https://www.asi.edu.au/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=50c7bea9c2320e16728e44ae9fde5f26" id="gform_gravityforms_utils-js"></script>
+<script defer='defer' src="https://www.asi.edu.au/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=54e7080aa7a02c83aa61fae430b9d869" id="gform_gravityforms_theme_vendors-js"></script>
+<script id="gform_gravityforms_theme-js-extra">
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"8bfed157326d27e6804c2f09a48b9aed"}}},"hmr_dev":"","public_path":"https:\/\/www.asi.edu.au\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
+</script>
+<script defer='defer' src="https://www.asi.edu.au/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=bab19fd84843dabc070e73326d787910" id="gform_gravityforms_theme-js"></script>
+<script>
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script>
+gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "1", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, 1] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: 1 } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );
+</script>
+<script>
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 2) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script>
+gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "2", currentPage: "1", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_2" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_2";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_2" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [2, 1] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 2, currentPage: 1 } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );
+</script>
+
+	</body>
+</html>

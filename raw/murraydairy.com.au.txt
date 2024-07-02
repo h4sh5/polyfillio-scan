@@ -1,0 +1,2198 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+<link href="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/feature/experience-accelerator/bootstrap-4/bootstrap-4/styles/optimized-min.css?rev=f3846204a49f49e49bf65668de8c9263&t=20200917T005442Z&hash=3129AFB1F7109286500F05079A9A183A" rel="stylesheet" /><link href="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/base-themes/core-libraries/styles/optimized-min.css?rev=7427eed6eed94b90bcd7114b503671f9&t=20200408T051950Z&hash=158C92892FE6C1D7560CB5F5FA51EC53" rel="stylesheet" /><link href="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/base-themes/main-theme/styles/optimized-min.css?rev=0c7334c6cdb14609bbe5348b766309db&t=20200917T005446Z&hash=5CB2C0741C607E34356D65B9CC3EA410" rel="stylesheet" /><link href="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/base-themes/custom-vendors/styles/optimized-min.css?rev=6fa00c3f0ebb47e9ac992e8fbf05c450&t=20220830T000231Z&hash=648FF51EE97C3E07480294D90576F0C5" rel="stylesheet" /><link href="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/themes/dairy-australia-sites/national-home/national-home/styles/optimized-min.css?rev=623def1514914deeae15bb9e663135d1&t=20240322T042005Z&hash=48161859BEA78FFE0D3472573264EA7A" rel="stylesheet" />    
+<meta name="VIcurrentDateTime" content="638555258477284142" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+    
+
+
+    <title>Dairy Australia | Murray Dairy</title>
+
+
+
+
+<link href="" rel="shortcut icon" />
+
+
+<meta content="Dairy Australia strives to support the profitability and sustainability of dairy farming. Visit our website now and speak to one of our team members today."  property="og:description" /><meta content="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/murraydairy/shared/logos/murray-dairy_rgb.png?rev=b54bf7dbb8924351a5878827473da672"  property="og:image" /><meta content="Dairy Australia | Murray Dairy"  property="og:title" /><meta content="https://www.dairyaustralia.com.au/murray-dairy"  property="og:url" />
+
+
+<meta content="Dairy Australia strives to support the profitability and sustainability of dairy farming. Visit our website now and speak to one of our team members today." name="description"  />
+
+
+<meta content="@Dairy_Australia"  property="twitter:site" /><meta content="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/murraydairy/shared/logos/murray-dairy_rgb.png?rev=b54bf7dbb8924351a5878827473da672"  property="twitter:image" /><meta content="Dairy Australia strives to support the profitability and sustainability of dairy farming. Visit our website now and speak to one of our team members today."  property="twitter:description" /><meta content="Dairy Australia | Murray Dairy"  property="twitter:title" /><meta content="summary_large_image"  property="twitter:card" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NC466W');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="isHomepage nationalSubsite default-device bodyclass">
+    
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NC466W" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+    
+<!-- #wrapper -->
+<div id="wrapper">
+    <!-- #header -->
+    <header>
+        <div id="header" class="container-fluid">
+            <div class="row">
+
+
+
+<div class="component container col-12" id="national-header-container">
+    <div class="component-content" >
+<div class="row">
+
+<div class="row component column-splitter">
+        <div class="col-12 col-lg-3 col-xl-2 global-nav-container">
+            <div class="row"><div class="component plain-html col-12" id="close-button-container">
+    <div class="component-content">
+<button class="btn header-close-btn">Close</button>    </div>
+</div>
+    <div class="component navigation col-12 test-adrian-class-17042020 test-adrian-class-17042020">
+        <div class="component-content">
+            <nav>
+                <div class="row flex-column align-items-start flex-row">
+    <div class="col-12">
+        <div class="row no-gutters align-items-center justify-content-between">
+            <div class="col-6 col-lg-8">
+                <a href="/murray-dairy" class="site-logo">
+                        <!-- logo should be dynamically updated for each region -->
+
+                    <img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/westerndairy/shared/logos/header-logo-final/header-logo_0000s_0001s_0003_murray-dairy_rgb.png?h=156&amp;w=300&amp;rev=6d32b673177c40e4b4213a57329a9002&amp;hash=900F89994EFD4C0B66AA9FE100F16067" alt="" width="300" height="156" />
+                </a>
+            </div>
+            <div class="col-6 col-lg-4">
+                <button class="global-nav-toggle has-icon icon-right">
+                    <span class="icon icon-medium icon-hamburger-blue ml-2"></span>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+                    <div id="fixed-menu-container">
+                        <div id="fixed-menu-close-overlay"></div>
+
+                        <div class="row no-gutters">
+                            <div class="col-xs-12 col-lg-3 col-xl-2 sidenav-col-parent">
+                                <div class="sidenav-container px-3">
+                                    <div class="row no-gutters align-items-center justify-content-between">
+    <div class="col-6 col-lg-8">
+        <a href="/murray-dairy" class="site-logo pb-30">
+                <!-- logo should be dynamically updated for each region -->
+            <img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/westerndairy/shared/logos/header-logo-final/header-logo_0000s_0000s_0003_murray-dairy_rgb_rev.png?h=156&amp;w=300&amp;rev=3c333dc663524c609188e110004f87dd&amp;hash=8B8FBC831B138B23468DE93A79B807CD" alt="" width="300" height="156" />
+        </a>
+    </div>
+    <div class="col-6 col-lg-4">
+
+        <!-- ADRIAN - SXA CUSTOM SEARCH COMPONENT START -->
+        
+<div class="component search-box vertical d-block d-lg-none" data-properties='{"endpoint":"https://www.dairyaustralia.com.au/murray-dairy/sxa/extendedsearch/results/","suggestionEndpoint":"https://www.dairyaustralia.com.au/murray-dairy/sxa/search/suggestions/","suggestionsMode":"ShowSearchResults","resultPage":"https://www.dairyaustralia.com.au/search","targetSignature":"site-search","v":"{05007A25-3AD9-49AC-9EB2-0F223EEBAF8B}","s":"{6F63ED23-D301-4A63-B075-0E7BF08F440C}","p":5,"l":"","languageSource":"SearchResultsLanguage","searchResultsSignature":"site-search","itemid":"{78065979-E7D2-4353-A3D5-5F20D5270F02}"}'>
+    <div class="component-content">
+
+        
+            <button id="search-toggle" class="has-icon">
+                <span class="icon icon-large icon-search icon-white"></span>
+            </button>
+            <div class="search-box-overlay">
+                <div class="search-box-overlay-inner">
+                        <input type="text" class="search-box-input" autocomplete="off" name="textBoxSearch" placeholder="Search" />
+                                        <button class="search-box-button-with-redirect" type="submit">
+                        View more results
+                    </button>
+                </div>
+            </div>
+    </div>
+</div>
+
+        <!-- ADRIAN - SXA CUSTOM SEARCH COMPONENT END -->
+
+        <button class="global-nav-toggle has-icon icon-right">
+            <span class="icon icon-medium icon-close d-lg-none"></span>
+            <span class="icon icon-medium icon-hamburger-arrow d-none d-lg-block"></span>
+            <span class="icon icon-medium icon-hamburger-white ml-2 d-none d-lg-block"></span>
+        </button>
+
+    </div>
+</div>
+                                    <div class="row no-gutters flex-column align-items-start justify-content-start">
+                                        <div class="sidenav-aligner">
+
+                                            <!-- SXA CUSTOM REGION SELECTOR COMPONENT START -->
+                                            <div class="component region-list d-flex d-lg-none"
+    data-setRegionApi ="/dairyapi/locationdetection/setRegion">
+    <div class="component-content">
+        <button id="region-selector" class="has-icon">
+            <span class="icon icon-medium icon-mapmarker-blue"></span>
+            <span id="region-value">All regions</span>
+            <span class="icon icon-medium icon-chevron-down"></span>
+        </button>
+        <div class="region-list-popup">
+            <div class="region-list-popup-content">
+                <h4>Select a region to view local or national information</h4>
+                    <ul class="items">
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/dairynsw" data-variantitemid="{0CAC59D4-6C9D-4F7E-8FD5-684A6B74F5F4}">Dairy NSW</a></div><div class="field-state-name">New South Wales</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/dairysa" data-variantitemid="{D950B173-29AD-4D4D-8A56-85F696184569}">DairySA</a></div><div class="field-state-name">South Australia</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/dairytas" data-variantitemid="{0D712899-E449-4C04-8B54-971383065057}">DairyTas</a></div><div class="field-state-name">Tasmania</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/gippsdairy" data-variantitemid="{E3AA6E37-1DF2-4142-8B3B-F4324444F4F5}">GippsDairy</a></div><div class="field-state-name">Gippsland</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/murray-dairy" data-variantitemid="{215EA3A5-3B89-4DD0-8A86-52AD6C88CBB0}">Murray Dairy</a></div><div class="field-state-name">Northern Victoria and Southern Riverina</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/subtropical-dairy" data-variantitemid="{57D6313D-EA03-4477-A19E-2E29ABD15752}">Subtropical Dairy</a></div><div class="field-state-name">Queensland and Far North NSW</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/western-dairy" data-variantitemid="{EFE4B14D-3D79-4F5C-AD4E-2491D76DE84B}">Western Dairy</a></div><div class="field-state-name">Western Australia</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/westvic-dairy" data-variantitemid="{35700005-BDED-4D2B-978D-5B2F5CC809AA}">WestVic Dairy</a></div><div class="field-state-name">South West Victoria</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/?clear=all" data-variantitemid="{4C13D0B3-FE34-4E34-86E0-7F9BC31AF72F}">Dairy Australia</a></div><div class="field-state-name">National</div>                           
+                        </li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+                                            <!-- SXA CUSTOM REGION SELECTOR COMPONENT END -->
+
+
+        <ul class="clearfix sidenav-level-1 ">
+                <li class=" level1 submenu item0 odd first rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/animals" class=""> 
+   <span class="icon icon-medium "></span>Animals
+</a>
+</div>
+
+        <div class="level-2-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-1-heading">
+                    Animals
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-2 flex-column">
+                    <li class=" level2 item0 odd first rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/animals/genetics" class=""> 
+   <span class="icon icon-medium "></span>Genetics
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item1 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/animals/fertility" class=""> 
+   <span class="icon icon-medium "></span>Fertility
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item2 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/animals/calf-rearing" class=""> 
+   <span class="icon icon-medium "></span>Calf Rearing
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item3 even last rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/animals/health-and-welfare" class=""> 
+   <span class="icon icon-medium "></span>Health & Welfare
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                </li>
+                <li class=" level1 submenu item1 even rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/milking" class=""> 
+   <span class="icon icon-medium "></span>Milking
+</a>
+</div>
+
+        <div class="level-2-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-1-heading">
+                    Milking
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-2 flex-column">
+                    <li class=" level2 item0 odd first rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/milking/milk-quality-and-mastitis" class=""> 
+   <span class="icon icon-medium "></span>Milk Quality & Mastitis
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item1 even last rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/milking/milking-systems" class=""> 
+   <span class="icon icon-medium "></span>Milking Systems
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                </li>
+                <li class=" level1 submenu item2 odd rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/feeding-and-farm-systems" class=""> 
+   <span class="icon icon-medium "></span>Feeding & Farm Systems
+</a>
+</div>
+
+        <div class="level-2-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-1-heading">
+                    Feeding &amp; Farm Systems
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-2 flex-column">
+                    <li class=" level2 item0 odd first rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/feeding-and-farm-systems/crops" class=""> 
+   <span class="icon icon-medium "></span>Crops
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item1 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/feeding-and-farm-systems/pastures" class=""> 
+   <span class="icon icon-medium "></span>Pastures
+</a>
+</div>
+                    </li>
+                    <li class=" level2 submenu item2 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/feeding-and-farm-systems/feed-supplements" class=""> 
+   <span class="icon icon-medium "></span>Feed Supplements
+</a>
+</div>
+
+        <div class="level-3-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-2-heading">
+                    Feed Supplements
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-3 flex-column">
+                    <li class=" level3 item0 odd first last rel-level3">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/feeding-and-farm-systems/feed-supplements/feed-additives" class=""> 
+   <span class="icon icon-medium "></span>$name
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                    </li>
+                    <li class=" level2 submenu item3 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/feeding-and-farm-systems/nutrition-management" class=""> 
+   <span class="icon icon-medium "></span>Nutrition Management
+</a>
+</div>
+
+        <div class="level-3-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-2-heading">
+                    Nutrition Management
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-3 flex-column">
+                    <li class=" level3 item0 odd first last rel-level3">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/feeding-and-farm-systems/nutrition-management/transition-management" class=""> 
+   <span class="icon icon-medium "></span>$name
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                    </li>
+                    <li class=" level2 item4 odd last rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/feeding-and-farm-systems/farm-systems" class=""> 
+   <span class="icon icon-medium "></span>Farm Systems
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                </li>
+                <li class=" level1 submenu item3 even rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/soils-and-water" class=""> 
+   <span class="icon icon-medium "></span>Soils & Water
+</a>
+</div>
+
+        <div class="level-2-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-1-heading">
+                    Soils &amp; Water
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-2 flex-column">
+                    <li class=" level2 item0 odd first rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/soils-and-water/soil-management-and-fertility" class=""> 
+   <span class="icon icon-medium "></span>Soil Management & Fertility
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item1 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/soils-and-water/effluent-management" class=""> 
+   <span class="icon icon-medium "></span>Effluent Management
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item2 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/soils-and-water/water-management" class=""> 
+   <span class="icon icon-medium "></span>Water Management
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item3 even last rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/soils-and-water/irrigation" class=""> 
+   <span class="icon icon-medium "></span>Irrigation
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                </li>
+                <li class=" level1 submenu item4 odd rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/climate-and-environment" class=""> 
+   <span class="icon icon-medium "></span>Climate & Environment
+</a>
+</div>
+
+        <div class="level-2-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-1-heading">
+                    Climate &amp; Environment
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-2 flex-column">
+                    <li class=" level2 item0 odd first rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/climate-and-environment/climate-risk-and-adaptation" class=""> 
+   <span class="icon icon-medium "></span>Climate Risk & Adaptation
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item1 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/climate-and-environment/greenhouse-gas-emissions" class=""> 
+   <span class="icon icon-medium "></span>Greenhouse Gas Emissions
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item2 odd last rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/climate-and-environment/environmental-management" class=""> 
+   <span class="icon icon-medium "></span>Environmental Management
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                </li>
+                <li class=" level1 submenu item5 even rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business" class=""> 
+   <span class="icon icon-medium "></span>Farm Business
+</a>
+</div>
+
+        <div class="level-2-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-1-heading">
+                    Farm Business
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-2 flex-column">
+                    <li class=" level2 item0 odd first rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/enhancing-farm-business-management" class=""> 
+   <span class="icon icon-medium "></span>Enhancing Farm Business Management
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item1 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/our-farm-our-plan" class=""> 
+   <span class="icon icon-medium "></span>Our Farm, Our Plan
+</a>
+</div>
+                    </li>
+                    <li class=" level2 submenu item2 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/planning-and-budgeting" class=""> 
+   <span class="icon icon-medium "></span>Planning & Budgeting
+</a>
+</div>
+
+        <div class="level-3-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-2-heading">
+                    Planning &amp; Budgeting
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-3 flex-column">
+                    <li class=" level3 item0 odd first last rel-level3">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/planning-and-budgeting/financing" class=""> 
+   <span class="icon icon-medium "></span>Financing
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                    </li>
+                    <li class=" level2 submenu item3 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/dairybase" class=""> 
+   <span class="icon icon-medium "></span>DairyBase
+</a>
+</div>
+
+        <div class="level-3-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-2-heading">
+                    DairyBase
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-3 flex-column">
+                    <li class=" level3 item0 odd first rel-level3">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/dairybase/getting-started" class=""> 
+   <span class="icon icon-medium "></span>Getting Started
+</a>
+</div>
+                    </li>
+                    <li class=" level3 item1 even rel-level3">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/dairybase/dairybase-tools-and-resources" class=""> 
+   <span class="icon icon-medium "></span>DairyBase Tools & Resources
+</a>
+</div>
+                    </li>
+                    <li class=" level3 item2 odd rel-level3">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/dairybase/dairy-standard-charts-of-accounts" class=""> 
+   <span class="icon icon-medium "></span>Dairy Standard Charts of Accounts
+</a>
+</div>
+                    </li>
+                    <li class=" level3 item3 even last rel-level3">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/dairybase/dairy-cash-budgeting-tool" class=""> 
+   <span class="icon icon-medium "></span>Dairy Cash Budgeting Tool
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                    </li>
+                    <li class=" level2 item4 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/farm-business-management-training" class=""> 
+   <span class="icon icon-medium "></span>Farm Business Management Training
+</a>
+</div>
+                    </li>
+                    <li class=" level2 submenu item5 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/infrastructure" class=""> 
+   <span class="icon icon-medium "></span>Infrastructure
+</a>
+</div>
+
+        <div class="level-3-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-2-heading">
+                    Infrastructure
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-3 flex-column">
+                    <li class=" level3 submenu item0 odd first rel-level3">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/infrastructure/shade-and-cooling" class=""> 
+   <span class="icon icon-medium "></span>Shade & Cooling
+</a>
+</div>
+
+        <div class="level-4-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-3-heading">
+                    Shade &amp; Cooling
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-4 flex-column">
+                    <li class=" level4 item0 odd first rel-level4">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/infrastructure/shade-and-cooling/trees-for-shade" class=""> 
+   <span class="icon icon-medium "></span>Trees for Shade
+</a>
+</div>
+                    </li>
+                    <li class=" level4 item1 even rel-level4">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/infrastructure/shade-and-cooling/sprinklers" class=""> 
+   <span class="icon icon-medium "></span>Sprinklers
+</a>
+</div>
+                    </li>
+                    <li class=" level4 item2 odd rel-level4">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/infrastructure/shade-and-cooling/soft-roof-shade-structures" class=""> 
+   <span class="icon icon-medium "></span>Soft-roof Shade Structures
+</a>
+</div>
+                    </li>
+                    <li class=" level4 item3 even rel-level4">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/infrastructure/shade-and-cooling/feedpad-shade-structures" class=""> 
+   <span class="icon icon-medium "></span>Feedpad Shade Structures
+</a>
+</div>
+                    </li>
+                    <li class=" level4 item4 odd rel-level4">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/infrastructure/shade-and-cooling/portable-shade-structures" class=""> 
+   <span class="icon icon-medium "></span>Portable Shade Structures
+</a>
+</div>
+                    </li>
+                    <li class=" level4 item5 even last rel-level4">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/infrastructure/shade-and-cooling/fan-system-design" class=""> 
+   <span class="icon icon-medium "></span>Fan System Design
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                    </li>
+                    <li class=" level3 item1 even rel-level3">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/infrastructure/technology" class=""> 
+   <span class="icon icon-medium "></span>Technology
+</a>
+</div>
+                    </li>
+                    <li class=" level3 item2 odd last rel-level3">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/infrastructure/compost-bedded-pack-structures" class=""> 
+   <span class="icon icon-medium "></span>Compost Bedded Pack Structures
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                    </li>
+                    <li class=" level2 submenu item6 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/focus-farms" class=""> 
+   <span class="icon icon-medium "></span>Focus Farms
+</a>
+</div>
+
+        <div class="level-3-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-2-heading">
+                    Focus Farms
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-3 flex-column">
+                    <li class=" level3 item0 odd first last rel-level3">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/focus-farms/murray-dairy-focus-farms" class=""> 
+   <span class="icon icon-medium "></span>Murray Dairy Focus Farms
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                    </li>
+                    <li class=" level2 item7 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/grant-and-support-programs" class=""> 
+   <span class="icon icon-medium "></span>Grant & Support Programs
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item8 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/dairy-farm-profitability-and-economic-research" class=""> 
+   <span class="icon icon-medium "></span>Dairy Farm Profitability & Economic Research
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item9 even last rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/milk-supply-agreements" class=""> 
+   <span class="icon icon-medium "></span>Milk Supply Agreements
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                </li>
+                <li class=" level1 submenu item6 odd rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/people-skills-and-capability" class=""> 
+   <span class="icon icon-medium "></span>People, Skills & Capability
+</a>
+</div>
+
+        <div class="level-2-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-1-heading">
+                    People, Skills &amp; Capability
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-2 flex-column">
+                    <li class=" level2 item0 odd first rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/people-skills-and-capability/reaching-jobseekers" class=""> 
+   <span class="icon icon-medium "></span>Reaching Jobseekers
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item1 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/people-skills-and-capability/employing-and-managing-people" class=""> 
+   <span class="icon icon-medium "></span>Employing & Managing People
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item2 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/people-skills-and-capability/training-and-development" class=""> 
+   <span class="icon icon-medium "></span>Training & Development
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item3 even last rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/people-skills-and-capability/farm-safety-and-wellbeing" class=""> 
+   <span class="icon icon-medium "></span>Farm Safety & Wellbeing
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                </li>
+                <li class=" level1 submenu item7 even rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/promoting-australian-dairy" class=""> 
+   <span class="icon icon-medium "></span>Promoting Australian Dairy
+</a>
+</div>
+
+        <div class="level-2-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-1-heading">
+                    Promoting Australian Dairy
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-2 flex-column">
+                    <li class=" level2 item0 odd first rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/promoting-australian-dairy/consumer-marketing" class=""> 
+   <span class="icon icon-medium "></span>Consumer Marketing
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item1 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/promoting-australian-dairy/school-education" class=""> 
+   <span class="icon icon-medium "></span>School Education
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item2 odd last rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/promoting-australian-dairy/health-and-nutrition" class=""> 
+   <span class="icon icon-medium "></span>Health & Nutrition
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                </li>
+                <li class=" level1 submenu item8 odd rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/international-dairy-markets" class=""> 
+   <span class="icon icon-medium "></span>International Dairy Markets
+</a>
+</div>
+
+        <div class="level-2-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-1-heading">
+                    International Dairy Markets
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-2 flex-column">
+                    <li class=" level2 item0 odd first rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/international-dairy-markets/importing-australian-dairy" class=""> 
+   <span class="icon icon-medium "></span>Importing Australian Dairy
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item1 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/international-dairy-markets/exporting-australian-dairy" class=""> 
+   <span class="icon icon-medium "></span>Exporting Australian Dairy
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item2 odd last rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/international-dairy-markets/trade-relationships" class=""> 
+   <span class="icon icon-medium "></span>Trade Relationships
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                </li>
+                <li class=" level1 submenu item9 even last rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/manufacturing-support" class=""> 
+   <span class="icon icon-medium "></span>Manufacturing Support
+</a>
+</div>
+
+        <div class="level-2-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-1-heading">
+                    Manufacturing Support
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-2 flex-column">
+                    <li class=" level2 item0 odd first rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/manufacturing-support/australian-dairy-manufacturers" class=""> 
+   <span class="icon icon-medium "></span>Australian Dairy Manufacturers
+</a>
+</div>
+                    </li>
+                    <li class=" level2 submenu item1 even last rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/manufacturing-support/manufacturing-sustainability" class=""> 
+   <span class="icon icon-medium "></span>Manufacturing Sustainability
+</a>
+</div>
+
+        <div class="level-3-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-2-heading">
+                    Manufacturing Sustainability
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-3 flex-column">
+                    <li class=" level3 item0 odd first last rel-level3">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/manufacturing-support/manufacturing-sustainability/anaerobic-co-digestion" class=""> 
+   <span class="icon icon-medium "></span>$name
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                </li>
+        </ul>
+
+
+
+
+
+
+
+
+
+
+        <ul class="clearfix sidenav-level-1 ">
+                <li class=" level1 item0 odd first last rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/news" class=""> 
+   <span class="icon icon-medium "></span>News
+</a>
+</div>
+                </li>
+                <li class=" level1 item0 odd first last rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/events-calendar" class=""> 
+   <span class="icon icon-medium "></span>Events
+</a>
+</div>
+                </li>
+                <li class=" level1 item0 odd first last rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/resources" class=""> 
+   <span class="icon icon-medium "></span>Resources
+</a>
+</div>
+                </li>
+                <li class=" level1 item0 odd first last rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/industry-reports" class=""> 
+   <span class="icon icon-medium "></span>Industry Reports
+</a>
+</div>
+                </li>
+                <li class=" level1 item0 odd first last rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/contacts-directory" class=""> 
+   <span class="icon icon-medium "></span>Contacts Directory
+</a>
+</div>
+                </li>
+                <li class=" level1 item0 odd first last rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/issues-and-emergencies" class=""> 
+   <span class="icon icon-medium "></span>Issues & Emergencies
+</a>
+</div>
+                </li>
+                <li class=" level1 submenu item0 odd first last rel-level1">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us" class=""> 
+   <span class="icon icon-medium "></span>About Us
+</a>
+</div>
+
+        <div class="level-2-wrapper">
+            <div class="mobile-top-heading">
+                <button class="mobile-back-btn has-icon">
+                    <span class="icon-large icon-chevron-left-light-blue"></span>
+                </button>
+                <span class="level-1-heading">
+                    About Us
+                </span>
+                <button class="header-close-btn has-icon">
+                    <span class="icon-medium icon-close-light-blue"></span>
+                </button>
+            </div>
+
+            <ul class="clearfix sidenav-level-2 flex-column">
+                    <li class=" level2 item0 odd first rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/murray-dairy-team" class=""> 
+   <span class="icon icon-medium "></span>Murray Dairy Team
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item1 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/murray-dairy-board" class=""> 
+   <span class="icon icon-medium "></span>Murray Dairy Board
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item2 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/murray-dairy-committees" class=""> 
+   <span class="icon icon-medium "></span>Murray Dairy Committees
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item3 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/murray-dairy-regional-groups" class=""> 
+   <span class="icon icon-medium "></span>Murray Dairy Regional Groups
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item4 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/murray-dairy-young-dairy-network" class=""> 
+   <span class="icon icon-medium "></span>Murray Dairy Young Dairy Network
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item5 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/murray-dairy---accelerating-change" class=""> 
+   <span class="icon icon-medium "></span>Murray Dairy: Accelerating Change
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item6 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/murray-dairy---future-focus-industry" class=""> 
+   <span class="icon icon-medium "></span>Murray Dairy: Future Focus Industry
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item7 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/murray-dairy---soil-moisture-monitoring" class=""> 
+   <span class="icon icon-medium "></span>Murray Dairy: Soil Moisture Monitoring
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item8 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/purpose-and-value" class=""> 
+   <span class="icon icon-medium "></span>Purpose & Value
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item9 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/strategy-and-performance" class=""> 
+   <span class="icon icon-medium "></span>Strategy & Performance
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item10 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/our-people" class=""> 
+   <span class="icon icon-medium "></span>Our People
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item11 even rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/corporate-governance" class=""> 
+   <span class="icon icon-medium "></span>Corporate Governance
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item12 odd rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/membership" class=""> 
+   <span class="icon icon-medium "></span>Membership
+</a>
+</div>
+                    </li>
+                    <li class=" level2 item13 even last rel-level2">
+
+<div>
+<a href="https://www.dairyaustralia.com.au/murray-dairy/about-us/dairy-australia-careers" class=""> 
+   <span class="icon icon-medium "></span>Dairy Australia Careers
+</a>
+</div>
+                    </li>
+            </ul>
+        </div>
+
+
+
+
+
+
+
+                </li>
+        </ul>
+
+
+
+
+
+
+
+                                            <!-- SXA ONLINE PUBLICATION HORIZONTAL NAV COMPONENT START -->
+                                            <div class="row"></div>
+                                            <!-- SXA ONLINE PUBLICATION HORIZONTAL NAV COMPONENT END -->
+                                            <!-- SXA HORIZONTAL NAV COMPONENT START -->
+                                            
+                                            <!-- SXA HORIZONTAL NAV COMPONENT END -->
+
+                                            <a href="#header" class="has-icon d-none d-lg-block"><span class="icon-small icon-arrow-left"></span>Back to top</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+            </nav>
+        </div>
+    </div>
+</div>
+        </div>
+        <div class="col-12 col-lg-9 col-xl-10 d-none d-lg-block equalized-content right-nav-container">
+            <div class="row">
+
+
+<div class="component container col-12 col-xl-10 offset-xl-1">
+    <div class="component-content" >
+<div class="row">
+
+<div class="row component column-splitter">
+        <div class="col-12 col-lg-7 col-xl-9 equalized-content">
+            <div class="row">
+<div class="component link-list col-12 regional-horizontal-nav" id="horizontal-nav-container">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<div class="horizontal-nav-variant"><div class="field-link"><a data-variantfieldname="Link" data-variantitemid="{BF27D8F7-E2A5-4FD7-846E-7A92E8844AC7}">Who We Are</a></div></div>                </li>
+                <li class="item1 even">
+<div class="horizontal-nav-variant"><div class="field-link"><a data-variantfieldname="Link" href="https://www.dairyaustralia.com.au/murray-dairy/about-us/murray-dairy-regional-groups" data-variantitemid="{82DBF098-15FC-4DB8-B08E-779FB09EBD54}">Programs</a></div></div>                </li>
+                <li class="item2 odd">
+<div class="horizontal-nav-variant"><div class="field-link"><a data-variantfieldname="Link" href="https://www.dairyaustralia.com.au/contacts-directory" data-variantitemid="{97CE7D53-9801-41EF-83B5-70FB05AF92C5}">Contacts</a></div></div>                </li>
+                <li class="item3 even last">
+<div class="horizontal-nav-variant"><div class="field-link"><a class="font-weight-700" data-variantfieldname="Link" href="#" data-variantitemid="{54E99116-E5EA-4477-ADB5-354724D57F9F}">Call 03 4811 6008</a></div></div>                </li>
+        </ul>
+    </div>
+</div>
+</div>
+        </div>
+        <div class="col-12 col-lg-auto equalized-content">
+            <div class="row"><div class="component region-list col-12 col-md-auto"
+    data-setRegionApi ="/dairyapi/locationdetection/setRegion">
+    <div class="component-content">
+        <button id="region-selector" class="has-icon">
+            <span class="icon icon-medium icon-mapmarker-blue"></span>
+            <span id="region-value">All regions</span>
+            <span class="icon icon-medium icon-chevron-down"></span>
+        </button>
+        <div class="region-list-popup">
+            <div class="region-list-popup-content">
+                <h4>Select a region to view local or national information</h4>
+                    <ul class="items">
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/dairynsw" data-variantitemid="{0CAC59D4-6C9D-4F7E-8FD5-684A6B74F5F4}">Dairy NSW</a></div><div class="field-state-name">New South Wales</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/dairysa" data-variantitemid="{D950B173-29AD-4D4D-8A56-85F696184569}">DairySA</a></div><div class="field-state-name">South Australia</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/dairytas" data-variantitemid="{0D712899-E449-4C04-8B54-971383065057}">DairyTas</a></div><div class="field-state-name">Tasmania</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/gippsdairy" data-variantitemid="{E3AA6E37-1DF2-4142-8B3B-F4324444F4F5}">GippsDairy</a></div><div class="field-state-name">Gippsland</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/murray-dairy" data-variantitemid="{215EA3A5-3B89-4DD0-8A86-52AD6C88CBB0}">Murray Dairy</a></div><div class="field-state-name">Northern Victoria and Southern Riverina</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/subtropical-dairy" data-variantitemid="{57D6313D-EA03-4477-A19E-2E29ABD15752}">Subtropical Dairy</a></div><div class="field-state-name">Queensland and Far North NSW</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/western-dairy" data-variantitemid="{EFE4B14D-3D79-4F5C-AD4E-2491D76DE84B}">Western Dairy</a></div><div class="field-state-name">Western Australia</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/westvic-dairy" data-variantitemid="{35700005-BDED-4D2B-978D-5B2F5CC809AA}">WestVic Dairy</a></div><div class="field-state-name">South West Victoria</div>                           
+                        </li>
+                        <li class="item">
+                          
+<div class="field-region-link"><a data-variantfieldname="Region Link" href="https://www.dairyaustralia.com.au/?clear=all" data-variantitemid="{4C13D0B3-FE34-4E34-86E0-7F9BC31AF72F}">Dairy Australia</a></div><div class="field-state-name">National</div>                           
+                        </li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="component search-box vertical" data-properties='{"endpoint":"https://www.dairyaustralia.com.au/murray-dairy/sxa/extendedsearch/results/","suggestionEndpoint":"https://www.dairyaustralia.com.au/murray-dairy/sxa/search/suggestions/","suggestionsMode":"ShowSearchResults","resultPage":"https://www.dairyaustralia.com.au/search","targetSignature":"site-search","v":"{05007A25-3AD9-49AC-9EB2-0F223EEBAF8B}","s":"{6F63ED23-D301-4A63-B075-0E7BF08F440C}","p":6,"l":"","languageSource":"SearchResultsLanguage","searchResultsSignature":"site-search","itemid":"{78065979-E7D2-4353-A3D5-5F20D5270F02}"}'>
+    <div class="component-content">
+
+        
+            <button id="search-toggle" class="has-icon">
+                <span class="icon icon-large icon-search icon-white"></span>
+            </button>
+            <div class="search-box-overlay">
+                <div class="search-box-overlay-inner">
+                        <input type="text" class="search-box-input" autocomplete="off" name="textBoxSearch" placeholder="Search" />
+                                        <button class="search-box-button-with-redirect" type="submit">
+                        View more results
+                    </button>
+                </div>
+            </div>
+    </div>
+</div>
+</div>
+        </div>
+</div></div>    </div>
+</div></div>
+        </div>
+</div></div>    </div>
+</div></div>
+        </div>
+    </header>
+    <!-- /#header -->
+    <!-- #content -->
+    <main>
+        <div id="content" class="container-fluid">
+            <div class="row">
+<div class="row">
+
+
+<div class="component container col-12">
+    <div class="component-content" >
+<div class="row">
+
+
+<div class="component container col-12" id="home-body-top">
+    <div class="component-content" >
+<div class="row">
+
+
+<div class="component container col-12 col-xl-10 offset-xl-1">
+    <div class="component-content" >
+<div class="row">
+
+<div class="row component column-splitter">
+        <div class="col-12 col-lg-8 owl-carousel-parent">
+            <div class="row">    <div class="component promo promo-full-size-image  col-12 mt-0">
+        <div class="component-content">
+<div class="field-promoicon"><a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/enhancing-farm-business-management"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/ad-hoc-images/farm-business-campaign/enhancing-farm-business-regional-homepage-banner-880-x-880.jpg?h=880&amp;w=880&amp;rev=a69344e7911a4af4adc9990e35ec3441&amp;hash=4B772E1A088698459B2476A94B9A08FD" alt="Two farmers are speaking about their farm business at a dinning table." width="880" height="880" data-variantitemid="{67CA7236-AA4B-44EF-BC83-844FFE5E0597}" data-variantfieldname="PromoIcon" /></a></div><div class="promo-text"><div class="field-promotext"><a href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/enhancing-farm-business-management"><h4>Enhancing Farm Business Management</h4></a></div></div>        </div>
+    </div>
+    <div class="component promo promo-full-size-image  col-12 mt-0">
+        <div class="component-content">
+<div class="field-promoicon"><a href="https://www.dairyaustralia.com.au/murray-dairy/news-repository/2023/05/18/applications-open-for-murray-dairy-board-positions"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/gippsdairy/regional/news/board-applications-news-tile/gd-board-applications-2024.png?h=880&amp;w=880&amp;rev=b4f8bea7084646e69f8b0c5d0b0ac8d9&amp;hash=CC0988C83F11FD4D77B6F4CC6040099E" alt="" width="880" height="880" data-variantitemid="{0A24E1D0-98C9-4714-87C7-1C0FDC54A885}" data-variantfieldname="PromoIcon" /></a></div><div class="promo-text"><div class="field-promotext"><a href="https://www.dairyaustralia.com.au/murray-dairy/news-repository/2023/05/18/applications-open-for-murray-dairy-board-positions"><h4>Apply to join the Murray Dairy Board</h4></a></div></div>        </div>
+    </div>
+</div>
+        </div>
+        <div class="col-12 col-lg-4">
+            <div class="row">
+
+
+<div class="component container col-12 featured-tools-and-resources-container">
+    <div class="component-content" >
+<div class="row">
+
+    <div class="component rich-text col-12">
+        <div class="component-content">
+<h3>Featured </h3>        </div>
+    </div>
+
+
+
+<div class="component container col-12" id="featured-tools-resources">
+    <div class="component-content" >
+<div class="row">
+<div class="component image image-with-title col-12">
+    <div class="component-content">
+<img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/murraydairy/shared/icons/lightgrey/nav-people.svg?rev=b575e7a3da764d75a450c6daf19b84d7&amp;hash=6FD0FF139120B51BE866D36398E75F3C" alt="" data-variantitemid="{06B57FE3-0E00-434C-9B15-CCC499E3266E}" data-variantfieldname="Image" /><h5 class="field-imagecaption"><a title="Image 1" href="https://www.dairyaustralia.com.au/murray-dairy/about-us/murray-dairy-team">Murray Dairy Team</a></h5>    </div>
+</div>
+
+<div class="component image image-with-title col-12">
+    <div class="component-content">
+<img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/murraydairy/shared/icons/lightgrey/farmer.svg?rev=44726113fe2d42bab73ede6d9e5940be&amp;hash=1DEB2F386484605F8A2E7E42A61FFF68" alt="" data-variantitemid="{70C097B7-E16E-40EC-AA52-EFD6130847B5}" data-variantfieldname="Image" /><h5 class="field-imagecaption"><a title="Image 2" href="https://www.dairyaustralia.com.au/murray-dairy/about-us/murray-dairy-regional-groups">Murray Dairy Discussion Groups</a></h5>    </div>
+</div>
+
+<div class="component image image-with-title col-12">
+    <div class="component-content">
+<img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/murraydairy/shared/icons/lightgrey/nav-about.svg?rev=44f828b191ab405f87da348af03716cc&amp;hash=609DF53D76DF64A0D01AFBC3EB0A3107" alt="" data-variantitemid="{7E3120B3-04E0-412F-8293-7D29A7FFB8EA}" data-variantfieldname="Image" /><h5 class="field-imagecaption"><a title="Image 3" href="https://www.dairyaustralia.com.au/murray-dairy/news-repository/2024/04/24/murray-dairy-leads-c4milk-project#resources-sig_article%20resource%20topics=Soils">C4Milk Project</a></h5>    </div>
+</div>
+
+<div class="component image image-with-title col-12">
+    <div class="component-content">
+<img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/murraydairy/shared/icons/lightgrey/nav-farmbusiness.svg?rev=926834412ea443e1933bb21189961adf&amp;hash=D8FA8778085E334DB51B8EAF0A783BFD" alt="" data-variantitemid="{E8720FCF-0F52-4A29-A527-7F25A420DD18}" data-variantfieldname="Image" /><h5 class="field-imagecaption"><a title="Image 4" href="https://www.dairyaustralia.com.au/murray-dairy/farm-business/dairybase#resources-sig_article%20resource%20topics=Animal%20Health">DairyBase</a></h5>    </div>
+</div>
+</div>    </div>
+</div></div>    </div>
+</div></div>
+        </div>
+</div></div>    </div>
+</div></div>    </div>
+</div>
+
+
+<div class="component container col-12 col-xl-10 offset-xl-1">
+    <div class="component-content" >
+<div class="row">
+<div class="component page-list-with-title news-listings col-12" id="news-highlights-home">
+    <div class="component-content">
+
+            <div class="pagelist-header row">
+                <div class="col-12 col-md-6 title">
+                    <div class="row">
+
+    <div class="component rich-text col-12">
+        <div class="component-content">
+<h4>News</h4>        </div>
+    </div>
+</div>
+                </div>
+                <div class="d-none d-lg-flex col-md-6 justify-content-end header-links">
+                    <div class="row">
+
+<div class="component link blue-btn--inverted-component">
+    <div class="component-content">
+
+<div class="field-link"><a data-variantfieldname="Link" href="https://www.dairyaustralia.com.au/murray-dairy/subscription" data-variantitemid="{27F0975C-5973-4D61-B1FD-0AB54400462D}">Subscribe to updates</a></div>    </div>
+</div>
+
+<div class="component link dark-blue-btn-component">
+    <div class="component-content">
+
+<div class="field-link"><a data-variantfieldname="Link" href="https://www.dairyaustralia.com.au/news" data-variantitemid="{047D7422-7285-4C7B-A840-25D4F6111248}">View all news</a></div>    </div>
+</div></div>
+                </div>
+            </div>
+                <ul class="items">
+                        <li class="item">
+<div><div class="field-article-thumbnail-image"><a title="Tackling farm business challenges" href="https://www.dairyaustralia.com.au/murray-dairy/news-repository/2024/06/07/tackling-farm-business-challenges"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/murraydairy/national-home/promo/5678-ri---farm-performance---campaign-assets-lachie-promo.png?h=240&amp;w=320&amp;rev=d6ae3f1f119d41cfb015d2cdb5f9ba48&amp;hash=BFBB860428A5DA6FCC49E2ED57E4A24E" alt="Lachie Barnes, Lachlan, Regional Manager, Murray Dairy, Murray, dairy" width="320" height="240" data-variantitemid="{FF37C5DE-E5DE-493A-A9B4-8B923A031A58}" data-variantfieldname="Article Thumbnail Image" /></a></div><div class="text-section"><span class="field-article-published-date">07 June 2024</span><h4 class="field-title"><a title="Tackling farm business challenges" href="https://www.dairyaustralia.com.au/murray-dairy/news-repository/2024/06/07/tackling-farm-business-challenges">Tackling farm business challenges</a></h4><span class="tags field-topic-name">News</span><span class="tags field-topic-name">Farm Business</span></div></div>                        </li>
+                        <li class="item">
+<div><div class="field-article-thumbnail-image"><a title="Applications open for Murray Dairy Board positions" href="https://www.dairyaustralia.com.au/murray-dairy/news-repository/2023/05/18/applications-open-for-murray-dairy-board-positions"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/murraydairy/regional/news/2022/tileboard.png?h=240&amp;w=320&amp;rev=932c765ad3054c3584cf5bafd31eb5aa&amp;hash=6514EF32933CB5E25C3629E4421209A1" alt="A white line drawing outlines a table with board members sitting. The Chair of the board stands in the centre of the image. " width="320" height="240" data-variantitemid="{9E89EB73-1216-4232-BCA7-6995EC8528F2}" data-variantfieldname="Article Thumbnail Image" /></a></div><div class="text-section"><span class="field-article-published-date">05 June 2024</span><h4 class="field-title"><a title="Applications open for Murray Dairy Board positions" href="https://www.dairyaustralia.com.au/murray-dairy/news-repository/2023/05/18/applications-open-for-murray-dairy-board-positions">Applications open for Murray Dairy Board positions</a></h4><span class="tags field-topic-name">News</span></div></div>                        </li>
+                        <li class="item">
+<div><div class="field-article-thumbnail-image"><a title="Murray Dairy leads C4Milk project" href="https://www.dairyaustralia.com.au/murray-dairy/news-repository/2024/04/24/murray-dairy-leads-c4milk-project"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/murraydairy/regional/news/13985956-cropped.jpg?h=240&amp;w=320&amp;rev=125f0d2f34204f79923941b9af45a6d0&amp;hash=86AB9F7CCA8D8A25DE0B174529C707B3" alt="" width="320" height="240" data-variantitemid="{DEB3057A-4A0D-4265-B98D-25324E89DD2A}" data-variantfieldname="Article Thumbnail Image" /></a></div><div class="text-section"><span class="field-article-published-date">24 April 2024</span><h4 class="field-title"><a title="Murray Dairy leads C4Milk project" href="https://www.dairyaustralia.com.au/murray-dairy/news-repository/2024/04/24/murray-dairy-leads-c4milk-project">Murray Dairy leads C4Milk project</a></h4><span class="tags field-topic-name">News</span></div></div>                        </li>
+                        <li class="item">
+<div><div class="field-article-thumbnail-image"><a title="Long-term business planning proves essential" href="https://www.dairyaustralia.com.au/news-repository/2024/06/21/long-term-business-planning-proves-essential"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/promo/5678-ri---farm-performance---campaign-assets-boardman-promo.png?h=240&amp;w=320&amp;rev=ba03ae48828742098d7020e298ce992f&amp;hash=2B68F92334932985F780C83459CE1DD2" alt="Mark and Narelle Boardman, farmers, farm, business, dairy" width="320" height="240" data-variantitemid="{CEDE3FDB-F6A9-48A1-A7EB-D4F90B016DB3}" data-variantfieldname="Article Thumbnail Image" /></a></div><div class="text-section"><span class="field-article-published-date">21 June 2024</span><h4 class="field-title"><a title="Long-term business planning proves essential" href="https://www.dairyaustralia.com.au/news-repository/2024/06/21/long-term-business-planning-proves-essential">Long-term business planning proves essential</a></h4><span class="tags field-topic-name">News</span><span class="tags field-topic-name">Farm Business</span><span class="tags field-topic-name">People</span></div></div>                        </li>
+                </ul>
+            <div class="d-flex d-lg-none mobile-links">
+                <div class="row">
+
+<div class="component link blue-btn--inverted-component">
+    <div class="component-content">
+
+<div class="field-link"><a data-variantfieldname="Link" href="https://www.dairyaustralia.com.au/murray-dairy/subscription" data-variantitemid="{27F0975C-5973-4D61-B1FD-0AB54400462D}">Subscribe to updates</a></div>    </div>
+</div>
+
+<div class="component link dark-blue-btn-component">
+    <div class="component-content">
+
+<div class="field-link"><a data-variantfieldname="Link" href="https://www.dairyaustralia.com.au/news" data-variantitemid="{047D7422-7285-4C7B-A840-25D4F6111248}">View all news</a></div>    </div>
+</div></div>
+            </div>
+    </div>
+</div></div>    </div>
+</div><div class="component page-list events-listings col-12">
+    <div class="component-content">
+            <div class="pagelist-header row">
+                <div class="col-12 col-md-6 title">
+                    <div class="row">
+
+    <div class="component rich-text">
+        <div class="component-content">
+<h4>Murray Dairy&nbsp;events</h4>        </div>
+    </div>
+</div>
+                </div>
+                <div class="d-none d-lg-flex col-md-6 justify-content-end header-links">
+                    <div class="row">
+
+<div class="component link col-12 light-green-btn-component">
+    <div class="component-content">
+
+<div class="field-link"><a data-variantfieldname="Link" href="https://www.dairyaustralia.com.au/events-calendar" data-variantitemid="{57F1A32A-7E88-4385-9DA7-F45859E149D3}">View all events</a></div>    </div>
+</div></div>
+                </div>
+            </div>
+            <ul class="items">
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jul</p><p class="field-start-date-time">03</p></div></div><div class="text-section"><h4 class="field-name"><a title="Young Dairy Network  Dry Cow What Now" href="/events-calendar/young-dairy-network--dry-cow-what-now/a3aIS0000005LnFYAU">Young Dairy Network - Dry Cow, What Now?</a></h4><div class="field-start-date-time" data-utcdatetime="2024-07-03T09:00:00.000Z">7:00 PM</div><span>The Caledonian Hotel<br>110 Hare Street<br>Echuca<br>VIC<br>3564<br>Australia
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jul</p><p class="field-start-date-time">09</p></div></div><div class="text-section"><h4 class="field-name"><a title="Milking Mastitis Management - Fundamentals  Moyhu" href="/events-calendar/milking-mastitis-management---fundamentals--moyhu/a3aIS00000058QLYAY">Milking Mastitis Management - Fundamentals  Moyhu</a></h4><div class="field-start-date-time" data-utcdatetime="2024-07-08T23:45:00.000Z">9:45 AM</div><span>Moyhu Rec Reserve<br>Bartley St<br>Moyhu<br>Vic<br>2379<br>AUSTRALIA
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jul</p><p class="field-start-date-time">09</p></div></div><div class="text-section"><h4 class="field-name"><a title="GEA-Robotic Farm Open Day - Murrabit" href="/events-calendar/gea-robotic-farm-open-day---murrabit/a3aIS0000005Lx5YAE">GEA-Robotic Farm Open Day - Murrabit</a></h4><div class="field-start-date-time" data-utcdatetime="2024-07-09T00:00:00.000Z">10:00 AM</div><span>WILLOWS PASTORAL CO  PTY  LTD<br>Murrabit<br>VIC<br>3579<br>AUSTRALIA
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jul</p><p class="field-start-date-time">09</p></div></div><div class="text-section"><h4 class="field-name"><a title="Employment Training Day - Echuca" href="/events-calendar/employment-training-day---echuca/a3aIS0000005FZBYA2">Employment Training Day - Echuca</a></h4><div class="field-start-date-time" data-utcdatetime="2024-07-09T00:00:00.000Z">10:00 AM</div><span>Echuca Workers<br>165-173 Annesley St<br>Echuca<br>Vic<br>3564<br>Australia
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jul</p><p class="field-start-date-time">10</p></div></div><div class="text-section"><h4 class="field-name"><a title="Young Dairy Network - Happy Hooves with Dr Ash Phipps" href="/events-calendar/young-dairy-network---happy-hooves-with-dr-ash-phipps/a3aIS0000005LneYAE">Young Dairy Network - Happy Hooves with Dr Ash Phipps</a></h4><div class="field-start-date-time" data-utcdatetime="2024-07-10T09:00:00.000Z">7:00 PM</div><span>The Caledonian Hotel<br>110 Hare Street<br>Echuca<br>VIC<br>3564<br>Australia
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jul</p><p class="field-start-date-time">11</p></div></div><div class="text-section"><h4 class="field-name"><a title="Young Dairy Network - Happy Hooves Numurkah" href="/events-calendar/young-dairy-network---happy-hooves-numurkah/a3aIS0000005LntYAE">Young Dairy Network - Happy Hooves Numurkah</a></h4><div class="field-start-date-time" data-utcdatetime="2024-07-11T09:00:00.000Z">7:00 PM</div><span>The Shamrock Hotel<br>5-13 Melville St<br>Numurkah<br>VIC<br>3636<br>Australia
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jul</p><p class="field-start-date-time">15</p></div></div><div class="text-section"><h4 class="field-name"><a title="Dairy Farm Business Analysis - National Online - JulyAugust 2024" href="/events-calendar/dairy-farm-business-analysis---national-online---julyaugust-2024/a3aIS00000058UgYAI">Dairy Farm Business Analysis - National Online - July/August 2024</a></h4><div class="field-start-date-time" data-utcdatetime="2024-07-15T02:00:00.000Z">12:00 PM</div><span>Online National Extension<br>AUSTRALIA
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jul</p><p class="field-start-date-time">17</p></div></div><div class="text-section"><h4 class="field-name"><a title="Farm Safety Overview of the DA Safety Handbook - Leitchville" href="/events-calendar/farm-safety-overview-of-the-da-safety-handbook---leitchville/a3aIS0000005CtHYAU">Farm Safety Overview of the DA Safety Handbook - Leitchville</a></h4><div class="field-start-date-time" data-utcdatetime="2024-07-17T00:30:00.000Z">10:30 AM</div><span>Leitchville Hotel<br>17 King George Street<br>Leitchville<br>VIC<br>3567<br>Australia
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jul</p><p class="field-start-date-time">17</p></div></div><div class="text-section"><h4 class="field-name"><a title="Alpine Valleys Dairy Inc winter update and lunch  Wodonga" href="/events-calendar/alpine-valleys-dairy-inc-winter-update-and-lunch--wodonga/a3aIS0000005LwgYAE">Alpine Valleys Dairy Inc, winter update and lunch - Wodonga</a></h4><div class="field-start-date-time" data-utcdatetime="2024-07-17T01:00:00.000Z">11:00 AM</div><span>Stump Hotel<br>4327 Anzac Parade<br>Wodonga<br>VIC<br>3690<br>Australia
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jul</p><p class="field-start-date-time">23</p></div></div><div class="text-section"><h4 class="field-name"><a title="Responsible Euthanasia of Livestock Moyhu" href="/events-calendar/responsible-euthanasia-of-livestock-moyhu/a3aIS00000054AwYAI">Responsible Euthanasia of Livestock @Moyhu</a></h4><div class="field-start-date-time" data-utcdatetime="2024-07-22T23:45:00.000Z">9:45 AM</div><span>Moyhu Rec Reserve<br>Bartley St<br>Moyhu<br>Vic<br>2379<br>AUSTRALIA
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jul</p><p class="field-start-date-time">24</p></div></div><div class="text-section"><h4 class="field-name"><a title="Young Dairy Network - Happy Hooves Demo Day Yielima" href="/events-calendar/young-dairy-network---happy-hooves-demo-day-yielima/a3aIS0000005Lo3YAE">Young Dairy Network - Happy Hooves Demo Day Yielima</a></h4><div class="field-start-date-time" data-utcdatetime="2024-07-24T00:30:00.000Z">10:30 AM</div><span>M & K WALPOLE FAMILY TRUST<br>230 Sleemans Road<br>Yielima<br>VIC<br>3637<br>AUSTRALIA
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jul</p><p class="field-start-date-time">24</p></div></div><div class="text-section"><h4 class="field-name"><a title="Irrigation Farmers Network Irrigation Insights 2024 - Moama" href="/events-calendar/irrigation-farmers-network-irrigation-insights-2024---moama/a3aIS0000005LyNYAU">Irrigation Farmers Network: Irrigation Insights 2024 - Moama</a></h4><div class="field-start-date-time" data-utcdatetime="2024-07-24T08:30:00.000Z">6:30 PM</div><span></span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jul</p><p class="field-start-date-time">30</p></div></div><div class="text-section"><h4 class="field-name"><a title="Cream of the Crop - Moama" href="/events-calendar/cream-of-the-crop---moama/a3aIS0000005LsAYAU">Cream of the Crop - Moama</a></h4><div class="field-start-date-time" data-utcdatetime="2024-07-29T23:30:00.000Z">9:30 AM</div><span>Dungula Events Centre<br>69 Dungula Way<br>Moama<br>NSW<br>2731<br>AUSTRALIA
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Aug</p><p class="field-start-date-time">08</p></div></div><div class="text-section"><h4 class="field-name"><a title="Young Dairy Network  Happy Hooves Demo Day in Gundowring" href="/events-calendar/young-dairy-network--happy-hooves-demo-day-in-gundowring/a3aIS0000005Lo8YAE">Young Dairy Network - Happy Hooves, Demo Day in Gundowring</a></h4><div class="field-start-date-time" data-utcdatetime="2024-08-08T00:30:00.000Z">10:30 AM</div><span>EJ MULL PTY LTD ATF MULUKA FAMILY TRUST<br>1822 Gundowring Road<br>GUNDOWRING<br>VIC<br>3691<br>AUSTRALIA
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Aug</p><p class="field-start-date-time">28</p></div></div><div class="text-section"><h4 class="field-name"><a title="Milking Mastitis Management Fundamentals - Blighty" href="/events-calendar/milking-mastitis-management-fundamentals---blighty/a3aIS0000005CoCYAU">Milking Mastitis Management Fundamentals - Blighty</a></h4><div class="field-start-date-time" data-utcdatetime="2024-08-27T23:45:00.000Z">9:45 AM</div><span>Blighty Hotel<br>2731 Riverina Hwy<br>BLIGHTY<br>NSW<br>2713<br>AUSTRALIA
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jun</p><p class="field-start-date-time">30</p></div></div><div class="text-section"><h4 class="field-name"><a title="EOI-Dairy Farm Business Analysis" href="/events-calendar/eoi-dairy-farm-business-analysis/a3aIS0000005LDlYAM">EOI-Dairy Farm Business Analysis</a></h4><div class="field-start-date-time" data-utcdatetime="2025-06-30T00:00:00.000Z">10:00 AM</div><span>TBC<br>TBC<br>TBC<br>WA<br>TBC<br>AUSTRALIA
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jun</p><p class="field-start-date-time">30</p></div></div><div class="text-section"><h4 class="field-name"><a title="Our Farm Our Plan - EOI" href="/events-calendar/our-farm-our-plan---eoi/a3aIS0000005FWwYAM">Our Farm Our Plan - EOI</a></h4><div class="field-start-date-time" data-utcdatetime="2025-06-30T00:00:00.000Z">10:00 AM</div><span>TBC<br>TBC<br>TBC<br>WA<br>TBC<br>AUSTRALIA
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jun</p><p class="field-start-date-time">30</p></div></div><div class="text-section"><h4 class="field-name"><a title="EOI-Telehandler Course" href="/events-calendar/eoi-telehandler-course/a3aIS0000004ufCYAQ">EOI-Telehandler Course</a></h4><div class="field-start-date-time" data-utcdatetime="2025-06-30T00:00:00.000Z">10:00 AM</div><span>TBC MD<br>AUSTRALIA
+</span></div></div>                    </li>
+                    <li class="item">
+<div><div class="date-wrapper"><div class="event-date"><p class="field-start-date-time">Jun</p><p class="field-start-date-time">30</p></div></div><div class="text-section"><h4 class="field-name"><a title="EOI-ESKi" href="/events-calendar/eoi-eski/a3a6F000001wjGQQAY">EOI-ESKi</a></h4><div class="field-start-date-time" data-utcdatetime="2025-06-30T00:00:00.000Z">10:00 AM</div><span>TBC MD<br>AUSTRALIA
+</span></div></div>                    </li>
+            </ul>
+            <div class="d-flex d-lg-none mobile-links">
+                <div class="row">
+
+<div class="component link col-12 light-green-btn-component">
+    <div class="component-content">
+
+<div class="field-link"><a data-variantfieldname="Link" href="https://www.dairyaustralia.com.au/events-calendar" data-variantitemid="{57F1A32A-7E88-4385-9DA7-F45859E149D3}">View all events</a></div>    </div>
+</div></div>
+            </div>
+    </div>
+</div>
+
+
+<div class="component container col-12">
+    <div class="component-content" >
+<div class="row">
+
+
+<div class="component container col-12 col-xl-10 offset-xl-1">
+    <div class="component-content" >
+<div class="row">
+<div class="component tabs col-12">
+    <div class="component-content">
+            <div class="tabs-inner">
+                    <ul class="tabs-heading">
+
+
+
+    <li tabindex="-1">
+        <div>
+<div class="row">
+<div class="component content col-12">
+    <div class="component-content">
+<div class="field-heading">Hay report</div>    </div>
+</div>
+</div>
+        </div>
+    </li>
+    <li tabindex="-1">
+        <div>
+<div class="row">
+<div class="component content col-12">
+    <div class="component-content">
+<div class="field-heading">Grain report</div>    </div>
+</div>
+</div>
+        </div>
+    </li>
+
+                    </ul>
+                    <div class="tabs-container">
+
+
+
+    <div class="tab">
+<div class="row"><div class="component crop-listing crop-report-hay col-12">
+    <div class="component-content">
+            <div class="location-wrapper">
+                <span><label for="ddl-locations">Location</label></span>
+                <select id="ddl-locations" name="ddl-locations"><option value="{53B263AE-1553-4B8C-ACBF-11E25DF44667}">Goulburn and Murray Valley</option>
+<option value="{EE37F6C5-B5CC-4541-B334-11BDB219EBFA}">Gippsland</option>
+<option value="{74109B8B-F639-48AF-8259-4D7C8A153BF8}">South West Victoria</option>
+</select>
+            </div>
+            <div class="report-wrapper">
+                <ul class="items">
+                        <li class="item" data-locationId="{53B263AE-1553-4B8C-ACBF-11E25DF44667}">
+<div class="region-crop-heading" data-section-id="Goulburn &amp; Murray Valley"><h4 class="location-info-editor-only field-name"><span>Location: </span>Goulburn &amp; Murray Valley</h4><div class="field-week-ending"><span>Week Ending</span>24 May 2024</div><div class="read-more d-none d-lg-inline-block"><a href="https://www.dairyaustralia.com.au/industry-reports/hay-report/goulburn-murray-valley">Read more</a></div></div><div class="region-crop-data owl-carousel owl-theme"><div class="crop-data-1"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/cereal.svg?rev=723cc924d4634525a6f0f5face94173e&amp;hash=F07EBFC8F5A508780C3761AF50DEB9B8" alt="" data-variantitemid="{0F1C681C-F9BD-44CB-B9BE-0E78B95C6364}" data-variantfieldname="Icon" /></div><h3 class="field-name">Cereal</h3><span class="field-crop1-start-price"><span>$</span>285</span><span class="field-crop1-end-price" data-tes=""><span> - $</span>325</span><div><span class="color-red" >$5</span> </div></div><div class="crop-data-2"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/lucerne.svg?rev=3e214b76f3d04f9781586b268242cccd&amp;hash=885A25C0365D2838FD51A7BBA62FD03E" alt="" data-variantitemid="{D667BA53-E4B8-428D-B637-7701C4DEC279}" data-variantfieldname="Icon" /></div><h3 class="field-name">Lucerne</h3><span class="field-crop2-start-price"><span>$</span>370</span><span class="field-crop2-end-price"><span> - $</span>415</span><div><span class="color-" > 
+                     Steady
+ </span> </div></div><div class="crop-data-3"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/straw.svg?rev=fb84b6dc69514b378f67f363f08a25ac&amp;hash=6F599BE6BD8813DA382C4F4B3319A387" alt="" data-variantitemid="{0D1560EB-0C88-40AB-93C3-6EAFB09D6747}" data-variantfieldname="Icon" /></div><h3 class="field-name">Straw</h3><span class="field-crop3-start-price"><span>$</span>95</span><span class="field-crop3-end-price"><span> - $</span>120</span><div><span class="color-" > 
+                     Steady
+ </span> </div></div><div class="crop-data-4"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/pasture.svg?rev=7b71767c333146f7ab9c1d311fc0f4a1&amp;hash=ED4E4EC4F389ABE63EBD015E54C342DB" alt="" data-variantitemid="{A8835C4D-F329-4D8E-88E7-2FCE82DD6399}" data-variantfieldname="Icon" /></div><h3 class="field-name">Pasture</h3><span class="field-crop4-start-price"><span>$</span>240</span><span class="field-crop4-end-price"><span> - $</span>290</span><div><span class="color-" > 
+                     Steady
+ </span> </div></div></div><div class="d-flex d-lg-none mobile-buttons"><span></span><div class="read-more"><a href="https://www.dairyaustralia.com.au/industry-reports/hay-report/goulburn-murray-valley">Read more</a></div></div>                        </li>
+                        <li class="item" data-locationId="{EE37F6C5-B5CC-4541-B334-11BDB219EBFA}">
+<div class="region-crop-heading" data-section-id="Gippsland"><h4 class="location-info-editor-only field-name"><span>Location: </span>Gippsland</h4><div class="field-week-ending"><span>Week Ending</span>24 May 2024</div><div class="read-more d-none d-lg-inline-block"><a href="https://www.dairyaustralia.com.au/industry-reports/hay-report/gippsland">Read more</a></div></div><div class="region-crop-data owl-carousel owl-theme"><div class="crop-data-1"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/cereal.svg?rev=723cc924d4634525a6f0f5face94173e&amp;hash=F07EBFC8F5A508780C3761AF50DEB9B8" alt="" data-variantitemid="{0F1C681C-F9BD-44CB-B9BE-0E78B95C6364}" data-variantfieldname="Icon" /></div><h3 class="field-name">Cereal</h3><span class="field-crop1-start-price"><span>$</span>280</span><span class="field-crop1-end-price" data-tes=""><span> - $</span>360</span><div><span class="color-red" >$10</span> </div></div><div class="crop-data-2"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/lucerne.svg?rev=3e214b76f3d04f9781586b268242cccd&amp;hash=885A25C0365D2838FD51A7BBA62FD03E" alt="" data-variantitemid="{D667BA53-E4B8-428D-B637-7701C4DEC279}" data-variantfieldname="Icon" /></div><h3 class="field-name">Lucerne</h3><span class="field-crop2-start-price"><span>$</span>400</span><span class="field-crop2-end-price"><span> - $</span>460</span><div><span class="color-red" > 
+                     $5
+ </span> </div></div><div class="crop-data-3"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/straw.svg?rev=fb84b6dc69514b378f67f363f08a25ac&amp;hash=6F599BE6BD8813DA382C4F4B3319A387" alt="" data-variantitemid="{0D1560EB-0C88-40AB-93C3-6EAFB09D6747}" data-variantfieldname="Icon" /></div><h3 class="field-name">Straw</h3><span class="field-crop3-start-price"><span>$</span>120</span><span class="field-crop3-end-price"><span> - $</span>170</span><div><span class="color-" > 
+                     Steady
+ </span> </div></div><div class="crop-data-4"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/pasture.svg?rev=7b71767c333146f7ab9c1d311fc0f4a1&amp;hash=ED4E4EC4F389ABE63EBD015E54C342DB" alt="" data-variantitemid="{A8835C4D-F329-4D8E-88E7-2FCE82DD6399}" data-variantfieldname="Icon" /></div><h3 class="field-name">Pasture</h3><span class="field-crop4-start-price"><span>$</span>220</span><span class="field-crop4-end-price"><span> - $</span>270</span><div><span class="color-" > 
+                     Steady
+ </span> </div></div></div><div class="d-flex d-lg-none mobile-buttons"><span></span><div class="read-more"><a href="https://www.dairyaustralia.com.au/industry-reports/hay-report/gippsland">Read more</a></div></div>                        </li>
+                        <li class="item" data-locationId="{74109B8B-F639-48AF-8259-4D7C8A153BF8}">
+<div class="region-crop-heading" data-section-id="South West Victoria"><h4 class="location-info-editor-only field-name"><span>Location: </span>South West Victoria</h4><div class="field-week-ending"><span>Week Ending</span>24 May 2024</div><div class="read-more d-none d-lg-inline-block"><a href="https://www.dairyaustralia.com.au/industry-reports/hay-report/south-west-victoria">Read more</a></div></div><div class="region-crop-data owl-carousel owl-theme"><div class="crop-data-1"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/cereal.svg?rev=723cc924d4634525a6f0f5face94173e&amp;hash=F07EBFC8F5A508780C3761AF50DEB9B8" alt="" data-variantitemid="{0F1C681C-F9BD-44CB-B9BE-0E78B95C6364}" data-variantfieldname="Icon" /></div><h3 class="field-name">Cereal</h3><span class="field-crop1-start-price"><span>$</span>270</span><span class="field-crop1-end-price" data-tes=""><span> - $</span>350</span><div><span class="color-red" >$10</span> </div></div><div class="crop-data-2"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/lucerne.svg?rev=3e214b76f3d04f9781586b268242cccd&amp;hash=885A25C0365D2838FD51A7BBA62FD03E" alt="" data-variantitemid="{D667BA53-E4B8-428D-B637-7701C4DEC279}" data-variantfieldname="Icon" /></div><h3 class="field-name">Lucerne</h3><span class="field-crop2-start-price"><span>$</span>350</span><span class="field-crop2-end-price"><span> - $</span>410</span><div><span class="color-" > 
+                     Steady
+ </span> </div></div><div class="crop-data-3"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/straw.svg?rev=fb84b6dc69514b378f67f363f08a25ac&amp;hash=6F599BE6BD8813DA382C4F4B3319A387" alt="" data-variantitemid="{0D1560EB-0C88-40AB-93C3-6EAFB09D6747}" data-variantfieldname="Icon" /></div><h3 class="field-name">Straw</h3><span class="field-crop3-start-price"><span>$</span>90</span><span class="field-crop3-end-price"><span> - $</span>100</span><div><span class="color-" > 
+                     Steady
+ </span> </div></div><div class="crop-data-4"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/pasture.svg?rev=7b71767c333146f7ab9c1d311fc0f4a1&amp;hash=ED4E4EC4F389ABE63EBD015E54C342DB" alt="" data-variantitemid="{A8835C4D-F329-4D8E-88E7-2FCE82DD6399}" data-variantfieldname="Icon" /></div><h3 class="field-name">Pasture</h3><span class="field-crop4-start-price"><span>$</span>220</span><span class="field-crop4-end-price"><span> - $</span>290</span><div><span class="color-red" > 
+                     $5
+ </span> </div></div></div><div class="d-flex d-lg-none mobile-buttons"><span></span><div class="read-more"><a href="https://www.dairyaustralia.com.au/industry-reports/hay-report/south-west-victoria">Read more</a></div></div>                        </li>
+                </ul>
+            </div>
+
+    </div>
+</div></div>    </div>
+    <div class="tab">
+<div class="row"><div class="component crop-listing crop-report-hay col-12">
+    <div class="component-content">
+            <div class="location-wrapper">
+                <span><label for="ddl-locations">Location</label></span>
+                <select id="ddl-locations" name="ddl-locations"><option value="{3519F148-DCA8-4C74-A8A5-C994922C0C49}">Goulburn and Murray Valley</option>
+<option value="{130C23A1-0F96-4420-A386-B8077A8C28F2}">Gippsland</option>
+<option value="{5CE8001B-7ECB-4D0B-8380-C268DFA49E98}">South West Victoria</option>
+</select>
+            </div>
+            <div class="report-wrapper">
+                <ul class="items">
+                        <li class="item" data-locationId="{3519F148-DCA8-4C74-A8A5-C994922C0C49}">
+<div class="region-crop-heading" data-section-id="Goulburn &amp; Murray Valley"><h4 class="location-info-editor-only field-name"><span>Location: </span>Goulburn &amp; Murray Valley</h4><div class="field-week-ending"><span>Week Ending</span>24 May 2024</div><div class="read-more d-none d-lg-inline-block"><a href="https://www.dairyaustralia.com.au/industry-reports/grain-report/goulburn-and-murray-valley">Read more</a></div></div><div class="region-crop-data owl-carousel owl-theme"><div class="crop-data-1"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/wheat.svg?rev=4aa6bde818d74a849d42c07faef2f291&amp;hash=D6E13058EB34D96FD5657DCEEC724334" alt="" data-variantitemid="{8ECA2E4E-E4AD-4A82-820C-67FA46EF0593}" data-variantfieldname="Icon" /></div><h3 class="field-name">Wheat</h3><span>N/A</span><div><span class="color-red" >$370</span> </div></div><div class="crop-data-2"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/barley.svg?rev=9b4dd7161cca439b9efbb7df530a70d3&amp;hash=25F26958CE9909627C0887B7E25FA178" alt="" data-variantitemid="{93E38C21-07A5-432D-B1AF-D27A6633E57F}" data-variantfieldname="Icon" /></div><h3 class="field-name">Barley</h3><span>N/A</span><div><span class="color-red" > 
+                     $345
+ </span> </div></div><div class="crop-data-3"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/maize.svg?rev=669c5772aa5d47e2a566ebcf5faae15f&amp;hash=F3A54149A7EEC7B7A1FD11C8D7F2F578" alt="" data-variantitemid="{B7296B67-B065-499D-8A93-17C6C05FC141}" data-variantfieldname="Icon" /></div><h3 class="field-name">Maize</h3><span class="field-crop3-start-price"><span>$</span>15</span><div><span class="color-red" > 
+                     $365
+ </span> </div></div><div class="crop-data-4"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/canola-meal.svg?rev=bb5add1341a84a1cac452a2038b80324&amp;hash=2EBC046CA7FE866D6ED5DBA1188311CA" alt="" data-variantitemid="{A02AA7B9-C67F-4665-958A-B3A8E277F047}" data-variantfieldname="Icon" /></div><h3 class="field-name">Canola meal</h3><span class="field-crop4-start-price"><span>$</span>20</span><div><span class="color-red" > 
+                     $530
+ </span> </div></div></div><div class="d-flex d-lg-none mobile-buttons"><span></span><div class="read-more"><a href="https://www.dairyaustralia.com.au/industry-reports/grain-report/goulburn-and-murray-valley">Read more</a></div></div>                        </li>
+                        <li class="item" data-locationId="{130C23A1-0F96-4420-A386-B8077A8C28F2}">
+<div class="region-crop-heading" data-section-id="Gippsland"><h4 class="location-info-editor-only field-name"><span>Location: </span>Gippsland</h4><div class="field-week-ending"><span>Week Ending</span>24 May 2024</div><div class="read-more d-none d-lg-inline-block"><a href="https://www.dairyaustralia.com.au/industry-reports/grain-report/gippsland">Read more</a></div></div><div class="region-crop-data owl-carousel owl-theme"><div class="crop-data-1"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/wheat.svg?rev=4aa6bde818d74a849d42c07faef2f291&amp;hash=D6E13058EB34D96FD5657DCEEC724334" alt="" data-variantitemid="{8ECA2E4E-E4AD-4A82-820C-67FA46EF0593}" data-variantfieldname="Icon" /></div><h3 class="field-name">Wheat</h3><span class="field-crop1-start-price"><span>$</span>10</span><div><span class="color-red" >$395</span> </div></div><div class="crop-data-2"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/barley.svg?rev=9b4dd7161cca439b9efbb7df530a70d3&amp;hash=25F26958CE9909627C0887B7E25FA178" alt="" data-variantitemid="{93E38C21-07A5-432D-B1AF-D27A6633E57F}" data-variantfieldname="Icon" /></div><h3 class="field-name">Barley</h3><span>N/A</span><div><span class="color-red" > 
+                     $360
+ </span> </div></div><div class="crop-data-3"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/maize.svg?rev=669c5772aa5d47e2a566ebcf5faae15f&amp;hash=F3A54149A7EEC7B7A1FD11C8D7F2F578" alt="" data-variantitemid="{B7296B67-B065-499D-8A93-17C6C05FC141}" data-variantfieldname="Icon" /></div><h3 class="field-name">Maize</h3><span class="field-crop3-start-price"><span>$</span>15</span><div><span class="color-red" > 
+                     $365
+ </span> </div></div><div class="crop-data-4"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/canola-meal.svg?rev=bb5add1341a84a1cac452a2038b80324&amp;hash=2EBC046CA7FE866D6ED5DBA1188311CA" alt="" data-variantitemid="{A02AA7B9-C67F-4665-958A-B3A8E277F047}" data-variantfieldname="Icon" /></div><h3 class="field-name">Canola meal</h3><span class="field-crop4-start-price"><span>$</span>20</span><div><span class="color-red" > 
+                     $545
+ </span> </div></div></div><div class="d-flex d-lg-none mobile-buttons"><span></span><div class="read-more"><a href="https://www.dairyaustralia.com.au/industry-reports/grain-report/gippsland">Read more</a></div></div>                        </li>
+                        <li class="item" data-locationId="{5CE8001B-7ECB-4D0B-8380-C268DFA49E98}">
+<div class="region-crop-heading" data-section-id="South West Victoria"><h4 class="location-info-editor-only field-name"><span>Location: </span>South West Victoria</h4><div class="field-week-ending"><span>Week Ending</span>24 May 2024</div><div class="read-more d-none d-lg-inline-block"><a href="https://www.dairyaustralia.com.au/industry-reports/grain-report/south-west-victoria">Read more</a></div></div><div class="region-crop-data owl-carousel owl-theme"><div class="crop-data-1"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/wheat.svg?rev=4aa6bde818d74a849d42c07faef2f291&amp;hash=D6E13058EB34D96FD5657DCEEC724334" alt="" data-variantitemid="{8ECA2E4E-E4AD-4A82-820C-67FA46EF0593}" data-variantfieldname="Icon" /></div><h3 class="field-name">Wheat</h3><span class="field-crop1-start-price"><span>$</span>15</span><div><span class="color-red" >$355</span> </div></div><div class="crop-data-2"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/barley.svg?rev=9b4dd7161cca439b9efbb7df530a70d3&amp;hash=25F26958CE9909627C0887B7E25FA178" alt="" data-variantitemid="{93E38C21-07A5-432D-B1AF-D27A6633E57F}" data-variantfieldname="Icon" /></div><h3 class="field-name">Barley</h3><span>N/A</span><div><span class="color-red" > 
+                     $325
+ </span> </div></div><div class="crop-data-3"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/maize.svg?rev=669c5772aa5d47e2a566ebcf5faae15f&amp;hash=F3A54149A7EEC7B7A1FD11C8D7F2F578" alt="" data-variantitemid="{B7296B67-B065-499D-8A93-17C6C05FC141}" data-variantfieldname="Icon" /></div><h3 class="field-name">Maize</h3><span class="field-crop3-start-price"><span>$</span>15</span><div><span class="color-red" > 
+                     $365
+ </span> </div></div><div class="crop-data-4"><div class="field-icon"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/crops/canola-meal.svg?rev=bb5add1341a84a1cac452a2038b80324&amp;hash=2EBC046CA7FE866D6ED5DBA1188311CA" alt="" data-variantitemid="{A02AA7B9-C67F-4665-958A-B3A8E277F047}" data-variantfieldname="Icon" /></div><h3 class="field-name">Canola meal</h3><span class="field-crop4-start-price"><span>$</span>20</span><div><span class="color-red" > 
+                     $530
+ </span> </div></div></div><div class="d-flex d-lg-none mobile-buttons"><span></span><div class="read-more"><a href="https://www.dairyaustralia.com.au/industry-reports/grain-report/south-west-victoria">Read more</a></div></div>                        </li>
+                </ul>
+            </div>
+
+    </div>
+</div></div>    </div>
+
+                    </div>
+            </div>    
+    </div>
+</div>
+</div>    </div>
+</div>    <div class="component promo promo-image-left-variant-2 promo-full-screen col-12">
+        <div class="component-content">
+<div class="row"><div class="col-12 col-lg-6"><div class="promo-featured-image field-promoicon"><a href="https://www.dairyaustralia.com.au/people-skills-and-capability/reaching-jobseekers"><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/national-home/homepage-promos/wfa-homepage-promo-component-1.png?h=388&amp;w=691&amp;rev=f9f63d8052dd467f80562bd602d6f2c6&amp;hash=68DF4BCD71B8A84084FD45DEE123370E" alt="" width="691" height="388" data-variantitemid="{E99CE371-1C74-4FF4-B2BA-374F88B7B1FE}" data-variantfieldname="PromoIcon" /></a></div></div><div class="col-12 col-lg-6"><div class="promo-text-content"><div class="promo-text  field-promotext"><h3>Dairy farm jobs board</h3>
+<p>Reach jobseekers by listing dairy farm job vacancies at dairyjobsmatter.com.au. List jobs for free by submitting an online form today.</p></div><div class="promo-link field-promolink"><a data-variantfieldname="PromoLink" href="https://www.dairyaustralia.com.au/people-skills-and-capability/reaching-jobseekers" data-variantitemid="{E99CE371-1C74-4FF4-B2BA-374F88B7B1FE}">Read more</a></div></div></div></div>        </div>
+    </div>
+</div>    </div>
+</div></div>    </div>
+</div>
+
+
+<div class="component container col-12">
+    <div class="component-content" >
+<div class="row"></div>    </div>
+</div></div></div>
+        </div>
+    </main>
+    <!-- /#content -->
+    <!-- #footer -->
+    <footer>
+        <div id="footer" class="container-fluid">
+            <div class="row">
+
+
+
+<div class="component container col-12 col-xl-10">
+    <div class="component-content" >
+<div class="row">
+
+
+<div class="component container col-12 col-lg-6" id="footer-top-left-container">
+    <div class="component-content" >
+<div class="row">
+
+
+<div class="component container col-12 col-xl-6" id="contact-left-container">
+    <div class="component-content" >
+<div class="row">
+
+    <div class="component rich-text col-12">
+        <div class="component-content">
+<h2>Contact</h2>        </div>
+    </div>
+<div class="component plain-html col-12 d-none d-lg-block">
+    <div class="component-content">
+<h4>Murray Dairy</h4>
+<p>255 Ferguson Road<br />
+Tatura, Victoria 3616<br /></p>
+<p>Telephone: <a rel="noopener noreferrer" href="tel:0348116008" target="_blank" title="call dairy australia office number">03 4811 6008</a></p>
+<p>Email: <a data-enc="YWRtaW5AbXVycmF5ZGFpcnkuY29tLmF1">show email address</a></p>
+<h5>Postal Address</strong></h5>
+<p>255 Ferguson Road<br />Tatura, Victoria 3616</p>    </div>
+</div>
+
+
+<div class="component accordion col-12 d-block d-lg-none" data-properties='{&quot;expandOnHover&quot;:false,&quot;expandedByDefault&quot;:false,&quot;speed&quot;:500,&quot;easing&quot;:&quot;swing&quot;,&quot;canOpenMultiple&quot;:true,&quot;canToggle&quot;:true,&quot;isControlEditable&quot;:false}' >
+    <div class="component-content">
+                            <div>
+                <ul class="items">
+                        <li class="item">
+                                <div class="toggle-header" tabindex="-1">
+                                    <div class="label">
+                                        <div class="row">
+<div class="component content col-12">
+    <div class="component-content">
+<div class="field-heading">Murray Dairy</div>    </div>
+</div>
+</div>
+                                    </div>
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="row"><div class="component plain-html col-12">
+    <div class="component-content">
+<h4>Murray Dairy</h4>
+<p>255 Ferguson Road<br />
+Tatura, Victoria 3616<br /></p>
+<p>Telephone: <a rel="noopener noreferrer" href="tel:0348116008" target="_blank" title="call dairy australia office number">03 4811 6008</a></p>
+<p>Email: <a data-enc="YWRtaW5AbXVycmF5ZGFpcnkuY29tLmF1">show email address</a></p>
+<h5>Postal Address</strong></h5>
+<p>255 Ferguson Road<br />Tatura, Victoria 3616</p>    </div>
+</div>
+<div class="component link-list social-share-container col-12">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a class="social-links-facebook" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/DairyAustralia" data-variantitemid="{52324411-6910-4621-B609-D395EB3316C6}">FB</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a class="social-links-youtube" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/dairyoz?feature=results_main" data-variantitemid="{E4E9611D-15AA-4CFE-9D42-E989AECFECDA}">Youtube</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a class="social-links-twitter" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://twitter.com/Dairy_Australia" data-variantitemid="{B06E5B16-08BD-49A6-A3EF-38A09ECCC1E6}">Twitter</a></div>                </li>
+                <li class="item3 even">
+<div class="field-link"><a class="social-links-linkedin" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/dairy-australia/" data-variantitemid="{09B8EBB3-A10B-4FDD-B416-A7A5A0342D6E}">LinkedIn</a></div>                </li>
+                <li class="item4 odd last">
+<div class="field-link"></div>                </li>
+        </ul>
+    </div>
+</div>
+</div>
+                                </div>
+                        </li>
+                        <li class="item">
+                                <div class="toggle-header" tabindex="-1">
+                                    <div class="label">
+                                        <div class="row">
+<div class="component content col-12">
+    <div class="component-content">
+<div class="field-heading">Dairy Australia</div>    </div>
+</div>
+</div>
+                                    </div>
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="row"><div class="component plain-html col-12">
+    <div class="component-content">
+<h4>Dairy Australia</h4>
+<p>Level 3, HWT Tower, 40 City Road Southbank, Victoria 3006</p>
+<p>Telephone: <a rel="noopener noreferrer" href="tel:1800004377" target="_blank" title="call dairy australia office number">1800 004 377</a></p>
+<p><a class="blue-btn--inverted" rel="noopener noreferrer" href="https://www.dairyaustralia.com.au/contacts-directory/enquiry" title="Enquiry">Enquiry</a></p>
+<h5>Postal Address</h5>
+<p>Locked Bag 104, Flinders Lane, Victoria 8009</p>
+<h5>Media Enquiries</h5>
+<p>Email: <a data-enc="bWVkaWFAZGFpcnlhdXN0cmFsaWEuY29tLmF1">show email address</a></p>
+<p>Mobile: <a rel="noopener noreferrer" href="tel:0417540059" target="_blank" title="call media enquiries mobile number">0417 540 059</a></p>    </div>
+</div>
+<div class="component link-list social-share-container col-12">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a class="social-links-facebook" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/DairyAustralia" data-variantitemid="{52324411-6910-4621-B609-D395EB3316C6}">FB</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a class="social-links-youtube" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/dairyoz?feature=results_main" data-variantitemid="{E4E9611D-15AA-4CFE-9D42-E989AECFECDA}">Youtube</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a class="social-links-twitter" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://twitter.com/Dairy_Australia" data-variantitemid="{B06E5B16-08BD-49A6-A3EF-38A09ECCC1E6}">Twitter</a></div>                </li>
+                <li class="item3 even">
+<div class="field-link"><a class="social-links-linkedin" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/dairy-australia/" data-variantitemid="{09B8EBB3-A10B-4FDD-B416-A7A5A0342D6E}">LinkedIn</a></div>                </li>
+                <li class="item4 odd last">
+<div class="field-link"></div>                </li>
+        </ul>
+    </div>
+</div>
+</div>
+                                </div>
+                        </li>
+                </ul>                            
+            </div>
+    </div>
+</div>
+
+<div class="component link-list social-share-container col-12 d-none d-lg-block social-share-container" id="link-list-footer-two">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a class="social-links-youtube" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCnNaU056ds-BLg0e08aGYFg/featured" data-variantitemid="{CAE0361E-AFE2-493F-80FA-ACC07CFF5CD1}">YouTube</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a class="social-links-twitter" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://twitter.com/MurrayDairy" data-variantitemid="{39AF127D-4608-4AC0-920C-B6C584D4DCF9}">Twitter</a></div>                </li>
+                <li class="item3 even">
+<div class="field-link"></div>                </li>
+                <li class="item4 odd last">
+<div class="field-link"><a class="social-links-instagram" data-variantfieldname="Link" href="https://www.instagram.com/murray_dairy/" data-variantitemid="{F755E8AD-17DC-4030-869B-F0B83C384EC0}">Instagram</a></div>                </li>
+        </ul>
+    </div>
+</div>
+</div>    </div>
+</div>
+
+
+<div class="component container col-12 col-xl-6" id="contact-right-container">
+    <div class="component-content" >
+<div class="row">
+
+    <div class="component rich-text col-12">
+        <div class="component-content">
+<h2 style="visibility:hidden;">.</h2>        </div>
+    </div>
+<div class="component plain-html col-12 d-none d-lg-block">
+    <div class="component-content">
+<h4>Dairy Australia</h4>
+<p>Level 3, HWT Tower, 40 City Road Southbank, Victoria 3006</p>
+<p>Telephone: <a rel="noopener noreferrer" href="tel:1800004377" target="_blank" title="call dairy australia office number">1800 004 377</a></p>
+<p><a class="blue-btn--inverted" rel="noopener noreferrer" href="https://www.dairyaustralia.com.au/contacts-directory/enquiry" title="Enquiry">Enquiry</a></p>
+<h5>Postal Address</h5>
+<p>Locked Bag 104, Flinders Lane, Victoria 8009</p>
+<h5>Media Enquiries</h5>
+<p>Email: <a data-enc="bWVkaWFAZGFpcnlhdXN0cmFsaWEuY29tLmF1">show email address</a></p>
+<p>Mobile: <a rel="noopener noreferrer" href="tel:0417540059" target="_blank" title="call media enquiries mobile number">0417 540 059</a></p>    </div>
+</div>
+<div class="component link-list social-share-container col-12 d-none d-lg-block" id="link-list-footer-one">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a class="social-links-facebook" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/DairyAustralia" data-variantitemid="{52324411-6910-4621-B609-D395EB3316C6}">FB</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a class="social-links-youtube" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/user/dairyoz?feature=results_main" data-variantitemid="{E4E9611D-15AA-4CFE-9D42-E989AECFECDA}">Youtube</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a class="social-links-twitter" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://twitter.com/Dairy_Australia" data-variantitemid="{B06E5B16-08BD-49A6-A3EF-38A09ECCC1E6}">Twitter</a></div>                </li>
+                <li class="item3 even">
+<div class="field-link"><a class="social-links-linkedin" data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/dairy-australia/" data-variantitemid="{09B8EBB3-A10B-4FDD-B416-A7A5A0342D6E}">LinkedIn</a></div>                </li>
+                <li class="item4 odd last">
+<div class="field-link"></div>                </li>
+        </ul>
+    </div>
+</div>
+</div>    </div>
+</div></div>    </div>
+</div>
+
+
+<div class="component container col-12 col-lg-6" id="footer-top-right-container">
+    <div class="component-content" >
+<div class="row">
+
+    <div class="component rich-text col-12">
+        <div class="component-content">
+<h3>Regional Offices</h3>
+<p>Select a region to view local information</p>        </div>
+    </div>
+<div class="component page-list col-12">
+    <div class="component-content">
+            <ul class="items">
+                    <li class="item">
+<a href="https://www.dairyaustralia.com.au/dairynsw"><span class="field-region-name">Dairy NSW</span><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/shared/logos/footer-logos-final/footer-logo_0015_dairynsw_rgb_rev.png?h=258&amp;w=750&amp;rev=bfa4ad354eee42fb910b78397711ac27&amp;hash=D713D6D354344DCE078616E21B1E9424" alt="DairyNSW" width="750" height="258" data-variantitemid="{0CAC59D4-6C9D-4F7E-8FD5-684A6B74F5F4}" data-variantfieldname="Region Logo" /></a>                    </li>
+                    <li class="item">
+<a href="https://www.dairyaustralia.com.au/dairysa"><span class="field-region-name">DairySA</span><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/shared/logos/footer-logos-final/footer-logo_0013_dairysa_rgb_rev.png?h=258&amp;w=750&amp;rev=912fa00db4a74df3aca7f6366f3848ac&amp;hash=56019FF228635DE0AA30C4C940EB85D7" alt="DairySA" width="750" height="258" data-variantitemid="{D950B173-29AD-4D4D-8A56-85F696184569}" data-variantfieldname="Region Logo" /></a>                    </li>
+                    <li class="item">
+<a href="https://www.dairyaustralia.com.au/dairytas"><span class="field-region-name">DairyTas</span><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/shared/logos/footer-logos-final/footer-logo_0011_dairytas_rgb_rev.png?h=258&amp;w=750&amp;rev=993c9151488345f39a4ac53cca3970aa&amp;hash=5E7DF9202D7BD35A021098D524FA8969" alt="DairyTas" width="750" height="258" data-variantitemid="{0D712899-E449-4C04-8B54-971383065057}" data-variantfieldname="Region Logo" /></a>                    </li>
+                    <li class="item">
+<a href="https://www.dairyaustralia.com.au/gippsdairy"><span class="field-region-name">GippsDairy</span><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/shared/logos/footer-logos-final/footer-logo_0009_gippsdairy_rgb_rev.png?h=258&amp;w=750&amp;rev=11c770a8eb084c52bbd1b8418ee23510&amp;hash=940F0CC1ABAF5000D813206059A46F8C" alt="GippsDairy" width="750" height="258" data-variantitemid="{E3AA6E37-1DF2-4142-8B3B-F4324444F4F5}" data-variantfieldname="Region Logo" /></a>                    </li>
+                    <li class="item">
+<a href="https://www.dairyaustralia.com.au/murray-dairy"><span class="field-region-name">Murray Dairy</span><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/shared/logos/footer-logos-final/footer-logo_0007_murray-dairy_rgb_rev.png?h=258&amp;w=750&amp;rev=dd8ad7a3d34c4dd6bed1e34b90af1559&amp;hash=9E0B05932EE7A5CC1FE37A10077DAA5E" alt="MurrayDairy" width="750" height="258" data-variantitemid="{215EA3A5-3B89-4DD0-8A86-52AD6C88CBB0}" data-variantfieldname="Region Logo" /></a>                    </li>
+                    <li class="item">
+<a href="https://www.dairyaustralia.com.au/subtropical-dairy"><span class="field-region-name">Subtropical Dairy</span><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/shared/logos/footer-logos-final/footer-logo_0005_subtropicaldairy_rgb_rev.png?h=258&amp;w=750&amp;rev=b7f5a95bc38a439ea3820773aac06ec5&amp;hash=80B5A5F9D8031CED13AE9957F9C23D07" alt="Subtropical Dairy" width="750" height="258" data-variantitemid="{57D6313D-EA03-4477-A19E-2E29ABD15752}" data-variantfieldname="Region Logo" /></a>                    </li>
+                    <li class="item">
+<a href="https://www.dairyaustralia.com.au/western-dairy"><span class="field-region-name">Western Dairy</span><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/shared/logos/footer-logos-final/footer-logo_0003_western-dairy_rgb_rev.png?h=258&amp;w=750&amp;rev=903ac774d6ed46588e3dcd5b004d0f9c&amp;hash=9BAE6C9C1E0DD04493F1AA10DC71C8B1" alt="Western Dairy" width="750" height="258" data-variantitemid="{EFE4B14D-3D79-4F5C-AD4E-2491D76DE84B}" data-variantfieldname="Region Logo" /></a>                    </li>
+                    <li class="item">
+<a href="https://www.dairyaustralia.com.au/westvic-dairy"><span class="field-region-name">WestVic Dairy</span><img src="https://cdn-prod.dairyaustralia.com.au/murray-dairy/-/media/project/dairy-australia-sites/shared/logos/footer-logos-final/footer-logo_0001_westvic-dairy_rgb_rev.png?h=258&amp;w=750&amp;rev=98363e4ace5845a18882b3f86277e7c5&amp;hash=439839BB41FDE3895E3838402145000C" alt="WestVic" width="750" height="258" data-variantitemid="{35700005-BDED-4D2B-978D-5B2F5CC809AA}" data-variantfieldname="Region Logo" /></a>                    </li>
+            </ul>
+    </div>
+</div></div>    </div>
+</div>
+
+
+<div class="component container col-12" id="footer-bottom-container">
+    <div class="component-content" >
+<div class="row">
+<div class="component link-list col-12">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a data-variantfieldname="Link" href="https://www.dairyaustralia.com.au/disclaimer" data-variantitemid="{520D5070-D2A8-4021-B325-3B52208DBF97}">Disclaimer</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a data-variantfieldname="Link" href="https://www.dairyaustralia.com.au/privacy-policy" data-variantitemid="{A7CEDDDE-48D9-4292-A0B8-25EB07E44F02}">Privacy Policy</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a data-variantfieldname="Link" target="_blank" rel="noopener noreferrer" href="https://dairyaustralia.softlinkhosting.com.au/liberty3/libraryHome.do" data-variantitemid="{D81C0443-233D-4388-B87D-9C2A87C7D6AA}">Library</a></div>                </li>
+                <li class="item3 even">
+<div class="field-link"><a class="not-link" data-variantfieldname="Link" href="#" data-variantitemid="{71C2913B-0750-48BE-8EB9-5AFD1EC57467}">&#169; 2023 Dairy Australia</a></div>                </li>
+                <li class="item4 odd last">
+<div class="field-link"><a data-variantfieldname="Link" href="#header" data-variantitemid="{8DF2A8E9-33AC-491E-A2BF-1D00D5794713}">Back to top</a></div>                </li>
+        </ul>
+    </div>
+</div>
+</div>    </div>
+</div></div>    </div>
+</div></div>
+        </div>
+    </footer>
+    <!-- /#footer -->
+</div>
+<!-- /#wrapper -->
+
+    
+
+
+<div class="region-info-alert location-message">
+    <div class="close">
+        <a class="close" onclick="#">X</a>
+    </div>
+    <div class="info location-allow">
+        You're viewing the Murray Dairy website. To view other regional dairy information, <a href="#" class="info-region-selector" role="button">select a region</a>.
+    </div>
+</div>
+
+
+    <div class="privacy-warning permisive" style="">
+            <div class='close'>
+
+                <a onclick="XA.cookies.removeCookieWarning();">X</a>
+            </div>
+        <div class="info">
+            Cookies help Dairy Australia improve your website experience. By using our website, you agree to our <a href="https://www.dairyaustralia.com.au/privacy-policy" class="dark-link"><span style="text-decoration: underline;">use of cookies</span></a>.
+        </div>
+        <div class="submit">
+
+            <a onclick="XA.cookies.createCookie(&#39;privacy-notification&#39;, 1, 365);XA.cookies.removeCookieWarning();">Confirm</a>
+        </div>
+    </div>
+
+
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+
+<script src="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/base-themes/core-libraries/scripts/optimized-min.js?rev=3ff98451de044112b2ae3509ca193bd4&t=20210317T190100Z&hash=3E9547BEF0DF95BDF6611F4A724FB13C"></script><script src="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/base-themes/xa-api/scripts/optimized-min.js?rev=eee6fdae43ec46cc9be9dd7f5ae428e6&t=20200917T005445Z&hash=AFC2CCF6F3B56E40B3489ECFDF591575"></script><script src="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/base-themes/main-theme/scripts/optimized-min.js?rev=d80c90f15a264cc98956730e1178c23c&t=20200917T005445Z&hash=35DBCB59DDD04668C4D32A6A47125527"></script><script src="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/base-themes/google-maps-js-connector/scripts/optimized-min.js?rev=01287d039e6c4d4ab5f77c827c91b49b&t=20200408T051950Z&hash=E81941D303ABEB06EDFDCCB64B9B2AAF"></script><script src="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/base-themes/maps/scripts/optimized-min.js?rev=62760ed7c6034f7e8ee9bc54d51d3d91&t=20200408T051950Z&hash=B49575B3FC46AC26D1314E440A451471"></script><script src="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/base-themes/searchtheme/scripts/optimized-min.js?rev=22ad47c257e345d8b500d2f615ca3aec&t=20231109T100437Z&hash=AFCA9FABC239039A59E20457CAED4069"></script><script src="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/base-themes/components-theme/scripts/optimized-min.js?rev=707fb79ec4ac46269945cd83dcc4a7ec&t=20200917T005447Z&hash=740B06617155893A6E86379BD5580679"></script><script src="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/base-themes/resolve-conflicts/scripts/optimized-min.js?rev=b815e3b806044ed8bab8d8b4d3f37c21&t=20200917T005447Z&hash=2FE926D986CE949FB8CA0523828DA1E3"></script><script src="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/base-themes/custom-vendors/scripts/optimized-min.js?rev=8340b436a4e645e3bb1c99d14183f8fd&t=20220830T000231Z&hash=C9D511F274B58F8C8726B19EBA29B0FC"></script><script src="https://cdn-prod.dairyaustralia.com.au/subtropical-dairy/-/media/themes/dairy-australia-sites/national-home/national-home/scripts/optimized-min.js?rev=35949f3e46874433afba5cae663e1eb3&t=20240320T071646Z&hash=5517C3AC09668B56E7C3036591CB3EA3"></script>    <!-- /#wrapper -->
+
+
+    <script src="/~/media/themes/dairy-australia-sites/national-home/national-home/scripts/z-2-heifers-calculator.js"></script>  
+
+</body>
+</html>

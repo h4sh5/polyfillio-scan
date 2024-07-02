@@ -1,0 +1,1128 @@
+		
+<!doctype html>
+<html lang="en-AU">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		<link rel='preconnect' href='https://06aa2e.p3cdn1.secureserver.net' crossorigin />
+		
+        <title>B.Invested | Reach financial freedom faster</title>
+		
+		<link rel="icon" type="image/png" href="https://binvested.com.au/favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="https://binvested.com.au/favicon-16x16.png" sizes="16x16" />
+		
+		<link rel="pingback" href="https://binvested.com.au/xmlrpc.php" />
+        <link rel="profile" href="http://gmpg.org/xfn/11" />
+		
+		<link rel="stylesheet" type="text/css" media="all" href="https://binvested.com.au/wp-content/themes/b-invested/style.css" />
+		<link rel="stylesheet" href="https://binvested.com.au/wp-content/themes/b-invested/assets/css/outdatedbrowser.min.css">
+        
+		
+				<script src="https://cdn.polyfill.io/v3/polyfill.min.js"></script>
+        
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Australia&#039;s favourite property investment firm helps first home buyers and property investors buy below market value properties along the east coast of Australia. Find out more today!" />
+	<link rel="canonical" href="https://binvested.com.au/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home - B.Invested" />
+	<meta property="og:description" content="Australia&#039;s favourite property investment firm helps first home buyers and property investors buy below market value properties along the east coast of Australia. Find out more today!" />
+	<meta property="og:url" content="https://binvested.com.au/" />
+	<meta property="og:site_name" content="B.Invested" />
+	<meta property="article:publisher" content="https://www.facebook.com/binvested.com.au" />
+	<meta property="article:modified_time" content="2023-04-05T05:46:22+00:00" />
+	<meta property="og:image" content="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/Why-does-Australia-need-over-2-million-migrants-by-2026-1.png?time=1719910399" />
+	<meta property="og:image:width" content="483" />
+	<meta property="og:image:height" content="322" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://binvested.com.au/","url":"https://binvested.com.au/","name":"Home - B.Invested","isPartOf":{"@id":"https://binvested.com.au/#website"},"about":{"@id":"https://binvested.com.au/#organization"},"datePublished":"2020-09-17T16:07:15+00:00","dateModified":"2023-04-05T05:46:22+00:00","description":"Australia's favourite property investment firm helps first home buyers and property investors buy below market value properties along the east coast of Australia. Find out more today!","breadcrumb":{"@id":"https://binvested.com.au/#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://binvested.com.au/"]}]},{"@type":"BreadcrumbList","@id":"https://binvested.com.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://binvested.com.au/#website","url":"https://binvested.com.au/","name":"B.Invested","description":"Reach financial freedom faster","publisher":{"@id":"https://binvested.com.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://binvested.com.au/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-AU"},{"@type":"Organization","@id":"https://binvested.com.au/#organization","name":"Binvested","url":"https://binvested.com.au/","logo":{"@type":"ImageObject","inLanguage":"en-AU","@id":"https://binvested.com.au/#/schema/logo/image/","url":"https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/04/faveico.png?time=1683271506","contentUrl":"https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/04/faveico.png?time=1683271506","width":145,"height":125,"caption":"Binvested"},"image":{"@id":"https://binvested.com.au/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/binvested.com.au"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//assets.calendly.com' />
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="B.Invested &raquo; Feed" href="https://binvested.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="B.Invested &raquo; Comments Feed" href="https://binvested.com.au/comments/feed/" />
+<link rel='preconnect' href='https://06aa2e.p3cdn1.secureserver.net' crossorigin />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/06aa2e.p3cdn1.secureserver.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5&time=1719910399"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://06aa2e.p3cdn1.secureserver.net/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5&#038;time=1719910399' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='foundation-css' href='https://06aa2e.p3cdn1.secureserver.net/wp-content/themes/b-invested/assets/css/foundation.xy.css?ver=1&#038;time=1719910399' media='all' />
+<link rel='stylesheet' id='app-css' href='https://06aa2e.p3cdn1.secureserver.net/wp-content/themes/b-invested/assets/css/app.css?ver=1&#038;time=1719910399' media='all' />
+<link rel='stylesheet' id='colour-variations-css' href='https://06aa2e.p3cdn1.secureserver.net/wp-content/themes/b-invested/assets/css/colour-variations.css?ver=1&#038;time=1719910399' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css' href='https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/pum/pum-site-styles.css?generated=1701228310&#038;ver=1.18.2&#038;time=1719910399' media='all' />
+<script src="https://06aa2e.p3cdn1.secureserver.net/wp-content/themes/b-invested/assets/js/vendor/modernizr-generated-content.js?ver=1&amp;time=1719910399" id="modernizr-js"></script>
+<script src="https://06aa2e.p3cdn1.secureserver.net/wp-content/themes/b-invested/assets/js/vendor/jquery-3.6.1.min.js?ver=3.6.1&amp;time=1719910399" id="jquery-js"></script>
+<script src="https://assets.calendly.com/assets/external/widget.js?ver=1" id="calendly-js"></script>
+<script src="https://kit.fontawesome.com/29b58b9908.js?ver=1" id="icons-js"></script>
+<script id="google-maps-js-before">
+function googleMapsLoaded() { console.log("Google Maps loaded successfully.") }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAmavXi5FuDFXst4AwLTbHspttwp7LmalU&amp;callback=googleMapsLoaded&amp;ver=1" id="google-maps-js"></script>
+<link rel="https://api.w.org/" href="https://binvested.com.au/wp-json/" /><link rel="alternate" type="application/json" href="https://binvested.com.au/wp-json/wp/v2/pages/7" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://binvested.com.au/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://binvested.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://binvested.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbinvested.com.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://binvested.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbinvested.com.au%2F&#038;format=xml" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSDTX9');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-36246841-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-36246841-1');
+</script>
+
+<!-- Load Facebook SDK for JavaScript -->
+	<div id="fb-root"></div>
+	<script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v8.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+	<!-- Your Chat Plugin code -->
+		<div class="fb-customerchat"
+			 attribution=setup_tool
+			 page_id="114136291955307"
+			 theme_color="#13BCE5">
+		</div>
+
+		<meta property="fb:app_id" content="2084751491661322" /><meta name="generator" content="Elementor 3.22.1; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading, e_lazyload; settings: css_print_method-internal, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/04/faveico.png?time=1719910399" sizes="32x32" />
+<link rel="icon" href="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/04/faveico.png?time=1719910399" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/04/faveico.png?time=1719910399" />
+<meta name="msapplication-TileImage" content="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/04/faveico.png?time=1719910399" />
+		<style id="wp-custom-css">
+			#g-recaptcha-response {
+  display: block !important;
+  position: absolute;
+  margin: -78px 0 0 0 !important;
+  width: 302px !important;
+  height: 76px !important;
+  z-index: -999999;
+  opacity: 0;
+}
+
+.search-in-place .label {
+
+	display: none;
+}
+
+.search-in-place .resume {
+  display: block;
+  font-size: 17px;
+}		</style>
+				
+		
+
+		
+		
+    </head>
+    
+    <body class="home page-template page-template-templates page-template-page-builder page-template-templatespage-builder-php page page-id-7 elementor-default elementor-kit-3335">
+		
+		<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MSDTX9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+		
+		<header id="top-bar" class="top-bar ">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x align-justify align-middle">
+					<div class="cell shrink">
+						<h1 class="site-logo">
+							<a class="site-logo__link ir" href="https://binvested.com.au/" title="B.Invested" rel="home">B.Invested</a>
+						</h1>
+					</div>
+					<div class="cell shrink">
+						<div class="grid-x grid-padding-x align-middle">
+							<div class="cell shrink hide-for-xlarge">
+								<button type="button" class="menu-button menu-button--closed js-menu-trigger">
+									<span></span>
+									<span></span>
+									<span></span>
+								</button>
+							</div>
+							<div class="cell shrink show-for-xlarge">
+								<nav class="top-bar__navigation"><ul id="menu-menu-1" class="menu"><li id="menu-item-527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="https://binvested.com.au/why-choose-us/">Why choose us?</a></li>
+<li id="menu-item-1406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1406"><a href="#"><span>How we help</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774"><a href="https://binvested.com.au/how-we-help/start-my-property-journey/">Start my property journey</a></li>
+	<li id="menu-item-830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-830"><a href="https://binvested.com.au/how-we-help/grow-my-investment-properties/">Grow my investment properties</a></li>
+	<li id="menu-item-841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-841"><a href="https://binvested.com.au/how-we-help/scale-my-existing-portfolio/">Scale my existing portfolio</a></li>
+</ul>
+</li>
+<li id="menu-item-525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525"><a href="https://binvested.com.au/success-stories/">Success stories</a></li>
+<li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="https://binvested.com.au/info-hub/">Info Hub</a></li>
+<li id="menu-item-709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709"><a href="https://binvested.com.au/get-in-touch/">Get in touch</a></li>
+</ul></nav>							</div>
+														<div class="cell shrink show-for-xlarge">
+								<a class="btn btn--tertiary" href="https://binvested.com.au/discovery-session/" target="_self">Make your move now!</a>
+							</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<div class="site-navigation top-bar-offset hide-for-xlarge">
+			<div class="grid-container content-area">
+				<div class="grid-x grid-padding-x">
+					<div class="cell">
+						<nav class="site-navigation__navigation"><ul id="menu-menu-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="https://binvested.com.au/why-choose-us/">Why choose us?</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1406"><a href="#">How we help</a><a href='#' class='menu-arrow menu-arrow--closed js-menu-expand'><span class='menu-arrow__icon'><i class="fa-regular fa-chevron-down"></i></span></a>
+
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774"><a href="https://binvested.com.au/how-we-help/start-my-property-journey/">Start my property journey</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-830"><a href="https://binvested.com.au/how-we-help/grow-my-investment-properties/">Grow my investment properties</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-841"><a href="https://binvested.com.au/how-we-help/scale-my-existing-portfolio/">Scale my existing portfolio</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525"><a href="https://binvested.com.au/success-stories/">Success stories</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="https://binvested.com.au/info-hub/">Info Hub</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709"><a href="https://binvested.com.au/get-in-touch/">Get in touch</a></li>
+</ul></nav>					</div>
+										<div class="cell shrink padding-top">
+						<a class="btn btn--tertiary" href="https://binvested.com.au/discovery-session/" target="_self">Make your move now!</a>
+					</div>
+									</div>
+			</div>
+		</div>
+
+		<main>
+	<article id="post-7" class="home post-7 page type-page status-publish hentry">
+
+		<section class="banner-row position_relative height_100--vh">
+	<div class="flexslider flexslider--hide-controls height_100">
+		<ul class="slides height_100">
+						<li class="background-image background-image--overlay" style="background-image:url(https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/video-min-1800x1080.jpg)">
+				<div class="grid-x banner-row__slide height_100">
+					<div class="grid-container content-area-x2 position_relative color-white align-self-middle">
+						<div class="banner-row__slide__content grid-x content-area-x2">
+							<div class="cell text-center">
+								<div class="grid-x"><div class="cell large-12 text-center"><h2 class="h1 fix_line_height">What do you want your future to B?</h2></div></div>								<div class="padding-top-x2">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y align-center align-middle">
+																				<div class="cell medium-shrink">
+											<a class="btn btn--hollow btn--hollow--white" href="https://binvested.com.au/start-my-property-journey/" target="_self">Start my property journey</a>
+										</div>
+																				<div class="cell medium-shrink">
+											<a class="btn btn--hollow btn--hollow--white" href="https://binvested.com.au/grow-my-investment-properties/" target="_self">Grow my investment properties</a>
+										</div>
+																				<div class="cell medium-shrink">
+											<a class="btn btn--hollow btn--hollow--white" href="https://binvested.com.au/scale-my-existing-portfolio/" target="_self">Scale my existing portfolio</a>
+										</div>
+																			</div>
+								</div>
+															</div>
+						</div>
+					</div>
+										<div class="banner-row__video background-image background-image--overlay">
+												<video class="js-banner-video" preload="auto" autoplay loop muted playsinline controlsList="nodownload">
+							<source src="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/WebsiteVideo_Compressed_V3.mp4?time=1719910399" type="video/mp4">
+						</video>
+					</div>
+									</div>
+			</li>
+					</ul>
+	</div>
+	
+	</section>
+<section id="row-1" class="js-stat-container js-stat-container--ready content-area-x2 background-black" data-row-type="stats_row" data-row-index="row_1">
+	<div class="grid-container position_relative">
+        <div class="grid-x align-center">
+            <div class="cell">
+                				<div class="grid-x medium-up-2 large-up-4 large-align-center stats-container">
+										<div class="cell">
+						<div class="boxed-content text-center">
+							<h3 class="h2 no-margin">
+								<span class="js-stat-number" data-number="6000">6000</span>+							</h3>
+							<p class="size-h6">People assisted to become first-time investors</p>
+						</div>
+					</div>
+										<div class="cell border-top medium-border-left medium-border-top-x0">
+						<div class="boxed-content text-center">
+							<h3 class="h2 no-margin">
+								$<span class="js-stat-number" data-number="5">5</span>B+							</h3>
+							<p class="size-h6">Worth of properties transacted through us</p>
+						</div>
+					</div>
+										<div class="cell border-top medium-border-left large-border-top-x0 medium-border-top medium-border-left-x0 large-border-top-x0 large-border-left">
+						<div class="boxed-content text-center">
+							<h3 class="h2 no-margin">
+								<span class="js-stat-number" data-number="15000">15000</span>+							</h3>
+							<p class="size-h6">Properties purchased for our investors</p>
+						</div>
+					</div>
+										<div class="cell border-top medium-border-left large-border-top-x0">
+						<div class="boxed-content text-center">
+							<h3 class="h2 no-margin">
+								<span class="js-stat-number" data-number="2000">2000</span>+							</h3>
+							<p class="size-h6">Of our clients have become property millionaires</p>
+						</div>
+					</div>
+									</div>
+				            </div>
+        </div>
+    </div>
+</section><section id="reach-financial-gradient_text-textfreedom-colourhighlight-faster" class="content-area-x2 background-white" data-row-type="content_row" data-row-index="row_2">
+		<div class="grid-container position_relative">
+		<div class="grid-x align-center">
+			<div class="cell">
+					
+				<div class="grid-x grid-padding-x grid-padding-y align-middle align-center medium-flex-dir-column-reverse large-flex-dir-row-reverse">
+					<div class="cell large-6 position_relative">
+												<div class="flexslider flexslider--hide-controls height_100">
+							<ul class="slides height_100">
+																<li>
+									<div class="slide-content height_100">
+																				<figure class="height_100">
+											<div class="set-size set-size--landscape height_100">
+												<div class="set-size__image" style="background-image:url(https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/04/b-invested-brand-video-1-1200x800.jpg)">
+													<img src="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/04/b-invested-brand-video-1-1200x800.jpg" alt="Home image">
+												</div>
+											</div>
+																					</figure>
+																			</div>
+								</li>
+															</ul>
+						</div>
+												<a class="position_absolute position_absolute--center btn btn--highlight grid-x align-middle" href="https://youtu.be/21Sh5ApNLNM" data-fancybox="row_2">Play video &emsp;<i class="fa-solid fa-play"></i></a>
+																							</div>
+					<div class="cell large-6">
+                        <div class="grid-x align-middle height_100">
+                            <div class="cell xlarge-11">
+								<h2 class="h1">Reach financial <span class="color-highlight--gradient">freedom</span> faster</h2><div class="wysiwyg"><p>Aussies who never thought they’d be able to invest can achieve real financial freedom faster than they thought. We’ll show you what to buy and how to buy and support you every step of the way.</p>
+<p>Through unique investment property opportunities, invaluable guidance, and a highly experienced team, we’re on a mission to create a million millionaires.</p>
+</div>								<div class="padding-top-x2">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																				<div class="cell shrink">
+											<a class="btn btn--highlight" href="https://binvested.com.au/why-choose-us/" target="_self">Are you our next millionaire?</a>
+										</div>
+																			</div>
+								</div>
+								                            </div>
+                        </div>
+					</div>
+				</div>
+							</div>
+		</div>
+	</div>
+	</section><section id="success-stories" class="success_stories background-white content-area-x2" data-row-type="success_stories_row" data-row-index="row_3">
+		<div class="background-black flexslider position_relative " data-controlNav="true" data-directionNav="true" data-animationLoop="false" data-slideshow="false">
+		<ul class="slides">
+		    		    <li class="position_relative">
+				<div class="grid-container height_100 position_relative ">
+					<div class="grid-x large-height_100 align-middle grid-padding-x grid-padding-y">
+						<div class="cell large-6">
+							<div class="content-area">
+								<h2 class="title-small title-decoration">Success Stories</h2><blockquote class="margin-bottom"><p class="h3">&ldquo;At B.Invested they’re always three steps ahead of the game and they just knew what I had to do from the beginning to get the second and the third and the fourth property.&rdquo;</p></blockquote><h3 class="size-body weight-400">Melissa, Radiographer in a public hospital</h3>								<div class="margin-top">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+										<div class="cell shrink">
+											<a class="btn btn--tertiary" href="https://binvested.com.au/success-story/melissa-radiographer-in-a-public-hospital/" target="">View Story</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="background-slider large-background-slider--right">
+					<div class="background-image background-image--overlay background-image--overlay--mask height_100" style="background-image:url(https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-success-story-melissa-1-1200x800.jpg)"></div>
+				</div>
+							</li>
+					    <li class="position_relative">
+				<div class="grid-container height_100 position_relative ">
+					<div class="grid-x large-height_100 align-middle grid-padding-x grid-padding-y">
+						<div class="cell large-6">
+							<div class="content-area">
+								<h2 class="title-small title-decoration">Success Stories</h2><blockquote class="margin-bottom"><p class="h3">&ldquo;I was stuck in the rat race doing the same thing day in and day out. l wanted to change that and reached out to B.Invested.&rdquo;</p></blockquote><h3 class="size-body weight-400">David, Licensed Builder</h3>								<div class="margin-top">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+										<div class="cell shrink">
+											<a class="btn btn--tertiary" href="https://binvested.com.au/success-story/david-licensed-builder/" target="">View Story</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="background-slider large-background-slider--right">
+					<div class="background-image background-image--overlay background-image--overlay--mask height_100" style="background-image:url(https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-success-story-david-1-1200x800.jpg)"></div>
+				</div>
+							</li>
+					    <li class="position_relative">
+				<div class="grid-container height_100 position_relative ">
+					<div class="grid-x large-height_100 align-middle grid-padding-x grid-padding-y">
+						<div class="cell large-6">
+							<div class="content-area">
+								<h2 class="title-small title-decoration">Success Stories</h2><blockquote class="margin-bottom"><p class="h3">&ldquo;It really helped shape my mindset when l came to B.Invested, to be more action-oriented and be a go-getter.&rdquo;</p></blockquote><h3 class="size-body weight-400">Ally, Company Director</h3>								<div class="margin-top">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+										<div class="cell shrink">
+											<a class="btn btn--tertiary" href="https://binvested.com.au/success-story/ally-company-director/" target="">View Story</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="background-slider large-background-slider--right">
+					<div class="background-image background-image--overlay background-image--overlay--mask height_100" style="background-image:url(https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-success-story-ally-1-1200x800.jpg)"></div>
+				</div>
+							</li>
+					    <li class="position_relative">
+				<div class="grid-container height_100 position_relative ">
+					<div class="grid-x large-height_100 align-middle grid-padding-x grid-padding-y">
+						<div class="cell large-6">
+							<div class="content-area">
+								<h2 class="title-small title-decoration">Success Stories</h2><blockquote class="margin-bottom"><p class="h3">&ldquo;I’ve learnt that if I wait too long, the deals that are presented to me will go pretty quick and those opportunities don’t always come around.&rdquo;</p></blockquote><h3 class="size-body weight-400">Shane, Fuel tanker driver</h3>								<div class="margin-top">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+										<div class="cell shrink">
+											<a class="btn btn--tertiary" href="https://binvested.com.au/success-story/shane-fuel-tanker-driver/" target="">View Story</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="background-slider large-background-slider--right">
+					<div class="background-image background-image--overlay background-image--overlay--mask height_100" style="background-image:url(https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-success-story-shane-5-1200x800.jpg)"></div>
+				</div>
+							</li>
+					    <li class="position_relative">
+				<div class="grid-container height_100 position_relative ">
+					<div class="grid-x large-height_100 align-middle grid-padding-x grid-padding-y">
+						<div class="cell large-6">
+							<div class="content-area">
+								<h2 class="title-small title-decoration">Success Stories</h2><blockquote class="margin-bottom"><p class="h3">&ldquo;We knew Nathan knew how to help people who were on low incomes to get started with building a property portfolio.&rdquo;</p></blockquote><h3 class="size-body weight-400">Timothy and Georgie, Federal Law Enforcement and Teacher</h3>								<div class="margin-top">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+										<div class="cell shrink">
+											<a class="btn btn--tertiary" href="https://binvested.com.au/success-story/timothy-and-georgie-federal-law-enforcement-and-teacher/" target="">View Story</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="background-slider large-background-slider--right">
+					<div class="background-image background-image--overlay background-image--overlay--mask height_100" style="background-image:url(https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-success-story-tim-georgie-1-1200x800.jpg)"></div>
+				</div>
+							</li>
+					    <li class="position_relative">
+				<div class="grid-container height_100 position_relative ">
+					<div class="grid-x large-height_100 align-middle grid-padding-x grid-padding-y">
+						<div class="cell large-6">
+							<div class="content-area">
+								<h2 class="title-small title-decoration">Success Stories</h2><blockquote class="margin-bottom"><p class="h3">&ldquo;B.Invested has been incredible in helping us go from zero to six properties and has given us the confidence to keep on buying more.&rdquo;</p></blockquote><h3 class="size-body weight-400">Josh and Kelleigh, Coal Miner and self-employed Hairdresser</h3>								<div class="margin-top">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+										<div class="cell shrink">
+											<a class="btn btn--tertiary" href="https://binvested.com.au/success-story/josh-and-kelleigh-coal-miner-and-self-employed-hairdresser/" target="">View Story</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="background-slider large-background-slider--right">
+					<div class="background-image background-image--overlay background-image--overlay--mask height_100" style="background-image:url(https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-success-story-josh-kelleigh-1-1200x800.jpg)"></div>
+				</div>
+							</li>
+					</ul>
+	</div>
+		<div class="slider-functions padding-top">
+		<div class="grid-container">
+			<div class="grid-x grid-padding-x grid-padding-y align-middle align-justify">
+				<div class="cell auto">
+					<div class="slider-pagination slider-pagination--progress"></div>
+				</div>
+				<div class="cell shrink">
+					<div class="slider-controls">
+						<ul class="custom-direction-nav">
+							<li><a href="#" class="flex-prev"><span class="link-icon"><i class="fa-regular fa-arrow-left"></i></span></a></li>
+							<li><a href="#" class="flex-next"><span class="link-icon"><i class="fa-regular fa-arrow-right"></i></span></a></li>
+						</ul>
+					</div>
+				</div>
+							</div>
+		</div>
+	</div>
+	</section>
+<section id="meet-the-team-who-will-gradient_text-texthelp-you-coloursecondary-get-there" class="content-area-x2 background-white" data-row-type="teams_row" data-row-index="row_4">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="cell">	
+				
+					<div class="text-center padding-bottom-x2">
+						<h2 class="h1 fix_line_height">Meet the team who will <span class="color-secondary--gradient">help you</span> get there</h2>
+					</div>				<div class="flexslider " data-controlNav="true" data-directionNav="true" data-animationLoop="false" data-slideshow="false" data-columnSlider="small">
+				<ul class="slides">
+									<li>
+					<div class="slide-content">
+					<article id="post-612" class="nathan-birch grid-x height_100 align-stretch flex-dir-column background-white post-612 bi_our_team type-bi_our_team status-publish hentry">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<!--<a class="tile-link js-popup-trigger" href="#" data-trigger="popup_nathan-birch">-->
+			<a class="tile-link" href="https://binvested.com.au/team-member/nathan-birch/">
+				<span class="tile-link__image-container set-size set-size--portrait border-radius-10">
+					<span class="set-size__image background-image--overlay background-image--overlay--gradient background-image--overlay--gradient--bottom" style="background-image:url('https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-nathan-birch-1-800x1200.jpg');">
+						<img src="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-nathan-birch-1-800x1200.jpg" alt="Nathan Birch image">
+					</span>
+					<div class="team-tile--content-container boxed-content color-white">
+						<div class="grid-x grid-padding-x grid-padding-y align-middle">
+						    <div class="cell medium-auto">
+								<h3 class="h5 no-margin">Nathan Birch</h3>
+								<p class="no-margin">Founder</p>							</div>
+						    							<div class="cell shrink">
+								<span class="link-icon link-icon--white">
+																	<i class="fa-light fa-user-hair"></i>
+																</span>
+							</div>
+													</div>
+					</div>
+				</span>
+			</a>
+		</figure>
+	</div>
+	</article>					</div>
+					</li>
+										<li>
+					<div class="slide-content">
+					<article id="post-608" class="jeremy-johnson grid-x height_100 align-stretch flex-dir-column background-white post-608 bi_our_team type-bi_our_team status-publish hentry">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<!--<a class="tile-link js-popup-trigger" href="#" data-trigger="popup_jeremy-johnson">-->
+			<a class="tile-link" href="https://binvested.com.au/team-member/jeremy-johnson/">
+				<span class="tile-link__image-container set-size set-size--portrait border-radius-10">
+					<span class="set-size__image background-image--overlay background-image--overlay--gradient background-image--overlay--gradient--bottom" style="background-image:url('https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-jeremy-johnson-1-800x1200.jpg');">
+						<img src="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-jeremy-johnson-1-800x1200.jpg" alt="Jeremy Johnson image">
+					</span>
+					<div class="team-tile--content-container boxed-content color-white">
+						<div class="grid-x grid-padding-x grid-padding-y align-middle">
+						    <div class="cell medium-auto">
+								<h3 class="h5 no-margin">Jeremy Johnson</h3>
+								<p class="no-margin">Investor Relations</p>							</div>
+						    							<div class="cell shrink">
+								<span class="link-icon link-icon--white">
+																	<i class="fa-light fa-user-hair"></i>
+																</span>
+							</div>
+													</div>
+					</div>
+				</span>
+			</a>
+		</figure>
+	</div>
+	</article>					</div>
+					</li>
+										<li>
+					<div class="slide-content">
+					<article id="post-606" class="wayne-murray grid-x height_100 align-stretch flex-dir-column background-white post-606 bi_our_team type-bi_our_team status-publish hentry">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<!--<a class="tile-link js-popup-trigger" href="#" data-trigger="popup_wayne-murray">-->
+			<a class="tile-link" href="https://binvested.com.au/team-member/wayne-murray/">
+				<span class="tile-link__image-container set-size set-size--portrait border-radius-10">
+					<span class="set-size__image background-image--overlay background-image--overlay--gradient background-image--overlay--gradient--bottom" style="background-image:url('https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-wayne-murray-1-800x1200.jpg');">
+						<img src="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-wayne-murray-1-800x1200.jpg" alt="Wayne Murray image">
+					</span>
+					<div class="team-tile--content-container boxed-content color-white">
+						<div class="grid-x grid-padding-x grid-padding-y align-middle">
+						    <div class="cell medium-auto">
+								<h3 class="h5 no-margin">Wayne Murray</h3>
+								<p class="no-margin">Investor Relations</p>							</div>
+						    							<div class="cell shrink">
+								<span class="link-icon link-icon--white">
+																	<i class="fa-light fa-user-hair"></i>
+																</span>
+							</div>
+													</div>
+					</div>
+				</span>
+			</a>
+		</figure>
+	</div>
+	</article>					</div>
+					</li>
+										<li>
+					<div class="slide-content">
+					<article id="post-604" class="patrick-madden grid-x height_100 align-stretch flex-dir-column background-white post-604 bi_our_team type-bi_our_team status-publish hentry">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<!--<a class="tile-link js-popup-trigger" href="#" data-trigger="popup_patrick-madden">-->
+			<a class="tile-link" href="https://binvested.com.au/team-member/patrick-madden/">
+				<span class="tile-link__image-container set-size set-size--portrait border-radius-10">
+					<span class="set-size__image background-image--overlay background-image--overlay--gradient background-image--overlay--gradient--bottom" style="background-image:url('https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-patrick-madden-1-800x1200.jpg');">
+						<img src="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-patrick-madden-1-800x1200.jpg" alt="Patrick Madden image">
+					</span>
+					<div class="team-tile--content-container boxed-content color-white">
+						<div class="grid-x grid-padding-x grid-padding-y align-middle">
+						    <div class="cell medium-auto">
+								<h3 class="h5 no-margin">Patrick Madden</h3>
+								<p class="no-margin">Investor Relations</p>							</div>
+						    							<div class="cell shrink">
+								<span class="link-icon link-icon--white">
+																	<i class="fa-light fa-user-hair"></i>
+																</span>
+							</div>
+													</div>
+					</div>
+				</span>
+			</a>
+		</figure>
+	</div>
+	</article>					</div>
+					</li>
+										<li>
+					<div class="slide-content">
+					<article id="post-602" class="hannah-bagheri grid-x height_100 align-stretch flex-dir-column background-white post-602 bi_our_team type-bi_our_team status-publish hentry">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<!--<a class="tile-link js-popup-trigger" href="#" data-trigger="popup_hannah-bagheri">-->
+			<a class="tile-link" href="https://binvested.com.au/team-member/hannah-bagheri/">
+				<span class="tile-link__image-container set-size set-size--portrait border-radius-10">
+					<span class="set-size__image background-image--overlay background-image--overlay--gradient background-image--overlay--gradient--bottom" style="background-image:url('https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-hanna-bagheri-1-800x1200.jpg');">
+						<img src="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-hanna-bagheri-1-800x1200.jpg" alt="Hannah Bagheri image">
+					</span>
+					<div class="team-tile--content-container boxed-content color-white">
+						<div class="grid-x grid-padding-x grid-padding-y align-middle">
+						    <div class="cell medium-auto">
+								<h3 class="h5 no-margin">Hannah Bagheri</h3>
+								<p class="no-margin">Investor Relations</p>							</div>
+						    							<div class="cell shrink">
+								<span class="link-icon link-icon--white">
+																	<i class="fa-light fa-user-hair-long"></i>
+																</span>
+							</div>
+													</div>
+					</div>
+				</span>
+			</a>
+		</figure>
+	</div>
+	</article>					</div>
+					</li>
+										<li>
+					<div class="slide-content">
+					<article id="post-1333" class="charlie-millar grid-x height_100 align-stretch flex-dir-column background-white post-1333 bi_our_team type-bi_our_team status-publish hentry">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<!--<a class="tile-link js-popup-trigger" href="#" data-trigger="popup_charlie-millar">-->
+			<a class="tile-link" href="https://binvested.com.au/team-member/charlie-millar/">
+				<span class="tile-link__image-container set-size set-size--portrait border-radius-10">
+					<span class="set-size__image background-image--overlay background-image--overlay--gradient background-image--overlay--gradient--bottom" style="background-image:url('https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-charlie-millar-2-800x1200.jpg');">
+						<img src="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/03/b-invested-charlie-millar-2-800x1200.jpg" alt="Charlie Millar image">
+					</span>
+					<div class="team-tile--content-container boxed-content color-white">
+						<div class="grid-x grid-padding-x grid-padding-y align-middle">
+						    <div class="cell medium-auto">
+								<h3 class="h5 no-margin">Charlie Millar</h3>
+								<p class="no-margin">Investor Relations</p>							</div>
+						    							<div class="cell shrink">
+								<span class="link-icon link-icon--white">
+																	<i class="fa-light fa-user-hair"></i>
+																</span>
+							</div>
+													</div>
+					</div>
+				</span>
+			</a>
+		</figure>
+	</div>
+	</article>					</div>
+					</li>
+										<li>
+					<div class="slide-content">
+					<article id="post-2458" class="hayden-jamer grid-x height_100 align-stretch flex-dir-column background-white post-2458 bi_our_team type-bi_our_team status-publish hentry">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<!--<a class="tile-link js-popup-trigger" href="#" data-trigger="popup_hayden-jamer">-->
+			<a class="tile-link" href="https://binvested.com.au/team-member/hayden-jamer/">
+				<span class="tile-link__image-container set-size set-size--portrait border-radius-10">
+					<span class="set-size__image background-image--overlay background-image--overlay--gradient background-image--overlay--gradient--bottom" style="background-image:url('https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/08/BInvested23-WebsiteStaffPhotos-1200x800-1-HaydenJamer-2-copy-800x800.jpg');">
+						<img src="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2023/08/BInvested23-WebsiteStaffPhotos-1200x800-1-HaydenJamer-2-copy-800x800.jpg" alt="Hayden Jamer image">
+					</span>
+					<div class="team-tile--content-container boxed-content color-white">
+						<div class="grid-x grid-padding-x grid-padding-y align-middle">
+						    <div class="cell medium-auto">
+								<h3 class="h5 no-margin">Hayden Jamer</h3>
+								<p class="no-margin">Investor Relations</p>							</div>
+						    							<div class="cell shrink">
+								<span class="link-icon link-icon--white">
+																	<i class="fa-light fa-user-hair"></i>
+																</span>
+							</div>
+													</div>
+					</div>
+				</span>
+			</a>
+		</figure>
+	</div>
+	</article>					</div>
+					</li>
+									</ul>
+				</div>
+				
+				<div class="slider-functions padding-top">
+					<div class='grid-x grid-padding-x grid-padding-y align-middle align-justify'>
+						<div class='cell auto'>
+							<div class='slider-pagination slider-pagination--progress'></div>
+						</div>
+						<div class='cell shrink'>
+							<div class="slider-controls">
+								<ul class="custom-direction-nav">
+									<li><a href="#" class="flex-prev"><span class="link-icon"><i class="fa-regular fa-arrow-left"></i></span></a></li>
+									<li><a href="#" class="flex-next"><span class="link-icon"><i class="fa-regular fa-arrow-right"></i></span></a></li>
+								</ul>
+							</div>
+						</div>
+											</div>
+				</div>
+				
+							</div>
+		</div>
+	</div>
+</section>
+<section id="gradient_text-texttips-coloursecondary-and-gradient_text-textresources-colourhighlight" class="content-area-x2 background-grey background-grey-300" data-row-type="posts_row" data-row-index="row_5">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="cell">	
+								<div class="cell padding-bottom-x2">
+					<div class="grid-x grid-padding-x grid-padding-y align-middle">
+						
+						<div class="cell medium-auto">
+							<h2 class="h1 fix_line_height"><span class="color-secondary--gradient">Tips</span> and <span class="color-highlight--gradient">Resources</span></h2>
+						</div>						<div class="cell medium-shrink">
+							<a class="btn btn--hollow btn--hollow--black" href="https://binvested.com.au/info-hub/" target="_self">View our Info Hub</a>
+						</div>
+											</div>
+				</div>
+								<div class="grid-x grid-padding-x grid-padding-y  medium-up-2 large-up-3">
+									<div class="cell ">
+					<article id="post-3392" class="considering-buying-property-interstate grid-x height_100 align-stretch flex-dir-column background- post-3392 post type-post status-publish format-standard hentry category-grow-your-investment-properties category-scale-your-existing-portfolio category-start-your-property-journey">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<a class="tile-link" href="https://binvested.com.au/considering-buying-property-interstate/">
+				<span class="tile-link__image-container set-size set-size--landscape">
+					<span class="set-size__image background-image" style="background-image:url('https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2024/06/portrait-of-excited-young-couple-standing-outside-2023-11-27-05-15-55-utc-1200x800.jpg');">
+						<img src="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2024/06/portrait-of-excited-young-couple-standing-outside-2023-11-27-05-15-55-utc-1200x800.jpg" alt="Considering Buying Property Interstate image">
+					</span>
+				</span>
+			</a>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow padding-top">
+		<div class="grid-x grid-x--xsmall grid-padding-x grid-padding-y">
+			<div class="cell">
+				<a class="no-underline" href="https://binvested.com.au/category/grow-your-investment-properties/">Grow your investment properties</a>, <a class="no-underline" href="https://binvested.com.au/category/scale-your-existing-portfolio/">Scale your existing portfolio</a>, <a class="no-underline" href="https://binvested.com.au/category/start-your-property-journey/">Start your property journey</a>			</div>
+			<div class="cell">
+				<h3 class="h5">
+					<a class="no-underline" href="https://binvested.com.au/considering-buying-property-interstate/">Considering Buying Property Interstate</a>
+				</h3>
+			</div>
+		</div>
+	</div>
+</article>					</div>
+										<div class="cell show-for-medium">
+					<article id="post-3321" class="high-rental-return-strategies-for-high-interest-market grid-x height_100 align-stretch flex-dir-column background- post-3321 post type-post status-publish format-standard hentry category-grow-your-investment-properties category-scale-your-existing-portfolio category-start-your-property-journey">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<a class="tile-link" href="https://binvested.com.au/high-rental-return-strategies-for-high-interest-market/">
+				<span class="tile-link__image-container set-size set-size--landscape">
+					<span class="set-size__image background-image" style="background-image:url('https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2024/06/portrait-of-happy-real-estate-agent-with-a-couple-2023-11-27-05-24-20-utc-1200x800.jpg');">
+						<img src="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2024/06/portrait-of-happy-real-estate-agent-with-a-couple-2023-11-27-05-24-20-utc-1200x800.jpg" alt="High-Rental-Return-Strategies-for High-Interest-Market">
+					</span>
+				</span>
+			</a>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow padding-top">
+		<div class="grid-x grid-x--xsmall grid-padding-x grid-padding-y">
+			<div class="cell">
+				<a class="no-underline" href="https://binvested.com.au/category/grow-your-investment-properties/">Grow your investment properties</a>, <a class="no-underline" href="https://binvested.com.au/category/scale-your-existing-portfolio/">Scale your existing portfolio</a>, <a class="no-underline" href="https://binvested.com.au/category/start-your-property-journey/">Start your property journey</a>			</div>
+			<div class="cell">
+				<h3 class="h5">
+					<a class="no-underline" href="https://binvested.com.au/high-rental-return-strategies-for-high-interest-market/">High Rental Return Strategies for High Interest Market</a>
+				</h3>
+			</div>
+		</div>
+	</div>
+</article>					</div>
+										<div class="cell show-for-large">
+					<article id="post-3313" class="self-managed-vs-professional-property-management grid-x height_100 align-stretch flex-dir-column background- post-3313 post type-post status-publish format-standard hentry category-grow-your-investment-properties category-scale-your-existing-portfolio category-start-your-property-journey">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<a class="tile-link" href="https://binvested.com.au/self-managed-vs-professional-property-management/">
+				<span class="tile-link__image-container set-size set-size--landscape">
+					<span class="set-size__image background-image" style="background-image:url('https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2024/06/couple-viewing-potential-new-home-with-female-real-2023-11-27-05-02-32-utc-1200x800.jpg');">
+						<img src="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/2024/06/couple-viewing-potential-new-home-with-female-real-2023-11-27-05-02-32-utc-1200x800.jpg" alt="Self-Managed vs Professional Property Management image">
+					</span>
+				</span>
+			</a>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow padding-top">
+		<div class="grid-x grid-x--xsmall grid-padding-x grid-padding-y">
+			<div class="cell">
+				<a class="no-underline" href="https://binvested.com.au/category/grow-your-investment-properties/">Grow your investment properties</a>, <a class="no-underline" href="https://binvested.com.au/category/scale-your-existing-portfolio/">Scale your existing portfolio</a>, <a class="no-underline" href="https://binvested.com.au/category/start-your-property-journey/">Start your property journey</a>			</div>
+			<div class="cell">
+				<h3 class="h5">
+					<a class="no-underline" href="https://binvested.com.au/self-managed-vs-professional-property-management/">Self-Managed vs Professional Property Management</a>
+				</h3>
+			</div>
+		</div>
+	</div>
+</article>					</div>
+									</div>
+							</div>
+		</div>
+	</div>
+</section>
+<section id="gradient_text-texthot-colourhighlight-properties" class="content-area-x2 background-white" data-row-type="hot_properties_row" data-row-index="row_6">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="cell">	
+								<div class="cell padding-bottom-x2">
+					<div class="grid-x grid-padding-x grid-padding-y align-middle">
+						
+						<div class="cell medium-auto">
+							<h2 class="h1 fix_line_height"><span class="color-highlight--gradient">Hot</span> Properties</h2>
+						</div>					</div>
+				</div>
+								<div class="grid-x grid-padding-x grid-padding-y  medium-up-2 large-up-3">
+									<div class="cell ">
+					<article id="post-1497" class="wa-block-of-units height_100 border-radius-10 boxed-content cell-bg cell-bg-0 post-1497 bi_hot_property type-bi_hot_property status-publish hentry">
+	<div class="grid-x grid-padding-x grid-padding-y align-stretch flex-dir-column height_100">
+		<div class="cell flex-child-grow"> 
+			<h3 class="h4">WA Block of Units		</div>
+		<div class="cell flex-child-shrink wysiwyg"> 
+						<ul class="arrow-list size-h6 weight-500">
+								<li>$165k purchase price</li>
+								<li>$200k property value</li>
+								<li>$350 rent per week</li>
+								<li>11% rental yield</li>
+							</ul>
+					</div>
+	</div>
+</article>					</div>
+										<div class="cell show-for-medium">
+					<article id="post-1496" class="qld-unit height_100 border-radius-10 boxed-content cell-bg cell-bg-1 post-1496 bi_hot_property type-bi_hot_property status-publish hentry">
+	<div class="grid-x grid-padding-x grid-padding-y align-stretch flex-dir-column height_100">
+		<div class="cell flex-child-grow"> 
+			<h3 class="h4">QLD Unit		</div>
+		<div class="cell flex-child-shrink wysiwyg"> 
+						<ul class="arrow-list size-h6 weight-500">
+								<li>$195k purchase price</li>
+								<li>$250k property value</li>
+								<li>$255 rent per week</li>
+								<li>6.8% rental yield</li>
+							</ul>
+					</div>
+	</div>
+</article>					</div>
+										<div class="cell show-for-large">
+					<article id="post-1495" class="wa-block-of-units height_100 border-radius-10 boxed-content cell-bg cell-bg-2 post-1495 bi_hot_property type-bi_hot_property status-publish hentry">
+	<div class="grid-x grid-padding-x grid-padding-y align-stretch flex-dir-column height_100">
+		<div class="cell flex-child-grow"> 
+			<h3 class="h4">WA Block of Units		</div>
+		<div class="cell flex-child-shrink wysiwyg"> 
+						<ul class="arrow-list size-h6 weight-500">
+								<li>$167k purchase price</li>
+								<li>$250k property value</li>
+								<li>$390 rent per week</li>
+								<li>12% rental yield</li>
+							</ul>
+					</div>
+	</div>
+</article>					</div>
+									</div>
+							</div>
+		</div>
+	</div>
+</section>
+<section class="content-area-x2 background-grey background-grey-300">
+	<div class="grid-container position_relative">
+		<div class="grid-x align-center">
+			<div class="cell">
+				<div class="grid-x grid-padding-x grid-padding-y align-center text-center">
+					<div class="cell xlarge-10">
+						<h2 class="h1">Take the first step to <span class="color-highlight--gradient">financial freedom</span> and contact us today</h2><div class="wysiwyg"><p>Our team is ready to take you through every step of a successful property investment journey.</p>
+</div>						<div class="padding-top-x2">
+							<div class="grid-x grid-x--small grid-padding-x grid-padding-y  align-center">
+								<div class="cell shrink">
+									<a class="btn btn--highlight" href="https://binvested.com.au/discovery-session/" target="_self">Make your move now!</a>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+	</article>
+
+			</main>
+
+		<footer class="bottom-bar background-black">
+			<div class="show-for-medium--x padding-top-x2">
+				<div class="grid-container content-area">
+					<div class="grid-x grid-padding-x grid-padding-y">
+						<div class="cell medium-6 large-3">
+							<h3 class="site-logo site-logo--tagline">
+								<a class="site-logo__link site-logo__link--tagline ir" href="https://binvested.com.au/" title="B.Invested" rel="home">B.Invested</a>
+							</h3>
+						</div>
+												<div class="cell medium-6 large-2">
+							<nav class="bottom-bar__navigation"><ul id="menu-menu-3" class="menu"><li id="menu-item-556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="https://binvested.com.au/why-choose-us/">Why choose us?</a></li>
+<li id="menu-item-1407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1407"><a href="https://binvested.com.au/how-we-help/start-my-property-journey/">How we help</a></li>
+<li id="menu-item-554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a href="https://binvested.com.au/success-stories/">Success stories</a></li>
+<li id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a href="https://binvested.com.au/info-hub/">Info Hub</a></li>
+<li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="https://binvested.com.au/get-in-touch/">Get in touch</a></li>
+</ul></nav>														<div class="padding-top">
+								<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																		<div class="cell shrink"> 
+										<a class="social-link" target="_blank" href="https://www.facebook.com/binvested.com.au"><span class="icon-link"><i class="fa fa-facebook" aria-hidden="true"></i></span></a>
+									</div>
+																											<div class="cell shrink"> 
+										<a class="social-link" target="_blank" href="https://au.linkedin.com/company/binvested"><span class="icon-link"><i class="fa fa-linkedin" aria-hidden="true"></i></span></a> 
+									</div>
+																											<div class="cell shrink"> 
+										<a class="social-link" target="_blank" href="https://www.instagram.com/binvested/"><span class="icon-link"><i class="fa fa-instagram" aria-hidden="true"></i></span></a> 
+									</div>
+																																				<div class="cell shrink"> 
+										<a class="social-link" target="_blank" href="https://www.youtube.com/user/binvested"><span class="icon-link"><i class="fa fa-youtube" aria-hidden="true"></i></span></a> 
+									</div>
+																	</div>
+							</div>
+													</div>
+												<div class="cell medium-6 large-3">
+																	<p><a href="mailto:admin@binvested.com.au">admin@binvested.com.au</a></p>
+									
+																	<p><a href="tel:1300 367 925">1300 367 925</a></p>
+																							<address>
+									<b>NSW Head Office</b><br>
+Suite 118, 25 Solent Circuit,<br>
+Baulkham Hills NSW 2153<br>
+<br>
+<b>QLD Head Office</b><br>
+Level 4,50 Marine Parade,<br>
+Southport QLD 4215
+									
+								</address>
+													</div>
+						<div class="cell medium-6 large-4">
+							<h3 class="fix_line_height">Join our community</h3>							<a class="btn btn--tertiary" href="https://binvested.com.au/join-our-community/" target="_self">Sign up now</a>
+													</div>
+					</div>
+				</div>
+			</div>
+			<div class="bottom-bar__legality">
+				<div class="grid-container padding-top">
+					<div class="grid-x grid-padding-x grid-padding-y text-center">
+						<div class="cell large-auto large-text-left">
+							<div class="grid-x grid-x--xsmall grid-padding-x grid-padding-y  align-center large-align-left"><div class="cell large-shrink">&copy; Copyright 2024 B.Invested all rights reserved</div><div class="cell medium-shrink"><a href="https://binvested.com.au/privacy-policy/">Privacy Policy</a></div><div class="cell medium-shrink"><a href="https://binvested.com.au/terms-and-conditions/">Terms and Conditions</a></div></div>						</div>
+						<div class="cell large-shrink large-text-right">
+							Site by <a href="https://coordinate.com.au" target="_blank" rel="nofollow">Coordinate</a>						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+
+		<section class="grid-x popup js-ajax-popup content-area">
+			<div class="grid-container medium-align-self-middle">
+				<div class="grid-x grid-padding-x align-center">
+					<div class="cell large-10 xlarge-8">
+						<div class="popup__content boxed-content large-boxed-content-sides-x2 content-area large-content-area-x2 background-white wysiwyg position_relative">
+							<div class="js-ajax-loader">
+
+							</div>
+							<a href="#" class="close-btn js-close-trigger">
+								<span class="link-icon"><i class="fa-regular fa-xmark"></i></span>
+							</a>
+						</article>
+					</div>
+				</div>
+			</div>
+			<div class="popup__close js-close-trigger"></div>
+		</section>
+
+		
+		
+		<div id="outdated"></div>
+		<script src="https://binvested.com.au/wp-content/themes/b-invested/assets/js/outdatedbrowser.min.js"></script>
+		<script>		
+		//event listener: DOM ready
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function() {
+					if (oldonload) {
+						oldonload();
+					}
+					func();
+				}
+			}
+		}
+		//call plugin function after DOM ready
+		addLoadEvent(function(){
+			outdatedBrowser({
+				bgColor: '#f25648',
+				color: '#ffffff',
+				lowerThan: 'borderImage',
+				languagePath: 'https://binvested.com.au/wp-content/themes/b-invested/assets/js/lang/en.html'
+			})
+		});
+		</script>
+
+		<!--[if lt IE 9]>
+		  <script src="https://binvested.com.au/wp-content/themes/b-invested/assets/js/html5shiv.js"></script>
+		  <script src="https://binvested.com.au/wp-content/themes/b-invested/assets/js/respond.min.js"></script>
+		<![endif]-->
+
+		<div id="pum-2972" class="pum pum-overlay pum-theme-2963 pum-theme-default-theme popmake-overlay click_open" data-popmake="{&quot;id&quot;:2972,&quot;slug&quot;:&quot;booknow&quot;,&quot;theme_id&quot;:2963,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-2972&quot;,&quot;time&quot;:&quot;1 month&quot;,&quot;session&quot;:false,&quot;path&quot;:&quot;1&quot;,&quot;key&quot;:&quot;&quot;}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.booksnow&quot;,&quot;cookie_name&quot;:[&quot;pum-2972&quot;]}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false"
+								   	aria-labelledby="pum_popup_title_2972">
+
+	<div id="popmake-2972" class="pum-container popmake theme-2963 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+							<div id="pum_popup_title_2972" class="pum-title popmake-title">
+				Booknow			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content" tabindex="0">
+			<p><iframe style="border: none;" title="Libsyn Player" src="//html5-player.libsyn.com/embed/episode/id/28751558/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/544f4b/" width="100%" height="90" scrolling="no" allowfullscreen="allowfullscreen"></iframe></p>
+		</div>
+
+
+				
+
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			CLOSE			</button>
+		
+	</div>
+
+</div>
+			<script type='text/javascript'>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script src="https://06aa2e.p3cdn1.secureserver.net/wp-content/themes/b-invested/assets/js/vendor/jquery-migrate-3.0.1.min.js?ver=3.0.1&amp;time=1719910399" id="migrate-js"></script>
+<script src="https://06aa2e.p3cdn1.secureserver.net/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6&amp;time=1719910399" id="lottie-js"></script>
+<script src="https://06aa2e.p3cdn1.secureserver.net/wp-content/themes/b-invested/assets/js/plugins.js?ver=1&amp;time=1719910399" id="plugins-js"></script>
+<script id="app-js-extra">
+var themeurl = {"templateUrl":"https:\/\/binvested.com.au\/wp-content\/themes\/b-invested"};
+</script>
+<script src="https://06aa2e.p3cdn1.secureserver.net/wp-content/themes/b-invested/assets/js/app.js?ver=1.0.2&amp;time=1719910399" id="app-js"></script>
+<script src="https://06aa2e.p3cdn1.secureserver.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2&amp;time=1719910399" id="jquery-ui-core-js"></script>
+<script id="popup-maker-site-js-extra">
+var pum_vars = {"version":"1.18.2","pm_dir_url":"https:\/\/binvested.com.au\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/binvested.com.au\/wp-admin\/admin-ajax.php","restapi":"https:\/\/binvested.com.au\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"2963","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"cookie_domain":"","analytics_route":"analytics","analytics_api":"https:\/\/binvested.com.au\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/binvested.com.au\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-2972":{"triggers":[{"type":"click_open","settings":{"extra_selectors":".booksnow","cookie_name":["pum-2972"]}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-2972","time":"1 month","session":false,"path":"1","key":""}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"2963","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"default-theme","id":2972,"slug":"booknow"}};
+</script>
+<script src="https://06aa2e.p3cdn1.secureserver.net/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1701228310&amp;ver=1.18.2&amp;time=1719910399" id="popup-maker-site-js"></script>
+
+	</body>
+</html>

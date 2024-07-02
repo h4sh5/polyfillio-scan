@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en-au">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="format-detection" content="telephone=no">
+        <title>Wiradjuri Dictionary</title>
+        <link rel="stylesheet" href="/css/app.css?id=a913e1609b6ee232f1d8">
+        <style>
+            .item-list__item .english,
+            #scroll-top:hover,
+            .copyright-link  {
+                color: #fc5a2d;
+            }
+
+            .item-list a:hover {
+                box-shadow: inset 0 0 0 5px #fc5a2d;
+            }
+
+            .button {
+                background: #fc5a2d;
+                box-shadow: 0 3px 0 #c94824;
+                text-shadow: 0 -1px 1px #c94824;
+            }
+
+            .letter-nav__list--item:hover a,
+            #scroll-top:hover,
+            .item-list__item a:hover,
+            .navigation__list--item:hover a,
+            .navigation__list--item.current a,
+            .letter-nav__list--item.current a {
+                box-shadow: inset 0 0 0 5px #fc5a2d;
+                border-color: #fc5a2d;
+            }
+
+            .section-nav__item:hover a {
+                background: #fc5a2d;
+            }
+
+            .navigation__list--item.current:hover + .navigation__list--item a,
+            .navigation__list--item.current + .navigation__list--item a {
+                border-left-color: #fc5a2d;
+            }
+
+            input[type="search"]:focus {
+                box-shadow: 0 0 0 3px #fc5a2d;
+            }
+
+            #background {
+                background-image: url('/images/backgrounds/Wiradjuri.jpg?id=647f3f80a06daa72fead');
+            }
+        </style>
+        <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,Array.prototype.includes|gated"></script>
+        <script src="/js/app.js?id=8e9ae6b0f9d9e30794c1"></script>
+    </head>
+    <body>
+        <div id="top"></div>
+        <h1 id="app-title">Wiradjuri Dictionary</h1>
+        <div id="page" class="clearfix">
+            <div class="width-container">
+        <div id="page__welcome" class="readable-container width-container">
+            <img id="logo" draggable="false" src="/images/logos/Wiradjuri.png?id=484627115ccf8ebce397" alt="Wiradjuri Logo" >
+            <h1 id="page__welcome--heading">
+    "Wiray Ngiyang Wiray Mayiny"<br>
+    "No Language, No people"
+</h1>
+<p class="info">- Uncle Stan Grant & Aunty Flo Grant.</p>
+<h2 class="info-heading">Spoken By</h2>
+<p class="info">Dr Stan Grant, Elizabeth Grant and Midnight Brydon.</p>
+<h2 class="info-heading">Content Info</h2>
+<p class="info">
+    All information available in this application is based on the work of Dr. Stan Grant and Dr. John Rudder. The majority of their work can be found in "A New Wiradjuri Dictionary"<br>
+    <span class="small">
+        Published 2010 by Restoration House.<br>
+        ISBN: 9780869421505
+    </span>
+</p>
+<p class="info">We acknowledge the support and guidance of Wiradjuri elders (both past and present) in maintaining Traditional values, Language and Culture.</p>            <a class="button" style="margin-top:1em" href="https://wiradjuri.wcclp.com.au/letters/a/words">
+                Continue
+            </a>
+        </div>
+    </div>
+        </div>
+        <div id="footer">
+            <ul class="list-reset apps-available">
+                <li class="apps-available--item">
+                    <a href="https://play.google.com/store/apps/details?id=org.regenr8.wiradjuridictionary">
+                        <img draggable="false" width="255" height="87" alt="Get it on Google Play" src="/images/badges/google.png?id=0dcd7f7d0c92990478fc">
+                    </a>
+                </li>
+                <li class="apps-available--item">
+                    <a href="https://itunes.apple.com/au/app/wiradjuri-language-dictionary/id1424855887">
+                        <img draggable="false" width="255" height="87" alt="Get it on the Apple App Store" src="/images/badges/apple.png?id=568810dbe6c7fc85b37c">
+                    </a>
+                </li>
+            </ul>
+            <a class="copyright-link" href="https://wiradjuri.wcclp.com.au/information">
+                Information
+            </a>
+        </div>
+        <div id="background"></div>
+        <a href="#top" id="scroll-top">scroll to top</a>
+    </body>
+</html>

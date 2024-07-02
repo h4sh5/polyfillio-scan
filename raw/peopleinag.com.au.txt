@@ -1,0 +1,637 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>People in Agriculture</title>
+	<link rel="canonical" href="https://www.peopleinag.com.au/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="People in Agriculture" />
+	<meta property="og:url" content="https://www.peopleinag.com.au/" />
+	<meta property="og:site_name" content="People in Agriculture" />
+	<meta property="article:modified_time" content="2024-02-17T13:22:32+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.peopleinag.com.au/","url":"https://www.peopleinag.com.au/","name":"People in Agriculture","isPartOf":{"@id":"https://www.peopleinag.com.au/#website"},"about":{"@id":"https://www.peopleinag.com.au/#organization"},"datePublished":"2023-12-10T05:59:32+00:00","dateModified":"2024-02-17T13:22:32+00:00","breadcrumb":{"@id":"https://www.peopleinag.com.au/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.peopleinag.com.au/"]}]},{"@type":"BreadcrumbList","@id":"https://www.peopleinag.com.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.peopleinag.com.au/#website","url":"https://www.peopleinag.com.au/","name":"People in Agriculture","description":"","publisher":{"@id":"https://www.peopleinag.com.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.peopleinag.com.au/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.peopleinag.com.au/#organization","name":"People in Agriculture","url":"https://www.peopleinag.com.au/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.peopleinag.com.au/#/schema/logo/image/","url":"http://peopleinag.com.au/wp-content/uploads/2023/12/2020-awards1.jpg","contentUrl":"http://peopleinag.com.au/wp-content/uploads/2023/12/2020-awards1.jpg","width":1400,"height":566,"caption":"People in Agriculture"},"image":{"@id":"https://www.peopleinag.com.au/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//cdn.polyfill.io' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//code.highcharts.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel="alternate" type="application/rss+xml" title="People in Agriculture &raquo; Feed" href="https://www.peopleinag.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="People in Agriculture &raquo; Comments Feed" href="https://www.peopleinag.com.au/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.peopleinag.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.peopleinag.com.au/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.peopleinag.com.au/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.6' media='all' />
+<link rel='stylesheet' id='peopleinag-style-css' href='https://www.peopleinag.com.au/wp-content/themes/peopleinag/assets/css/site.css?ver=6.5.5' media='all' />
+<link rel='stylesheet' id='peopleinag-journey-css' href='https://www.peopleinag.com.au/wp-content/themes/peopleinag/assets/css/journey.css?ver=6.5.5' media='all' />
+<link rel='stylesheet' id='peopleinag-lity-css' href='https://www.peopleinag.com.au/wp-content/themes/peopleinag/assets/css/lity.css?ver=6.5.5' media='all' />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js?ver=1.0.0" id="jquery-js"></script>
+<link rel="https://api.w.org/" href="https://www.peopleinag.com.au/wp-json/" /><link rel="alternate" type="application/json" href="https://www.peopleinag.com.au/wp-json/wp/v2/pages/8" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.peopleinag.com.au/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.5" />
+<link rel='shortlink' href='https://www.peopleinag.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.peopleinag.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.peopleinag.com.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.peopleinag.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.peopleinag.com.au%2F&#038;format=xml" />
+</head>
+
+<body class="home page-template-default page page-id-8">
+		<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWXRP82" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+
+	<span id="lowbandwidth"></span>
+	<p class='lowbandwidth-msg'>Low bandwidth detected. <a href='#'>Click here for low bandwidth mode.</a></p>
+	<header class="header">
+
+					<nav class="secondary-menu">
+				<div class="row large-collapse">
+					<div class="large-offset-6 large-6 columns">
+						<div class="menu-top-menu-container"><ul id="menu-top-menu" class="secondary-menu__list"><li class="secondary-menu__list-item   menu-item menu-item-type-post_type menu-item-object-page"><a class="nav-link" href="https://www.peopleinag.com.au/about/" title="About">About</a><li class="secondary-menu__list-item   menu-item menu-item-type-custom menu-item-object-custom"><a class="nav-link" href="/events" title="Events">Events</a><li class="secondary-menu__list-item   menu-item menu-item-type-custom menu-item-object-custom bgcolor-employees"><a class="nav-link" href="/faq" title="FAQ">FAQ</a><li class="secondary-menu__list-item   menu-item menu-item-type-custom menu-item-object-custom bgcolor-employers"><a class="nav-link" href="https://peopleinag.com.au/your-stories/" title="Your Stories">Your Stories</a><li class="secondary-menu__list-item   menu-item menu-item-type-post_type menu-item-object-page"><a class="nav-link" href="https://www.peopleinag.com.au/contact/" title="Contact">Contact</a><li class="secondary-menu__list-item   menu-item menu-item-type-post_type menu-item-object-page bgcolor-employers"><a class="nav-link" href="https://www.peopleinag.com.au/resources-library/" title="Resources Library">Resources Library</a></ul></div>					</div>
+				</div>
+			</nav>
+				<div class="header__top">
+			<div class="row header__top__row">
+				<div class="bp480-2 bp768-2 columns header__top-left">
+					<div class="header__logo">
+						<a href="/" title="Home">
+							<img src="https://www.peopleinag.com.au/wp-content/themes/peopleinag/assets/img/logo.png" alt="logo">
+						</a>
+					</div>
+					<div class="header__logo-divider">
+						<img src="https://www.peopleinag.com.au/wp-content/themes/peopleinag/assets/img/divider.svg" alt="divider">
+					</div>
+					<!-- <div class="header__tag">
+						<small class="header__tag-top">Working with the</small>
+						<strong class="header__tag-bottom">Farming Industry</strong>
+						<a href="#" class="flyout-toggle header__tag__flyout-toggle">
+							<span class="show-for-sr">Toggle flyout</span>
+						</a>
+					</div> -->
+				</div>
+				<!-- Menu -->
+
+									<div class="bp480-10 bp768-10 header__top-right columns">
+						<div class="row header__top-right__row">
+							<a href="https://www.peopleinag.com.au/employers/" class="small-5 large-3 columns header__resource-link  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children header__resource-link--employers active "><small class="header__resource-link-top">Resources for</small><strong class="header__resource-link-bottom header__resource-link-bottom--employers"><span class="header__resource-name">Employers</span><span class="header__resource-menu-button employers-btn">&nbsp;</span></strong></a><div class="header-hover-menu header-hover-menu--employers  hide"><ul><a href="https://www.peopleinag.com.au/employers/getting-ready-to-employ-someone/"><li>Getting Ready to Employ Someone</li><div class="header-hover-menu-icon"></div></a><a href="https://www.peopleinag.com.au/employers/pay-rates-awards-and-payroll/"><li>Pay Rates, Awards and Payroll</li><div class="header-hover-menu-icon"></div></a><a href="https://www.peopleinag.com.au/employers/finding-and-hiring-employees/"><li>Finding and Hiring Employees</li><div class="header-hover-menu-icon"></div></a><a href="https://www.peopleinag.com.au/employers/employee-leave-holidays-and-termination/"><li>Employee Leave, Holidays and Termination</li><div class="header-hover-menu-icon"></div></a><a href="https://www.peopleinag.com.au/employers/rights-and-responsibilities-as-an-employer/"><li>Rights and Responsibilities as an Employer</li><div class="header-hover-menu-icon"></div></a><a href="https://www.peopleinag.com.au/employers/workplace-training-and-development/"><li>Workplace Training and Development</li><div class="header-hover-menu-icon"></div></a></ul></div><a href="https://www.peopleinag.com.au/employees/" class="small-5 large-3 columns header__resource-link  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children header__resource-link--employees active "><small class="header__resource-link-top">Guides for</small><strong class="header__resource-link-bottom header__resource-link-bottom--employees"><span class="header__resource-name">Employees</span><span class="header__resource-menu-button employees-btn">&nbsp;</span></strong></a><div class="header-hover-menu header-hover-menu--employees  hide"><ul><a href="https://www.peopleinag.com.au/employees/why-work-in-agriculture/"><li>Why work in Agriculture?</li><div class="header-hover-menu-icon"></div></a><a href="https://www.peopleinag.com.au/employees/getting-employed/"><li>Getting Employed</li><div class="header-hover-menu-icon"></div></a><a href="https://www.peopleinag.com.au/employees/what-to-expect-in-the-workplace/"><li>What to Expect in the Workplace</li><div class="header-hover-menu-icon"></div></a><a href="https://www.peopleinag.com.au/employees/visas-and-contracts/"><li>Visas and Contracts</li><div class="header-hover-menu-icon"></div></a><a href="https://www.peopleinag.com.au/employees/managing-your-ag-career/"><li>Managing your Ag Career</li><div class="header-hover-menu-icon"></div></a></ul></div>
+							<div class="small-2 columns mobile-toggle-column">
+								<a href="#" class="mobile-toggle">
+									<span class="show-for-sr">Open mobile menu</span>
+									<div class="mobile-toggle__lines">
+										<span class="mobile-toggle__line"></span>
+										<span class="mobile-toggle__line"></span>
+										<span class="mobile-toggle__line"></span>
+									</div>
+								</a>
+							</div>
+							<div class="header__search-bar show-for-large">
+								  <form action="https://www.peopleinag.com.au">
+    <input name="s" placeholder="Search">
+  </form>
+
+							</div>
+
+							<div data-mh="hrl" class="header__search">
+								<div class="header__search-icon v-icon v-icon-search"></div>
+							</div>
+						</div>
+
+
+					</div>
+								<!-- Menu -->
+			</div>
+			<div class="header__top__shadow"></div>
+		</div>
+
+		<div class="wrapper">
+			<div class="row flyout corp-select">
+
+				<!-- <div class="small-12 flyout__content">
+					<div class="flyout__top">
+						<div class="flyout__top-left">
+							<p class="flyout-intro">
+								Select an industry from below which best capture your interest. <a href="/umbraco/Surface/Navigation/SwitchCorporation?corpName=Farming" class="show-for-bp768">If you
+									cannot find any industry that represents you, click here</a>
+							</p>
+						</div>
+						<div class="flyout__top-right">
+							<a href="#" class="flyout-close-btn">
+								<span class="flyout-close-btn__text">CLOSE</span>
+							</a>
+						</div>
+					</div>
+
+					<div class="flyout__menus">
+						<a class="flyout-menu" href="/umbraco/Surface/Navigation/SwitchCorporation?corpName=Farming">
+							<small class="flyout-menu-text">Focus on</small>
+							<small class="flyout-menu-text is-active">Focusing on</small>
+							<div class="flyout-menu__icon">
+								<i class="v-icon v-icon-general"></i>
+							</div>
+							<strong class="flyout-menu-name">Farming</strong>
+						</a>
+						<a class="flyout-menu" href="/umbraco/Surface/Navigation/SwitchCorporation?corpName=Cotton">
+							<small class="flyout-menu-text">Focus on</small>
+							<small class="flyout-menu-text is-active">Focusing on</small>
+							<div class="flyout-menu__icon">
+								<i class="v-icon v-icon-cotton"></i>
+							</div>
+							<strong class="flyout-menu-name">Cotton</strong>
+						</a>
+						<a class="flyout-menu" href="/umbraco/Surface/Navigation/SwitchCorporation?corpName=Dairy">
+							<small class="flyout-menu-text">Focus on</small>
+							<small class="flyout-menu-text is-active">Focusing on</small>
+							<div class="flyout-menu__icon">
+								<i class="v-icon v-icon-dairy"></i>
+							</div>
+							<strong class="flyout-menu-name">Dairy</strong>
+						</a>
+						<a class="flyout-menu" href="/umbraco/Surface/Navigation/SwitchCorporation?corpName=Grains">
+							<small class="flyout-menu-text">Focus on</small>
+							<small class="flyout-menu-text is-active">Focusing on</small>
+							<div class="flyout-menu__icon">
+								<i class="v-icon v-icon-grain"></i>
+							</div>
+							<strong class="flyout-menu-name">Grains</strong>
+						</a>
+						<a class="flyout-menu" href="/umbraco/Surface/Navigation/SwitchCorporation?corpName=Pork">
+							<small class="flyout-menu-text">Focus on</small>
+							<small class="flyout-menu-text is-active">Focusing on</small>
+							<div class="flyout-menu__icon">
+								<i class="v-icon v-icon-pork"></i>
+							</div>
+							<strong class="flyout-menu-name">Pork</strong>
+						</a>
+						<a class="flyout-menu" href="/umbraco/Surface/Navigation/SwitchCorporation?corpName=Livestock">
+							<small class="flyout-menu-text">Focus on</small>
+							<small class="flyout-menu-text is-active">Focusing on</small>
+							<div class="flyout-menu__icon">
+								<i class="v-icon v-icon-livestock"></i>
+							</div>
+							<strong class="flyout-menu-name">Livestock</strong>
+						</a>
+						<a class="flyout-menu" href="/umbraco/Surface/Navigation/SwitchCorporation?corpName=Eggs">
+							<small class="flyout-menu-text">Focus on</small>
+							<small class="flyout-menu-text is-active">Focusing on</small>
+							<div class="flyout-menu__icon">
+								<i class="v-icon v-icon-eggs"></i>
+							</div>
+							<strong class="flyout-menu-name">Eggs</strong>
+						</a>
+					</div>
+
+				</div> -->
+
+			</div>
+		</div>
+		<script>
+			jQuery(function() {
+				jQuery(".flyout-toggle, .header__tag").on('click', function() {
+					jQuery(".flyout__top").hide();
+				})
+			})
+		</script>
+
+		<nav class="mobile-menu">
+			<div class="mobile-menu-search">
+				<div class="v-icon v-icon-search"></div>
+				  <form action="https://www.peopleinag.com.au">
+    <input name="s" placeholder="Search">
+  </form>
+
+			</div>
+
+			<div class="mobile-menu-left mobile-menu-left--employers"><div class="mobile-menu-left__title"><small>Resources for</small><strong>Employers</strong></div><ul><li><a href="https://www.peopleinag.com.au/employers/getting-ready-to-employ-someone/" title="Getting Ready to Employ Someone">Getting Ready to Employ Someone</a></li><li><a href="https://www.peopleinag.com.au/employers/pay-rates-awards-and-payroll/" title="Pay Rates, Awards and Payroll">Pay Rates, Awards and Payroll</a></li><li><a href="https://www.peopleinag.com.au/employers/finding-and-hiring-employees/" title="Finding and Hiring Employees">Finding and Hiring Employees</a></li><li><a href="https://www.peopleinag.com.au/employers/employee-leave-holidays-and-termination/" title="Employee Leave, Holidays and Termination">Employee Leave, Holidays and Termination</a></li><li><a href="https://www.peopleinag.com.au/employers/rights-and-responsibilities-as-an-employer/" title="Rights and Responsibilities as an Employer">Rights and Responsibilities as an Employer</a></li><li><a href="https://www.peopleinag.com.au/employers/workplace-training-and-development/" title="Workplace Training and Development">Workplace Training and Development</a></li></ul></div><div class="mobile-menu-left mobile-menu-left--employees"><div class="mobile-menu-left__title"><small>Guides for</small><strong>Employees</strong></div><ul><li><a href="https://www.peopleinag.com.au/employees/why-work-in-agriculture/" title="Why work in Agriculture?">Why work in Agriculture?</a></li><li><a href="https://www.peopleinag.com.au/employees/getting-employed/" title="Getting Employed">Getting Employed</a></li><li><a href="https://www.peopleinag.com.au/employees/what-to-expect-in-the-workplace/" title="What to Expect in the Workplace">What to Expect in the Workplace</a></li><li><a href="https://www.peopleinag.com.au/employees/visas-and-contracts/" title="Visas and Contracts">Visas and Contracts</a></li><li><a href="https://www.peopleinag.com.au/employees/managing-your-ag-career/" title="Managing your Ag Career">Managing your Ag Career</a></li></ul></div><div class="mobile-menu-left mobile-menu-left--subnav"><ul id="menu-top-menu-1" class="menu"><li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="https://www.peopleinag.com.au/about/">About</a></li>
+<li id="menu-item-494" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-494"><a href="/events">Events</a></li>
+<li id="menu-item-493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-493"><a href="/faq">FAQ</a></li>
+<li id="menu-item-392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-392"><a href="https://peopleinag.com.au/your-stories/">Your Stories</a></li>
+<li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396"><a href="https://www.peopleinag.com.au/contact/">Contact</a></li>
+<li id="menu-item-390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"><a href="https://www.peopleinag.com.au/resources-library/">Resources Library</a></li>
+</ul></div>			=
+
+			<div class="mobile-menu-right">
+				<nav>
+					<a href="https://www.peopleinag.com.au" title="Home">
+						<div class="v-icon v-icon-home"></div>
+						<div class="mobile-menu-right__text">Home</div>
+					</a>
+					<a href="#" title="Close" class="mobile-menu-close">
+						<div class="v-icon v-icon-close-round"></div><span class="show-for-sr">Close</span>
+					</a>
+				</nav>
+			</div>
+
+
+		</nav>
+
+	</header>
+
+	<main>
+<div class="standard standard--employers">
+
+	
+	
+<article id="post-8" class="post-8 page type-page status-publish hentry">
+
+	
+	<div class="entry-content">
+		
+<div class="row main-focus">
+  <div class="small-12 columns">
+    <div class="row">
+      <div class="small-12 colummns">
+
+
+        <div class="main-hero">
+          <div class="hero-carousel">
+
+            <a href="#" data-lity data-lity-target="a href=“#” data-lity data-lity-target=“https://youtu.be/eIDPpLJnpv0”"><img fetchpriority="high" decoding="async" width="1400" height="565" src="https://www.peopleinag.com.au/wp-content/uploads/2023/12/people-in-ag-video1.jpg" class="attachment-full size-full" alt="" srcset="https://www.peopleinag.com.au/wp-content/uploads/2023/12/people-in-ag-video1.jpg 1400w, https://www.peopleinag.com.au/wp-content/uploads/2023/12/people-in-ag-video1-300x121.jpg 300w, https://www.peopleinag.com.au/wp-content/uploads/2023/12/people-in-ag-video1-1024x413.jpg 1024w, https://www.peopleinag.com.au/wp-content/uploads/2023/12/people-in-ag-video1-768x310.jpg 768w" sizes="(max-width: 1400px) 100vw, 1400px" /></a><a href="#"><img decoding="async" width="1400" height="566" src="https://www.peopleinag.com.au/wp-content/uploads/2023/12/2020-awards1.jpg" class="attachment-full size-full" alt="" srcset="https://www.peopleinag.com.au/wp-content/uploads/2023/12/2020-awards1.jpg 1400w, https://www.peopleinag.com.au/wp-content/uploads/2023/12/2020-awards1-300x121.jpg 300w, https://www.peopleinag.com.au/wp-content/uploads/2023/12/2020-awards1-1024x414.jpg 1024w, https://www.peopleinag.com.au/wp-content/uploads/2023/12/2020-awards1-768x310.jpg 768w" sizes="(max-width: 1400px) 100vw, 1400px" /></a>
+          </div>
+        </div>
+      </div>
+    </div>
+          <div class="row main-focus__sub">
+
+                  <div data-mh="mainfocus1" class="bp768-6 main-focus__sub__column columns">
+            <div data-mh="mainfocus2" class="main-links main-links--employers">
+              <div data-mh="mainfocus3" class="row collapse">
+                <div class="small-5 bp480-4 bp768-12 large-4 columns">
+                  <h1 class="main-links__title">
+                    <span class="main-links__title__text">
+                      <a href="https://peopleinag.com.au/employers/">
+                        <span class="main-links__title__small">Resources for</span>
+                        <span class="main-links__title__strong">Employers</span>
+                      </a>
+                    </span>
+                  </h1>
+                </div>
+                
+
+                                  <div data-mh="mainfocus4" class="small-7 bp480-8 bp768-12 large-8 columns main-links__link-box main-links__link-box--employers">
+                    <ul class="main-links__list">
+                       <li class="main-links__list-item"><a href="https://peopleinag.com.au/employers/pay-rates-awards-and-payroll/" target="">Pay Rates, Awards and Payroll</a></li><li class="main-links__list-item"><a href="https://peopleinag.com.au/employers/getting-ready-to-employ-someone/" target="">Getting Ready to Employ Someone</a></li><li class="main-links__list-item"><a href="https://peopleinag.com.au/employers/finding-and-hiring-employees/" target="">Finding and Hiring Employees</a></li><li class="main-links__list-item"><a href="https://peopleinag.com.au/employers/rights-and-responsibilities-as-an-employer/providing-a-safe-workplace/" target="">Providing a Safe Workplace</a></li>                    </ul>
+                    <a href="https://peopleinag.com.au/employers/">
+                      <div class="main-links__icon"></div>
+                    </a>
+                  </div>
+                              </div>
+            </div>
+          </div>
+                  <div data-mh="mainfocus1" class="bp768-6 main-focus__sub__column columns">
+            <div data-mh="mainfocus2" class="main-links main-links--employees">
+              <div data-mh="mainfocus3" class="row collapse">
+                <div class="small-5 bp480-4 bp768-12 large-4 columns">
+                  <h1 class="main-links__title">
+                    <span class="main-links__title__text">
+                      <a href="https://peopleinag.com.au/employees/">
+                        <span class="main-links__title__small">Guides for</span>
+                        <span class="main-links__title__strong">Employees</span>
+                      </a>
+                    </span>
+                  </h1>
+                </div>
+                
+
+                                  <div data-mh="mainfocus4" class="small-7 bp480-8 bp768-12 large-8 columns main-links__link-box main-links__link-box--employees">
+                    <ul class="main-links__list">
+                       <li class="main-links__list-item"><a href="https://peopleinag.com.au/employees/why-work-in-agriculture/" target="">Introduction to Agriculture</a></li><li class="main-links__list-item"><a href="https://peopleinag.com.au/employees/getting-employed/how-much-should-i-get-paid/" target="">How Much Should I Get Paid?</a></li><li class="main-links__list-item"><a href="https://peopleinag.com.au/employees/what-to-expect-in-the-workplace/safety-in-the-workplace/" target="">Safety in the Workplace</a></li><li class="main-links__list-item"><a href="https://peopleinag.com.au/employees/visas-and-contracts/" target="">Coming from overseas</a></li>                    </ul>
+                    <a href="https://peopleinag.com.au/employees/">
+                      <div class="main-links__icon"></div>
+                    </a>
+                  </div>
+                              </div>
+            </div>
+          </div>
+        
+      </div>
+      </div>
+</div>
+
+
+<div class="row main-section main-secondary">
+
+   
+</div>
+
+<section class="row columns main-section main-stories">
+
+  <a href="https://peopleinag.com.au/your-stories" target=""><h1 class="main-section__title">Your Stories</h1></a>
+      <div class="medium-6 large-3 columns main-story">
+      <div class="main-story__hero" style="background-image: url(https://www.peopleinag.com.au/wp-content/uploads/2023/12/darrylandmel1.jpg)";></div>
+      <div data-mh="main-story__text" class="main-story__text">
+        <h2 class="main-story__title">A Podcast with Mel Cann and Darryl Pearl</h2><p class="main-story__desc">Listen to Melissa and Darryl talk about their journey</p>      </div>
+
+      <div class="main-story__readmore"><a href="https://www.peopleinag.com.au/your-stories/a-podcast-with-mel-cann-and-darryl-pearl/" target="" title="Read more" class="btn btn--with-right-arrow">Read more</a></div>      
+    </div>
+      <div class="medium-6 large-3 columns main-story">
+      <div class="main-story__hero" style="background-image: url(https://www.peopleinag.com.au/wp-content/uploads/2023/12/dominique-hinchliffe1.jpg)";></div>
+      <div data-mh="main-story__text" class="main-story__text">
+        <h2 class="main-story__title">Dominique and Mal: On Mentoring</h2><p class="main-story__desc">Dominique and Mal: On Mentoring</p>      </div>
+
+      <div class="main-story__readmore"><a href="https://www.peopleinag.com.au/your-stories/dominique-and-mal-on-mentoring/" target="" title="Read more" class="btn btn--with-right-arrow">Read more</a></div>      
+    </div>
+      <div class="medium-6 large-3 columns main-story">
+      <div class="main-story__hero" style="background-image: url(https://www.peopleinag.com.au/wp-content/uploads/2023/12/matt-rigby1.jpg)";></div>
+      <div data-mh="main-story__text" class="main-story__text">
+        <h2 class="main-story__title">Interview with Matthew Rigby &#8211; Cropping Manager</h2><p class="main-story__desc">Matthew took on a new challenge in Agriculture</p>      </div>
+
+      <div class="main-story__readmore"><a href="https://www.peopleinag.com.au/your-stories/interview-with-matthew-rigby-cropping-manager/" target="" title="Read more" class="btn btn--with-right-arrow">Read more</a></div>      
+    </div>
+      <div class="medium-6 large-3 columns main-story">
+      <div class="main-story__hero" style="background-image: url(https://www.peopleinag.com.au/wp-content/uploads/2023/12/michael-campbell-ag-industry-professional1.jpg)";></div>
+      <div data-mh="main-story__text" class="main-story__text">
+        <h2 class="main-story__title">Interview with Michael Campbell</h2><p class="main-story__desc">Find things that excite you and pursue them</p>      </div>
+
+      <div class="main-story__readmore"><a href="https://www.peopleinag.com.au/your-stories/interview-with-michael-campbell/" target="" title="Read more" class="btn btn--with-right-arrow">Read more</a></div>      
+    </div>
+  
+
+</section>
+<hr>
+
+<section class="row main-section main-faq">
+  <div class="small-12 columns"><h1 class="main-section__title">Frequently Asked Questions</h1></div>  <div class="columns large-12 main-faq-wrapper">
+    <div class="row">
+              <div class="columns large-6 main-faq-section">
+          <div class="faq-category">
+            <h2>Getting Started</h2><a href="/Farming/faq#GettingStarted" class="main-faq__see-all btn btn--with-right-arrow">Sell all</a>
+          </div>
+
+                      <a class="faq-question-wrapper" title="faq1-7">
+              <div class="faq-question">What should I write in a job advertisement?</div>
+              <div class="faq-question-toggle"></div>
+            </a>
+            <div class="faq-answer">
+              <p>Advertising your employment opportunities can help you find a suitable person to fill your staffing needs. How you advertise the job will affect who applies for it. Job ads should be based on the Position Description and include:</p>
+<p>&#8211; a brief description of your farm<br />
+&#8211; the job title and status<br />
+&#8211; a brief description of duties<br />
+&#8211; any required skills, qualifications, certificates, or experience<br />
+&#8211; your contact information<br />
+&#8211; how to apply for the job and a closing date for applications.</p>
+            </div>
+                      <a class="faq-question-wrapper" title="faq1-7">
+              <div class="faq-question">How do I create a position description?</div>
+              <div class="faq-question-toggle"></div>
+            </a>
+            <div class="faq-answer">
+              <p>A position, or job description (often referred to as a PD) is a statement that explains the requirements of a job. Writing a position description will help identify the skills and traits you want the new employee to have.</p>
+<p>Position descriptions should include:</p>
+<p>&#8211; job title and location<br />
+&#8211; duties, responsibilities and tasks<br />
+&#8211; what you need the person to do, who they are in charge of and who they report to<br />
+&#8211; required skills, qualifications, licenses, certificates, and experience<br />
+&#8211; other requirements &#8211; such as physical demands of the job<br />
+&#8211; your expectations &#8211; such as production targets<br />
+&#8211; any benefits &#8211; such as accommodation, meals, or training<br />
+&#8211; the type of employment &#8211; whether the position is full-time, part-time, or casual</p>
+<p>Don&#8217;t include anything that isn&#8217;t necessary for the job such as gender, age or family responsibilities. Not only will you be limiting the people who will apply for the job, but it could be discrimination and break the law.</p>
+            </div>
+                      <a class="faq-question-wrapper" title="faq1-7">
+              <div class="faq-question">What should I ask a prospective employee at an interview?</div>
+              <div class="faq-question-toggle"></div>
+            </a>
+            <div class="faq-answer">
+              <p>Behavioural interviewing is based on the principle that past behaviour predicts future behaviour. Asking the candidate questions about how they behaved in the past is a good way of predicting how they will behave in the future.</p>
+<p>Effective behavioural interviewing asks questions in a non-threatening, structured way. This encourages candidates to talk about what actually happened in selected situations, what they did, how they thought and felt.</p>
+<p>Information that should be collected from the candidate’s answer includes:</p>
+<p>• the situation or task;<br />
+• the action taken by the candidate; and<br />
+• the result or outcome</p>
+            </div>
+                  </div>
+
+        
+              <div class="columns large-6 main-faq-section">
+          <div class="faq-category">
+            <h2>Recruiting &#8211; General Questions</h2><a href="/Farming/faq#GettingStarted" class="main-faq__see-all btn btn--with-right-arrow">Sell all</a>
+          </div>
+
+                      <a class="faq-question-wrapper" title="faq2-8">
+              <div class="faq-question">How can I induct new staff into my business?</div>
+              <div class="faq-question-toggle"></div>
+            </a>
+            <div class="faq-answer">
+              <p>Take your time to introduce your new employee to your workplace and their job. <a href="https://www.peopleinag.com.au/media/1093/induction-checklist.docx">An induction checklist</a> will help you remember the important things to cover during the induction. These include:<br />
+&#8211; paperwork, such as completing an employee details form<br />
+&#8211; rosters, time sheets, and applying for Leave<br />
+&#8211; terms and conditions of employment – position description and employment contract<br />
+&#8211; farm policies and systems (see <a href="https://www.peopleinag.com.au/general/employers/what-are-my-responsibilities/safety/">Safety for more information</a>)<br />
+&#8211; a copy of The Fair Work Information Statement and The National Employment Standards Introduction (See <a href="https://www.peopleinag.com.au/general/employers/how-much-do-i-pay-someone/awards-agreements-and-entitlements/">Awards section</a> for more information)<br />
+&#8211; OH&amp;S procedures<br />
+&#8211; farm tour and general information<br />
+&#8211; introductions to farm staff (explaining their roles and responsibilities), contractors, suppliers, owners and management<br />
+&#8211; a walk-through of specific job tasks<br />
+&#8211; a copy of the farm&#8217;s Code of Conduct</p>
+<p>If you are engaging someone as an independent contractor, you need to manage the risks to their health and safety as you would for any other person working on your farm. Use the <a href="https://www.peopleinag.com.au/media/1121/safety-on-farm-contractor-checklist.docx">Contractors Checklist</a> as a check for yourself and an induction for the contractor.</p>
+            </div>
+                      <a class="faq-question-wrapper" title="faq2-8">
+              <div class="faq-question">Employment contract, agreement or IFA?</div>
+              <div class="faq-question-toggle"></div>
+            </a>
+            <div class="faq-answer">
+              <p>An <b>Employment Contract</b> can be verbal or written but it is preferable that it be written so that each party is clear about the terms and conditions which apply. Employment contracts can provide terms which are more beneficial than the award or the National Employment Standards but they should not contain terms which are less favourable. For example, if a contract has a base rate of pay that is lower than the minimum pay rate for that classification in the award, then the award terms will apply regardless of what the contract says. See the section <a href="https://www.peopleinag.com.au/general/employers/how-do-i-employ-someone/the-next-step#Making-an-Offer">&#8220;How do I Employ Someone ?&#8221;</a> for contract templates and more information.</p>
+<p>An <b>Enterprise Agreement</b> is a formal document which is between you and your employees or a group of employees. The content of the enterprise agreement must be discussed with employees and you are required to give consideration to their views. Enterprise agreements must be assessed and approved by the <a href="https://www.fwc.gov.au/">Fair Work Commission </a>Employees must be Better Off Overall under an agreement than they would be under the relevant award and agreements cannot exclude the 10 minimum conditions in the NES. Enterprise agreements must have an expiry date of no more than four years from the date of approval of the agreement by the <a href="https://www.fwc.gov.au/">Fair Work Commission. </a>If you are thinking of introducing an enterprise agreement into your workplace, see the FWC’s step by step guide to making a single enterprise agreement. You can also access, or apply to vary, existing agreements.</p>
+<p><b>Individual Flexibility Agreements:</b> All modern awards and enterprise agreements contain a ‘flexibility term’ that lets you adjust the award or agreement to best meet the needs of an individual employee. <a href="https://www.peopleinag.com.au/general/employers/how-much-do-i-pay-someone/awards-agreements-and-entitlements#Award-free-employees">Individual flexibility arrangements (IFA’s) </a>in the modern awards will only allow IFAs to vary arrangements for when work is performed, overtime rates, penalty rates, allowances, and leave loading. All conditions in the Individual Flexibility Agreement must pass the BOOT test and be agreed on by employee. You cannot force someone to enter into an IFA and it cannot be made as a condition of employment. You can send an employee a letter of offer for an IFA using the <a href="https://www.peopleinag.com.au/media/1094/ifa-template.docx">template provided.</a></p>
+            </div>
+                      <a class="faq-question-wrapper" title="faq2-8">
+              <div class="faq-question">How do I make a formal offer of employment?</div>
+              <div class="faq-question-toggle"></div>
+            </a>
+            <div class="faq-answer">
+              <p>You should send a formal offer of employment via post or email. With the letter of offer, you will need to include a copy of the Employment Contract and Position Description</p>
+<p>To save time, you might want to call the candidate first to confirm that they are still interested in the position before sending the formal offer.</p>
+<p>Don’t tell candidates that they haven’t been successful until your preferred candidate has formally accepted the offer of employment. Your first choice might get another offer or may not be able to accept the position for some reason. You may need to make an offer to your second choice.</p>
+            </div>
+                  </div>
+
+        
+              <div class="columns large-6 main-faq-section">
+          <div class="faq-category">
+            <h2>Managing People</h2><a href="/Farming/faq#GettingStarted" class="main-faq__see-all btn btn--with-right-arrow">Sell all</a>
+          </div>
+
+                      <a class="faq-question-wrapper" title="faq3-9">
+              <div class="faq-question">How do I perform a Performance Appraisal?</div>
+              <div class="faq-question-toggle"></div>
+            </a>
+            <div class="faq-answer">
+              <p>It is important to have regular, structured performance appraisals to make sure your employees are all working effectively towards the running of the business. Having said this, the importance of informal appraisals should not be overlooked. A quick chat about a new policy or procedure, a conversation over lunch about working hours, or a discussion about the direction of the farm can be just as important in making sure your employees are on the right track and are managing a good work-life balance.</p>
+<p>Following through on appropriate actions or suggestions that come from these informal appraisals shows your employees that you listen to them and value their opinions on the farm. See more about communication and recognition and reward in the <a href="https://www.peopleinag.com.au/general/employers/how-do-i-train-and-grow-my-team/working-together/">&#8220;Working Together&#8221;</a> section.</p>
+            </div>
+                      <a class="faq-question-wrapper" title="faq3-9">
+              <div class="faq-question">How do I train my employees?</div>
+              <div class="faq-question-toggle"></div>
+            </a>
+            <div class="faq-answer">
+              <p><b>Apprenticeships and traineeships</b> are formal training arrangements between an employer and an employee. They combine work with study for a qualification, certificate or diploma.</p>
+<p>They can be full-time, part-time or school-based. Anyone who’s old enough to work is able to sign up for an apprenticeship or traineeship. There are wide variations of arrangements, particularly around pay, support and time off.</p>
+<p>The training has to be registered and recognised by your state or territory training authority. They decide which qualifications are apprenticeships and which are traineeships.</p>
+<p>For more information see the <a href="https://www.peopleinag.com.au/general/employers/how-do-i-train-and-grow-my-team/professional-development-and-training#Training-Programs">&#8220;How do I train and grow my team?&#8221; section</a></p>
+            </div>
+                      <a class="faq-question-wrapper" title="faq3-9">
+              <div class="faq-question">Health and safety – where do I start?</div>
+              <div class="faq-question-toggle"></div>
+            </a>
+            <div class="faq-answer">
+              <p>In addition to the obvious reasons for maintaining a safe environment for employees, contractors, family, visitors, and members of the public, there are also legal obligations when looking at health and safety in the workplace.</p>
+<p>Farm businesses who don’t act to fulfil health and safety responsibilities face significant fines and penalties. Use the <a href="https://www.peopleinag.com.au/media/24924/farm-health-and-safety-overview-checklist.docx">farm health and safety overview checklist</a> as a starting point for working out what you need to do to make your farm safer.</p>
+            </div>
+                  </div>
+
+        
+              <div class="columns large-6 main-faq-section">
+          <div class="faq-category">
+            <h2>Managing my Ag career</h2><a href="/Farming/faq#GettingStarted" class="main-faq__see-all btn btn--with-right-arrow">Sell all</a>
+          </div>
+
+                      <a class="faq-question-wrapper" title="faq4-10">
+              <div class="faq-question">How do I plan my Ag career?</div>
+              <div class="faq-question-toggle"></div>
+            </a>
+            <div class="faq-answer">
+              <p>Taking the long term view of your career is important if you are to get the most out of your professional journey the Agricultural industry.</p>
+<p>The key elements of career planning are:</p>
+<p><b>Goal Setting: </b>you won&#8217;t know how to succeed in your career until you know where you want to be. Setting long and short term financial and life goals are key to staying in control of your career path.</p>
+<p><b>Mentors and Advisors:</b> the simplest and most effective way to get where you want to be is to find people who are there already, and find out how they did it.</p>
+<p><b>Training and Professional Development:</b>Undertaking courses and obtaining relevant licences will improve your ability to find high paid work. Talk to your employer about making time to up-skill in the areas that are most valuable to them.</p>
+            </div>
+                      <a class="faq-question-wrapper" title="faq4-10">
+              <div class="faq-question">How do I find a Mentor ?</div>
+              <div class="faq-question-toggle"></div>
+            </a>
+            <div class="faq-answer">
+              <p>Mentoring helps the mentee approach new situations with confidence, having talked through options and possible consequences. It is more about asking the right questions and listening, rather than giving the right answers. Mentoring is not only an effective way of sharing experience but also the transfer of technical skills and experience.</p>
+<p>Using senior staff as mentors is a great way of recognising their knowledge and experience within the industry without necessarily promoting them to a position as a supervisor.</p>
+            </div>
+                      <a class="faq-question-wrapper" title="faq4-10">
+              <div class="faq-question">How do I retain my staff?</div>
+              <div class="faq-question-toggle"></div>
+            </a>
+            <div class="faq-answer">
+              <p>In addition to a competitive salary, people value a challenging and rewarding workplace. Factors that can help create a positive working environment with a good work life balance including:</p>
+<p>&#8211; a clear avenue for <a href="https://www.peopleinag.com.au/general/employers/how-do-i-train-and-grow-my-team/professional-development-and-training/">Career Development</a></p>
+<p>&#8211; feeling valued and part of a team</p>
+<p>&#8211; a <a href="https://www.peopleinag.com.au/general/employers/what-are-my-responsibilities/safety/">Safe Working Environment</a></p>
+<p>&#8211; feeling supported in developing skills and knowledge through <a href="https://www.peopleinag.com.au/general/employers/how-do-i-train-and-grow-my-team/professional-development-and-training/">Training</a></p>
+<p>&#8211; Reasonable and fair working hours and conditions.</p>
+            </div>
+                  </div>
+
+        
+            
+    </div>
+    
+  </div>
+</section>	</div><!-- .entry-content -->
+
+	</article><!-- #post-8 -->
+</div>
+
+
+</main>
+
+<footer class="footer">
+
+	<div class="row small-collapse medium-uncollapse">
+		<div class="small-12 columns">
+			<div class="footer-logo">
+				<img src="https://www.peopleinag.com.au/wp-content/themes/peopleinag/assets/img/footer-logo.png" alt="People in Agriculture logo" class="footer-logo-white">
+				<img src="https://www.peopleinag.com.au/wp-content/themes/peopleinag/assets/img/footer-logo-black.png" alt="People in Agriculture logo" class="footer-logo-black">
+			</div>
+			<nav class="footer-nav">
+
+				<ul id="menu-footer-menu" class="footer-nav__list"><li class="footer-nav__list-item"><a href="https://www.peopleinag.com.au/" title="Home">Home</a></li><li class="footer-nav__list-item"><a href="#" title="Sitemap">Sitemap</a></li><li class="footer-nav__list-item"><a href="https://www.peopleinag.com.au/terms/" title="Terms">Terms</a></li><li class="footer-nav__list-item"><a href="https://www.peopleinag.com.au/privacy/" title="Privacy">Privacy</a></li></ul><small class="footer-dev">Site Design and development by Hoban Digital</small>			</nav>
+			<div class="footer-right">
+				<div class="footer-social">
+					<small class="footer-social__text">Share our website</small>
+					<ul class="footer-social__links">
+						<li class="footer-social__links-item">
+							<a href="mailto:ben@peopleinag.com.au" class="footer-social__icons footer-social__icons-highlight sprite-email_highlight"></a>
+							<a href="mailto:ben@peopleinag.com.au" class="footer-social__icons footer-social__icons-white sprite-email"></a>
+							<a href="mailto:ben@peopleinag.com.au" class="footer-social__icons footer-social__icons-black sprite-email_black">
+								<span class="show-for-sr">Email</span></a>
+						</li>
+						<li class="footer-social__links-item">
+							<a class="footer-social__icons footer-social__icons-highlight sprite-twitter_highlight addthis_button_twitter" href="https://twitter.com/share?text=Front Page&urlhttps://www.peopleinag.com.au/" target="_blank"></a>
+							<a class="footer-social__icons footer-social__icons-white sprite-twitter addthis_button_twitter" href="https://twitter.com/share?text=Front Page&urlhttps://www.peopleinag.com.au/" target="_blank"></a>
+							<a class="footer-social__icons footer-social__icons-black sprite-twitter_black addthis_button_twitter" href="https://twitter.com/share?text=Front Page&urlhttps://www.peopleinag.com.au/" target="_blank"><span class="show-for-sr">Twitter</span></a>
+						</li>
+						<li class="footer-social__links-item">
+
+							<a class="footer-social__icons footer-social__icons-highlight sprite-facebook_highlight addthis_button_facebook" href="https://www.facebook.com/sharer.php?u=https://www.peopleinag.com.au/" target="_blank"></a>
+							<a class="footer-social__icons footer-social__icons-white sprite-facebook addthis_button_facebook" href="https://www.facebook.com/sharer.php?u=https://www.peopleinag.com.au/" target="_blank"></a>
+							<a class="footer-social__icons footer-social__icons-black sprite-facebook_black addthis_button_facebook" href="https://www.facebook.com/sharer.php?u=https://www.peopleinag.com.au/" target="_blank"><span class="show-for-sr">Facebook</span></a>
+
+						</li>
+					</ul>
+				</div>
+				<div class="footer-gotop">
+					<a href="#" title="Go to top" class="footer-gotop__link"><i class="v-icon v-icon-dot-arrow-up"></i>TOP</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<script src="https://www.peopleinag.com.au/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.6" id="swv-js"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/www.peopleinag.com.au\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src="https://www.peopleinag.com.au/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.6" id="contact-form-7-js"></script>
+<script src="https://www.peopleinag.com.au/wp-content/themes/peopleinag/assets/js/lity.min.js?ver=6.5.5" id="peopleinag-lity-js"></script>
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js?ver=1.0.0" id="peopleinag-polyfill-js"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js?ver=1.0.0" id="peopleinag-jquery-js"></script>
+<script src="https://www.google.com/recaptcha/api.js?ver=1.0.0" id="peopleinag-recaptcha-js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/list.pagination.js/0.1.1/list.pagination.min.js?ver=1.0.0" id="peopleinag-pagination-js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.3.0/list.min.js?ver=1.0.0" id="peopleinag-list-js"></script>
+<script src="https://code.highcharts.com/highcharts.js?ver=1.0.0" id="peopleinag-highcharts-js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js?ver=1.0.0" id="peopleinag-exporting-js"></script>
+<script src="https://cdn.jsdelivr.net/countupjs/1.7.1/countUp.min.js?ver=1.0.0" id="peopleinag-countUp-js"></script>
+<script src="https://www.peopleinag.com.au/wp-content/themes/peopleinag/assets/js/main.js?ver=6.5.5" id="peopleinag-main-js"></script>
+<script src="https://s7.addthis.com/js/300/addthis_widget.js?ver=1.0.0#pubid=ra-5735754b28f7188e" id="peopleinag-addthis_widget-js"></script>
+
+</body>
+
+</html>

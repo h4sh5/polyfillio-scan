@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="https://www.salesian.vic.edu.au/wp/xmlrpc.php"/>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <script src="https://www.salesian.vic.edu.au/app/themes/sallesian-college/resources/js/pace.min.js" type="text/javascript"></script>
+    <title>Salesian College Chadstone | Secondary Boys School</title>
+
+<!-- The SEO Framework by Sybre Waaijer -->
+<meta name="description" content="Salesian College is a Years 7 to 12 Catholic boys school based in Chadstone, celebrating diversity and promoting relationships based on mutual respect." />
+<meta property="og:image" content="https://www.salesian.vic.edu.au/app/uploads/2018/09/2017Salesianstock-466-1-1904x1269.jpg" />
+<meta property="og:image:width" content="1904" />
+<meta property="og:image:height" content="1269" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Salesian College Chadstone | Secondary Boys School" />
+<meta property="og:description" content="Salesian College is a Years 7 to 12 Catholic boys school based in Chadstone, celebrating diversity and promoting relationships based on mutual respect." />
+<meta property="og:url" content="https://www.salesian.vic.edu.au/" />
+<meta property="og:site_name" content="Salesian College" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Salesian College Chadstone | Secondary Boys School" />
+<meta name="twitter:description" content="Salesian College is a Years 7 to 12 Catholic boys school based in Chadstone, celebrating diversity and promoting relationships based on mutual respect." />
+<meta name="twitter:image" content="https://www.salesian.vic.edu.au/app/uploads/2018/09/2017Salesianstock-466-1-1904x1269.jpg" />
+<link rel="canonical" href="https://www.salesian.vic.edu.au/" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","url":"https://www.salesian.vic.edu.au/","name":"Salesian College","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.salesian.vic.edu.au/search/{search_term_string}/"},"query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.salesian.vic.edu.au/","name":"Salesian College","logo":"https://www.salesian.vic.edu.au/app/uploads/2021/01/cropped-favicon.png"}</script>
+<!-- / The SEO Framework by Sybre Waaijer | 3.47ms meta | 4.46ms boot -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel="alternate" type="application/rss+xml" title="Salesian College &raquo; Feed" href="https://www.salesian.vic.edu.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Salesian College &raquo; Comments Feed" href="https://www.salesian.vic.edu.au/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.salesian.vic.edu.au\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.salesian.vic.edu.au/wp/wp-includes/css/dist/block-library/style.min.css?ver=6.5.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='theme-css-bundle-css' href='https://www.salesian.vic.edu.au/app/themes/sallesian-college/dist/css/bundle-a98d8c9585.css?ver=6.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://www.salesian.vic.edu.au/app/plugins/tablepress/css/build/default.css?ver=2.3.1' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.salesian.vic.edu.au/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.salesian.vic.edu.au/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.salesian.vic.edu.au/wp-json/" /><link rel="alternate" type="application/json" href="https://www.salesian.vic.edu.au/wp-json/wp/v2/pages/760" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.salesian.vic.edu.au/wp/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://www.salesian.vic.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.salesian.vic.edu.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.salesian.vic.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.salesian.vic.edu.au%2F&#038;format=xml" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta name="facebook-domain-verification" content="nze2a1y184wlnd4bzqe9xkxmay9j2a" />
+<link rel="icon" href="https://www.salesian.vic.edu.au/app/uploads/2021/01/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.salesian.vic.edu.au/app/uploads/2021/01/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.salesian.vic.edu.au/app/uploads/2021/01/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.salesian.vic.edu.au/app/uploads/2021/01/cropped-favicon-270x270.png" />
+        </head>
+<body class="home page-template-default page page-id-760">
+                <!-- Google Tag Manager -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-NFPC63B" height="0" width="0"
+                    style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <script defer>(function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+                var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-NFPC63B');</script><!-- End Google Tag Manager -->
+        <div class="wrapper">
+    <header class="header">
+        <div class="widget-search">
+            <form action="https://www.salesian.vic.edu.au/" class="search-form" method="get" role="search">
+	<div class="form-holder">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+
+			<input type="text" title="Search for:" name="s" value="" id="s" placeholder="Search" class="search__field" autocomplete="off" />
+		</label>
+
+		<button type="submit" class="search__btn screen-reader-text">
+			Search		</button>
+	</div>
+	</form>        </div><!-- /.widget-search -->
+
+        <div class="header__content">
+            <div class="shell">
+                <a href="#" class="menu-trigger">
+                    <strong>
+                        <span></span>
+
+                        <span></span>
+
+                        <span></span>
+                    </strong>
+
+                    <em>Menu</em>
+                </a>
+
+                <a href="https://www.salesian.vic.edu.au/" class="logo">
+                    <img src="https://www.salesian.vic.edu.au/app/themes/sallesian-college/dist/images/logo.png"
+                         alt="Salesian College">
+                </a>
+
+                	<a href="https://www.salesian.vic.edu.au/login/" class="header__link mobile-only">
+		LOGIN	</a>
+	<a href="https://www.salesian.vic.edu.au/book-a-tour/" class="header__link ">
+		BOOK A TOUR	</a>
+<nav class="nav-utilities">
+    <ul>
+        <li class="nav__login-mobile">
+            <a href="https://www.salesian.vic.edu.au/login/">
+                <em class="ico-login"></em>
+            </a>
+        </li>
+                    <li class="phone">
+                <a href="tel:0398072644">
+                    <span>03 9807 2644</span>
+                    <em class="ico-phone">
+                    </em>
+                </a>
+            </li>
+                    <li>
+                <a href="https://goo.gl/maps/8jEPnwHLbZL2" target="_blank">
+                    <em class="ico-location"></em>
+                </a>
+            </li>
+        
+        <li class="nav__search">
+            <a href="#">
+                <em class="ico-search"></em>
+            </a>
+        </li>
+
+        <li class="nav__login">
+            <a href="https://www.salesian.vic.edu.au/login/">
+                <em class="ico-login"></em>
+            </a>
+        </li>
+    </ul>
+</nav><!-- /.nav-utilities -->            </div><!-- /.shell -->
+        </div><!-- /.header__content -->
+
+        <div class="header__popup">
+            <div class="shell">
+                <div class="header-top-wrapper">
+                    	<a href="https://www.salesian.vic.edu.au/login/" class="header__link mobile-only">
+		LOGIN	</a>
+	<a href="https://www.salesian.vic.edu.au/book-a-tour/" class="header__link ">
+		BOOK A TOUR	</a>
+
+                    <a href="#" class="nav-back">
+                        <i class="ico-arrow-left"></i> back                    </a>
+                </div><!-- /.header-top-wrapper -->
+
+                <nav class="nav"><ul><li id="menu-item-840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-840"><a href="https://www.salesian.vic.edu.au/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-1305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1305"><a href="https://www.salesian.vic.edu.au/about-us/">Overview</a></li>
+	<li id="menu-item-20885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20885"><a href="https://www.salesian.vic.edu.au/about-us/principals-welcome/">Principal’s Welcome</a></li>
+	<li id="menu-item-847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-847"><a href="https://www.salesian.vic.edu.au/about-us/vision-and-values/">Vision, Mission and Values</a></li>
+	<li id="menu-item-21151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21151"><a href="https://www.salesian.vic.edu.au/about-us/a-catholic-school-in-the-salesian-tradition/">A Catholic School in the Salesian Tradition</a></li>
+	<li id="menu-item-1247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1247"><a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/">The Salesian Difference</a>
+	<ul class="sub-menu">
+		<li id="menu-item-841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-841"><a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/">Overview</a></li>
+		<li id="menu-item-844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-844"><a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/wellbeing/">Wellbeing</a></li>
+		<li id="menu-item-842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-842"><a href="https://www.salesian.vic.edu.au/?page_id=832">Testimonials</a></li>
+	</ul>
+</li>
+	<li id="menu-item-845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-845"><a href="https://www.salesian.vic.edu.au/about-us/history/">History</a></li>
+	<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-846"><a href="https://www.salesian.vic.edu.au/about-us/leadership-and-governance/">Leadership and Governance</a></li>
+	<li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-848"><a href="https://www.salesian.vic.edu.au/about-us/employment/">Employment</a></li>
+</ul>
+</li>
+<li id="menu-item-630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-630"><a href="https://www.salesian.vic.edu.au/learning/">Learning</a>
+<ul class="sub-menu">
+	<li id="menu-item-1248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1248"><a href="https://www.salesian.vic.edu.au/learning/">Overview</a></li>
+	<li id="menu-item-1249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1249"><a href="https://www.salesian.vic.edu.au/learning/pathways/">Pathways</a>
+	<ul class="sub-menu">
+		<li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-862"><a href="https://www.salesian.vic.edu.au/learning/pathways/">Overview</a></li>
+		<li id="menu-item-927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-927"><a href="https://www.salesian.vic.edu.au/learning/pathways/applied-learning/">Applied Learning</a></li>
+	</ul>
+</li>
+	<li id="menu-item-24392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24392"><a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-vce-highlights-and-results/">VCE Results</a>
+	<ul class="sub-menu">
+		<li id="menu-item-24394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24394"><a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-vce-highlights-and-results/">2023 VCE Highlights and Results</a></li>
+		<li id="menu-item-24393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24393"><a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-high-achievers/">2023 High Achievers</a></li>
+		<li id="menu-item-25134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25134"><a href="https://www.salesian.vic.edu.au/community/previous-years/">Previous Years</a></li>
+	</ul>
+</li>
+	<li id="menu-item-863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-863"><a href="https://www.salesian.vic.edu.au/learning/core-curriculum/">Core Curriculum</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1250"><a href="https://www.salesian.vic.edu.au/learning/core-curriculum/">Overview</a></li>
+		<li id="menu-item-5055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5055"><a href="https://www.salesian.vic.edu.au/about-us/curriculum-pedagogy/">Curriculum Pedagogy</a></li>
+		<li id="menu-item-926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-926"><a href="https://www.salesian.vic.edu.au/learning/core-curriculum/year-7-and-year-8/">Year 7 and Year 8</a></li>
+		<li id="menu-item-925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-925"><a href="https://www.salesian.vic.edu.au/learning/core-curriculum/year-9/">Year 9</a></li>
+		<li id="menu-item-924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-924"><a href="https://www.salesian.vic.edu.au/learning/core-curriculum/year-10/">Year 10</a></li>
+		<li id="menu-item-923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-923"><a href="https://www.salesian.vic.edu.au/learning/core-curriculum/year-11-and-year-12/">Year 11 and Year 12</a></li>
+	</ul>
+</li>
+	<li id="menu-item-864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-864"><a href="https://www.salesian.vic.edu.au/learning/enrichment-programs/">Enrichment Programs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1251"><a href="https://www.salesian.vic.edu.au/learning/enrichment-programs/">Overview</a></li>
+		<li id="menu-item-1184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1184"><a href="https://www.salesian.vic.edu.au/learning/enrichment-programs/oratory/">Oratory</a></li>
+		<li id="menu-item-1183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1183"><a href="https://www.salesian.vic.edu.au/learning/enrichment-programs/biretta/">Biretta</a></li>
+		<li id="menu-item-1185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1185"><a href="https://www.salesian.vic.edu.au/learning/enrichment-programs/sports-academy-program/">Sports Academy Program</a></li>
+		<li id="menu-item-1186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1186"><a href="https://www.salesian.vic.edu.au/learning/enrichment-programs/university-extension-programs/">University Extension Programs</a></li>
+	</ul>
+</li>
+	<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-865"><a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/wellbeing/">Wellbeing</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1252"><a href="https://www.salesian.vic.edu.au/learning/wellbeing/">Overview</a></li>
+		<li id="menu-item-1189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1189"><a href="https://www.salesian.vic.edu.au/learning/wellbeing/learning-support/">Learning Support</a></li>
+		<li id="menu-item-1190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1190"><a href="https://www.salesian.vic.edu.au/learning/wellbeing/student-sevices/">Student Services</a></li>
+	</ul>
+</li>
+	<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866"><a href="https://www.salesian.vic.edu.au/learning/co-curricular/">Co-Curricular</a></li>
+</ul>
+</li>
+<li id="menu-item-25709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25709"><a href="https://www.salesian.vic.edu.au/masterplan-overview/">Masterplan</a>
+<ul class="sub-menu">
+	<li id="menu-item-25711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25711"><a href="https://www.salesian.vic.edu.au/masterplan-overview/">Masterplan Overview</a></li>
+	<li id="menu-item-25710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25710"><a href="https://www.salesian.vic.edu.au/community/year-7-8-precinct/">Year 7 &#038; 8 Precinct</a></li>
+</ul>
+</li>
+<li id="menu-item-1013" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1013"><a href="https://www.salesian.vic.edu.au/enrolment/">Enrolment</a>
+<ul class="sub-menu">
+	<li id="menu-item-1254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1254"><a href="https://www.salesian.vic.edu.au/enrolment/">Overview</a></li>
+	<li id="menu-item-1016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1016"><a href="https://www.salesian.vic.edu.au/enrolment/process/">Enrolment Process</a></li>
+	<li id="menu-item-1019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1019"><a href="https://www.salesian.vic.edu.au/enrolment/transition/">Transition</a></li>
+	<li id="menu-item-1015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1015"><a href="https://www.salesian.vic.edu.au/enrolment/apply/">Apply</a></li>
+	<li id="menu-item-1014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1014"><a href="https://www.salesian.vic.edu.au/enrolment/advice/">Advice</a></li>
+	<li id="menu-item-1018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1018"><a href="https://www.salesian.vic.edu.au/enrolment/enrolment-dates-and-fees/">Enrolment Dates and Fees</a></li>
+	<li id="menu-item-12051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12051"><a href="https://www.salesian.vic.edu.au/enrolment/pay-tuition-fees-online/">Pay Tuition Fees Online</a></li>
+	<li id="menu-item-1017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1017"><a href="https://www.salesian.vic.edu.au/enrolment/scholarships/">Scholarships</a></li>
+</ul>
+</li>
+<li id="menu-item-1020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1020"><a href="https://www.salesian.vic.edu.au/community/">Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-1255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1255"><a href="https://www.salesian.vic.edu.au/community/">Overview</a></li>
+	<li id="menu-item-18750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18750"><a href="https://www.salesian.vic.edu.au/about-us/community-partnership/">Liverpool FC Academy</a></li>
+	<li id="menu-item-21924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21924"><a href="https://www.salesian.vic.edu.au/business-directory/">Business Directory</a></li>
+	<li id="menu-item-1023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1023"><a href="https://www.salesian.vic.edu.au/community/parents-association/">Parents’ Association</a></li>
+	<li id="menu-item-1024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1024"><a href="https://www.salesian.vic.edu.au/community/past-pupils-association/">Past Pupil’s Association</a></li>
+	<li id="menu-item-4876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4876"><a href="https://www.salesian.vic.edu.au/honour-roll/">Honour Roll</a></li>
+	<li id="menu-item-1022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1022"><a href="https://www.salesian.vic.edu.au/community/hall-of-fame/">Hall of Fame</a></li>
+	<li id="menu-item-25061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25061"><a href="https://www.salesian.vic.edu.au/community/facilities-hire/">Facilities Hire</a></li>
+</ul>
+</li>
+<li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-627"><a href="https://www.salesian.vic.edu.au/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-1256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1256"><a href="https://www.salesian.vic.edu.au/news/">Overview</a></li>
+	<li id="menu-item-1188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1188"><a href="https://www.salesian.vic.edu.au/news/publications/">Publications</a></li>
+	<li id="menu-item-1187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1187"><a href="https://www.salesian.vic.edu.au/blog/">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-14959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14959"><a href="https://www.salesian.vic.edu.au/policies/">Policies</a>
+<ul class="sub-menu">
+	<li id="menu-item-14885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14885"><a href="https://www.salesian.vic.edu.au/about-us/child-safety/">Child Safety</a></li>
+	<li id="menu-item-14886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14886"><a href="https://www.salesian.vic.edu.au/about-us/democratic-principles/">Democratic Principles</a></li>
+	<li id="menu-item-14887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14887"><a href="https://www.salesian.vic.edu.au/about-us/enrolment-policy-and-procedures/">Enrolment Policy and Procedures</a></li>
+	<li id="menu-item-14888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14888"><a href="https://www.salesian.vic.edu.au/about-us/other-policies/">Other Policies</a></li>
+</ul>
+</li>
+<li id="menu-item-626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-626"><a href="https://www.salesian.vic.edu.au/contact-us/">Contact Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-19371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19371"><a href="https://www.salesian.vic.edu.au/contact-us/">Send an Enquiry</a></li>
+	<li id="menu-item-19370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19370"><a href="https://www.salesian.vic.edu.au/complaints-form/">Complaints Form</a></li>
+</ul>
+</li>
+</ul></nav>
+                <div class="header__bottom">
+                    <nav class="nav-secondary"><ul><li id="menu-item-1245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1245"><a href="https://www.salesian.vic.edu.au/enrolment/process/">Enrol Now</a></li>
+<li id="menu-item-1242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1242"><a href="https://www.salesian.vic.edu.au/about-us/employment/">Employment</a></li>
+<li id="menu-item-1243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1243"><a href="https://www.salesian.vic.edu.au/enrolment/enrolment-dates-and-fees/">Enrolment Dates and Fees</a></li>
+</ul></nav>
+                    <div class="header__entry">
+                        <div class="cols">
+                                                            <div class="col">
+                                                                            <h3>WHERE ARE WE?</h3>
+                                    <p>10 Bosco Street<br />
+Chadstone 3148 VIC AU</p>
+                                </div><!-- /.col -->
+                                                            <div class="col">
+                                                                            <h3>CONTACT US</h3>
+                                    
+                                    <p>
+                                                                                    <a href="tel:0398072644">03 9807 2644</a>
+                                            <br>
+                                                                                    <a href="mailto:welco&#109;&#101;&#64;&#115;&#97;l&#101;&#115;&#105;an.vi&#99;.&#101;&#100;u&#46;a&#117;">w&#101;l&#99;om&#101;&#64;&#115;&#97;lesi&#97;n.v&#105;c.ed&#117;&#46;a&#117;</a>
+                                                                            </p>
+                                </div><!-- /.col -->
+                            
+                            <div class="col">
+                                                                    <h3>FOLLOW US</h3>
+                                <div class="socials">
+	<ul>
+						<li>
+					<a href="https://www.facebook.com/SalesianCollege/" target="_blank">
+						<em class="ico-facebook"></em>
+					</a>
+				</li>
+											<li>
+					<a href="https://twitter.com/salesianchad?lang=en" target="_blank">
+						<em class="ico-twitter"></em>
+					</a>
+				</li>
+									<li>
+					<a href="https://www.instagram.com/salesiancollegechadstone/?hl=en" target="_blank">
+						<em class="ico-instagram"></em>
+					</a>
+				</li>
+									<li>
+					<a href="https://www.linkedin.com/company/salesian-college-chadstone/" target="_blank">
+						<em class="ico-linkedin"></em>
+					</a>
+				</li>
+						</ul>
+</div><!-- /.socials -->                            </div><!-- /.col -->
+                        </div><!-- /.cols -->
+                    </div><!-- /.header__entry -->
+                </div><!-- /.header__bottom -->
+            </div><!-- /.shell -->
+        </div><!-- /.header__popup -->
+    </header><!-- /.header -->
+    
+<div class="intro__wrap">
+			<div class="hero">
+			<div class="hero__slider">
+									<div class="hero__slide--wrap">
+													<video class="hero__background hero__background--video" muted loop autoplay>
+								<source src="https://www.salesian.vic.edu.au/app/uploads/2023/09/SalesianCollegeWebsiteBanner4.0.mp4" type=video/mp4>
+							</video>
+												<div class="hero__slide">
+							<h6 class="hero__subtitle">
+								Salesian College							</h6>
+															<a href="#21909" class="hero__trigger" alt="play video"></a>
+														<div class="hero__content">
+																	<h1 class="hero__title">
+										2024 College Masterplan 									</h1>
+																									<a class="hero__cta btn" href="https://www.salesian.vic.edu.au/community/year-7-8-precinct/" target="_blank">
+										Learn More									</a>
+															</div>
+							<div class="hero__popup mfp-hide" id="21909">
+								<video class="hero__popup-video" controls>
+									<source src="https://www.salesian.vic.edu.au/app/uploads/2023/09/SalesianCollegeIntro4.2.mp4" type=video/mp4>
+								</video>
+							</div>
+						</div>
+					</div>
+									<div class="hero__slide--wrap">
+													<div class="hero__background hero__background--image" style="background-image: url('https://www.salesian.vic.edu.au/app/uploads/2023/12/Salesian-DUX-01-1.jpg');"></div>
+												<div class="hero__slide">
+							<h6 class="hero__subtitle">
+								Salesian College							</h6>
+														<div class="hero__content">
+																	<h2 class="hero__title">
+										32 Median Outstanding Results									</h2>
+																									<a class="hero__cta btn" href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-vce-highlights-and-results/" target="">
+										Learn More									</a>
+															</div>
+							<div class="hero__popup mfp-hide" id="21909">
+								<video class="hero__popup-video" controls>
+									<source src="https://www.salesian.vic.edu.au/app/uploads/2023/09/SalesianCollegeIntro4.2.mp4" type=video/mp4>
+								</video>
+							</div>
+						</div>
+					</div>
+									<div class="hero__slide--wrap">
+													<div class="hero__background hero__background--image" style="background-image: url('https://www.salesian.vic.edu.au/app/uploads/2024/03/MG_0861.jpg');"></div>
+												<div class="hero__slide">
+							<h6 class="hero__subtitle">
+								Salesian College							</h6>
+														<div class="hero__content">
+																	<h2 class="hero__title">
+										After School Liverpool Clinics									</h2>
+																									<a class="hero__cta btn" href="https://www.salesian.vic.edu.au/about-us/community-partnership/" target="">
+										Book Now									</a>
+															</div>
+							<div class="hero__popup mfp-hide" id="">
+								<video class="hero__popup-video" controls>
+									<source src="" type=>
+								</video>
+							</div>
+						</div>
+					</div>
+							</div>
+		</div>
+
+	
+				<div class="announcement">
+			<div class="announcement__diagonal"></div>
+			<div class="announcement__inner">
+				<span class="announcement__title">2023 VCE RESULTS AND COLLEGE MASTERPLAN</span>
+				<span class="announcement__content">Discover the Salesian difference and learn more about our 2023 Outstanding Academic Results and the College Masterplan on a Monday Tour during the school term.</span>
+				<span class="announcement__cta">
+					<a class="announcement__cta--link" href="https://www.salesian.vic.edu.au/book-a-tour/">Book a Tour</a>
+					<span class="announcement__cta--caret">
+						<svg xmlns="http://www.w3.org/2000/svg" width="8" height="14" viewBox="0 0 8 14" fill="none">
+							<path fill-rule="evenodd" clip-rule="evenodd" d="M6.96028 6.6023C7.17996 6.82198 7.17996 7.17808 6.96028 7.39775L1.22541 13.1326C1.00573 13.3523 0.649631 13.3523 0.429956 13.1326L0.164756 12.8674C-0.0549187 12.6478 -0.0549187 12.2916 0.164756 12.0719L5.23671 7.00003L0.164756 1.92808C-0.0549186 1.7084 -0.0549186 1.3523 0.164756 1.13263L0.429956 0.867428C0.649631 0.647753 1.00573 0.647753 1.22541 0.867428L6.96028 6.6023Z" fill="white" />
+						</svg>
+					</span>
+				</span>
+			</div>
+		</div>
+	</div>
+<section class="slider">
+	<div class="slider__clip">
+		<div class="slider__slides">
+							<div class="slider__slide">
+					<div class="slider__slide-content">
+						<div class="slider__slide-entry">
+															<h6>About Us</h6>
+															<h3>The Strategic Plan</h3>
+															<h2>2022-2026</h2>
+															<a href="https://www.salesian.vic.edu.au/app/uploads/2022/05/SC_Strategic-Plan_Digital.pdf" target="_blank" class="btn">Download PDF</a>
+													</div><!-- /.slider__slide-entry -->
+					</div><!-- /.slider__slide-content -->
+											<div class="slider__slide-image">
+                            <div class="bg lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2022/05/Image-4-Web-682x1024.jpg"></div>
+<!--							-->						</div><!-- /.slider__slide-image -->
+									</div><!-- /.slider__slide -->
+							<div class="slider__slide">
+					<div class="slider__slide-content">
+						<div class="slider__slide-entry">
+															<h6>About Us</h6>
+															<h3>The Salesian</h3>
+															<h2>Difference</h2>
+															<a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/"  class="btn">Learn More</a>
+													</div><!-- /.slider__slide-entry -->
+					</div><!-- /.slider__slide-content -->
+											<div class="slider__slide-image">
+                            <div class="bg lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2020/07/IMG_1687_frontwebsite-1024x683.jpg"></div>
+<!--							-->						</div><!-- /.slider__slide-image -->
+									</div><!-- /.slider__slide -->
+							<div class="slider__slide">
+					<div class="slider__slide-content">
+						<div class="slider__slide-entry">
+															<h6>About Us</h6>
+															<h3>Explore our</h3>
+															<h2>History</h2>
+															<a href="https://www.salesian.vic.edu.au/about-us/history/"  class="btn">Learn More</a>
+													</div><!-- /.slider__slide-entry -->
+					</div><!-- /.slider__slide-content -->
+											<div class="slider__slide-image">
+                            <div class="bg lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2018/03/salesian-history-bannerimage-e1520900554169.png"></div>
+<!--							-->						</div><!-- /.slider__slide-image -->
+									</div><!-- /.slider__slide -->
+							<div class="slider__slide">
+					<div class="slider__slide-content">
+						<div class="slider__slide-entry">
+															<h6>Find out more</h6>
+															<h3>Download</h3>
+															<h2>Our Prospectus</h2>
+															<a href="https://www.salesian.vic.edu.au/download-the-prospectus/" target="_blank" class="btn">Download PDF</a>
+													</div><!-- /.slider__slide-entry -->
+					</div><!-- /.slider__slide-content -->
+											<div class="slider__slide-image">
+                            <div class="bg lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2019/11/SalesianProspectus-Mockup-1024x640.jpg"></div>
+<!--							-->						</div><!-- /.slider__slide-image -->
+									</div><!-- /.slider__slide -->
+							<div class="slider__slide">
+					<div class="slider__slide-content">
+						<div class="slider__slide-entry">
+															<h6>Learning</h6>
+															<h3>Learn about our</h3>
+															<h2>Enrichment Programs</h2>
+															<a href="https://www.salesian.vic.edu.au/learning/enrichment-programs/"  class="btn">Learn More</a>
+													</div><!-- /.slider__slide-entry -->
+					</div><!-- /.slider__slide-content -->
+											<div class="slider__slide-image">
+                            <div class="bg lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2018/03/salesian-enrichment-biretta4-e1520482044615-1024x463.jpg"></div>
+<!--							-->						</div><!-- /.slider__slide-image -->
+									</div><!-- /.slider__slide -->
+					</div><!-- /.slider__slides -->
+	</div><!-- /.slider__clip -->
+</section><!-- /.slider -->
+
+<section class="section-featured">
+            <h6 class="section__title">
+            Find out more        </h6><!-- /.section__title -->
+    
+    <div class="slider-featured">
+        <div class="slider__clip">
+            <div class="slider__slides">
+                                    <div class="slider__slide">
+                        <div class="slider__slide-content">
+                                                            <h2>
+                                    2024 Hall of Fame Dinner                                </h2>
+                                                            <a href="https://www.salesian.vic.edu.au/community/hall-of-fame/"
+                                   class="slider__slide-link">
+                                </a>
+                                                    </div><!-- /.slider__slide-content -->
+
+                                                    <div class="slider__slide-image lazyload animated"
+                                 data-bg="https://www.salesian.vic.edu.au/app/uploads/2024/06/Untitled-design-1024x512.jpg">
+                                <a href="https://www.salesian.vic.edu.au/community/hall-of-fame/"></a>
+                            </div><!-- /.slider__slide-image -->
+                                            </div><!-- /.slider__slide -->
+                                    <div class="slider__slide">
+                        <div class="slider__slide-content">
+                                                            <h2>
+                                    2025 Enrolments                                 </h2>
+                                                            <a href="https://www.salesian.vic.edu.au/enrolment/apply/"
+                                   class="slider__slide-link">
+                                </a>
+                                                    </div><!-- /.slider__slide-content -->
+
+                                                    <div class="slider__slide-image lazyload animated"
+                                 data-bg="https://www.salesian.vic.edu.au/app/uploads/2020/03/WR_Building-1024x681.jpg">
+                                <a href="https://www.salesian.vic.edu.au/enrolment/apply/"></a>
+                            </div><!-- /.slider__slide-image -->
+                                            </div><!-- /.slider__slide -->
+                                    <div class="slider__slide">
+                        <div class="slider__slide-content">
+                                                            <h2>
+                                    Book a Monday Tour                                 </h2>
+                                                            <a href="https://www.salesian.vic.edu.au/book-a-tour/"
+                                   class="slider__slide-link">
+                                </a>
+                                                    </div><!-- /.slider__slide-content -->
+
+                                                    <div class="slider__slide-image lazyload animated"
+                                 data-bg="https://www.salesian.vic.edu.au/app/uploads/2018/09/salesian-tour-exterior-1024x683.jpg">
+                                <a href="https://www.salesian.vic.edu.au/book-a-tour/"></a>
+                            </div><!-- /.slider__slide-image -->
+                                            </div><!-- /.slider__slide -->
+                                    <div class="slider__slide">
+                        <div class="slider__slide-content">
+                                                            <h2>
+                                    2023 VCE Highlights and Results                                </h2>
+                                                            <a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-vce-highlights-and-results/"
+                                   class="slider__slide-link">
+                                </a>
+                                                    </div><!-- /.slider__slide-content -->
+
+                                                    <div class="slider__slide-image lazyload animated"
+                                 data-bg="https://www.salesian.vic.edu.au/app/uploads/2023/12/Salesian-DUX-01-1024x718.jpg">
+                                <a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-vce-highlights-and-results/"></a>
+                            </div><!-- /.slider__slide-image -->
+                                            </div><!-- /.slider__slide -->
+                                    <div class="slider__slide">
+                        <div class="slider__slide-content">
+                                                            <h2>
+                                    Principal&#039;s Interview with 2023 Dux, Hardu Ginoya                                </h2>
+                                                            <a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-vce-highlights-and-results/2023-dux-hardu-ginoya/"
+                                   class="slider__slide-link">
+                                </a>
+                                                    </div><!-- /.slider__slide-content -->
+
+                                                    <div class="slider__slide-image lazyload animated"
+                                 data-bg="https://www.salesian.vic.edu.au/app/uploads/2023/12/Salesian-DUX-25-1024x683.jpg">
+                                <a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-vce-highlights-and-results/2023-dux-hardu-ginoya/"></a>
+                            </div><!-- /.slider__slide-image -->
+                                            </div><!-- /.slider__slide -->
+                                    <div class="slider__slide">
+                        <div class="slider__slide-content">
+                                                            <h2>
+                                    Principal&#039;s Interview with 2023 Dux, Gavriel Hariyanto                                </h2>
+                                                            <a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-vce-highlights-and-results/2023-dux-gavriel-hariyanto/"
+                                   class="slider__slide-link">
+                                </a>
+                                                    </div><!-- /.slider__slide-content -->
+
+                                                    <div class="slider__slide-image lazyload animated"
+                                 data-bg="https://www.salesian.vic.edu.au/app/uploads/2023/12/2023-DUX-GAVRIEL-HARIYANTO-1024x683.jpg">
+                                <a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-vce-highlights-and-results/2023-dux-gavriel-hariyanto/"></a>
+                            </div><!-- /.slider__slide-image -->
+                                            </div><!-- /.slider__slide -->
+                                    <div class="slider__slide">
+                        <div class="slider__slide-content">
+                                                            <h2>
+                                    Sports Academy Program                                 </h2>
+                                                            <a href="https://www.salesian.vic.edu.au/learning/enrichment-programs/sports-academy-program/"
+                                   class="slider__slide-link">
+                                </a>
+                                                    </div><!-- /.slider__slide-content -->
+
+                                                    <div class="slider__slide-image lazyload animated"
+                                 data-bg="https://www.salesian.vic.edu.au/app/uploads/2018/10/Crop_Banner-1024x931.jpg">
+                                <a href="https://www.salesian.vic.edu.au/learning/enrichment-programs/sports-academy-program/"></a>
+                            </div><!-- /.slider__slide-image -->
+                                            </div><!-- /.slider__slide -->
+                                    <div class="slider__slide">
+                        <div class="slider__slide-content">
+                                                            <h2>
+                                    Curriculum Pedagogy                                </h2>
+                                                            <a href="https://www.salesian.vic.edu.au/about-us/curriculum-pedagogy/"
+                                   class="slider__slide-link">
+                                </a>
+                                                    </div><!-- /.slider__slide-content -->
+
+                                                    <div class="slider__slide-image lazyload animated"
+                                 data-bg="https://www.salesian.vic.edu.au/app/uploads/2018/11/2017Salesianstock-206-1024x576.jpg">
+                                <a href="https://www.salesian.vic.edu.au/about-us/curriculum-pedagogy/"></a>
+                            </div><!-- /.slider__slide-image -->
+                                            </div><!-- /.slider__slide -->
+                                    <div class="slider__slide">
+                        <div class="slider__slide-content">
+                                                            <h2>
+                                    Vision &amp; Values                                </h2>
+                                                            <a href="https://www.salesian.vic.edu.au/about-us/vision-and-values/"
+                                   class="slider__slide-link">
+                                </a>
+                                                    </div><!-- /.slider__slide-content -->
+
+                                                    <div class="slider__slide-image lazyload animated"
+                                 data-bg="https://www.salesian.vic.edu.au/app/uploads/2018/02/salesian-whoarewe-exterior-1024x683.jpg">
+                                <a href="https://www.salesian.vic.edu.au/about-us/vision-and-values/"></a>
+                            </div><!-- /.slider__slide-image -->
+                                            </div><!-- /.slider__slide -->
+                                    <div class="slider__slide">
+                        <div class="slider__slide-content">
+                                                            <h2>
+                                    Liverpool FC After School Clinics                                </h2>
+                                                            <a href="https://www.salesian.vic.edu.au/about-us/community-partnership/"
+                                   class="slider__slide-link">
+                                </a>
+                                                    </div><!-- /.slider__slide-content -->
+
+                                                    <div class="slider__slide-image lazyload animated"
+                                 data-bg="https://www.salesian.vic.edu.au/app/uploads/2023/03/MG_0396-1024x683.jpg">
+                                <a href="https://www.salesian.vic.edu.au/about-us/community-partnership/"></a>
+                            </div><!-- /.slider__slide-image -->
+                                            </div><!-- /.slider__slide -->
+                                    <div class="slider__slide">
+                        <div class="slider__slide-content">
+                                                            <h2>
+                                    2023 Summer Griffin                                </h2>
+                                                            <a href="https://www.salesian.vic.edu.au/news/publications/"
+                                   class="slider__slide-link">
+                                </a>
+                                                    </div><!-- /.slider__slide-content -->
+
+                                                    <div class="slider__slide-image lazyload animated"
+                                 data-bg="https://www.salesian.vic.edu.au/app/uploads/2023/12/Summer-Griffin_Mockup4-1024x699.jpg">
+                                <a href="https://www.salesian.vic.edu.au/news/publications/"></a>
+                            </div><!-- /.slider__slide-image -->
+                                            </div><!-- /.slider__slide -->
+                            </div><!-- /.slider__slides -->
+        </div><!-- /.slider__clip -->
+    </div><!-- /.slider -->
+</section><!-- /.section-featured -->
+	
+<section class="section-image" style="background-image: url(https://www.salesian.vic.edu.au/app/uploads/2018/02/salesian-tour-class2-e1520480848317-1904x771.jpg); background-position: center;">
+	<img width="1904" height="771" src="https://www.salesian.vic.edu.au/app/uploads/2018/02/salesian-tour-class2-e1520480848317-1904x771.jpg" class="attachment-full_width size-full_width" alt="" decoding="async" fetchpriority="high" srcset="https://www.salesian.vic.edu.au/app/uploads/2018/02/salesian-tour-class2-e1520480848317-1904x771.jpg 1904w, https://www.salesian.vic.edu.au/app/uploads/2018/02/salesian-tour-class2-e1520480848317-300x121.jpg 300w, https://www.salesian.vic.edu.au/app/uploads/2018/02/salesian-tour-class2-e1520480848317-768x311.jpg 768w, https://www.salesian.vic.edu.au/app/uploads/2018/02/salesian-tour-class2-e1520480848317-1024x415.jpg 1024w" sizes="(max-width: 1904px) 100vw, 1904px" /></section><!-- /.section-image -->
+<section class="section-testimonial">
+	<div class="shell">
+					<h6>
+				A Message From the Principal			</h6>
+					
+							<blockquote>
+					<p>Salesian College Chadstone is a welcoming Catholic community renowned for its integrity and creative learning approaches that bring out the best in boys. Our rich Salesian charism underpinned by the educational principles of founder, St John Bosco, provides the foundation of a future focused pedagogical vision.</p>
+		<a href="https://www.salesian.vic.edu.au/about-us/leadership-and-governance/principal-mark-ashmore/" target="_blank" class="btn">Read more</a>
+	
+				</blockquote>
+			
+			<div class="section__author">
+									<div class="section__image">
+						<img width="300" height="300" src="https://www.salesian.vic.edu.au/app/uploads/2021/10/SalesianImage-300x300.jpg" class="attachment-medium size-medium" alt="" decoding="async" srcset="https://www.salesian.vic.edu.au/app/uploads/2021/10/SalesianImage-300x300.jpg 300w, https://www.salesian.vic.edu.au/app/uploads/2021/10/SalesianImage-150x150.jpg 150w, https://www.salesian.vic.edu.au/app/uploads/2021/10/SalesianImage-768x768.jpg 768w, https://www.salesian.vic.edu.au/app/uploads/2021/10/SalesianImage.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" />					</div><!-- /.section__image -->
+				
+				<div class="section__inner">
+											<h3>
+							Mark Ashmore						</h3>
+											<h4>
+							Principal						</h4>
+									</div><!-- /.section__inner -->
+			</div><!-- /.section__author -->
+			</div><!-- /.shell -->
+</section><!-- /.section-testimonial -->
+<section class="slider">
+	<div class="slider__clip">
+		<div class="slider__slides">
+							<div class="slider__slide">
+					<div class="slider__slide-content">
+						<div class="slider__slide-entry">
+															<h6>Community Notices</h6>
+															<h3>2023</h3>
+															<h2>VCE Highlights and Results</h2>
+															<a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-vce-highlights-and-results/" target="_blank" class="btn">Read more</a>
+													</div><!-- /.slider__slide-entry -->
+					</div><!-- /.slider__slide-content -->
+											<div class="slider__slide-image">
+                            <div class="bg lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2023/12/Salesian-DUX-01-1-1024x718.jpg"></div>
+<!--							-->						</div><!-- /.slider__slide-image -->
+									</div><!-- /.slider__slide -->
+							<div class="slider__slide">
+					<div class="slider__slide-content">
+						<div class="slider__slide-entry">
+															<h6>Community Notices</h6>
+															<h3>2023</h3>
+															<h2>Dux Interview</h2>
+															<a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-vce-highlights-and-results/2023-dux-hardu-ginoya/" target="_blank" class="btn">Read more</a>
+													</div><!-- /.slider__slide-entry -->
+					</div><!-- /.slider__slide-content -->
+											<div class="slider__slide-image">
+                            <div class="bg lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2023/12/Salesian-DUX-25-1024x683.jpg"></div>
+<!--							-->						</div><!-- /.slider__slide-image -->
+									</div><!-- /.slider__slide -->
+							<div class="slider__slide">
+					<div class="slider__slide-content">
+						<div class="slider__slide-entry">
+															<h6>Community Notices</h6>
+															<h3>2023</h3>
+															<h2>Dux Interview</h2>
+															<a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-vce-highlights-and-results/2023-dux-gavriel-hariyanto/" target="_blank" class="btn">Read more</a>
+													</div><!-- /.slider__slide-entry -->
+					</div><!-- /.slider__slide-content -->
+											<div class="slider__slide-image">
+                            <div class="bg lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2023/12/2023-DUX-GAVRIEL-HARIYANTO-1024x683.jpg"></div>
+<!--							-->						</div><!-- /.slider__slide-image -->
+									</div><!-- /.slider__slide -->
+							<div class="slider__slide">
+					<div class="slider__slide-content">
+						<div class="slider__slide-entry">
+															<h6>Community Notices</h6>
+															<h3>2023</h3>
+															<h2>High Achievers</h2>
+															<a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2023-high-achievers/" target="_blank" class="btn">Read more </a>
+													</div><!-- /.slider__slide-entry -->
+					</div><!-- /.slider__slide-content -->
+											<div class="slider__slide-image">
+                            <div class="bg lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2023/12/Salesian-DUX-05-1024x683.jpg"></div>
+<!--							-->						</div><!-- /.slider__slide-image -->
+									</div><!-- /.slider__slide -->
+							<div class="slider__slide">
+					<div class="slider__slide-content">
+						<div class="slider__slide-entry">
+															<h6>Community Notices</h6>
+															<h3>2023</h3>
+															<h2>2023 VCE VM Student of the Year</h2>
+															<a href="https://www.salesian.vic.edu.au/about-us/the-salesian-difference/2022-vce-highlights-and-results/2023-vce-vm-student-of-the-year/" target="_blank" class="btn">Read more</a>
+													</div><!-- /.slider__slide-entry -->
+					</div><!-- /.slider__slide-content -->
+											<div class="slider__slide-image">
+                            <div class="bg lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2023/10/Salesian_-Valedictory_Awards_23-008-1024x683.jpg"></div>
+<!--							-->						</div><!-- /.slider__slide-image -->
+									</div><!-- /.slider__slide -->
+							<div class="slider__slide">
+					<div class="slider__slide-content">
+						<div class="slider__slide-entry">
+															<h6>Community Notices</h6>
+															<h3>2025 Enrolments</h3>
+															<h2>Applications Closing</h2>
+															<a href="https://www.salesian.vic.edu.au/book-a-tour/" target="_blank" class="btn">Book a Tour </a>
+													</div><!-- /.slider__slide-entry -->
+					</div><!-- /.slider__slide-content -->
+											<div class="slider__slide-image">
+                            <div class="bg lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2020/03/WR_Building-1024x681.jpg"></div>
+<!--							-->						</div><!-- /.slider__slide-image -->
+									</div><!-- /.slider__slide -->
+							<div class="slider__slide">
+					<div class="slider__slide-content">
+						<div class="slider__slide-entry">
+															<h6>Alumni News</h6>
+															<h3>2023 Summer </h3>
+															<h2>Griffin</h2>
+															<a href="https://issuu.com/salesiancollegechadstone/docs/po-57602_sc_griffin_summer_2023_fa_digital" target="_blank" class="btn">Read Now</a>
+													</div><!-- /.slider__slide-entry -->
+					</div><!-- /.slider__slide-content -->
+											<div class="slider__slide-image">
+                            <div class="bg lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2023/12/Summer-Griffin_Mockup4-1024x699.jpg"></div>
+<!--							-->						</div><!-- /.slider__slide-image -->
+									</div><!-- /.slider__slide -->
+							<div class="slider__slide">
+					<div class="slider__slide-content">
+						<div class="slider__slide-entry">
+															<h6>Community Notice</h6>
+															<h3>Liverpool FC</h3>
+															<h2>After School Clinics</h2>
+															<a href="https://lfcacademy.com.au/vic/salesian-term-2-sdc/" target="_blank" class="btn">Book Now</a>
+													</div><!-- /.slider__slide-entry -->
+					</div><!-- /.slider__slide-content -->
+											<div class="slider__slide-image">
+                            <div class="bg lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2023/03/MG_0396-1024x683.jpg"></div>
+<!--							-->						</div><!-- /.slider__slide-image -->
+									</div><!-- /.slider__slide -->
+					</div><!-- /.slider__slides -->
+	</div><!-- /.slider__clip -->
+</section><!-- /.slider -->
+
+<section class="section-posts">
+    <div class="shell">
+                    <h6 class="section__title">
+                <a href="https://www.salesian.vic.edu.au/blog/">
+                    Latest News                </a>
+            </h6><!-- /.section__title -->
+        
+        <ul class="posts">
+                            <li class="post">
+                    <a href="https://www.salesian.vic.edu.au/2024/06/end-of-term-2-assembly-2024/">
+                                                    <div class="post__image lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2024/06/IMG_8057-768x1152.jpg" ></div><!-- /.post__image -->
+                                            </a>
+
+                    <div class="post__content">
+                        <p>
+                            <span>28/06/2024</span>
+
+                            <a href="https://www.salesian.vic.edu.au/category/cultural-and-community-events/" rel="category tag">Cultural and Community Events</a>                        </p>
+
+                        <h2>
+                            <a href="https://www.salesian.vic.edu.au/2024/06/end-of-term-2-assembly-2024/">End of Term 2 Assembly, 2024</a>
+                        </h2>
+                    </div><!-- /.post__content -->
+                </li><!-- /.post -->
+                            <li class="post">
+                    <a href="https://www.salesian.vic.edu.au/2024/06/acc-sports-report-41/">
+                                                    <div class="post__image lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2024/06/image00013-768x1024.jpg" ></div><!-- /.post__image -->
+                                            </a>
+
+                    <div class="post__content">
+                        <p>
+                            <span>21/06/2024</span>
+
+                            <a href="https://www.salesian.vic.edu.au/category/sports/" rel="category tag">Sports</a>                        </p>
+
+                        <h2>
+                            <a href="https://www.salesian.vic.edu.au/2024/06/acc-sports-report-41/">ACC Sports Report</a>
+                        </h2>
+                    </div><!-- /.post__content -->
+                </li><!-- /.post -->
+                            <li class="post">
+                    <a href="https://www.salesian.vic.edu.au/2024/06/end-of-semester-exams/">
+                                                    <div class="post__image lazyload animated" data-bg="https://www.salesian.vic.edu.au/app/uploads/2024/06/IMG_0095-768x576.jpg" ></div><!-- /.post__image -->
+                                            </a>
+
+                    <div class="post__content">
+                        <p>
+                            <span>21/06/2024</span>
+
+                            <a href="https://www.salesian.vic.edu.au/category/teaching-and-learning/" rel="category tag">Teaching and Learning</a>                        </p>
+
+                        <h2>
+                            <a href="https://www.salesian.vic.edu.au/2024/06/end-of-semester-exams/">End of Semester Exams</a>
+                        </h2>
+                    </div><!-- /.post__content -->
+                </li><!-- /.post -->
+                    </ul><!-- /.posts -->
+        <div class="link-wrapper">
+            <a href="/news/blog" class="btn">Read all news</a>
+        </div>
+    </div><!-- /.shell -->
+</section><!-- /.section-posts -->
+<section class="links">
+    <div class="section links" data-aos="fade-up">
+        <div class="shell-fluid">
+                                                                    <div class="link-item">
+                        <div class="shell-large">
+                                                        <div class="content with-image-right section-text">
+                                <a href="https://www.salesian.vic.edu.au/why-boys-school/" target="_self">
+                                    <div class="inner">
+                                        <h3>Why a Boys' School</h3>
+                                        <p>Both single-sex and co-educational secondary schools offer high quality educations. When choosing between these options, your decision should be guided by your child’s individual needs.<br><br> Our guide explores the five key benefits of choosing a boys’ school.</p>
+                                                                                    <p class="button-wrapper">
+                                                <span class="button">
+                                                    Download the PDF                                                </span>
+                                            </p>
+                                                                            </div>
+                                </a>
+                            </div>
+                                                            <div class="featured-image-right">
+                                    <a href="https://www.salesian.vic.edu.au/why-boys-school/" target="_self" class="cover">
+                                        <div class="img-fluid lazyload animated opacity bg cover" data-bg="https://www.salesian.vic.edu.au/app/uploads/2021/06/IMG_1543-min-1024x682.jpg">
+                                        </div>
+                                    </a>
+                                </div>
+                                                    </div>
+                    </div>
+                                                                            <div class="link-item">
+                        <div class="shell-large">
+                                                            <div class="featured-image-left cover">
+                                    <a href="https://www.salesian.vic.edu.au/honour-roll/" target="_self" class="cover">
+                                        <div class="img-fluid lazyload animated opacity bg cover" data-bg="https://www.salesian.vic.edu.au/app/uploads/2018/09/salesian-honourroll-banner-e1520983796666-1024x494.jpg">
+                                        </div>
+                                    </a>
+                                </div>
+                                                        <div class="content with-image-left section-text">
+                                <a href="https://www.salesian.vic.edu.au/honour-roll/" target="_self">
+                                    <div class="inner">
+                                        <h3>Browse the Salesian College Honour Roll</h3>
+                                        <p>We're committed to recognising the contributions our past pupils make. Explore the digital Honour Roll profiles or contribute any information you might have about past students.</p>
+                                                                                    <p class="button-wrapper">
+                                                <span class="button">
+                                                    View Honour Roll                                                </span>
+                                            </p>
+                                                                            </div>
+                                </a>
+                            </div>
+                                                    </div>
+                    </div>
+                                                        </div>
+    </div>
+</section><div class="diagonal" id="diagonal"></div><!-- /.diagonal-blue -->
+
+<footer class="footer">
+    <div class="shell">
+                        <h4>
+                    QUICK LINKS                </h4>
+            <nav class="footer__nav"><ul><li id="menu-item-1587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1587"><a href="https://www.salesian.vic.edu.au/enrolment/apply/">Enrol Now</a></li>
+<li id="menu-item-9674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9674"><a href="https://www.salesian.vic.edu.au/enrolment/enrolment-dates-and-fees/">Fees</a></li>
+<li id="menu-item-6984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6984"><a href="https://www.salesian.vic.edu.au/download-the-prospectus/">Prospectus</a></li>
+<li id="menu-item-1195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1195"><a href="https://www.salesian.vic.edu.au/learning/">Learning</a></li>
+<li id="menu-item-1196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1196"><a href="https://www.salesian.vic.edu.au/about-us/employment/">Employment</a></li>
+<li id="menu-item-1197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1197"><a href="https://www.salesian.vic.edu.au/enrolment/enrolment-dates-and-fees/">Term Dates</a></li>
+<li id="menu-item-14957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14957"><a href="https://www.salesian.vic.edu.au/policies/">Policies</a></li>
+<li id="menu-item-14958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14958"><a href="https://www.salesian.vic.edu.au/about-us/child-safety/">Child Safety</a></li>
+<li id="menu-item-1198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1198"><a href="https://www.salesian.vic.edu.au/contact-us/">Contact Us</a></li>
+<li id="menu-item-19372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19372"><a href="https://www.salesian.vic.edu.au/complaints-form/">Complaints Form</a></li>
+</ul></nav>            <h4>FOLLOW US</h4>
+        <div class="socials">
+	<ul>
+						<li>
+					<a href="https://www.facebook.com/SalesianCollege/" target="_blank">
+						<em class="ico-facebook"></em>
+					</a>
+				</li>
+											<li>
+					<a href="https://twitter.com/salesianchad?lang=en" target="_blank">
+						<em class="ico-twitter"></em>
+					</a>
+				</li>
+									<li>
+					<a href="https://www.instagram.com/salesiancollegechadstone/?hl=en" target="_blank">
+						<em class="ico-instagram"></em>
+					</a>
+				</li>
+									<li>
+					<a href="https://www.linkedin.com/company/salesian-college-chadstone/" target="_blank">
+						<em class="ico-linkedin"></em>
+					</a>
+				</li>
+						</ul>
+</div><!-- /.socials -->
+        <div class="footer-messages">
+                            <div class="message">
+                    <p>
+                        The care, safety and wellbeing of all children and vulnerable people is a core and fundamental responsibility for our community.                    </p>
+                </div><!-- /.message -->
+                                        <div class="acknowledgement">
+                    <p>
+                        We acknowledge the Traditional Owners of the land on which our College resides and pay our respects to their Elders, past, present and future.                    </p>
+                </div><!-- /.acknowledgement -->
+                                        <div class="copyright">
+                    <p>
+                        © Salesian College Chadstone 2024 | <a href="https://www.salesian.vic.edu.au/terms-privacy/">Terms &amp; Privacy</a> | Website by <a href="https://igniteonline.com.au" target="_blank"
+                        rel="noopener ">IGNITE</a>
+                    </p>
+                </div><!-- /.copyright -->
+                    </div>
+        <button class="scrollUp"><em class="ion-ios-arrow-up"></em></button>
+    </div><!-- /.shell -->
+</footer><!-- /.footer -->
+</div><!-- /.wrapper -->
+
+<script type="text/javascript" src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,fetch" id="polyfill-js"></script>
+<script type="text/javascript" id="theme-js-bundle-js-extra">
+/* <![CDATA[ */
+var jsParams = {"ajaxUrl":"https:\/\/www.salesian.vic.edu.au\/wp\/wp-admin\/admin-ajax.php","maxFileSize":"128","honourRollSlug":"\/honour-roll\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.salesian.vic.edu.au/app/themes/sallesian-college/dist/js/bundle-c4b623f7a6.js" id="theme-js-bundle-js"></script>
+<script type="text/javascript" src="https://www.salesian.vic.edu.au/wp/wp-includes/js/comment-reply.min.js?ver=6.5.3" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" id="gforms_recaptcha_recaptcha-js-extra">
+/* <![CDATA[ */
+var gforms_recaptcha_recaptcha_strings = {"site_key":"6LeonQcjAAAAALM4AREmmGDtua62cBvqTo4eBkCP","ajaxurl":"https:\/\/www.salesian.vic.edu.au\/wp\/wp-admin\/admin-ajax.php","nonce":"6c913eb0e2"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LeonQcjAAAAALM4AREmmGDtua62cBvqTo4eBkCP&amp;ver=1.5.0" id="gforms_recaptcha_recaptcha-js"></script>
+                <!-- FullStory Tracking Code -->
+        <script>
+          window['_fs_debug'] = false;
+          window['_fs_host'] = 'fullstory.com';
+          window['_fs_org'] = 'E4D14';
+          window['_fs_namespace'] = 'FS';
+          (function(m,n,e,t,l,o,g,y){
+            if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
+            g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
+            o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
+            y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+            g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){g(l,v)};g.event=function(i,v){g('event',{n:i,p:v})};
+            g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
+            g.consent=function(a){g("consent",!arguments.length||a)};
+            g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+            g.clearUserCookie=function(){};
+          })(window,document,window['_fs_namespace'],'script','user');
+        </script>
+    </body>
+</html>
+
+<!-- Page cached by LiteSpeed Cache 6.2.0.1 on 2024-06-28 16:00:32 -->

@@ -1,0 +1,1873 @@
+<!doctype html>
+<html lang="en-AU" class="no-js">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		<link rel="icon" type="image/png" href="https://citynews.com.au/favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="https://citynews.com.au/favicon-16x16.png" sizes="16x16" />
+		
+        
+		
+        <link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="stylesheet" type="text/css" media="all" href="https://citynews.com.au/wp-content/themes/citynews-2021/style.css" />
+        <link rel="pingback" href="https://citynews.com.au/xmlrpc.php" />
+		<link rel="stylesheet" href="https://citynews.com.au/wp-content/themes/citynews-2021/css/outdatedbrowser.min.css">
+		
+				<script src="https://cdn.polyfill.io/v3/polyfill.min.js"></script>
+        
+                
+        <script type="text/javascript">
+            var wpPageVars = {"site":"Canberra","pageType":"home","priCat":[],"secCat":[],"tags":[]};
+        </script>
+        
+        <meta name='robots' content='max-image-preview:large' />
+<script>window._wca = window._wca || [];</script>
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v14.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Canberra CityNews | All about Canberra</title>
+	<meta name="description" content="For more than 25 years, “CityNews” has proudly been an independent, family-owned news magazine, serving the national capital with quality, integrity and authority." />
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://citynews.com.au/" />
+	<link rel="next" href="https://citynews.com.au/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Canberra CityNews | All about Canberra" />
+	<meta property="og:description" content="For more than 25 years, “CityNews” has proudly been an independent, family-owned news magazine, serving the national capital with quality, integrity and authority." />
+	<meta property="og:url" content="https://citynews.com.au/" />
+	<meta property="og:site_name" content="Canberra CityNews" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://citynews.com.au/#website","url":"https://citynews.com.au/","name":"Canberra CityNews","description":"All about Canberra","potentialAction":[{"@type":"SearchAction","target":"https://citynews.com.au/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-AU"},{"@type":"CollectionPage","@id":"https://citynews.com.au/#webpage","url":"https://citynews.com.au/","name":"Canberra CityNews | All about Canberra","isPartOf":{"@id":"https://citynews.com.au/#website"},"description":"For more than 25 years, \u201cCityNews\u201d has proudly been an independent, family-owned news magazine, serving the national capital with quality, integrity and authority.","inLanguage":"en-AU"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Canberra CityNews &raquo; Feed" href="https://citynews.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Canberra CityNews &raquo; Comments Feed" href="https://citynews.com.au/comments/feed/" />
+<link rel='stylesheet' id='sbi_styles-css' href='https://citynews.com.au/wp-content/plugins/instagram-feed/css/sbi-styles.min.css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://citynews.com.au/wp-includes/css/dist/block-library/style.min.css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://citynews.com.au/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://citynews.com.au/wp-includes/js/mediaelement/wp-mediaelement.min.css' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='ce4wp-subscribe-style-inline-css'>
+.wp-block-ce4wp-subscribe{max-width:840px;margin:0 auto}.wp-block-ce4wp-subscribe .title{margin-bottom:0}.wp-block-ce4wp-subscribe .subTitle{margin-top:0;font-size:0.8em}.wp-block-ce4wp-subscribe .disclaimer{margin-top:5px;font-size:0.8em}.wp-block-ce4wp-subscribe .disclaimer .disclaimer-label{margin-left:10px}.wp-block-ce4wp-subscribe .inputBlock{width:100%;margin-bottom:10px}.wp-block-ce4wp-subscribe .inputBlock input{width:100%}.wp-block-ce4wp-subscribe .inputBlock label{display:inline-block}.wp-block-ce4wp-subscribe .submit-button{margin-top:25px;display:block}.wp-block-ce4wp-subscribe .required-text{display:inline-block;margin:0;padding:0;margin-left:0.3em}.wp-block-ce4wp-subscribe .onSubmission{height:0;max-width:840px;margin:0 auto}.wp-block-ce4wp-subscribe .firstNameSummary .lastNameSummary{text-transform:capitalize}.wp-block-ce4wp-subscribe .ce4wp-inline-notification{display:flex;flex-direction:row;align-items:center;padding:13px 10px;width:100%;height:40px;border-style:solid;border-color:orange;border-width:1px;border-left-width:4px;border-radius:3px;background:rgba(255,133,15,0.1);flex:none;order:0;flex-grow:1;margin:0px 0px}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-text{font-style:normal;font-weight:normal;font-size:16px;line-height:20px;display:flex;align-items:center;color:#571600;margin-left:9px}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-icon{color:orange}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-arrow{color:#571600;margin-left:auto}.wp-block-ce4wp-subscribe .ce4wp-banner-clickable{cursor:pointer}.ce4wp-link{cursor:pointer}
+
+.no-flex{display:block}.sub-header{margin-bottom:1em}
+
+
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://citynews.com.au/wp-content/plugins/contact-form-7/includes/css/styles.css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://citynews.com.au/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' media='all' />
+<style id='woocommerce-layout-inline-css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://citynews.com.au/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://citynews.com.au/wp-content/plugins/woocommerce/assets/css/woocommerce.css' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='bootstrap-css' href='https://citynews.com.au/wp-content/themes/citynews-2021/css/foundation.xy.css' media='all' />
+<link rel='stylesheet' id='fonts-css' href='https://fonts.googleapis.com/css2?family=Newsreader%3Aital%2Cwght%400%2C400%3B0%2C600%3B1%2C400%3B1%2C600&#038;display=swap&#038;ver=1' media='all' />
+<link rel='stylesheet' id='app-css' href='https://citynews.com.au/wp-content/themes/citynews-2021/css/app.css' media='all' />
+<link rel='stylesheet' id='weather-css' href='https://citynews.com.au/wp-content/themes/citynews-2021/css/owfont-regular.css' media='all' />
+<link rel='stylesheet' id='ari-fancybox-css' href='https://citynews.com.au/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://citynews.com.au/wp-content/plugins/jetpack/css/jetpack.css' media='all' />
+<script src="https://citynews.com.au/wp-content/themes/citynews-2021/js/vendor/jquery-3.3.1.min.js" id="jquery-js"></script>
+<script src="https://citynews.com.au/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js" id="wp-polyfill-inert-js"></script>
+<script src="https://citynews.com.au/wp-includes/js/dist/vendor/regenerator-runtime.min.js" id="regenerator-runtime-js"></script>
+<script src="https://citynews.com.au/wp-includes/js/dist/vendor/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script src="https://citynews.com.au/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script>
+<script src="https://stats.wp.com/w.js?ver=202427" id="woo-tracks-js"></script>
+<script src="https://citynews.com.au/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js" id="jquery-blockui-js" defer data-wp-strategy="defer"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/citynews.com.au\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src="https://citynews.com.au/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js" id="wc-add-to-cart-js" defer data-wp-strategy="defer"></script>
+<script src="https://citynews.com.au/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js" id="js-cookie-js" defer data-wp-strategy="defer"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src="https://citynews.com.au/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js" id="woocommerce-js" defer data-wp-strategy="defer"></script>
+<script src="https://stats.wp.com/s-202427.js" id="woocommerce-analytics-js" defer data-wp-strategy="defer"></script>
+<script src="https://citynews.com.au/wp-content/themes/citynews-2021/js/vendor/modernizr-3.6.0.min.js" id="modernizr-js"></script>
+<script id="ari-fancybox-js-extra">
+var ARI_FANCYBOX = {"lightbox":{"touch":{"vertical":true,"momentum":true},"buttons":["slideShow","fullScreen","thumbs","close"],"lang":"custom","i18n":{"custom":{"PREV":"Previous","NEXT":"Next","PLAY_START":"Start slideshow (P)","PLAY_STOP":"Stop slideshow (P)","FULL_SCREEN":"Full screen (F)","THUMBS":"Thumbnails (G)","CLOSE":"Close (Esc)","ERROR":"The requested content cannot be loaded. <br\/> Please try again later."}}},"convert":{},"viewers":{"pdfjs":{"url":"https:\/\/citynews.com.au\/wp-content\/plugins\/ari-fancy-lightbox\/assets\/pdfjs\/web\/viewer.html"}}};
+</script>
+<script src="https://citynews.com.au/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.js" id="ari-fancybox-js"></script>
+<link rel="https://api.w.org/" href="https://citynews.com.au/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://citynews.com.au/xmlrpc.php?rsd" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PLDB7P8');</script>
+<!-- End Google Tag Manager -->	<style>img#wpstats{display:none}</style>
+		<style type="text/css">BODY .fancybox-container{z-index:200000}BODY .fancybox-is-open .fancybox-bg{opacity:0.87}BODY .fancybox-bg {background-color:#0f0f11}BODY .fancybox-thumbs {background-color:#ffffff}</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<!--- Start: GPT header script --->
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  if (typeof wpPageVars === "undefined") {
+      var wpPageVars = {"site":"Canberra","pageType":"","cat":[""],"tags":[]};
+  }
+    switch (wpPageVars.pageType) {
+      case "home":
+       var gamAdUnitPath = "/1685826/CityNews." + wpPageVars.site + "/home";
+       var gamPageType = "homepage";
+      break;
+      
+     case "category":
+       var gamAdUnitPath = "/1685826/CityNews." + wpPageVars.site + "/category";
+       var gamPageType = "category";
+      break;
+      
+     case "post":
+       var gamAdUnitPath = "/1685826/CityNews." + wpPageVars.site + "/article";
+       var gamPageType = "post";
+      break;
+
+      default:
+       var gamAdUnitPath = "/1685826/CityNews." + wpPageVars.site + "/misc";
+       var gamPageType = "misc";
+      }
+  var gamData =
+			{
+  "adUnit": gamAdUnitPath,
+  "kv": { "pagetype": [gamPageType], "cat": [wpPageVars.priCat], "subcat": [wpPageVars.secCat], "tags": [wpPageVars.tags] },
+  "sizeMap":	{
+			"header":[[[1007,0],[[970,250]]],[[768,0],[[728,90]]],[[0,0],[[320,100],[320,50]]]],
+			"halfpage":[[[1440,0],[[300,600]]],[[0,0],[]]],
+			"deskmrec":[[[1440,0],[[300,250]]],[[0,0],[]]],
+			"halfpagearticle":[[[1024,0],[[300,600]]],[[0,0],[]]],
+			"mrecarticle":[[[1024,0],[[300,250]]],[[0,0],[]]],
+			"mobmrec":[[[1439,0],[]],[[0,0],[[300,250]]]],
+			"banner":[[[768,0],[[728,90]]],[[0,0],[[320,100],[320,50]]]],
+			"bannermrec":[[[768,0],[[728,90]]],[[0,0],[[300,250]]]],
+			"anchor":[[[768,0],[]],[[0,0],[[320,50]]]],
+			"midarticle":[[[768,0],[[728,90],["fluid"]]],[[0,0],[[300,250],[320,100],[320,50],["fluid"]]]]
+		 }
+		}
+		// Ad Tester (add "?adtest=testvalue" to url, inserts KV for targeting). Can also capture other URL query strings.
+    function getQueryVariable(variable) {
+      var query = window.location.search.substring(1);
+      var vars = query.split("&");
+      for (var i = 0; i < vars.length; i++) {
+        var pair = vars[i].split("=");
+        if (pair[0] == variable) {
+          return pair[1];
+        }
+      }
+      return ('false');
+    }
+    var kvAdTest = getQueryVariable("adtest");
+    // Check browser width for skins
+    var viewportWidth = document.documentElement.clientWidth;
+    var showSkin = 'N';
+    if (viewportWidth >= 1800) {
+      showSkin = 'Y';
+      }
+    // Extract article title from last section of url
+    getPageURL = window.location.pathname;
+    pageURLArray = getPageURL.split('/');
+    pageURL = '';
+    while (pageURLArray.length > 0 && pageURL == '') {
+      pageURL = pageURLArray.pop();
+    }
+    // Set page-level key-values and GPT settings
+    googletag.cmd.push(function() {
+     googletag.pubads().setTargeting("title", [pageURL]).setTargeting("adtest", [kvAdTest]).setTargeting("skin", [showSkin]);
+     if (gamData.kv) {
+       Object.keys(gamData.kv).forEach(function(key) {
+         googletag.pubads().setTargeting(key, gamData.kv[key]);
+       });
+     }
+     googletag.pubads().setCentering(true);
+		 googletag.pubads().collapseEmptyDivs();
+
+    // Enable lazy-loading for all ad slots
+     googletag.pubads().enableLazyLoad({
+       fetchMarginPercent: 100,
+       renderMarginPercent: 50,
+       mobileScaling: 2.0
+     });
+     
+	// In-view refresh settings
+	var adRefreshKey = 'refresh';
+	var adRefreshFlag = 'true';
+	var adRefreshTime = 30
+	googletag.pubads().addEventListener('impressionViewable', function(event) {
+     var slot = event.slot;
+      if (slot.getTargeting(adRefreshKey).indexOf(adRefreshFlag) > -1) {
+       setTimeout(function() {
+        googletag.pubads().refresh([slot]);
+       }, adRefreshTime * 1000);
+      }
+     });
+
+    googletag.enableServices();
+   });
+
+		// for testing purposes only
+    console.log("browser width: " + viewportWidth);
+    console.log("desktop skin: " + showSkin);
+    console.log("ad unit path: " + gamData.adUnit);
+    console.log("pagetype: " + gamData.kv.pagetype);
+    console.log("primary cat: " + gamData.kv.cat);
+    console.log("secondary cat: " + gamData.kv.subcat);
+    console.log("tags: " + gamData.kv.tags);
+    console.log("adtest: " + kvAdTest);
+    console.log("page URL/title: " + pageURL);
+ </script>
+ <!--- End: GPT header script --->		
+		<style type="text/css">
+			:root {	
+				--color-highlight: #25408f;
+				--color-highlight-alt: #112c7b;
+			}
+		</style>
+        
+    </head>
+    
+    <body class="home blog theme-citynews-2021 woocommerce-no-js">
+		
+	        
+    <div class='code-block code-block-1' style='height: 0; overflow: hidden;'>
+  <div id="gam_oop_pos0" style="height: 0; overflow: hidden">
+   <script type='text/javascript'>
+    googletag.cmd.push(function() {
+       googletag.defineOutOfPageSlot(gamData.adUnit, 'gam_oop_pos0')
+ 				.setTargeting('pos', '0')
+ 				.addService(googletag.pubads());
+       googletag.display('gam_oop_pos0');
+    });
+   </script>
+  </div></div>
+<div class='code-block code-block-11' style='height: 0; overflow: hidden;'>
+   <script type='text/javascript'>
+    googletag.cmd.push(function() {
+     gam_anchor_pos0 = googletag.defineOutOfPageSlot(gamData.adUnit, googletag.enums.OutOfPageFormat.BOTTOM_ANCHOR);
+			if (gam_anchor_pos0) {
+				gam_anchor_pos0
+  				.defineSizeMapping(gamData.sizeMap.anchor)
+			    .setTargeting('pos', '0')
+			    .setTargeting('refresh', 'true')
+			    .addService(googletag.pubads());
+     googletag.display(gam_anchor_pos0);
+			}});
+		</script></div>
+		
+	<section class="padding-top outer-row">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+				<div class="position_relative">
+					<div class="ad ad--billboard">
+					    <div class='code-block code-block-2' style='margin: 2px auto; text-align: center; display: block; clear: both;'>
+  <div id="gam_header_pos1">
+   <script type='text/javascript'>
+    googletag.cmd.push(function() {
+       googletag.defineSlot(gamData.adUnit, [970, 250],'gam_header_pos1')
+				.defineSizeMapping(gamData.sizeMap.header)
+				.setTargeting('pos', '1')
+				.setTargeting('refresh', 'true')
+				.addService(googletag.pubads());
+       googletag.display('gam_header_pos1');
+    });
+   </script>
+  </div></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>        
+    <header id="top-bar" class="top-bar padding-top outer-row">
+        <div class="grid-container">
+            <div class="boxed-content" style="background-color:var(--color-highlight);">
+                <div class="grid-x grid-padding-x grid-padding-y align-middle">
+                    <div class="cell large-3">
+						                        <div class="grid-x grid-x--xsmall grid-padding-x grid-padding-y align-middle">
+                            <div class="cell shrink">
+                                <p class="text-small text-white">News location:</p>
+                            </div>
+                            <div class="cell shrink">
+								<form class="site-selection text-small" method="get">
+									<select onchange="location = this.options[this.selectedIndex].value;">
+										<option value="https://citynews.com.au/">Canberra</option><option value="https://citynewsqbn.com.au/">Queanbeyan</option>									</select>
+								</form>
+                            </div>
+                        </div>
+						                    </div>
+                    <div class="cell large-auto">
+                        <div class="grid-x align-middle">
+                            <div class="cell shrink large-auto">
+                                <h1 class="site-logo site-logo__large">
+                                    <a class="site-logo__link ir" href="https://citynews.com.au/" title="Canberra CityNews" rel="home" style="background-image: url(https://citynews.com.au/wp-content/uploads/2021/07/CityNews-CBR-reverse-1.png)">Canberra CityNews</a>
+                                </h1>
+                            </div>
+                            <div class="cell auto hide-for-large">
+                                <button type="button" class="menu-button menu-button--closed js-menu-trigger hide-for-large">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cell large-3 show-for-large">
+                                                <div class="grid-x grid-x--xsmall grid-padding-x grid-padding-y align-right">
+                                                        <div class="cell shrink">
+                                <a href="https://citynews.com.au/subscribe/" class="btn btn--white text-small" target="_self">Subscribe</a>
+                            </div>
+                                                                                    <div class="cell shrink">
+                                <a href="https://citynews.com.au/support/" class="btn btn--white text-small" target="_self">Support</a>
+                            </div>
+                                                    </div>
+                                            </div>
+                </div>
+            </div>
+			<div class="padding-bottom border-bottom">
+				<div class="padding-top grid-x grid-padding-x align-bottom align-center show-for-large">
+					<div class="cell auto large-text-center text-small">		
+						Canberra Today <i class="owf owf-lg owf-804"></i> 5&deg;/7&deg; | Tuesday, July 2, 2024 | <a href="https://citynews.com.au/category/digital-edition/">Digital Edition</a> | <a href="https://citynews.com.au/crosswords/" target="_self">Crossword</a> &amp; <a href="https://citynews.com.au/sudoku/" target="_self">Sudoku</a>					</div>
+				</div>
+			</div>
+			<div class="border-bottom show-for-large">
+				<div class="grid-x grid-padding-x align-justify align-middle">
+					<div class="cell shrink">
+						<nav class="top-bar__navigation"><ul id="menu-primary-navigation" class="grid-x grid-padding-x"><li id="menu-item-235785" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235785 category--news"><a href="https://citynews.com.au/category/news/">News</a></li>
+<li id="menu-item-235786" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cell shrink menu-item-235786 category--politics"><a href="https://citynews.com.au/category/politics/">Politics</a><div class="dropdown-menu outer-row show-for-large border-bottom"><div class="grid-container"><div class="grid-x grid-padding-x align-center"><div class="cell"><div class="grid-x"><div class="cell medium-4 xlarge-3"><h4>Politics</h4><ul class="sub-nav grid-x grid-x--xsmall grid-padding-x grid-padding-y medium-up-2">	<li id="menu-item-235787" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235787 category--act-government"><a href="https://citynews.com.au/category/politics/act-government/">Assembly</a></li>
+	<li id="menu-item-235788" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235788 category--environment"><a href="https://citynews.com.au/category/politics/environment/">Environment</a></li>
+	<li id="menu-item-235789" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235789 category--federal-parliament"><a href="https://citynews.com.au/category/politics/federal-parliament/">Federal Parliament</a></li>
+	<li id="menu-item-235790" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235790 category--health"><a href="https://citynews.com.au/category/politics/health/">Health</a></li>
+	<li id="menu-item-235791" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235791 category--planning"><a href="https://citynews.com.au/category/politics/planning/">Planning</a></li>
+</ul></div><div class="cell medium-8 xlarge-9"><div class="grid-x grid-padding-x large-up-2 xlarge-up-3"><article class="cell navigation-post "><div class="padding-bottom--small"><a href="https://citynews.com.au/2024/payman-takes-palestine-debate-to-a-whole-new-level/" class="post-image"><span class="set-size set-size--landscape"><span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/20240625168049303581-original-resized.jpg)"><img src="https://citynews.com.au/wp-content/uploads/2024/06/20240625168049303581-original-resized.jpg" alt="Payman takes Palestine debate to a whole new level"></span></span></a></div><a href="https://citynews.com.au/category/politics/political-commentary/" class="category-link category-link--politics">Political commentary</a><h2 class="h3"><a href="https://citynews.com.au/2024/payman-takes-palestine-debate-to-a-whole-new-level/">Payman takes Palestine debate to a whole new level</a></h2></article><article class="cell navigation-post "><div class="padding-bottom--small"><a href="https://citynews.com.au/2024/not-credible-barr-tops-his-bakers-dozen-of-failed-budgets/" class="post-image"><span class="set-size set-size--landscape"><span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2023/06/20230626001814636071-original-1200x800.jpeg)"><img src="https://citynews.com.au/wp-content/uploads/2023/06/20230626001814636071-original-1200x800.jpeg" alt="Not credible: Barr tops his baker's dozen of failed budgets"></span></span></a></div><a href="https://citynews.com.au/category/politics/political-commentary/" class="category-link category-link--politics">Political commentary</a><h2 class="h3"><a href="https://citynews.com.au/2024/not-credible-barr-tops-his-bakers-dozen-of-failed-budgets/">Not credible: Barr tops his baker's dozen of failed budgets</a></h2></article><article class="cell navigation-post show-for-xlarge"><div class="padding-bottom--small"><a href="https://citynews.com.au/2024/the-assange-show-overshadows-government-problems/" class="post-image"><span class="set-size set-size--landscape"><span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/20240626128147114075-original-resized.jpg)"><img src="https://citynews.com.au/wp-content/uploads/2024/06/20240626128147114075-original-resized.jpg" alt="The Assange show overshadows government problems"></span></span></a></div><a href="https://citynews.com.au/category/politics/political-commentary/" class="category-link category-link--politics">Political commentary</a><h2 class="h3"><a href="https://citynews.com.au/2024/the-assange-show-overshadows-government-problems/">The Assange show overshadows government problems</a></h2></article></div></div></div></div></div></div></div></li>
+<li id="menu-item-235792" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cell shrink menu-item-235792 category--blogs"><a href="https://citynews.com.au/category/blogs/">Opinion</a><div class="dropdown-menu outer-row show-for-large border-bottom"><div class="grid-container"><div class="grid-x grid-padding-x align-center"><div class="cell"><div class="grid-x"><div class="cell medium-4 xlarge-3"><h4>Opinion</h4><ul class="sub-nav grid-x grid-x--xsmall grid-padding-x grid-padding-y medium-up-2">	<li id="menu-item-235807" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235807 category--canberra-confidential"><a href="https://citynews.com.au/category/lifestyle/canberra-confidential/">Canberra Confidential</a></li>
+	<li id="menu-item-235793" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235793 category--letters"><a href="https://citynews.com.au/category/blogs/letters/">Letters</a></li>
+</ul></div><div class="cell medium-8 xlarge-9"><div class="grid-x grid-padding-x large-up-2 xlarge-up-3"><article class="cell navigation-post "><div class="padding-bottom--small"><a href="https://citynews.com.au/2024/tram-south-should-follow-griffins-lake-crossing/" class="post-image"><span class="set-size set-size--landscape"><span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Lakes-third-bridge-1-resized.jpg)"><img src="https://citynews.com.au/wp-content/uploads/2024/06/Lakes-third-bridge-1-resized.jpg" alt="Tram south should follow Griffin's lake crossing"></span></span></a></div><a href="https://citynews.com.au/category/blogs/letters/" class="category-link category-link--blogs">Letters</a><h2 class="h3"><a href="https://citynews.com.au/2024/tram-south-should-follow-griffins-lake-crossing/">Tram south should follow Griffin's lake crossing</a></h2></article><article class="cell navigation-post "><div class="padding-bottom--small"><a href="https://citynews.com.au/2024/dropped-pants-slow-justice-and-head-scratching/" class="post-image"><span class="set-size set-size--landscape"><span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/02/20231222001880969511-original-resized.jpg)"><img src="https://citynews.com.au/wp-content/uploads/2024/02/20231222001880969511-original-resized.jpg" alt="Dropped pants, slow justice and head scratching"></span></span></a></div><a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a><h2 class="h3"><a href="https://citynews.com.au/2024/dropped-pants-slow-justice-and-head-scratching/">Dropped pants, slow justice and head scratching</a></h2></article><article class="cell navigation-post show-for-xlarge"><div class="padding-bottom--small"><a href="https://citynews.com.au/2024/young-people-need-to-pick-up-the-phone-to-be-heard/" class="post-image"><span class="set-size set-size--landscape"><span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/jonathan-borba-fzDMsg9_Yc-unsplash-resized-e1719628881954.jpg)"><img src="https://citynews.com.au/wp-content/uploads/2024/06/jonathan-borba-fzDMsg9_Yc-unsplash-resized-e1719628881954.jpg" alt="Young people need to pick up the phone to be heard"></span></span></a></div><a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a><h2 class="h3"><a href="https://citynews.com.au/2024/young-people-need-to-pick-up-the-phone-to-be-heard/">Young people need to pick up the phone to be heard</a></h2></article></div></div></div></div></div></div></div></li>
+<li id="menu-item-235794" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cell shrink menu-item-235794 category--arts-entertainment"><a href="https://citynews.com.au/category/arts-entertainment/">Arts &amp; Entertainment</a><div class="dropdown-menu outer-row show-for-large border-bottom"><div class="grid-container"><div class="grid-x grid-padding-x align-center"><div class="cell"><div class="grid-x"><div class="cell medium-4 xlarge-3"><h4>Arts &amp; Entertainment</h4><ul class="sub-nav grid-x grid-x--xsmall grid-padding-x grid-padding-y medium-up-2">	<li id="menu-item-235795" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235795 category--art-arts-entertainment"><a href="https://citynews.com.au/category/arts-entertainment/art-arts-entertainment/">Art</a></li>
+	<li id="menu-item-235796" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235796 category--books"><a href="https://citynews.com.au/category/arts-entertainment/books/">Books</a></li>
+	<li id="menu-item-235797" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235797 category--craft-arts-entertainment"><a href="https://citynews.com.au/category/arts-entertainment/craft-arts-entertainment/">Craft</a></li>
+	<li id="menu-item-235798" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235798 category--dance-arts-entertainment"><a href="https://citynews.com.au/category/arts-entertainment/dance-arts-entertainment/">Dance</a></li>
+	<li id="menu-item-235800" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235800 category--exhibitions"><a href="https://citynews.com.au/category/arts-entertainment/exhibitions/">Exhibitions</a></li>
+	<li id="menu-item-235801" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235801 category--film"><a href="https://citynews.com.au/category/arts-entertainment/film/">Film</a></li>
+	<li id="menu-item-235802" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235802 category--music"><a href="https://citynews.com.au/category/arts-entertainment/music/">Music</a></li>
+	<li id="menu-item-235803" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235803 category--art-musical-theatre"><a href="https://citynews.com.au/category/arts-entertainment/art-musical-theatre/">Musical Theatre</a></li>
+	<li id="menu-item-235804" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235804 category--poetry"><a href="https://citynews.com.au/category/arts-entertainment/poetry/">Poetry</a></li>
+	<li id="menu-item-235805" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235805 category--reviews"><a href="https://citynews.com.au/category/arts-entertainment/reviews/">Reviews</a></li>
+</ul></div><div class="cell medium-8 xlarge-9"><div class="grid-x grid-padding-x large-up-2 xlarge-up-3"><article class="cell navigation-post "><div class="padding-bottom--small"><a href="https://citynews.com.au/2024/miles-franklin-literary-award-finalists-announced/" class="post-image"><span class="set-size set-size--landscape"><span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/mile-fanklin-finalists-e1719877784804.jpg)"><img src="https://citynews.com.au/wp-content/uploads/2024/07/mile-fanklin-finalists-e1719877784804.jpg" alt="Miles Franklin Literary Award finalists announced"></span></span></a></div><a href="https://citynews.com.au/category/arts-entertainment/books/" class="category-link category-link--arts-entertainment">Books</a><h2 class="h3"><a href="https://citynews.com.au/2024/miles-franklin-literary-award-finalists-announced/">Miles Franklin Literary Award finalists announced</a></h2></article><article class="cell navigation-post "><div class="padding-bottom--small"><a href="https://citynews.com.au/2024/star-soprano-brings-echoed-voices-to-albert-hall/" class="post-image"><span class="set-size set-size--landscape"><span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Siobhan-Stagg-Nico-de-Villiers-DSCF8182-Credit-Ben-Reason-resized.jpg)"><img src="https://citynews.com.au/wp-content/uploads/2024/06/Siobhan-Stagg-Nico-de-Villiers-DSCF8182-Credit-Ben-Reason-resized.jpg" alt="Star soprano brings Echoed Voices to Albert Hall"></span></span></a></div><a href="https://citynews.com.au/category/arts-entertainment/music/" class="category-link category-link--arts-entertainment">Music</a><h2 class="h3"><a href="https://citynews.com.au/2024/star-soprano-brings-echoed-voices-to-albert-hall/">Star soprano brings Echoed Voices to Albert Hall</a></h2></article><article class="cell navigation-post show-for-xlarge"><div class="padding-bottom--small"><a href="https://citynews.com.au/2024/song-and-dance-when-worlds-collide/" class="post-image"><span class="set-size set-size--landscape"><span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/from-left-Colin-Lane-and-David-Hobson-In-Tails-1200x800.jpg)"><img src="https://citynews.com.au/wp-content/uploads/2024/06/from-left-Colin-Lane-and-David-Hobson-In-Tails-1200x800.jpg" alt="Song and dance when worlds collide"></span></span></a></div><a href="https://citynews.com.au/category/arts-entertainment/" class="category-link category-link--arts-entertainment">Arts &amp; Entertainment</a><h2 class="h3"><a href="https://citynews.com.au/2024/song-and-dance-when-worlds-collide/">Song and dance when worlds collide</a></h2></article></div></div></div></div></div></div></div></li>
+<li id="menu-item-235806" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cell shrink menu-item-235806 category--lifestyle"><a href="https://citynews.com.au/category/lifestyle/">Lifestyle</a><div class="dropdown-menu outer-row show-for-large border-bottom"><div class="grid-container"><div class="grid-x grid-padding-x align-center"><div class="cell"><div class="grid-x"><div class="cell medium-4 xlarge-3"><h4>Lifestyle</h4><ul class="sub-nav grid-x grid-x--xsmall grid-padding-x grid-padding-y medium-up-2">	<li id="menu-item-235799" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235799 category--dining"><a href="https://citynews.com.au/category/lifestyle/dining/">Dining</a></li>
+	<li id="menu-item-235808" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235808 category--canberra-culture-lifestyle"><a href="https://citynews.com.au/category/lifestyle/canberra-culture-lifestyle/">Canberra culture</a></li>
+	<li id="menu-item-235809" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235809 category--fashion"><a href="https://citynews.com.au/category/lifestyle/fashion/">Fashion</a></li>
+	<li id="menu-item-235810" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235810 category--health-fitness"><a href="https://citynews.com.au/category/lifestyle/health-fitness/">Health &amp; Fitness</a></li>
+	<li id="menu-item-235811" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235811 category--history"><a href="https://citynews.com.au/category/lifestyle/history/">History</a></li>
+	<li id="menu-item-235812" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235812 category--pets"><a href="https://citynews.com.au/category/lifestyle/pets/">Pets</a></li>
+	<li id="menu-item-235813" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235813 category--socials"><a href="https://citynews.com.au/category/lifestyle/socials/">Socials</a></li>
+</ul></div><div class="cell medium-8 xlarge-9"><div class="grid-x grid-padding-x large-up-2 xlarge-up-3"><article class="cell navigation-post "><div class="padding-bottom--small"><a href="https://citynews.com.au/2024/getting-the-most-out-of-grafting/" class="post-image"><span class="set-size set-size--landscape"><span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/05/240627-Grafting-apples-resized-rotated-e1718184808314.jpg)"><img src="https://citynews.com.au/wp-content/uploads/2024/05/240627-Grafting-apples-resized-rotated-e1718184808314.jpg" alt="Getting the most out of grafting"></span></span></a></div><a href="https://citynews.com.au/category/lifestyle/gardening/" class="category-link category-link--lifestyle">Gardening</a><h2 class="h3"><a href="https://citynews.com.au/2024/getting-the-most-out-of-grafting/">Getting the most out of grafting</a></h2></article><article class="cell navigation-post "><div class="padding-bottom--small"><a href="https://citynews.com.au/2024/cartoon-dose-of-dorin-748/" class="post-image"><span class="set-size set-size--landscape"><span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Emptied-resized-e1719440374913.jpg)"><img src="https://citynews.com.au/wp-content/uploads/2024/06/Emptied-resized-e1719440374913.jpg" alt="Cartoon / Dose of Dorin"></span></span></a></div><a href="https://citynews.com.au/category/lifestyle/personal-finance/" class="category-link category-link--lifestyle">Personal finance</a><h2 class="h3"><a href="https://citynews.com.au/2024/cartoon-dose-of-dorin-748/">Cartoon / Dose of Dorin</a></h2></article><article class="cell navigation-post show-for-xlarge"><div class="padding-bottom--small"><a href="https://citynews.com.au/2024/cafe-hosts-a-true-community-hub/" class="post-image"><span class="set-size set-size--landscape"><span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Breakfast-wrap-IMG_4267-resized.jpg)"><img src="https://citynews.com.au/wp-content/uploads/2024/06/Breakfast-wrap-IMG_4267-resized.jpg" alt="Cafe hosts a true community hub"></span></span></a></div><a href="https://citynews.com.au/category/lifestyle/dining/" class="category-link category-link--lifestyle">Dining</a><h2 class="h3"><a href="https://citynews.com.au/2024/cafe-hosts-a-true-community-hub/">Cafe hosts a true community hub</a></h2></article></div></div></div></div></div></div></div></li>
+<li id="menu-item-235814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children cell shrink menu-item-235814"><a href="#">More</a><div class="dropdown-menu outer-row show-for-large border-bottom"><div class="grid-container"><div class="grid-x grid-padding-x align-center"><div class="cell"><div class="grid-x"><div class="cell medium-4 xlarge-3"><h4>More</h4><ul class="sub-nav grid-x grid-x--xsmall grid-padding-x grid-padding-y medium-up-2">	<li id="menu-item-235816" class="menu-item menu-item-type-post_type menu-item-object-page cell shrink menu-item-235816"><a href="https://citynews.com.au/about/">About Us</a></li>
+	<li id="menu-item-235817" class="menu-item menu-item-type-post_type menu-item-object-page cell shrink menu-item-235817"><a href="https://citynews.com.au/columnists/">CityNews Authors</a></li>
+	<li id="menu-item-235818" class="menu-item menu-item-type-post_type menu-item-object-page cell shrink menu-item-235818"><a href="https://citynews.com.au/advertise/">Advertise with us</a></li>
+	<li id="menu-item-235819" class="menu-item menu-item-type-post_type menu-item-object-page cell shrink menu-item-235819"><a href="https://citynews.com.au/letters-to-the-editor/">Letters to the Editor</a></li>
+	<li id="menu-item-235820" class="menu-item menu-item-type-post_type menu-item-object-page cell shrink menu-item-235820"><a href="https://citynews.com.au/contact/">Contact us</a></li>
+	<li id="menu-item-235821" class="menu-item menu-item-type-post_type menu-item-object-page cell shrink menu-item-235821"><a href="https://citynews.com.au/subscribe/">Sign up now</a></li>
+	<li id="menu-item-235822" class="menu-item menu-item-type-taxonomy menu-item-object-category cell shrink menu-item-235822 category--digital-edition"><a href="https://citynews.com.au/category/digital-edition/">Digital Edition</a></li>
+	<li id="menu-item-235823" class="menu-item menu-item-type-post_type menu-item-object-page cell shrink menu-item-235823"><a href="https://citynews.com.au/crosswords/">Crosswords</a></li>
+	<li id="menu-item-235824" class="menu-item menu-item-type-post_type menu-item-object-page cell shrink menu-item-235824"><a href="https://citynews.com.au/sudoku/">Sudoku</a></li>
+</ul></div><div class="cell medium-8 xlarge-9"><div class="grid-x grid-padding-x large-up-2"><div class="cell"><div class="grid-x grid-padding-x"><div class="cell xlarge-10"><h4>Subscribe</h4><p class="text-small">Get CityNews in your inbox. Daily. The best local news sent straight to your inbox every workday!</p>
+<a href="https://citynews.com.au/subscribe/" class="btn btn--highlight text-small" target="_self">Subscribe</a></div></div></div><div class="cell"><div class="grid-x grid-padding-x"><div class="cell xlarge-10"><h4>Support CityNews</h4><p class="text-small">Make a donation and support the future of journalism and media diversity in the ACT.</p>
+<a href="https://citynews.com.au/support/" class="btn btn--highlight text-small" target="_self">Support</a></div></div></div></div></div></div></div></div></div></div></li>
+</ul></nav>					</div>
+					<div class="cell shrink">
+						<div class="site-search">
+							 <form class="search-form" method="get" action="https://citynews.com.au/" autocomplete="off">
+								<input type="text" name="s" value="" placeholder="Search">
+								<input type="hidden" name="post_type" value="post" />
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </header>
+		
+	<div class="site-navigation outer-row hide-for-large">
+    	<div class="grid-container content-area">
+			<div class="grid-x grid-padding-x">
+				<div class="cell">
+					<div class="padding-bottom">
+						<div class="grid-x grid-padding-x">
+							<div class="cell auto">
+								<form class="search-form" method="get" action="https://citynews.com.au/" autocomplete="off">
+									<input type="text" name="s" value="" placeholder="Search">
+									<input type="hidden" name="post_type" value="post" />
+								</form>
+							</div>
+							<div class="cell shrink">
+								<button type="button" class="menu-button menu-button--open js-menu-trigger">
+									<span></span>
+									<span></span>
+									<span></span>
+								</button>
+							</div>
+						</div>
+					</div>
+					<nav class="site-navigation__navigation"><ul id="menu-primary-navigation-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235785 category--news"><a href="https://citynews.com.au/category/news/">News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-235786 category--politics"><a href="https://citynews.com.au/category/politics/">Politics</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235787 category--act-government"><a href="https://citynews.com.au/category/politics/act-government/">Assembly</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235788 category--environment"><a href="https://citynews.com.au/category/politics/environment/">Environment</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235789 category--federal-parliament"><a href="https://citynews.com.au/category/politics/federal-parliament/">Federal Parliament</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235790 category--health"><a href="https://citynews.com.au/category/politics/health/">Health</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235791 category--planning"><a href="https://citynews.com.au/category/politics/planning/">Planning</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-235792 category--blogs"><a href="https://citynews.com.au/category/blogs/">Opinion</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235807 category--canberra-confidential"><a href="https://citynews.com.au/category/lifestyle/canberra-confidential/">Canberra Confidential</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235793 category--letters"><a href="https://citynews.com.au/category/blogs/letters/">Letters</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-235794 category--arts-entertainment"><a href="https://citynews.com.au/category/arts-entertainment/">Arts &amp; Entertainment</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235795 category--art-arts-entertainment"><a href="https://citynews.com.au/category/arts-entertainment/art-arts-entertainment/">Art</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235796 category--books"><a href="https://citynews.com.au/category/arts-entertainment/books/">Books</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235797 category--craft-arts-entertainment"><a href="https://citynews.com.au/category/arts-entertainment/craft-arts-entertainment/">Craft</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235798 category--dance-arts-entertainment"><a href="https://citynews.com.au/category/arts-entertainment/dance-arts-entertainment/">Dance</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235800 category--exhibitions"><a href="https://citynews.com.au/category/arts-entertainment/exhibitions/">Exhibitions</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235801 category--film"><a href="https://citynews.com.au/category/arts-entertainment/film/">Film</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235802 category--music"><a href="https://citynews.com.au/category/arts-entertainment/music/">Music</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235803 category--art-musical-theatre"><a href="https://citynews.com.au/category/arts-entertainment/art-musical-theatre/">Musical Theatre</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235804 category--poetry"><a href="https://citynews.com.au/category/arts-entertainment/poetry/">Poetry</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235805 category--reviews"><a href="https://citynews.com.au/category/arts-entertainment/reviews/">Reviews</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-235806 category--lifestyle"><a href="https://citynews.com.au/category/lifestyle/">Lifestyle</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235799 category--dining"><a href="https://citynews.com.au/category/lifestyle/dining/">Dining</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235808 category--canberra-culture-lifestyle"><a href="https://citynews.com.au/category/lifestyle/canberra-culture-lifestyle/">Canberra culture</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235809 category--fashion"><a href="https://citynews.com.au/category/lifestyle/fashion/">Fashion</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235810 category--health-fitness"><a href="https://citynews.com.au/category/lifestyle/health-fitness/">Health &amp; Fitness</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235811 category--history"><a href="https://citynews.com.au/category/lifestyle/history/">History</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235812 category--pets"><a href="https://citynews.com.au/category/lifestyle/pets/">Pets</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235813 category--socials"><a href="https://citynews.com.au/category/lifestyle/socials/">Socials</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-235814"><a href="#">More</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235816"><a href="https://citynews.com.au/about/">About Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235817"><a href="https://citynews.com.au/columnists/">CityNews Authors</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235818"><a href="https://citynews.com.au/advertise/">Advertise with us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235819"><a href="https://citynews.com.au/letters-to-the-editor/">Letters to the Editor</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235820"><a href="https://citynews.com.au/contact/">Contact us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235821"><a href="https://citynews.com.au/subscribe/">Sign up now</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235822 category--digital-edition"><a href="https://citynews.com.au/category/digital-edition/">Digital Edition</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235823"><a href="https://citynews.com.au/crosswords/">Crosswords</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235824"><a href="https://citynews.com.au/sudoku/">Sudoku</a></li>
+</ul>
+</li>
+</ul></nav>				</div>
+			</div>
+		</div>
+    </div>
+    
+    <main><section class="content-row padding-top outer-row">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+				<div class="grid-x grid-padding-x grid-padding-y">
+					
+										<div class="cell large-7 xlarge-4 xlarge-order-2">
+						<div class="flexslider flexslider--controls">
+							<ul class="slides">
+							<li><article id="post-320881" class="cell  post-320881 post type-post status-publish format-standard has-post-thumbnail hentry category-political-commentary category-politics tag-fatima-payman">
+		<div class="padding-bottom--small">
+		<a href="https://citynews.com.au/2024/payman-takes-palestine-debate-to-a-whole-new-level/" class="post-image">
+			<span class="set-size set-size--landscape">
+				<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/20240625168049303581-original-resized.jpg)">
+					<img src="https://citynews.com.au/wp-content/uploads/2024/06/20240625168049303581-original-resized.jpg" alt="Payman takes Palestine debate to a whole new level">
+				</span>
+			</span>
+		</a>
+	</div>
+		<a href="https://citynews.com.au/category/politics/" class="category-link category-link--politics">Politics</a>	<h1 class="h2"><a href="https://citynews.com.au/2024/payman-takes-palestine-debate-to-a-whole-new-level/">Payman takes Palestine debate to a whole new level</a></h1>
+    	<p class="text-small">Rebel Senator Fatima Payman has escalated her confrontation with the Labor Party by claiming “some members” are trying to intimidate her into quitting the Senate, writes MICHELLE GRATTAN.</p></article></li><li><article id="post-320843" class="cell  post-320843 post type-post status-publish format-standard has-post-thumbnail hentry category-feature category-news tag-sexual-strangulation">
+		<div class="padding-bottom--small">
+		<a href="https://citynews.com.au/2024/lovers-warned-common-bedroom-trend-could-be-deadly/" class="post-image">
+			<span class="set-size set-size--landscape">
+				<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/20100129000216942163-original-resized-e1719877259655-1.jpg)">
+					<img src="https://citynews.com.au/wp-content/uploads/2024/07/20100129000216942163-original-resized-e1719877259655-1.jpg" alt="Lovers warned &#8216;common&#8217; bedroom trend could be deadly">
+				</span>
+			</span>
+		</a>
+	</div>
+		<a href="https://citynews.com.au/category/news/" class="category-link category-link--news">News</a>	<h1 class="h2"><a href="https://citynews.com.au/2024/lovers-warned-common-bedroom-trend-could-be-deadly/">Lovers warned &#8216;common&#8217; bedroom trend could be deadly</a></h1>
+    	<p class="text-small">Fear of being labelled "vanilla" in the bedroom and ignorance of the danger are leading young people to consent to an intimate act posing genuine risk of harm.</p></article></li><li><article id="post-319510" class="cell  post-319510 post type-post status-publish format-standard has-post-thumbnail hentry category-arts-entertainment category-music tag-national-opera tag-siobhan-stagg">
+		<div class="padding-bottom--small">
+		<a href="https://citynews.com.au/2024/star-soprano-brings-echoed-voices-to-albert-hall/" class="post-image">
+			<span class="set-size set-size--landscape">
+				<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Siobhan-Stagg-Nico-de-Villiers-DSCF8182-Credit-Ben-Reason-resized.jpg)">
+					<img src="https://citynews.com.au/wp-content/uploads/2024/06/Siobhan-Stagg-Nico-de-Villiers-DSCF8182-Credit-Ben-Reason-resized.jpg" alt="Star soprano brings Echoed Voices to Albert Hall">
+				</span>
+			</span>
+		</a>
+	</div>
+		<a href="https://citynews.com.au/category/arts-entertainment/" class="category-link category-link--arts-entertainment">Arts &amp; Entertainment</a>	<h1 class="h2"><a href="https://citynews.com.au/2024/star-soprano-brings-echoed-voices-to-albert-hall/">Star soprano brings Echoed Voices to Albert Hall</a></h1>
+    	<p class="text-small">National Opera has fallen on its feet in securing the right to host Mildura-born star soprano Siobhan Stagg, who will perform with pianist Nico de Villiers at Albert Hall later this month, reports HELEN MUSA.</p></article></li><li><article id="post-320402" class="cell  post-320402 post type-post status-publish format-standard has-post-thumbnail hentry category-education category-news tag-2024-kids-lit-quiz">
+		<div class="padding-bottom--small">
+		<a href="https://citynews.com.au/2024/star-bookworms-step-into-the-world-spotlight/" class="post-image">
+			<span class="set-size set-size--landscape">
+				<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Vinudi-Rajapaksha-Elliott-Bennett-Avi-Jain-Benjamin-McBride-resized-e1719534743735.jpg)">
+					<img src="https://citynews.com.au/wp-content/uploads/2024/06/Vinudi-Rajapaksha-Elliott-Bennett-Avi-Jain-Benjamin-McBride-resized-e1719534743735.jpg" alt="Star bookworms step into the world spotlight">
+				</span>
+			</span>
+		</a>
+	</div>
+		<a href="https://citynews.com.au/category/news/" class="category-link category-link--news">News</a>	<h1 class="h2"><a href="https://citynews.com.au/2024/star-bookworms-step-into-the-world-spotlight/">Star bookworms step into the world spotlight</a></h1>
+    	<p class="text-small">Four Canberra Grammar School students  will show off their literary prowess at the 2024 Kids’ Lit Quiz World Final in Canberra on July 10.</p></article></li><li><article id="post-320382" class="cell  post-320382 post type-post status-publish format-standard has-post-thumbnail hentry category-letters category-blogs tag-acton-peninsula tag-light-rail">
+		<div class="padding-bottom--small">
+		<a href="https://citynews.com.au/2024/tram-south-should-follow-griffins-lake-crossing/" class="post-image">
+			<span class="set-size set-size--landscape">
+				<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Lakes-third-bridge-1-resized.jpg)">
+					<img src="https://citynews.com.au/wp-content/uploads/2024/06/Lakes-third-bridge-1-resized.jpg" alt="Tram south should follow Griffin&#8217;s lake crossing">
+				</span>
+			</span>
+		</a>
+	</div>
+		<a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a>	<h1 class="h2"><a href="https://citynews.com.au/2024/tram-south-should-follow-griffins-lake-crossing/">Tram south should follow Griffin&#8217;s lake crossing</a></h1>
+    	<p class="text-small">Letter writer JACK KERSHAW sees and emerging Acton Peninsula as the logical place for the light rail to cross the lake. Walter Burley Griffin's unbuilt third bridge suggests Mr Kershaw has a point. </p></article></li><li><article id="post-318836" class="cell  post-318836 post type-post status-publish format-standard has-post-thumbnail hentry category-arts-entertainment category-streaming tag-bridgerton">
+		<div class="padding-bottom--small">
+		<a href="https://citynews.com.au/2024/bridgerton-bonks-its-way-to-a-season-three-climax/" class="post-image">
+			<span class="set-size set-size--landscape">
+				<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/bridgerton-season-3-5-jp-240214-a519d6-resized.jpg)">
+					<img src="https://citynews.com.au/wp-content/uploads/2024/06/bridgerton-season-3-5-jp-240214-a519d6-resized.jpg" alt="Bridgerton bonks its way to a season three climax">
+				</span>
+			</span>
+		</a>
+	</div>
+		<a href="https://citynews.com.au/category/arts-entertainment/" class="category-link category-link--arts-entertainment">Arts &amp; Entertainment</a>	<h1 class="h2"><a href="https://citynews.com.au/2024/bridgerton-bonks-its-way-to-a-season-three-climax/">Bridgerton bonks its way to a season three climax</a></h1>
+    	<p class="text-small">Two of Bridgerton's actors have revealed they broke furniture while filming one of the show's infamous sex scenes in a stroke of marketing genius , says streaming columnist NICK OVERALL.</p></article></li><li><article id="post-320532" class="cell  post-320532 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs tag-act-integrity-commission tag-ben-aulich tag-julian-assange tag-michael-adams">
+		<div class="padding-bottom--small">
+		<a href="https://citynews.com.au/2024/dropped-pants-slow-justice-and-head-scratching/" class="post-image">
+			<span class="set-size set-size--landscape">
+				<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/02/20231222001880969511-original-resized.jpg)">
+					<img src="https://citynews.com.au/wp-content/uploads/2024/02/20231222001880969511-original-resized.jpg" alt="Dropped pants, slow justice and head scratching">
+				</span>
+			</span>
+		</a>
+	</div>
+		<a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a>	<h1 class="h2"><a href="https://citynews.com.au/2024/dropped-pants-slow-justice-and-head-scratching/">Dropped pants, slow justice and head scratching</a></h1>
+    	<p class="text-small">"This is a column about four little happenings that raise issues not mentioned in mainstream media, but cause some head scratching," writes HUGH SELBY. </p></article></li><li><article id="post-320551" class="cell  post-320551 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs tag-phone-calls tag-texts">
+		<div class="padding-bottom--small">
+		<a href="https://citynews.com.au/2024/young-people-need-to-pick-up-the-phone-to-be-heard/" class="post-image">
+			<span class="set-size set-size--landscape">
+				<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/jonathan-borba-fzDMsg9_Yc-unsplash-resized-e1719628881954.jpg)">
+					<img src="https://citynews.com.au/wp-content/uploads/2024/06/jonathan-borba-fzDMsg9_Yc-unsplash-resized-e1719628881954.jpg" alt="Young people need to pick up the phone to be heard">
+				</span>
+			</span>
+		</a>
+	</div>
+		<a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a>	<h1 class="h2"><a href="https://citynews.com.au/2024/young-people-need-to-pick-up-the-phone-to-be-heard/">Young people need to pick up the phone to be heard</a></h1>
+    	<p class="text-small">Young people hate making phone calls – could it be hurting their careers, asks NARELLE HOPKIN.</p></article></li><li><article id="post-320514" class="cell  post-320514 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs tag-inflation tag-interest-rates">
+		<div class="padding-bottom--small">
+		<a href="https://citynews.com.au/2024/cartoon-dose-of-dorin-749/" class="post-image">
+			<span class="set-size set-size--landscape">
+				<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Inflation-Rates-resized-e1719622531392.jpg)">
+					<img src="https://citynews.com.au/wp-content/uploads/2024/06/Inflation-Rates-resized-e1719622531392.jpg" alt="Cartoon / Dose of Dorin">
+				</span>
+			</span>
+		</a>
+	</div>
+		<a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a>	<h1 class="h2"><a href="https://citynews.com.au/2024/cartoon-dose-of-dorin-749/">Cartoon / Dose of Dorin</a></h1>
+    	<p class="text-small">The cost-of-living crisis, where will it all end, asks cartoonist PAUL DORIN.</p></article></li>							</ul>
+						</div>
+					</div>
+										
+					<div class="cell large-5 xlarge-3 xlarge-order-1 divider divider--top divider--top--small divider--top--medium"><div class="grid-x grid-padding-x grid-padding-y"><article id="post-320890" class="cell  post-320890 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-politics-news tag-nationals">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/coalition-bust-up-settled-as-rogue-nationals-mp-sacked/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/20220808001687840953-original-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/07/20220808001687840953-original-resized.jpg" alt="Coalition calls truce amid bickering over MP&#8217;s sacking">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<span class="breaking-tag">Update</span>			<h2 class="h3 no-margin"><a href="https://citynews.com.au/2024/coalition-bust-up-settled-as-rogue-nationals-mp-sacked/">Coalition calls truce amid bickering over MP&#8217;s sacking</a></h2>
+            			<p class="text-small show-for-medium-only">The NSW coalition claims it has sorted out its differences and sacked a Nationals MP who blasted the opposition leader in a controversial Facebook post.</p>		</div>
+	</div>
+	</article><article id="post-320923" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320923 post type-post status-publish format-standard has-post-thumbnail hentry category-national-news category-news tag-coles tag-peter-dutton tag-woolworths">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/coalition-plan-to-break-up-price-gouging-supermarkets/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/20240702137231753496-original-1-1200x800.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/07/20240702137231753496-original-1-1200x800.jpg" alt="Dutton threatens Coles, Woolies break-up over prices">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<span class="breaking-tag">Update</span>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/coalition-plan-to-break-up-price-gouging-supermarkets/">Dutton threatens Coles, Woolies break-up over prices</a></h2>
+            			<p class="text-small show-for-medium-only">A federal opposition proposal would put divestiture powers in place for supermarkets found to be price-gouging and anti-competitive.</p>		</div>
+	</div>
+	</article><article id="post-320921" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320921 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-headlines">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/tuesdays-citynews-headlines-54/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2023/05/CityNews-TODAY_3x2.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2023/05/CityNews-TODAY_3x2.jpg" alt="Tuesday&#8217;s &#8216;CityNews&#8217; headlines">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/news/" class="category-link category-link--news">News</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/tuesdays-citynews-headlines-54/">Tuesday&#8217;s &#8216;CityNews&#8217; headlines</a></h2>
+            			<p class="text-small show-for-medium-only">Here are today’s “CityNews” headlines.</p>		</div>
+	</div>
+	</article><article id="post-320912" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320912 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-anz-bank">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/anz-named-and-shamed-for-charging-dead-clients/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/20240220001905182662-original-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/07/20240220001905182662-original-resized.jpg" alt="ANZ named and shamed for charging dead clients">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/news/" class="category-link category-link--news">News</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/anz-named-and-shamed-for-charging-dead-clients/">ANZ named and shamed for charging dead clients</a></h2>
+            			<p class="text-small show-for-medium-only">The ANZ bank has been publicly named and shamed for charging fees to dead clients and ignoring requests for information from their representatives.</p>		</div>
+	</div>
+	</article><article id="post-320834" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320834 post type-post status-publish format-standard has-post-thumbnail hentry category-national-news category-news tag-live-sheep-exports">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/farmers-angry-as-laws-pass-to-end-live-sheep-exports/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/20190222001386483542-original-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/07/20190222001386483542-original-resized.jpg" alt="Farmers fuming as government ends live sheep exports">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<span class="breaking-tag">Update</span>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/farmers-angry-as-laws-pass-to-end-live-sheep-exports/">Farmers fuming as government ends live sheep exports</a></h2>
+            			<p class="text-small show-for-medium-only">Australia will end live sheep exports within four years after the Senate passed laws to halt the trade, angering farmers who say it will ruin their livelihoods.</p>		</div>
+	</div>
+	</article></div></div><div class="cell medium-12 xlarge-2 xlarge-order-3 divider divider--top divider--top--small divider--top--medium divider--top--large"><div class="grid-x grid-padding-x grid-padding-y medium-up-2 xlarge-up-1"><article id="post-320824" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large post-320824 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-politics-news tag-fatima-payman">
+	<span class="breaking-tag">Update</span>	<h3 class="h6"><a href="https://citynews.com.au/2024/labor-seeks-unity-as-payman-suspension-row-rumbles-on/">Labor votes to suspend outspoken pro-Palestine senator</a></h3>
+    	</article><article id="post-320872" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320872 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-eastern-quoll">
+	<a href="https://citynews.com.au/category/news/" class="category-link category-link--news">News</a>	<h3 class="h6"><a href="https://citynews.com.au/2024/new-quolls-welcomed-with-open-paws/">New quolls welcomed with open paws</a></h3>
+    	</article><article id="post-320862" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320862 post type-post status-publish format-standard has-post-thumbnail hentry category-health-news category-news tag-life-expectancy">
+	<a href="https://citynews.com.au/category/news/" class="category-link category-link--news">News</a>	<h3 class="h6"><a href="https://citynews.com.au/2024/longer-life-expectancy-brings-growing-disease-burden/">Longer life expectancy brings disease burden</a></h3>
+    	</article><article id="post-320853" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320853 post type-post status-publish format-standard has-post-thumbnail hentry category-arts-entertainment category-books tag-mile-franklin-literary-awards">
+	<a href="https://citynews.com.au/category/arts-entertainment/" class="category-link category-link--arts-entertainment">Arts &amp; Entertainment</a>	<h3 class="h6"><a href="https://citynews.com.au/2024/miles-franklin-literary-award-finalists-announced/">Miles Franklin Literary Award finalists announced</a></h3>
+    	</article><article id="post-319501" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-319501 post type-post status-publish format-standard has-post-thumbnail hentry category-arts-entertainment tag-colin-lane tag-david-hobson">
+	<a href="https://citynews.com.au/category/arts-entertainment/" class="category-link category-link--arts-entertainment">Arts &amp; Entertainment</a>	<h3 class="h6"><a href="https://citynews.com.au/2024/song-and-dance-when-worlds-collide/">Song and dance when worlds collide</a></h3>
+    	</article><article id="post-320743" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320743 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-politics-news tag-fatima-payman">
+	<span class="breaking-tag">Update</span>	<h3 class="h6"><a href="https://citynews.com.au/2024/pm-defends-censure-of-defiant-senator/">Payman &#8216;exiled&#8217; from Labor after Palestine floor cross</a></h3>
+    	</article></div></div><div class="cell xlarge-3 medium-order-4 show-for-xlarge"><div class="grid-x height_100 align-middle">
+<div class="ad ad--halfpage">
+    <div class='code-block code-block-3' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+  <div id="gam_halfpage_pos1">
+   <script type='text/javascript'>
+    googletag.cmd.push(function() {
+       googletag.defineSlot(gamData.adUnit, [300, 600], 'gam_halfpage_pos1')
+				.defineSizeMapping(gamData.sizeMap.halfpage)
+				.setTargeting('pos', '1')
+				.setTargeting('refresh', 'true')
+				.addService(googletag.pubads());
+       googletag.display('gam_halfpage_pos1');
+    });
+   </script>
+  </div></div>
+</div></div></div></div><div class="padding-top hide-for-xlarge"><div class="padding-top divider divider--full-width divider--top divider--top--small divider--top--medium divider--top--large"><div class="grid-x grid-padding-x align-center"><div class="cell">
+<div class="ad ad--mrec">
+    <div class='code-block code-block-12' style='margin: 8px 0; clear: both;'>
+  <div id="gam_mobmrec_pos1">
+   <script type='text/javascript'>
+    googletag.cmd.push(function() {
+       googletag.defineSlot(gamData.adUnit, [300, 250], 'gam_mobmrec_pos1')
+				.defineSizeMapping(gamData.sizeMap.mobmrec)
+				.setTargeting('pos', '1')
+				.setTargeting('refresh', 'true')
+				.addService(googletag.pubads());
+       googletag.display('gam_mobmrec_pos1');
+    });
+   </script>
+  </div></div>
+</div></div></div></div></div>				</div>
+            </div>
+        </div>
+    </div>
+</section><section class="content-row padding-top outer-row">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+				<div class="border-top padding-top">
+					<div class="grid-x grid-padding-x grid-padding-y xlarge-flex-dir-row-reverse">
+						<div class="cell xlarge-9">
+							<div class="grid-x grid-padding-x grid-padding-y large-up-3">
+								<article id="post-320096" class="cell  post-320096 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle category-sponsored-content tag-canberra-dentists tag-curtin-dental">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4 large-12">
+			<a href="https://citynews.com.au/2024/dentists-keen-to-take-long-term-care-of-your-teeth/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Curtin-Dental-team.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/Curtin-Dental-team.jpg" alt="Dentists keen to take long-term care of your teeth">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8 large-12">
+			<a href="https://citynews.com.au/category/lifestyle/" class="category-link category-link--lifestyle">Lifestyle</a>			<h2 class="h3 no-margin"><a href="https://citynews.com.au/2024/dentists-keen-to-take-long-term-care-of-your-teeth/">Dentists keen to take long-term care of your teeth</a></h2>
+            			<p class="text-small show-for-medium-only">"It’s not just fixing a hole in someone’s tooth… there's a person attached to those teeth and we aim to provide long-term care." Meet the Curtin Dental team, a practice that's all about longevity, says NIRAN PATHMAPERUMA and TIFFANY TAM.</p><p class="sponsored text-xsmall text-grey">Sponsored Content</p>		</div>
+	</div>
+	</article><article id="post-319051" class="cell divider divider--top divider--top--small divider--top--medium post-319051 post type-post status-publish format-standard has-post-thumbnail hentry category-health-fitness category-lifestyle category-sponsored-content tag-angel-eyecare tag-mobile-optometrist tag-shane-brookman">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4 large-12">
+			<a href="https://citynews.com.au/2024/optometrist-meets-mission-with-mobile-eye-tests/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/angel-eyecare-60.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/angel-eyecare-60.jpg" alt="Optometrist meets his mission with mobile eye tests">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8 large-12">
+			<a href="https://citynews.com.au/category/lifestyle/" class="category-link category-link--lifestyle">Lifestyle</a>			<h2 class="h3 no-margin"><a href="https://citynews.com.au/2024/optometrist-meets-mission-with-mobile-eye-tests/">Optometrist meets his mission with mobile eye tests</a></h2>
+            			<p class="text-small show-for-medium-only">"No matter where they are, even if they’re in residential aged care, nursing homes, if we can get just one son or daughter to say ‘my mum needs this, my dad needs this’, call me and I can go there." Meet mobile optometrist SHANE BROOKMAN.</p><p class="sponsored text-xsmall text-grey">Sponsored Content</p>		</div>
+	</div>
+	</article><article id="post-318857" class="cell divider divider--top divider--top--small divider--top--medium post-318857 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle category-sponsored-content tag-canberra-lawyers tag-maliganis-edwards-johnson tag-mej tag-thomas-wallace-pannell">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4 large-12">
+			<a href="https://citynews.com.au/2024/compassionate-lawyer-aims-to-empower-clients/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Thomas-Wallace-Pannell-new-Special-Counsel-MEJ.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/Thomas-Wallace-Pannell-new-Special-Counsel-MEJ.jpg" alt="Compassionate lawyer aims to empower clients">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8 large-12">
+			<a href="https://citynews.com.au/category/lifestyle/" class="category-link category-link--lifestyle">Lifestyle</a>			<h2 class="h3 no-margin"><a href="https://citynews.com.au/2024/compassionate-lawyer-aims-to-empower-clients/">Compassionate lawyer aims to empower clients</a></h2>
+            			<p class="text-small show-for-medium-only">Canberra law firm Maliganis Edwards Johnson (MEJ) has appointed senior lawyer Thomas Wallace-Pannell as special counsel, bringing with him a deep expertise in institutional abuse, worker’s compensation and public liability claims.</p><p class="sponsored text-xsmall text-grey">Sponsored Content</p>		</div>
+	</div>
+	</article>							</div>
+						</div>
+						<div class="cell xlarge-3 show-for-xlarge">
+							<div class="grid-x align-middle">
+								
+<div class="ad ad--mrec">
+    <div class='code-block code-block-4' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+  <div id="gam_mrec_pos1">
+   <script type='text/javascript'>
+    googletag.cmd.push(function() {
+       googletag.defineSlot(gamData.adUnit, [300, 250], 'gam_mrec_pos1')
+				.defineSizeMapping(gamData.sizeMap.deskmrec)
+				.setTargeting('pos', '1')
+				.setTargeting('refresh', 'true')
+				.addService(googletag.pubads());
+       googletag.display('gam_mrec_pos1');
+    });
+   </script>
+  </div></div>
+</div>							</div>
+						</div>
+					</div>
+				</div>
+            </div>
+        </div>
+    </div>
+</section><section class="content-row padding-top outer-row">
+    <div class="grid-container padding-top">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+				<h4 class="category-title text-highlight"><a href="https://citynews.com.au/category/news/">News</a></h4>
+				<div class="border-top border--highlight padding-top">
+					<div class="grid-x grid-padding-x grid-padding-y">
+						<div class="cell large-7 xlarge-4"><div class="grid-x grid-padding-x grid-padding-y"><article id="post-320890" class="cell  post-320890 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-politics-news tag-nationals">
+		<div class="padding-bottom--small">
+		<a href="https://citynews.com.au/2024/coalition-bust-up-settled-as-rogue-nationals-mp-sacked/" class="post-image">
+			<span class="set-size set-size--landscape">
+				<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/20220808001687840953-original-resized.jpg)">
+					<img src="https://citynews.com.au/wp-content/uploads/2024/07/20220808001687840953-original-resized.jpg" alt="Coalition calls truce amid bickering over MP&#8217;s sacking">
+				</span>
+			</span>
+		</a>
+	</div>
+		<span class="breaking-tag">Update</span>	<h1 class="h2"><a href="https://citynews.com.au/2024/coalition-bust-up-settled-as-rogue-nationals-mp-sacked/">Coalition calls truce amid bickering over MP&#8217;s sacking</a></h1>
+    	<p class="text-small">The NSW coalition claims it has sorted out its differences and sacked a Nationals MP who blasted the opposition leader in a controversial Facebook post.</p></article></div></div><div class="cell large-5 xlarge-4 divider divider--top divider--top--small divider--top--medium"><div class="grid-x grid-padding-x grid-padding-y"><article id="post-320923" class="cell  post-320923 post type-post status-publish format-standard has-post-thumbnail hentry category-national-news category-news tag-coles tag-peter-dutton tag-woolworths">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/coalition-plan-to-break-up-price-gouging-supermarkets/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/20240702137231753496-original-1-1200x800.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/07/20240702137231753496-original-1-1200x800.jpg" alt="Dutton threatens Coles, Woolies break-up over prices">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<span class="breaking-tag">Update</span>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/coalition-plan-to-break-up-price-gouging-supermarkets/">Dutton threatens Coles, Woolies break-up over prices</a></h2>
+            			<p class="text-small show-for-medium-only">A federal opposition proposal would put divestiture powers in place for supermarkets found to be price-gouging and anti-competitive.</p>		</div>
+	</div>
+	</article><article id="post-320921" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320921 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-headlines">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/tuesdays-citynews-headlines-54/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2023/05/CityNews-TODAY_3x2.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2023/05/CityNews-TODAY_3x2.jpg" alt="Tuesday&#8217;s &#8216;CityNews&#8217; headlines">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/news/" class="category-link category-link--news">News</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/tuesdays-citynews-headlines-54/">Tuesday&#8217;s &#8216;CityNews&#8217; headlines</a></h2>
+            			<p class="text-small show-for-medium-only">Here are today’s “CityNews” headlines.</p>		</div>
+	</div>
+	</article><article id="post-320912" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320912 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-anz-bank">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/anz-named-and-shamed-for-charging-dead-clients/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/20240220001905182662-original-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/07/20240220001905182662-original-resized.jpg" alt="ANZ named and shamed for charging dead clients">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/news/" class="category-link category-link--news">News</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/anz-named-and-shamed-for-charging-dead-clients/">ANZ named and shamed for charging dead clients</a></h2>
+            			<p class="text-small show-for-medium-only">The ANZ bank has been publicly named and shamed for charging fees to dead clients and ignoring requests for information from their representatives.</p>		</div>
+	</div>
+	</article><article id="post-320834" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320834 post type-post status-publish format-standard has-post-thumbnail hentry category-national-news category-news tag-live-sheep-exports">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/farmers-angry-as-laws-pass-to-end-live-sheep-exports/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/20190222001386483542-original-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/07/20190222001386483542-original-resized.jpg" alt="Farmers fuming as government ends live sheep exports">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<span class="breaking-tag">Update</span>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/farmers-angry-as-laws-pass-to-end-live-sheep-exports/">Farmers fuming as government ends live sheep exports</a></h2>
+            			<p class="text-small show-for-medium-only">Australia will end live sheep exports within four years after the Senate passed laws to halt the trade, angering farmers who say it will ruin their livelihoods.</p>		</div>
+	</div>
+	</article></div></div><div class="cell xlarge-4 divider divider--top divider--top--small divider--top--medium divider--top--large"><div class="grid-x grid-padding-x grid-padding-y large-up-2 xlarge-up-1"><article id="post-320824" class="cell  post-320824 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-politics-news tag-fatima-payman">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/labor-seeks-unity-as-payman-suspension-row-rumbles-on/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/20240701151065741643-original-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/07/20240701151065741643-original-resized.jpg" alt="Labor votes to suspend outspoken pro-Palestine senator">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<span class="breaking-tag">Update</span>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/labor-seeks-unity-as-payman-suspension-row-rumbles-on/">Labor votes to suspend outspoken pro-Palestine senator</a></h2>
+            			<p class="text-small show-for-medium-only">Labor faces another day of questions over a suspended senator as it pushes through a legislative agenda in the final days of parliament before the winter break.</p>		</div>
+	</div>
+	</article><article id="post-320872" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320872 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-eastern-quoll">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/new-quolls-welcomed-with-open-paws/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/unnamed-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/07/unnamed-resized.jpg" alt="New quolls welcomed with open paws">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/news/" class="category-link category-link--news">News</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/new-quolls-welcomed-with-open-paws/">New quolls welcomed with open paws</a></h2>
+            			<p class="text-small show-for-medium-only">GPS tracking collars have revealed how newly reintroduced eastern quolls are settling in at Mulligans Flat Woodland Sanctuary, with quolls who were born at the sanctuary accepting their new neighbours with open paws.  </p>		</div>
+	</div>
+	</article><article id="post-320862" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320862 post type-post status-publish format-standard has-post-thumbnail hentry category-health-news category-news tag-life-expectancy">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/longer-life-expectancy-brings-growing-disease-burden/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/20230824001834241098-original-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/07/20230824001834241098-original-resized.jpg" alt="Longer life expectancy brings disease burden">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/news/health-news/" class="category-link category-link--news">Health</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/longer-life-expectancy-brings-growing-disease-burden/">Longer life expectancy brings disease burden</a></h2>
+            			<p class="text-small show-for-medium-only">Australians' life expectancy now ranks fourth in the world but three in five people have a long-term health condition as a result of their enhanced longevity.</p>		</div>
+	</div>
+	</article><article id="post-320843" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320843 post type-post status-publish format-standard has-post-thumbnail hentry category-feature category-news tag-sexual-strangulation">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/lovers-warned-common-bedroom-trend-could-be-deadly/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/20100129000216942163-original-resized-e1719877259655-1.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/07/20100129000216942163-original-resized-e1719877259655-1.jpg" alt="Lovers warned &#8216;common&#8217; bedroom trend could be deadly">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/news/feature/" class="category-link category-link--news">Feature</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/lovers-warned-common-bedroom-trend-could-be-deadly/">Lovers warned &#8216;common&#8217; bedroom trend could be deadly</a></h2>
+            			<p class="text-small show-for-medium-only">Fear of being labelled "vanilla" in the bedroom and ignorance of the danger are leading young people to consent to an intimate act posing genuine risk of harm.</p>		</div>
+	</div>
+	</article></div></div>					</div>
+				</div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="ad-row padding-top padding-bottom outer-row">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+				<div class="position_relative padding-top padding-bottom border-top border-bottom">
+					<div class="ad ad--leaderboard">
+					    <div class='code-block code-block-5' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+  <div id="gam_banner_pos2">
+   <script type='text/javascript'>
+    googletag.cmd.push(function() {
+       googletag.defineSlot(gamData.adUnit, [728, 90], 'gam_banner_pos2')
+				.defineSizeMapping(gamData.sizeMap.banner)
+				.setTargeting('pos', '2')
+				.setTargeting('refresh', 'true')
+				.addService(googletag.pubads());
+       googletag.display('gam_banner_pos2');
+    });
+   </script>
+  </div></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section class="content-row padding-top outer-row">
+    <div class="grid-container padding-top">
+		<div class="grid-x grid-padding-x">
+        	<div class="cell xlarge-9">
+				<h4 class="category-title text-red"><a href="https://citynews.com.au/category/politics/">Politics</a></h4>
+				<div class="border-top border--red padding-top"></div>
+			</div>
+			<div class="cell xlarge-3 show-for-xlarge">
+				<h4 class="category-title text-green">Daily Puzzles</h4>
+				<div class="border-top border--green padding-top">
+					
+				</div>
+			</div>
+		</div>	
+        <div class="grid-x grid-padding-x grid-padding-y">
+            <div class="cell">
+				<div class="">
+					<div class="grid-x grid-padding-x grid-padding-y">
+						<div class="cell xlarge-5"><div class="grid-x grid-padding-x grid-padding-y large-up-2 xlarge-up-1"><article id="post-320881" class="cell  post-320881 post type-post status-publish format-standard has-post-thumbnail hentry category-political-commentary category-politics tag-fatima-payman">
+	<div class="show-for-large">
+		<a href="https://citynews.com.au/category/politics/political-commentary/" class="category-link category-link--politics">Political commentary</a>		<h2 class="h3"><a href="https://citynews.com.au/2024/payman-takes-palestine-debate-to-a-whole-new-level/">Payman takes Palestine debate to a whole new level</a></h2><span></span>
+        	</div>
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/payman-takes-palestine-debate-to-a-whole-new-level/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/20240625168049303581-original-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/20240625168049303581-original-resized.jpg" alt="Payman takes Palestine debate to a whole new level">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<div class="hide-for-large">
+				<a href="https://citynews.com.au/category/politics/political-commentary/" class="category-link category-link--politics">Political commentary</a>				<h2 class="h3"><a href="https://citynews.com.au/2024/payman-takes-palestine-debate-to-a-whole-new-level/">Payman takes Palestine debate to a whole new level</a></h2><span></span>
+                			</div>
+			<div>
+			<p class="text-small show-for-medium">Rebel Senator Fatima Payman has escalated her confrontation with the Labor Party by claiming “some members” are trying to intimidate her into quitting the Senate, writes MICHELLE GRATTAN.</p>			</div>
+		</div>
+	</div>
+	</article><article id="post-320146" class="cell divider divider--top divider--top--small divider--top--medium divider--top--xlarge post-320146 post type-post status-publish format-standard has-post-thumbnail hentry category-political-commentary category-politics tag-act-budget-2023-24 tag-andrew-barr">
+	<div class="show-for-large">
+		<a href="https://citynews.com.au/category/politics/political-commentary/" class="category-link category-link--politics">Political commentary</a>		<h2 class="h3"><a href="https://citynews.com.au/2024/not-credible-barr-tops-his-bakers-dozen-of-failed-budgets/">Not credible: Barr tops his baker&#8217;s dozen of failed budgets</a></h2><span></span>
+        	</div>
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/not-credible-barr-tops-his-bakers-dozen-of-failed-budgets/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2023/06/20230626001814636071-original-1200x800.jpeg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2023/06/20230626001814636071-original-1200x800.jpeg" alt="Not credible: Barr tops his baker&#8217;s dozen of failed budgets">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<div class="hide-for-large">
+				<a href="https://citynews.com.au/category/politics/political-commentary/" class="category-link category-link--politics">Political commentary</a>				<h2 class="h3"><a href="https://citynews.com.au/2024/not-credible-barr-tops-his-bakers-dozen-of-failed-budgets/">Not credible: Barr tops his baker&#8217;s dozen of failed budgets</a></h2><span></span>
+                			</div>
+			<div>
+			<p class="text-small show-for-medium">"The anticipated increase in revenues and control on expenses reflected in this budget’s forecasts are simply not credible." JON STANHOPE & KHALID AHMED reveal why another credit downgrade is inevitable.</p>			</div>
+		</div>
+	</div>
+	</article></div></div><div class="cell xlarge-4 divider divider--top divider--top--small divider--top--medium divider--top--large"><div class="grid-x grid-padding-x grid-padding-y medium-up-2 xlarge-up-1"><article id="post-320330" class="cell  post-320330 post type-post status-publish format-standard has-post-thumbnail hentry category-political-commentary category-politics tag-anthony-albanese tag-julian-assange">
+	<a href="https://citynews.com.au/category/politics/political-commentary/" class="category-link category-link--politics">Political commentary</a>	<h3 class="h6"><a href="https://citynews.com.au/2024/the-assange-show-overshadows-government-problems/">The Assange show overshadows government problems</a></h3>
+    	</article><article id="post-320138" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320138 post type-post status-publish format-standard has-post-thumbnail hentry category-political-commentary category-politics tag-julian-assange">
+	<a href="https://citynews.com.au/category/politics/political-commentary/" class="category-link category-link--politics">Political commentary</a>	<h3 class="h6"><a href="https://citynews.com.au/2024/hero-or-villain-assange-crosses-the-political-divide/">Hero or villain, Assange crosses the political divide</a></h3>
+    	</article><article id="post-317707" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-317707 post type-post status-publish format-standard has-post-thumbnail hentry category-political-commentary category-politics tag-act-mental-health">
+	<a href="https://citynews.com.au/category/politics/political-commentary/" class="category-link category-link--politics">Political commentary</a>	<h3 class="h6"><a href="https://citynews.com.au/2024/distressing-neglect-of-mental-health-in-canberra/">Distressing neglect of mental health in Canberra</a></h3>
+    	</article><article id="post-319829" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-319829 post type-post status-publish format-standard has-post-thumbnail hentry category-political-commentary category-politics tag-paul-keating">
+	<a href="https://citynews.com.au/category/politics/political-commentary/" class="category-link category-link--politics">Political commentary</a>	<h3 class="h6"><a href="https://citynews.com.au/2024/keating-weighs-in-as-nuclear-debate-gets-down-and-dirty/">Keating weighs in as nuclear debate gets down and dirty</a></h3>
+    	</article><article id="post-319787" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-319787 post type-post status-publish format-standard has-post-thumbnail hentry category-political-commentary category-politics tag-federal-election-2025 tag-peter-dutton">
+	<a href="https://citynews.com.au/category/politics/political-commentary/" class="category-link category-link--politics">Political commentary</a>	<h3 class="h6"><a href="https://citynews.com.au/2024/unless-the-economy-improves-will-voters-even-be-listening/">Unless the economy improves, will voters even be listening?</a></h3>
+    	</article><article id="post-319364" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-319364 post type-post status-publish format-standard has-post-thumbnail hentry category-political-commentary category-politics tag-nuclear-power tag-peter-dutton">
+	<a href="https://citynews.com.au/category/politics/political-commentary/" class="category-link category-link--politics">Political commentary</a>	<h3 class="h6"><a href="https://citynews.com.au/2024/with-nuclear-firmly-out-there-the-election-fight-begins/">With nuclear firmly out there, the election fight begins</a></h3>
+    	</article></div></div>							<div class="cell xlarge-3">
+								<h4 class="category-title text-green hide-for-xlarge">Daily Puzzles</h4><div class="border-top border--green padding-top hide-for-large"></div>
+								<div class="grid-x grid-padding-x grid-padding-y large-up-2 xlarge-up-1">
+																		<div class="cell">
+										<div class="boxed-content border border--green">
+											<div class="grid-x grid-padding-x grid-padding-y align-middle">
+												<div class="cell auto">
+													<h6>Daily Crossword</h6>
+													<a href="https://citynews.com.au/crosswords/" class="btn btn--highlight text-small" target="_self">Play now</a>
+												</div>
+												<div class="cell shrink">
+													<img src="https://citynews.com.au/wp-content/themes/citynews-2021/img/crossword.png" height="80" width="80" alt="Crossword Icon">
+												</div>
+											</div>
+										</div>
+									</div>
+																											<div class="cell">
+										<div class="boxed-content border border--green">
+											<div class="grid-x grid-padding-x grid-padding-y align-middle">
+												<div class="cell auto">
+													<h6>Daily Sudoku</h6>
+													<a href="https://citynews.com.au/sudoku/" class="btn btn--highlight text-small" target="_self">Play now</a>
+												</div>
+												<div class="cell shrink">
+													<img src="https://citynews.com.au/wp-content/themes/citynews-2021/img/sudoku.png" height="80" width="80" alt="Crossword Icon">
+												</div>
+											</div>
+										</div>
+									</div>
+																	</div>
+							</div>
+												</div>
+				</div>
+			</div>
+        </div>
+    </div>
+</section>
+<section class="ad-row padding-top padding-bottom outer-row">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+				<div class="position_relative padding-top padding-bottom border-top border-bottom">
+					<div class="ad ad--leaderboard">
+					    <div class='code-block code-block-6' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+  <div id="gam_banner_pos3">
+   <script type='text/javascript'>
+    googletag.cmd.push(function() {
+       googletag.defineSlot(gamData.adUnit, [728, 90], 'gam_banner_pos3')
+				.defineSizeMapping(gamData.sizeMap.bannermrec)
+				.setTargeting('pos', '3')
+				.setTargeting('refresh', 'true')
+				.addService(googletag.pubads());
+       googletag.display('gam_banner_pos3');
+    });
+   </script>
+  </div></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section class="content-row padding-top outer-row">
+    <div class="grid-container padding-top">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+				<h4 class="category-title text-orange"><a href="https://citynews.com.au/category/blogs/">Views</a></h4>
+				<div class="border-top border--blue padding-top">
+					<div class="grid-x grid-padding-x grid-padding-y">
+						<div class="cell large-7 xlarge-4"><div class="grid-x grid-padding-x grid-padding-y"><article id="post-320382" class="cell  post-320382 post type-post status-publish format-standard has-post-thumbnail hentry category-letters category-blogs tag-acton-peninsula tag-light-rail">
+		<div class="padding-bottom--small">
+		<a href="https://citynews.com.au/2024/tram-south-should-follow-griffins-lake-crossing/" class="post-image">
+			<span class="set-size set-size--landscape">
+				<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Lakes-third-bridge-1-resized.jpg)">
+					<img src="https://citynews.com.au/wp-content/uploads/2024/06/Lakes-third-bridge-1-resized.jpg" alt="Tram south should follow Griffin&#8217;s lake crossing">
+				</span>
+			</span>
+		</a>
+	</div>
+		<a href="https://citynews.com.au/category/blogs/letters/" class="category-link category-link--blogs">Letters</a>	<h1 class="h2"><a href="https://citynews.com.au/2024/tram-south-should-follow-griffins-lake-crossing/">Tram south should follow Griffin&#8217;s lake crossing</a></h1>
+    	<p class="text-small">Letter writer JACK KERSHAW sees and emerging Acton Peninsula as the logical place for the light rail to cross the lake. Walter Burley Griffin's unbuilt third bridge suggests Mr Kershaw has a point. </p></article></div></div><div class="cell large-5 xlarge-4 divider divider--top divider--top--small divider--top--medium"><div class="grid-x grid-padding-x grid-padding-y"><article id="post-320532" class="cell  post-320532 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs tag-act-integrity-commission tag-ben-aulich tag-julian-assange tag-michael-adams">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/dropped-pants-slow-justice-and-head-scratching/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/02/20231222001880969511-original-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/02/20231222001880969511-original-resized.jpg" alt="Dropped pants, slow justice and head scratching">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/dropped-pants-slow-justice-and-head-scratching/">Dropped pants, slow justice and head scratching</a></h2>
+            			<p class="text-small show-for-medium-only">"This is a column about four little happenings that raise issues not mentioned in mainstream media, but cause some head scratching," writes HUGH SELBY. </p>		</div>
+	</div>
+	</article><article id="post-320551" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320551 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs tag-phone-calls tag-texts">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/young-people-need-to-pick-up-the-phone-to-be-heard/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/jonathan-borba-fzDMsg9_Yc-unsplash-resized-e1719628881954.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/jonathan-borba-fzDMsg9_Yc-unsplash-resized-e1719628881954.jpg" alt="Young people need to pick up the phone to be heard">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/young-people-need-to-pick-up-the-phone-to-be-heard/">Young people need to pick up the phone to be heard</a></h2>
+            			<p class="text-small show-for-medium-only">Young people hate making phone calls – could it be hurting their careers, asks NARELLE HOPKIN.</p>		</div>
+	</div>
+	</article><article id="post-320514" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320514 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs tag-inflation tag-interest-rates">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/cartoon-dose-of-dorin-749/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Inflation-Rates-resized-e1719622531392.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/Inflation-Rates-resized-e1719622531392.jpg" alt="Cartoon / Dose of Dorin">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/cartoon-dose-of-dorin-749/">Cartoon / Dose of Dorin</a></h2>
+            			<p class="text-small show-for-medium-only">The cost-of-living crisis, where will it all end, asks cartoonist PAUL DORIN.</p>		</div>
+	</div>
+	</article><article id="post-318269" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-318269 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs tag-acronyms">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/many-folk-find-acronyms-annoying-thats-only-tbe/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/1939_Chevrolet_Master_85_8775958833-resized-e1718189641313.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/1939_Chevrolet_Master_85_8775958833-resized-e1718189641313.jpg" alt="Many folk find acronyms annoying, that’s only TBE">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/many-folk-find-acronyms-annoying-thats-only-tbe/">Many folk find acronyms annoying, that’s only TBE</a></h2>
+            			<p class="text-small show-for-medium-only">Today, acronyms permeate virtually every aspect of our lives, from business and finance, writes Whimsy columnist CLIVE WILLIAMS, who shares a selection, many of which have become words that users are often unaware of what they stand for.</p>		</div>
+	</div>
+	</article></div></div><div class="cell xlarge-4 divider divider--top divider--top--small divider--top--medium divider--top--large"><div class="grid-x grid-padding-x grid-padding-y large-up-2 xlarge-up-1"><article id="post-317273" class="cell  post-317273 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs tag-donald-trump">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/why-we-all-cant-get-enough-of-donald-trump/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Donald-Trump_Richard-Nixon.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/Donald-Trump_Richard-Nixon.jpg" alt="Why we all can&#8217;t get enough of Donald Trump">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/why-we-all-cant-get-enough-of-donald-trump/">Why we all can&#8217;t get enough of Donald Trump</a></h2>
+            			<p class="text-small show-for-medium-only">"Like Nixon, Trump is bereft of personal morality, caring only to climb up the castle wall of political favour hand over hand, not realising that we journalists have tended the poisoned ivy that supports him," writes ROBERT MACKLIN. </p>		</div>
+	</div>
+	</article><article id="post-306444" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-306444 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs tag-light-rail tag-planning">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/planning-pales-as-ideology-triumphs-over-evidence/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2019/08/3F0D7BBC-61F6-4693-A62D-0998D196765F-e1566026490328-500x285.jpeg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2019/08/3F0D7BBC-61F6-4693-A62D-0998D196765F-e1566026490328-500x285.jpeg" alt="Planning pales as ideology triumphs over evidence">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/planning-pales-as-ideology-triumphs-over-evidence/">Planning pales as ideology triumphs over evidence</a></h2>
+            			<p class="text-small show-for-medium-only">"For transport strategies to be more effective a better understanding of travel behaviour is needed. The choice of transport mode is influenced by convenience, comfort, time, income and cost," writes former planner MIKE QUIRK. </p>		</div>
+	</div>
+	</article><article id="post-319458" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-319458 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs tag-andrew-barr">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/keeping-up-the-act-107/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Keeping-Up-The-ACT-Web-Bannner-Andrew-Times-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/Keeping-Up-The-ACT-Web-Bannner-Andrew-Times-resized.jpg" alt="KEEPING UP THE ACT">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/keeping-up-the-act-107/">KEEPING UP THE ACT</a></h2>
+            			<p class="text-small show-for-medium-only">KEEPING UP THE ACT takes a tongue-in-cheek, comedic look at how some elements of the local media might (or might not be) serving Canberra.</p>		</div>
+	</div>
+	</article><article id="post-317748" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-317748 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs tag-wood-heaters">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/how-wood-heaters-make-us-sick/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Wood-heater-article-pic-summary-e1717830643147-1.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/Wood-heater-article-pic-summary-e1717830643147-1.jpg" alt="How wood heaters make us sick">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/blogs/" class="category-link category-link--blogs">Opinion</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/how-wood-heaters-make-us-sick/">How wood heaters make us sick</a></h2>
+            			<p class="text-small show-for-medium-only">DR MURRAY MAY says the scientific evidence for removing wood heaters altogether is overwhelming. "However, the Canberra Liberals plan to reverse the decision to phase out wood heaters. Can you believe it?"</p>		</div>
+	</div>
+	</article></div></div>					</div>
+				</div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="ad-row padding-top padding-bottom outer-row">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+				<div class="position_relative padding-top padding-bottom border-top border-bottom">
+					<div class="ad ad--leaderboard">
+					    <div class='code-block code-block-7' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+  <div id="gam_banner_pos4">
+   <script type='text/javascript'>
+    googletag.cmd.push(function() {
+       googletag.defineSlot(gamData.adUnit, [728, 90], 'gam_banner_pos4')
+				.defineSizeMapping(gamData.sizeMap.banner)
+				.setTargeting('pos', '4')
+				.setTargeting('refresh', 'true')
+				.addService(googletag.pubads());
+       googletag.display('gam_banner_pos4');
+    });
+   </script>
+  </div></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section class="content-row padding-top outer-row">
+    <div class="grid-container padding-top">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+				<h4 class="category-title text-purple"><a href="https://citynews.com.au/category/arts-entertainment/">Arts</a></h4>
+				<div class="border-top border--purple padding-top">
+					<div class="grid-x grid-padding-x grid-padding-y">
+						<div class="cell large-7 xlarge-4"><div class="grid-x grid-padding-x grid-padding-y"><article id="post-320853" class="cell  post-320853 post type-post status-publish format-standard has-post-thumbnail hentry category-arts-entertainment category-books tag-mile-franklin-literary-awards">
+		<div class="padding-bottom--small">
+		<a href="https://citynews.com.au/2024/miles-franklin-literary-award-finalists-announced/" class="post-image">
+			<span class="set-size set-size--landscape">
+				<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/mile-fanklin-finalists-e1719877784804.jpg)">
+					<img src="https://citynews.com.au/wp-content/uploads/2024/07/mile-fanklin-finalists-e1719877784804.jpg" alt="Miles Franklin Literary Award finalists announced">
+				</span>
+			</span>
+		</a>
+	</div>
+		<a href="https://citynews.com.au/category/arts-entertainment/books/" class="category-link category-link--arts-entertainment">Books</a>	<h1 class="h2"><a href="https://citynews.com.au/2024/miles-franklin-literary-award-finalists-announced/">Miles Franklin Literary Award finalists announced</a></h1>
+    	<p class="text-small">The Miles Franklin judges say they are "awed by the ambitious sweep and range of the novels" competing for the prestigious $60,000 literary award.</p></article></div></div><div class="cell large-5 xlarge-4 divider divider--top divider--top--small divider--top--medium"><div class="grid-x grid-padding-x grid-padding-y"><article id="post-319510" class="cell  post-319510 post type-post status-publish format-standard has-post-thumbnail hentry category-arts-entertainment category-music tag-national-opera tag-siobhan-stagg">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/star-soprano-brings-echoed-voices-to-albert-hall/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Siobhan-Stagg-Nico-de-Villiers-DSCF8182-Credit-Ben-Reason-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/Siobhan-Stagg-Nico-de-Villiers-DSCF8182-Credit-Ben-Reason-resized.jpg" alt="Star soprano brings Echoed Voices to Albert Hall">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/arts-entertainment/music/" class="category-link category-link--arts-entertainment">Music</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/star-soprano-brings-echoed-voices-to-albert-hall/">Star soprano brings Echoed Voices to Albert Hall</a></h2>
+            			<p class="text-small show-for-medium-only">National Opera has fallen on its feet in securing the right to host Mildura-born star soprano Siobhan Stagg, who will perform with pianist Nico de Villiers at Albert Hall later this month, reports HELEN MUSA.</p>		</div>
+	</div>
+	</article><article id="post-319501" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-319501 post type-post status-publish format-standard has-post-thumbnail hentry category-arts-entertainment tag-colin-lane tag-david-hobson">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/song-and-dance-when-worlds-collide/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/from-left-Colin-Lane-and-David-Hobson-In-Tails-1200x800.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/from-left-Colin-Lane-and-David-Hobson-In-Tails-1200x800.jpg" alt="Song and dance when worlds collide">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/arts-entertainment/" class="category-link category-link--arts-entertainment">Arts &amp; Entertainment</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/song-and-dance-when-worlds-collide/">Song and dance when worlds collide</a></h2>
+            			<p class="text-small show-for-medium-only">Arts editor HELEN MUSA scans the Canberra arts scene in her latest Arts in the City column.</p>		</div>
+	</div>
+	</article><article id="post-320752" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320752 post type-post status-publish format-standard has-post-thumbnail hentry category-arts-entertainment category-music category-reviews tag-national-opera">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/opera-gems-warm-a-gloomy-wet-afternoon/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/Alira-Prideaux-and-Sitiveni-Talei.-Photo-Dalice-Trost-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/07/Alira-Prideaux-and-Sitiveni-Talei.-Photo-Dalice-Trost-resized.jpg" alt="Opera gems warm a gloomy, wet afternoon">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/arts-entertainment/music/" class="category-link category-link--arts-entertainment">Music</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/opera-gems-warm-a-gloomy-wet-afternoon/">Opera gems warm a gloomy, wet afternoon</a></h2>
+            			<p class="text-small show-for-medium-only">Reviewer BILL STEPHENS warms up with Opera Gems for a Winter’s Eve, performed by the National Opera Chorus.</p>		</div>
+	</div>
+	</article><article id="post-320716" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320716 post type-post status-publish format-standard has-post-thumbnail hentry category-arts-entertainment category-music category-reviews tag-the-song-company">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/song-companys-star-turn-at-anniversary-concert/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/07/20240630a-050a-Song-Company-Stars-Turn-1-e1719795153801.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/07/20240630a-050a-Song-Company-Stars-Turn-1-e1719795153801.jpg" alt="Song Company&#8217;s star turn at anniversary concert">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/arts-entertainment/music/" class="category-link category-link--arts-entertainment">Music</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/song-companys-star-turn-at-anniversary-concert/">Song Company&#8217;s star turn at anniversary concert</a></h2>
+            			<p class="text-small show-for-medium-only">DANTE COSTA reviews The Song Company's The Stars Turn, its 40th anniversary performance tour.</p>		</div>
+	</div>
+	</article></div></div><div class="cell xlarge-4 divider divider--top divider--top--small divider--top--medium divider--top--large"><div class="grid-x grid-padding-x grid-padding-y large-up-2 xlarge-up-1"><article id="post-320604" class="cell  post-320604 post type-post status-publish format-standard has-post-thumbnail hentry category-arts-entertainment category-music category-reviews tag-musica-da-camera">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/beguiling-afternoon-of-suites-and-serenades/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/20240629a-018a-Musica-da-Camera-Suites-and-Serenades.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/20240629a-018a-Musica-da-Camera-Suites-and-Serenades.jpg" alt="Beguiling afternoon of suites and serenades">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/arts-entertainment/music/" class="category-link category-link--arts-entertainment">Music</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/beguiling-afternoon-of-suites-and-serenades/">Beguiling afternoon of suites and serenades</a></h2>
+            			<p class="text-small show-for-medium-only">LEN POWER reviews Musica Da Camera's Afternoon of Suites and Serenades.</p>		</div>
+	</div>
+	</article><article id="post-318836" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-318836 post type-post status-publish format-standard has-post-thumbnail hentry category-arts-entertainment category-streaming tag-bridgerton">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/bridgerton-bonks-its-way-to-a-season-three-climax/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/bridgerton-season-3-5-jp-240214-a519d6-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/bridgerton-season-3-5-jp-240214-a519d6-resized.jpg" alt="Bridgerton bonks its way to a season three climax">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/arts-entertainment/streaming/" class="category-link category-link--arts-entertainment">Streaming</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/bridgerton-bonks-its-way-to-a-season-three-climax/">Bridgerton bonks its way to a season three climax</a></h2>
+            			<p class="text-small show-for-medium-only">Two of Bridgerton's actors have revealed they broke furniture while filming one of the show's infamous sex scenes in a stroke of marketing genius , says streaming columnist NICK OVERALL.</p>		</div>
+	</div>
+	</article><article id="post-320447" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320447 post type-post status-publish format-standard has-post-thumbnail hentry category-art-arts-entertainment category-arts-entertainment tag-anthony-albanese tag-gauguin">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/albanese-comes-to-gauguin-with-an-unusual-speech/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Henri-Loyrette-in-the-gallery-director-Nick-Mitzevich-ar-rear.-Photo-Helen-Musa-e1719550946480.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/Henri-Loyrette-in-the-gallery-director-Nick-Mitzevich-ar-rear.-Photo-Helen-Musa-e1719550946480.jpg" alt="Albanese comes to Gauguin with an &#8216;unusual&#8217; speech">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/arts-entertainment/art-arts-entertainment/" class="category-link category-link--arts-entertainment">Art</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/albanese-comes-to-gauguin-with-an-unusual-speech/">Albanese comes to Gauguin with an &#8216;unusual&#8217; speech</a></h2>
+            			<p class="text-small show-for-medium-only">"I'm against cancel culture," Prime Minister Anthony Albanese said on Thursday night at the National Gallery of Australia in one of the more  unusual gallery speeches in a while, as he unveiled Gauguin’s World: Tōna Iho, Tōna Ao.</p>		</div>
+	</div>
+	</article><article id="post-320421" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320421 post type-post status-publish format-standard has-post-thumbnail hentry category-arts-entertainment category-books tag-act-literary-awards tag-marion-halligan-award">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/literary-awards-for-the-winners-with-words/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Paul-Hetherington.-Marion-Halligan-award.-Photo-Hilary-Wardhaugh.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/Paul-Hetherington.-Marion-Halligan-award.-Photo-Hilary-Wardhaugh.jpg" alt="Literary awards for the winners with words">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/arts-entertainment/books/" class="category-link category-link--arts-entertainment">Books</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/literary-awards-for-the-winners-with-words/">Literary awards for the winners with words</a></h2>
+            			<p class="text-small show-for-medium-only">A veteran Canberra poet and a rising novelist were among the big winners at the 2024 ACT Literary Awards, hosted at Canberra Contemporary Art Space on the lakeside, by Marion Ink on Thursday.</p>		</div>
+	</div>
+	</article></div></div>					</div>
+				</div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="ad-row padding-top padding-bottom outer-row">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+				<div class="position_relative padding-top padding-bottom border-top border-bottom">
+					<div class="ad ad--leaderboard">
+					    <div class='code-block code-block-8' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+  <div id="gam_banner_pos5">
+   <script type='text/javascript'>
+    googletag.cmd.push(function() {
+       googletag.defineSlot(gamData.adUnit, [728, 90], 'gam_banner_pos5')
+				.defineSizeMapping(gamData.sizeMap.bannermrec)
+				.setTargeting('pos', '5')
+				.setTargeting('refresh', 'true')
+				.addService(googletag.pubads());
+       googletag.display('gam_banner_pos5');
+    });
+   </script>
+  </div></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section class="content-row padding-top outer-row">
+    <div class="grid-container padding-top">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+				<h4 class="category-title text-blue"><a href="https://citynews.com.au/category/lifestyle/">Lifestyle</a></h4>
+				<div class="border-top border--blue padding-top">
+					<div class="grid-x grid-padding-x grid-padding-y">
+						<div class="cell large-7 xlarge-4"><div class="grid-x grid-padding-x grid-padding-y"><article id="post-318240" class="cell  post-318240 post type-post status-publish format-standard has-post-thumbnail hentry category-gardening category-lifestyle tag-grafting tag-wattles">
+		<div class="padding-bottom--small">
+		<a href="https://citynews.com.au/2024/getting-the-most-out-of-grafting/" class="post-image">
+			<span class="set-size set-size--landscape">
+				<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/05/240627-Grafting-apples-resized-rotated-e1718184808314.jpg)">
+					<img src="https://citynews.com.au/wp-content/uploads/2024/05/240627-Grafting-apples-resized-rotated-e1718184808314.jpg" alt="Getting the most out of grafting">
+				</span>
+			</span>
+		</a>
+	</div>
+		<a href="https://citynews.com.au/category/lifestyle/gardening/" class="category-link category-link--lifestyle">Gardening</a>	<h1 class="h2"><a href="https://citynews.com.au/2024/getting-the-most-out-of-grafting/">Getting the most out of grafting</a></h1>
+    	<p class="text-small">Grafting allows a variety of trees, shrubs and plants to grow successfully outside their natural habitat and in a wider variety of soils, says gardening columnist JACKIE WARBURTON.</p></article></div></div><div class="cell large-5 xlarge-4 divider divider--top divider--top--small divider--top--medium"><div class="grid-x grid-padding-x grid-padding-y"><article id="post-320207" class="cell  post-320207 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle category-personal-finance tag-cost-of-living">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/cartoon-dose-of-dorin-748/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Emptied-resized-e1719440374913.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/Emptied-resized-e1719440374913.jpg" alt="Cartoon / Dose of Dorin">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/lifestyle/personal-finance/" class="category-link category-link--lifestyle">Personal finance</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/cartoon-dose-of-dorin-748/">Cartoon / Dose of Dorin</a></h2>
+            			<p class="text-small show-for-medium-only">Cartoonist PAUL DORIN wonders where the money's going.</p>		</div>
+	</div>
+	</article><article id="post-318256" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-318256 post type-post status-publish format-standard has-post-thumbnail hentry category-dining category-lifestyle tag-two-before-ten">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/cafe-hosts-a-true-community-hub/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Breakfast-wrap-IMG_4267-resized.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/Breakfast-wrap-IMG_4267-resized.jpg" alt="Cafe hosts a true community hub">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/lifestyle/dining/" class="category-link category-link--lifestyle">Dining</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/cafe-hosts-a-true-community-hub/">Cafe hosts a true community hub</a></h2>
+            			<p class="text-small show-for-medium-only">After a bit of browsing at Meet Gather Collect, a cool homewares and gift store in Aranda, a friend and I popped into neighbouring Two Before Ten for a bite to eat. writes dining reviewer WENDY JOHNSON. </p>		</div>
+	</div>
+	</article><article id="post-320096" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320096 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle category-sponsored-content tag-canberra-dentists tag-curtin-dental">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/dentists-keen-to-take-long-term-care-of-your-teeth/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/Curtin-Dental-team.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/Curtin-Dental-team.jpg" alt="Dentists keen to take long-term care of your teeth">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/lifestyle/" class="category-link category-link--lifestyle">Lifestyle</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/dentists-keen-to-take-long-term-care-of-your-teeth/">Dentists keen to take long-term care of your teeth</a></h2>
+            			<p class="text-small show-for-medium-only">"It’s not just fixing a hole in someone’s tooth… there's a person attached to those teeth and we aim to provide long-term care." Meet the Curtin Dental team, a practice that's all about longevity, says NIRAN PATHMAPERUMA and TIFFANY TAM.</p><p class="sponsored text-xsmall text-grey">Sponsored Content</p>		</div>
+	</div>
+	</article><article id="post-320100" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-320100 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle category-sponsored-content tag-bridal tag-wedding-experts tag-weddings-canberra">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/wedding-experts-who-make-dreams-come-true/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/wedding.jpeg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/wedding.jpeg" alt="Wedding experts who make dreams come true">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/lifestyle/" class="category-link category-link--lifestyle">Lifestyle</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/wedding-experts-who-make-dreams-come-true/">Wedding experts who make dreams come true</a></h2>
+            			<p class="text-small show-for-medium-only">To save future brides and grooms on stress and time, “CityNews” has spoken with some of the region's leading wedding experts.</p><p class="sponsored text-xsmall text-grey">Sponsored Content</p>		</div>
+	</div>
+	</article></div></div><div class="cell xlarge-4 divider divider--top divider--top--small divider--top--medium divider--top--large"><div class="grid-x grid-padding-x grid-padding-y large-up-2 xlarge-up-1"><article id="post-317621" class="cell  post-317621 post type-post status-publish format-standard has-post-thumbnail hentry category-gardening category-lifestyle tag-nandina">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/winter-garden-can-still-have-plenty-of-colour/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/05/240620-Nandina-resized-e1717743543239.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/05/240620-Nandina-resized-e1717743543239.jpg" alt="Winter garden can still have plenty of colour">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/lifestyle/gardening/" class="category-link category-link--lifestyle">Gardening</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/winter-garden-can-still-have-plenty-of-colour/">Winter garden can still have plenty of colour</a></h2>
+            			<p class="text-small show-for-medium-only">With planning, the winter garden can still have plenty of colour and, in some cases, the cool winters encourage leaves on plants to go red under stress, says gardening writer JACKIE WARBURTON.</p>		</div>
+	</div>
+	</article><article id="post-317988" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-317988 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle category-wine tag-biodynamic-farming">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/317988/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/LHW_PinotNoir_2019_3000px-1-e1718010101767.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/LHW_PinotNoir_2019_3000px-1-e1718010101767.jpg" alt="Here&#8217;s to a taste of biodynamic drinking">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/lifestyle/wine/" class="category-link category-link--lifestyle">Wine</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/317988/">Here&#8217;s to a taste of biodynamic drinking</a></h2>
+            			<p class="text-small show-for-medium-only">"Steiner in the 1920s famously warned that the widespread use of chemical fertilisers would lead to the decline of soil, plant and animal health," writes wine columnist RICHARD CALVER in praise of biodynamic farming.</p>		</div>
+	</div>
+	</article><article id="post-319068" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-319068 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle category-sponsored-content tag-canberra-school-holidays tag-school-holidays-july-2024">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/inspiration-to-make-the-most-of-school-holiday-fun/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/06/school-holidays-kids-fun.jpeg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/06/school-holidays-kids-fun.jpeg" alt="Inspiration to make the most of school-holiday fun">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/lifestyle/" class="category-link category-link--lifestyle">Lifestyle</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/inspiration-to-make-the-most-of-school-holiday-fun/">Inspiration to make the most of school-holiday fun</a></h2>
+            			<p class="text-small show-for-medium-only">CityNews rounds up some of the Canberra region’s best activities that the whole family can enjoy over the upcoming school break.</p><p class="sponsored text-xsmall text-grey">Sponsored Content</p>		</div>
+	</div>
+	</article><article id="post-315898" class="cell divider divider--top divider--top--small divider--top--medium divider--top--large divider--top--xlarge post-315898 post type-post status-publish format-standard has-post-thumbnail hentry category-history category-lifestyle tag-royal-australian-mint">
+		<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+		<div class="cell small-4">
+			<a href="https://citynews.com.au/2024/why-cabinet-banished-mint-to-the-bush-of-deakin/" class="post-image">
+				<span class="set-size set-size--landscape">
+					<span class="set-size__image" style="background-image: url(https://citynews.com.au/wp-content/uploads/2024/05/Mint-external-resized-e1716526869967.jpg)">
+						<img src="https://citynews.com.au/wp-content/uploads/2024/05/Mint-external-resized-e1716526869967.jpg" alt="Why cabinet banished mint to &#8216;the bush&#8217; of Deakin">
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="cell small-8">
+			<a href="https://citynews.com.au/category/lifestyle/history/" class="category-link category-link--lifestyle">History</a>			<h2 class="h4 no-margin"><a href="https://citynews.com.au/2024/why-cabinet-banished-mint-to-the-bush-of-deakin/">Why cabinet banished mint to &#8216;the bush&#8217; of Deakin</a></h2>
+            			<p class="text-small show-for-medium-only">The Mint is turning 60 in February. Yesterdays columnist NICHOLE OVERALL looks back to the day it was opened by Prince Phillip and the controversy of its being built in Deakin.</p>		</div>
+	</div>
+	</article></div></div>					</div>
+				</div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="ad-row padding-top padding-bottom outer-row">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+            <div class="cell">
+				<div class="position_relative padding-top padding-bottom border-top border-bottom">
+					<div class="ad ad--leaderboard">
+					    <div class='code-block code-block-9' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+  <div id="gam_banner_pos6">
+   <script type='text/javascript'>
+    googletag.cmd.push(function() {
+       googletag.defineSlot(gamData.adUnit, [728, 90], 'gam_banner_pos6')
+				.defineSizeMapping(gamData.sizeMap.banner)
+				.setTargeting('pos', '6')
+				.setTargeting('refresh', 'true')
+				.addService(googletag.pubads());
+       googletag.display('gam_banner_pos6');
+    });
+   </script>
+  </div></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>	</main>
+
+	<section class="show-for-medium">
+    <div class="grid-container padding-bottom">
+        <div class="grid-x grid-padding-x text-center">
+            <div class="cell">
+				Follow us on Instagram <a href="https://www.instagram.com/canberracitynews/" target="_blank" rel="nofollow">@canberracitynews</a>            </div>
+        </div>
+    </div>
+	
+<div id="sb_instagram"  class="sbi sbi_mob_col_1 sbi_tab_col_2 sbi_col_5 sbi_width_resp" style="width: 100%;" data-feedid="sbi_canberracitynews#5"  data-res="auto" data-cols="5" data-colsmobile="1" data-colstablet="2" data-num="5" data-nummobile="" data-shortcode-atts="{}"  data-postid="318240" data-locatornonce="83e8c558f3" data-sbi-flags="favorLocal">
+	
+    <div id="sbi_images" >
+		<div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18018092198369911" data-date="1719800561">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C83PfLyhxlp/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent.cdninstagram.com/v/t51.29350-15/449387789_3302976169996615_6484469546203689132_n.jpg?_nc_cat=104&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=VPtgOi6iKowQ7kNvgF397jq&#038;_nc_ht=scontent.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AYBQuKw5rw2FBcciOC2a8NRoLkgdWP0-286W86tMFmPZdg&#038;oe=66893D18" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/449387789_3302976169996615_6484469546203689132_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=VPtgOi6iKowQ7kNvgF397jq&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYBQuKw5rw2FBcciOC2a8NRoLkgdWP0-286W86tMFmPZdg&amp;oe=66893D18&quot;,&quot;150&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/449387789_3302976169996615_6484469546203689132_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=VPtgOi6iKowQ7kNvgF397jq&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYBQuKw5rw2FBcciOC2a8NRoLkgdWP0-286W86tMFmPZdg&amp;oe=66893D18&quot;,&quot;320&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/449387789_3302976169996615_6484469546203689132_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=VPtgOi6iKowQ7kNvgF397jq&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYBQuKw5rw2FBcciOC2a8NRoLkgdWP0-286W86tMFmPZdg&amp;oe=66893D18&quot;,&quot;640&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/449387789_3302976169996615_6484469546203689132_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=VPtgOi6iKowQ7kNvgF397jq&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYBQuKw5rw2FBcciOC2a8NRoLkgdWP0-286W86tMFmPZdg&amp;oe=66893D18&quot;}">
+            <span class="sbi-screenreader">In an ideal ACT, there would be regular electorate</span>
+            	                    <img src="https://citynews.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="In an ideal ACT, there would be regular electorate events run by MLAs, where they talk to the community about issues that are coming up and provide an opportunity to bring issues into the parliamentary conversation.
+
+So says Peter Tait, convenor of the Canberra Alliance for Participatory Democracy (CAPaD)...
+
+The full article is available at citynews.com.au so let us know what you want to see from your MLAs and what democracy looks like to you in the comment section.
+
+#canberra #news #canberrastories #democracy #politics #actpolitics">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18042838135851304" data-date="1719359418">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C8qGEzgBWWw/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent.cdninstagram.com/v/t51.29350-15/448918074_888969589952493_6389228010510832587_n.jpg?_nc_cat=108&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=BR_pJQWadvQQ7kNvgH3vMaG&#038;_nc_ht=scontent.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AYDp2ggJxdNcu5-aXrkKB1pCkMtnAhntdGn17dUR1FL4nw&#038;oe=668943F8" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448918074_888969589952493_6389228010510832587_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=BR_pJQWadvQQ7kNvgH3vMaG&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYDp2ggJxdNcu5-aXrkKB1pCkMtnAhntdGn17dUR1FL4nw&amp;oe=668943F8&quot;,&quot;150&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448918074_888969589952493_6389228010510832587_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=BR_pJQWadvQQ7kNvgH3vMaG&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYDp2ggJxdNcu5-aXrkKB1pCkMtnAhntdGn17dUR1FL4nw&amp;oe=668943F8&quot;,&quot;320&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448918074_888969589952493_6389228010510832587_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=BR_pJQWadvQQ7kNvgH3vMaG&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYDp2ggJxdNcu5-aXrkKB1pCkMtnAhntdGn17dUR1FL4nw&amp;oe=668943F8&quot;,&quot;640&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448918074_888969589952493_6389228010510832587_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=BR_pJQWadvQQ7kNvgH3vMaG&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYDp2ggJxdNcu5-aXrkKB1pCkMtnAhntdGn17dUR1FL4nw&amp;oe=668943F8&quot;}">
+            <span class="sbi-screenreader">“It is appropriate that legal processes are avai</span>
+            	                    <img src="https://citynews.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="“It is appropriate that legal processes are available to anyone to be used for their protection, but it might be that the Integrity Commission legislation is too lenient in an area that seeks to root out corruption,” says MICHAEL MOORE.
+
+Pick up your copy of this week’s magazine from around Canberra, or visit citynews.com.au for more!
+
+ 
+#CityNews #magazine #Canberra#journalism#graphicdesign #advertising">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18265440022242250" data-date="1719104700">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C8igQ__hz3r/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent.cdninstagram.com/v/t51.29350-15/448664900_1008702530859107_703319101196390374_n.jpg?_nc_cat=101&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=CfLxfLyECrAQ7kNvgEGnbYj&#038;_nc_ht=scontent.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AYAIWt0YLmT8r18b7_CtcgmTgrZCTEky3vE8wyKhstbR9g&#038;oe=66894695" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448664900_1008702530859107_703319101196390374_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=CfLxfLyECrAQ7kNvgEGnbYj&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAIWt0YLmT8r18b7_CtcgmTgrZCTEky3vE8wyKhstbR9g&amp;oe=66894695&quot;,&quot;150&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448664900_1008702530859107_703319101196390374_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=CfLxfLyECrAQ7kNvgEGnbYj&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAIWt0YLmT8r18b7_CtcgmTgrZCTEky3vE8wyKhstbR9g&amp;oe=66894695&quot;,&quot;320&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448664900_1008702530859107_703319101196390374_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=CfLxfLyECrAQ7kNvgEGnbYj&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAIWt0YLmT8r18b7_CtcgmTgrZCTEky3vE8wyKhstbR9g&amp;oe=66894695&quot;,&quot;640&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448664900_1008702530859107_703319101196390374_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=CfLxfLyECrAQ7kNvgEGnbYj&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAIWt0YLmT8r18b7_CtcgmTgrZCTEky3vE8wyKhstbR9g&amp;oe=66894695&quot;}">
+            <span class="sbi-screenreader">“The shooters, the politicians and we electors a</span>
+            	                    <img src="https://citynews.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="“The shooters, the politicians and we electors are all, in our own ways, helping along a chain of events that will likely see the total extermination of the Eastern Grey Kangaroo.” Photo: Valeriia Miller
+
+“Every shooter involved in an Orwellian ACT ‘conservation cull’ is doing the exact opposite of what any competent stock-breeder would do when culling his or her herd,” writes grazier IAN MacDOUGALL.
+
+In May, 1930 a farmer named Wilfred Batty, of Mawbanna, Tasmania, heard a commotion in his chook house. Rifle in hand, he went to investigate and finished up shooting the last known wild thylacine, or “Tasmanian Tiger”. 
+
+The species itself lasted only six more years, the last known one dying from exposure in Beaumaris Zoo, Hobart, on September 7, 1936... 
+
+Read more about IAN MacDOUGALL’s thoughts on the ACT kangaroo culls at citynews.com.au and let us know what you think in the comments.
+
+#canberra #kangaroo #animals #animal">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18062426047582379" data-date="1718929941">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C8dS6UgBVAz/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent.cdninstagram.com/v/t51.29350-15/448235396_820830683318905_6989607111644952144_n.jpg?_nc_cat=101&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=3kq3_lG5LK4Q7kNvgGElPK2&#038;_nc_ht=scontent.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AYCZ2JErpWBA4kOWqeOhxKbLXrzaQZFsfVYTOaL8T5L5cQ&#038;oe=668930E0" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448235396_820830683318905_6989607111644952144_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=3kq3_lG5LK4Q7kNvgGElPK2&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYCZ2JErpWBA4kOWqeOhxKbLXrzaQZFsfVYTOaL8T5L5cQ&amp;oe=668930E0&quot;,&quot;150&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448235396_820830683318905_6989607111644952144_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=3kq3_lG5LK4Q7kNvgGElPK2&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYCZ2JErpWBA4kOWqeOhxKbLXrzaQZFsfVYTOaL8T5L5cQ&amp;oe=668930E0&quot;,&quot;320&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448235396_820830683318905_6989607111644952144_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=3kq3_lG5LK4Q7kNvgGElPK2&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYCZ2JErpWBA4kOWqeOhxKbLXrzaQZFsfVYTOaL8T5L5cQ&amp;oe=668930E0&quot;,&quot;640&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448235396_820830683318905_6989607111644952144_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=3kq3_lG5LK4Q7kNvgGElPK2&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYCZ2JErpWBA4kOWqeOhxKbLXrzaQZFsfVYTOaL8T5L5cQ&amp;oe=668930E0&quot;}">
+            <span class="sbi-screenreader">“The barrista is fully focused and super busy cr</span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://citynews.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="“The barrista is fully focused and super busy cranking out coffees for walkers, cyclists, tourists, mums and bubs, and locals.” Dining reviewer WENDY JOHNSON makes an early start on the Kingston Foreshore. 
+
+If you’re a rise-and-shine-early person and want coffee with a view, Early Edition is here for you from 7am, seven days.
+
+New to the Kingston Foreshore, Early Edition has been packed most days since it swung its doors open only a couple of months ago, serving breakfast, lunch and trusty takeaway. The barista is fully focused and super busy cranking out coffees for walkers, cyclists, tourists, mums and bubs, and locals.
+
+Find out more about Wendy’s experience at Early Edition by visiting our website citynews.com.au
+
+#canberrafood #canberrafood #kingston #dining #food #localcanberra">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18012101966416171" data-date="1718847368">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C8a1an1BJS5/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent.cdninstagram.com/v/t51.29350-15/448634053_2775853819382773_5086992568263412696_n.jpg?_nc_cat=102&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=xCvuAExJOnoQ7kNvgEC-0BK&#038;_nc_ht=scontent.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AYB3IONPUrU_Ry9NcqmX0xN7OchuR-UAQAaZqjdFbjEzyg&#038;oe=6689277F" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448634053_2775853819382773_5086992568263412696_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=xCvuAExJOnoQ7kNvgEC-0BK&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYB3IONPUrU_Ry9NcqmX0xN7OchuR-UAQAaZqjdFbjEzyg&amp;oe=6689277F&quot;,&quot;150&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448634053_2775853819382773_5086992568263412696_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=xCvuAExJOnoQ7kNvgEC-0BK&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYB3IONPUrU_Ry9NcqmX0xN7OchuR-UAQAaZqjdFbjEzyg&amp;oe=6689277F&quot;,&quot;320&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448634053_2775853819382773_5086992568263412696_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=xCvuAExJOnoQ7kNvgEC-0BK&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYB3IONPUrU_Ry9NcqmX0xN7OchuR-UAQAaZqjdFbjEzyg&amp;oe=6689277F&quot;,&quot;640&quot;:&quot;https:\/\/scontent.cdninstagram.com\/v\/t51.29350-15\/448634053_2775853819382773_5086992568263412696_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=xCvuAExJOnoQ7kNvgEC-0BK&amp;_nc_ht=scontent.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYB3IONPUrU_Ry9NcqmX0xN7OchuR-UAQAaZqjdFbjEzyg&amp;oe=6689277F&quot;}">
+            <span class="sbi-screenreader">At the start of 2021, Zak Pino was studying, worki</span>
+            	                    <img src="https://citynews.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="At the start of 2021, Zak Pino was studying, working full time, dealing with the aftermath of covid and struggling to find balance in his life.
+
+He knew his friends were facing the same uncertainty, and started thinking of easy ways to encourage everyone to get together and simply debrief.
+
+So he started a weekly walk around Lake Burley Griffin. He says most of his friends only lasted two weeks or so of sacrificing their Saturday nights in favour of a Sunday morning walk, but strangers had started asking if they could join his weekly walk around Lake Burley Griffin...
+
+Find out more about the ever-growing popularity of Zak’s Sunday walks and how they have helped Canberrans by reading the full article on citynews.com.au
+
+#canberra #localnews #mentalhealth #mentalhealthawareness #canberrapeople #walk">
+        </a>
+    </div>
+</div>    </div>
+
+	<div id="sbi_load" >
+
+	
+	
+</div>
+
+	    <span class="sbi_resized_image_data" data-feed-id="sbi_canberracitynews#5" data-resized="{&quot;18012101966416171&quot;:{&quot;id&quot;:&quot;448634053_2775853819382773_5086992568263412696_n&quot;,&quot;ratio&quot;:&quot;1.50&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18062426047582379&quot;:{&quot;id&quot;:&quot;448235396_820830683318905_6989607111644952144_n&quot;,&quot;ratio&quot;:&quot;1.33&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18265440022242250&quot;:{&quot;id&quot;:&quot;448664900_1008702530859107_703319101196390374_n&quot;,&quot;ratio&quot;:&quot;1.49&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18042838135851304&quot;:{&quot;id&quot;:&quot;448918074_888969589952493_6389228010510832587_n&quot;,&quot;ratio&quot;:&quot;1.08&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18018092198369911&quot;:{&quot;id&quot;:&quot;449387789_3302976169996615_6484469546203689132_n&quot;,&quot;ratio&quot;:&quot;1.50&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}}}">
+	</span>
+	</div>
+
+<script type="text/javascript">var sb_instagram_js_options = {"font_method":"svg","placeholder":"https:\/\/citynews.com.au\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png","resized_url":"https:\/\/citynews.com.au\/wp-content\/uploads\/sb-instagram-feed-images\/","ajax_url":"https:\/\/citynews.com.au\/wp-admin\/admin-ajax.php"};</script><script type='text/javascript' src='https://citynews.com.au/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=6.2.10'></script></section>
+	<footer class="bottom-bar">
+		<div class="outer-row">
+			<div class="grid-container">
+				<div class="grid-x">
+					<div class="cell">
+						<div class="padding-top padding-bottom border-bottom border--white">
+							<div class="grid-x grid-padding-x grid-padding-y align-justify">
+								<div class="cell shrink">
+									<h3 class="site-logo site-logo--small">
+										<a class="site-logo__link site-logo__link--white ir" href="https://citynews.com.au/" title="Canberra CityNews" rel="home" style="background-image: url(https://citynews.com.au/wp-content/uploads/2021/07/CityNews-CBR-reverse-1.png)">Canberra CityNews</a>
+									</h3>
+								</div>
+																<div class="cell shrink">
+									<div class="grid-x grid-x--small grid-padding-x align-right align-middle">
+																				<div class="cell shrink">
+											<a href="https://www.facebook.com/canberracitynews/" class="h5 social-link" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+										</div>
+																														<div class="cell shrink">
+											<a href="https://twitter.com/city_news" class="h5 social-link" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+										</div>
+																														<div class="cell shrink">
+											<a href="https://www.instagram.com/canberracitynews/" class="h5 social-link" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+										</div>
+																			</div>  
+								</div>
+															</div>
+						</div>
+						<div class="padding-top padding-bottom border-bottom border--white show-for-medium">
+							<div class="grid-x grid-padding-x grid-padding-y">
+																<div class="cell medium-6 large-3">
+									<h4 class="text-white">Support CityNews</h4><p class="text-medium">Make a donation and support the future of journalism and media diversity in the ACT.</p>
+									<a href="https://citynews.com.au/support/" class="btn btn--white text-small" target="_self">Support</a>
+								</div>
+																<div class="cell large-2 large-offset-1 show-for-large">
+									<h5 class="text-white">Sections</h3><nav class="bottom-bar__navigation"><ul id="menu-sections" class="menu"><li id="menu-item-235780" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235780 category--news"><a href="https://citynews.com.au/category/news/">News</a></li>
+<li id="menu-item-235781" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235781 category--politics"><a href="https://citynews.com.au/category/politics/">Politics</a></li>
+<li id="menu-item-235782" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235782 category--blogs"><a href="https://citynews.com.au/category/blogs/">Opinion</a></li>
+<li id="menu-item-235783" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-235783 category--lifestyle"><a href="https://citynews.com.au/category/lifestyle/" aria-current="page">Lifestyle</a></li>
+<li id="menu-item-235784" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235784 category--arts-entertainment"><a href="https://citynews.com.au/category/arts-entertainment/">Arts &amp; Entertainment</a></li>
+</ul></nav>								</div>
+								<div class="cell large-2 show-for-large">						            
+									<h5 class="text-white">CityNews</h3><nav class="bottom-bar__navigation"><ul id="menu-citynews" class="menu"><li id="menu-item-235775" class="support-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-235775"><a href="https://citynews.com.au/support/">Support</a></li>
+<li id="menu-item-235776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235776"><a href="https://citynews.com.au/subscribe/">Subscribe</a></li>
+<li id="menu-item-235777" class="contact-footer-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-235777"><a href="https://citynews.com.au/contact/">Contact us</a></li>
+<li id="menu-item-235778" class="advertise-footer-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-235778"><a href="https://citynews.com.au/advertise/">Advertise with us</a></li>
+<li id="menu-item-235779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235779"><a href="https://citynews.com.au/policies/">Policies</a></li>
+</ul></nav>								</div>
+																<div class="cell medium-6 large-3 large-offset-1">
+									<h4 class="text-white">Subscribe</h4><p class="text-medium">Get CityNews in your inbox. Daily. The best local news sent straight to your inbox every workday!</p>
+									<a href="https://citynews.com.au/subscribe/" class="btn btn--white text-small" target="_self">Subscribe</a>
+								</div>
+															</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="bottom-bar__legality padding-top padding-bottom outer-row">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x text-left">
+					<div class="cell large-text-left">
+						&copy; 2024 Macquarie Publishing Pty Ltd. All rights reserved. 					</div>
+									</div>
+			</div>
+		</div>
+	</footer>
+
+	
+	
+	    
+    <div id="outdated"></div>
+
+	<script src="https://citynews.com.au/wp-content/themes/citynews-2021/js/outdatedbrowser.min.js"></script>
+
+	<script>		
+	//event listener: DOM ready
+	function addLoadEvent(func) {
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function') {
+			window.onload = func;
+		} else {
+			window.onload = function() {
+				if (oldonload) {
+					oldonload();
+				}
+				func();
+			}
+		}
+	}
+	//call plugin function after DOM ready
+	addLoadEvent(function(){
+		outdatedBrowser({
+			bgColor: '#f25648',
+			color: '#ffffff',
+			lowerThan: 'borderImage',
+			languagePath: 'https://citynews.com.au/wp-content/themes/citynews-2021/js/lang/en.html'
+		})
+	});
+    </script>
+
+	<script src="https://stats.wp.com/e-202111.js" defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.5',blog:'21526277',post:'301',tz:'11',srv:'citynews.com.au'} ]);
+	_stq.push([ 'clickTrackerInit', '21526277', '301' ]);
+</script><!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://citynews.com.au/wp-admin/admin-ajax.php";
+</script>
+	<script>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script id="ce4wp_form_submit-js-extra">
+var ce4wp_form_submit_data = {"siteUrl":"https:\/\/citynews.com.au","url":"https:\/\/citynews.com.au\/wp-admin\/admin-ajax.php","nonce":"906a88244d","listNonce":"33d6798458","activatedNonce":"0b4a0d9701"};
+</script>
+<script src="https://citynews.com.au/wp-content/plugins/creative-mail-by-constant-contact/assets/js/block/submit.js" id="ce4wp_form_submit-js"></script>
+<script src="https://citynews.com.au/wp-content/plugins/contact-form-7/includes/swv/js/index.js" id="swv-js"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/citynews.com.au\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src="https://citynews.com.au/wp-content/plugins/contact-form-7/includes/js/index.js" id="contact-form-7-js"></script>
+<script src="https://citynews.com.au/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js" id="sourcebuster-js-js"></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"ajaxurl":"https:\/\/citynews.com.au\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+</script>
+<script src="https://citynews.com.au/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js" id="wc-order-attribution-js"></script>
+<script src="https://citynews.com.au/wp-content/themes/citynews-2021/js/vendor/jquery-migrate-3.0.1.min.js" id="migrate-js"></script>
+<script src="https://kit.fontawesome.com/51f96badd0.js?ver=1" id="icons-js"></script>
+<script src="https://citynews.com.au/wp-content/themes/citynews-2021/js/plugins.js" id="plugins-js"></script>
+<script id="app-js-extra">
+var themeurl = {"templateUrl":"https:\/\/citynews.com.au\/wp-content\/themes\/citynews-2021"};
+</script>
+<script src="https://citynews.com.au/wp-content/themes/citynews-2021/js/app.js" id="app-js"></script>
+<script src="https://stats.wp.com/e-202427.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script id="jetpack-stats-js-after">
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"21526277\",\"post\":\"0\",\"tz\":\"10\",\"srv\":\"citynews.com.au\",\"j\":\"1:13.3\"}") ]);
+_stq.push([ "clickTrackerInit", "21526277", "0" ]);
+</script>
+    
+    <!--[if lt IE 9]>
+      <script src="https://citynews.com.au/wp-content/themes/citynews-2021/js/html5shiv.js"></script>
+      <script src="https://citynews.com.au/wp-content/themes/citynews-2021/js/respond.min.js"></script>
+    <![endif]-->
+    
+</body>
+</html>
