@@ -12,9 +12,9 @@ import (
 
 
 func RequestSecurityTxt(domain string) {
-	urls := [4]string{}
+	urls := [2]string{}
 	urls[0] = fmt.Sprintf("https://%s", domain)
-	urls[3] = fmt.Sprintf("http://%s", domain)
+	urls[1] = fmt.Sprintf("http://%s", domain)
 
 	for _,requestURL := range urls {
 		res, err := http.Get(requestURL)
