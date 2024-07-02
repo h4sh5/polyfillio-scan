@@ -1,0 +1,1963 @@
+		
+<!doctype html>
+<html lang="en-AU">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		
+        <title> Institute of Public Administration Australia (ACT) Limited | </title>
+		
+		<link rel="icon" type="image/png" href="https://act.ipaa.org.au/favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="https://act.ipaa.org.au/favicon-16x16.png" sizes="16x16" />
+		
+		<link rel="pingback" href="https://act.ipaa.org.au/xmlrpc.php" />
+        <link rel="profile" href="http://gmpg.org/xfn/11" />
+		
+		<link rel="stylesheet" type="text/css" media="all" href="https://act.ipaa.org.au/wp-content/themes/ipp-act/style.css" />
+		<link rel="stylesheet" href="https://act.ipaa.org.au/wp-content/themes/ipp-act/assets/css/outdatedbrowser.min.css">
+        <link rel="stylesheet" href=https://use.typekit.net/fqg8ect.css>
+		
+				<script src="https://cdn.polyfill.io/v3/polyfill.min.js"></script>
+        
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://act.ipaa.org.au/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home - Institute of Public Administration Australia (ACT) Limited" />
+	<meta property="og:url" content="https://act.ipaa.org.au/" />
+	<meta property="og:site_name" content="Institute of Public Administration Australia (ACT) Limited" />
+	<meta property="article:modified_time" content="2024-06-17T04:49:16+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://act.ipaa.org.au/","url":"https://act.ipaa.org.au/","name":"Home - Institute of Public Administration Australia (ACT) Limited","isPartOf":{"@id":"https://act.ipaa.org.au/#website"},"datePublished":"2020-09-17T16:07:15+00:00","dateModified":"2024-06-17T04:49:16+00:00","breadcrumb":{"@id":"https://act.ipaa.org.au/#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://act.ipaa.org.au/"]}]},{"@type":"BreadcrumbList","@id":"https://act.ipaa.org.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://act.ipaa.org.au/#website","url":"https://act.ipaa.org.au/","name":"Institute of Public Administration Australia (ACT) Limited","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://act.ipaa.org.au/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-AU"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title=" Institute of Public Administration Australia (ACT) Limited &raquo; Feed" href="https://act.ipaa.org.au/feed/" />
+<link rel="alternate" type="text/calendar" title=" Institute of Public Administration Australia (ACT) Limited &raquo; iCal Feed" href="https://act.ipaa.org.au/events1/?ical=1" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/act.ipaa.org.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel='stylesheet' id='tribe-events-pro-mini-calendar-block-styles-css' href='https://act.ipaa.org.au/wp-content/plugins/events-calendar-pro/src/resources/css/tribe-events-pro-mini-calendar-block.min.css?ver=6.2.4' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://act.ipaa.org.au/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5' media='all' />
+<style id='safe-svg-svg-icon-style-inline-css'>
+.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='foundation-css' href='https://act.ipaa.org.au/wp-content/themes/ipp-act/assets/css/foundation.xy.css?ver=1' media='all' />
+<link rel='stylesheet' id='app-css' href='https://act.ipaa.org.au/wp-content/themes/ipp-act/assets/css/app.css?ver=1' media='all' />
+<link rel='stylesheet' id='colour-variations-css' href='https://act.ipaa.org.au/wp-content/themes/ipp-act/assets/css/colour-variations.css?ver=1' media='all' />
+<script src="https://act.ipaa.org.au/wp-content/themes/ipp-act/assets/js/vendor/jquery-3.6.1.min.js?ver=3.6.1" id="jquery-js"></script>
+<script id="google-maps-js-before">
+function googleMapsLoaded() { console.log("Google Maps loaded successfully.") }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAmavXi5FuDFXst4AwLTbHspttwp7LmalU&amp;callback=googleMapsLoaded&amp;ver=1" id="google-maps-js"></script>
+<link rel="https://api.w.org/" href="https://act.ipaa.org.au/wp-json/" /><link rel="alternate" type="application/json" href="https://act.ipaa.org.au/wp-json/wp/v2/pages/7" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://act.ipaa.org.au/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://act.ipaa.org.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://act.ipaa.org.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fact.ipaa.org.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://act.ipaa.org.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fact.ipaa.org.au%2F&#038;format=xml" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K7ZSBVDQ');</script>
+<!-- End Google Tag Manager --><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://act.ipaa.org.au"><link rel="alternate" href="https://act.ipaa.org.au/wp-json/tribe/events/v1/" />    </head>
+    
+    <body class="home page-template page-template-templates page-template-page-builder page-template-templatespage-builder-php page page-id-7 tribe-no-js">
+		
+		<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7ZSBVDQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+				<section class="header-top-menu-bar">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x align-right align-middle">
+					<div class="cell shrink">
+						<nav class="top-bar__navigation top-membership__navigation"><ul id="menu-top-menu" class="menu"><li id="menu-item-535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-535"><a href="https://act.ipaa.org.au/contact/">Contact</a></li>
+</ul></nav>					</div>
+					<div class="cell shrink">
+						<a href="#" class="tile-link search-button srch-button-top js-search-trigger">Search</a>		
+					</div>
+				</div>
+			</div>
+		</section>
+		<header id="top-bar" class="top-bar">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x align-justify align-middle">
+					<div class="cell shrink">
+						<h1 class="site-logo">
+							<a class="site-logo__link ir" href="https://act.ipaa.org.au/" title=" Institute of Public Administration Australia (ACT) Limited" rel="home"> Institute of Public Administration Australia (ACT) Limited</a>
+						</h1>
+					</div>
+					<div class="cell shrink">
+						<div class="grid-x grid-padding-x align-middle">
+							<div class="cell shrink hide-for-large">
+								<button type="button" class="menu-button menu-button--closed js-menu-trigger">
+									<span></span>
+									<span></span>
+									<span></span>
+								</button>
+							</div>
+							<div class="cell shrink show-for-large">
+								<nav class="top-bar__navigation"><ul id="menu-header-menu" class="menu"><li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-548"><a href="https://act.ipaa.org.au/about/">About<i class="fa-regular fa-angle-down"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-703"><a href="https://act.ipaa.org.au/about/what-we-do/">What we do</a></li>
+	<li id="menu-item-2290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2290"><a href="https://act.ipaa.org.au/about/our-people/">Our people</a></li>
+	<li id="menu-item-1030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1030"><a href="https://act.ipaa.org.au/about/governance/">Governance</a></li>
+	<li id="menu-item-1031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1031"><a href="https://act.ipaa.org.au/about/committees/">Committees</a></li>
+	<li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="https://act.ipaa.org.au/about/work-with-us/">Work with us</a></li>
+	<li id="menu-item-1032" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1032"><a href="https://act.ipaa.org.au/about/partner-with-us/">Partner with us</a></li>
+	<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="https://act.ipaa.org.au/about/our-history/">Our history</a></li>
+</ul>
+</li>
+<li id="menu-item-2352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2352"><a href="https://act.ipaa.org.au/membership/">Membership<i class="fa-regular fa-angle-down"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-2353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2353"><a href="https://act.ipaa.org.au/membership/am-i-a-member/">Am I a member?</a></li>
+	<li id="menu-item-2354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2354"><a href="https://act.ipaa.org.au/membership/become-a-member/">Become a member</a></li>
+</ul>
+</li>
+<li id="menu-item-1029" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1029"><a href="https://act.ipaa.org.au/events/">Events<i class="fa-regular fa-angle-down"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-2377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2377"><a href="https://act.ipaa.org.au/events/upcoming-events/">Upcoming events</a></li>
+	<li id="menu-item-4595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4595"><a href="https://act.ipaa.org.au/category/past-events/">Past events library</a></li>
+</ul>
+</li>
+<li id="menu-item-1042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1042"><a href="https://act.ipaa.org.au/awards/">Awards<i class="fa-regular fa-angle-down"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-1047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1047"><a href="https://act.ipaa.org.au/awards/spirit-of-service-awards/">Spirit of Service Awards</a></li>
+	<li id="menu-item-1095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1095"><a href="https://act.ipaa.org.au/awards/ipaa-national-fellows/">IPAA National Fellows</a></li>
+	<li id="menu-item-1106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1106"><a href="https://act.ipaa.org.au/awards/historical-awards/">Historical awards</a></li>
+	<li id="menu-item-1105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1105"><a href="https://act.ipaa.org.au/awards/ea-lyall-memorial-prize/">EA Lyall Memorial Prize</a></li>
+</ul>
+</li>
+<li id="menu-item-559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-559"><a href="https://act.ipaa.org.au/capability/">Capability<i class="fa-regular fa-angle-down"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-951"><a href="https://act.ipaa.org.au/capability/future-leaders-program/">Future Leaders Program</a></li>
+	<li id="menu-item-1198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1198"><a href="https://act.ipaa.org.au/capability/ses-program/">Senior Executive Leadership Conversations Program</a></li>
+	<li id="menu-item-6579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6579"><a href="https://act.ipaa.org.au/capability/first-nations-emerging-leaders-program/">First Nations Emerging Leaders Program</a></li>
+	<li id="menu-item-6716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6716"><a href="https://act.ipaa.org.au/capability/navigating-leadership-challenges-in-the-public-sector/">Navigating Leadership Challenges in the Public Sector</a></li>
+</ul>
+</li>
+<li id="menu-item-562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562"><a href="https://act.ipaa.org.au/news-and-insights/">News and insights<i class="fa-regular fa-angle-down"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-1509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1509"><a href="https://act.ipaa.org.au/news-and-insights/news/">News</a></li>
+	<li id="menu-item-2138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2138"><a href="https://act.ipaa.org.au/news-and-insights/podcasts/">Podcasts</a></li>
+	<li id="menu-item-2149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2149"><a href="https://act.ipaa.org.au/news-and-insights/resources/">Resources</a></li>
+	<li id="menu-item-2150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2150"><a href="https://act.ipaa.org.au/news-and-insights/australian-journal-of-public-administration/">Australian Journal of Public Administration</a></li>
+	<li id="menu-item-5294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5294"><a href="https://act.ipaa.org.au/subscribe/">Subscribe to news from us</a></li>
+</ul>
+</li>
+</ul></nav>							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<div class="site-navigation top-bar-offset hide-for-large">
+			<div class="grid-container content-area">
+				<div class="grid-x grid-padding-x">
+					<div class="cell">
+						<nav class="site-navigation__navigation"><ul id="menu-header-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-548"><a href="https://act.ipaa.org.au/about/">About</a><a href='#' class='menu-arrow menu-arrow--closed js-menu-expand'><span class='menu-arrow__icon'><i class="fa-regular fa-chevron-down"></i></span></a>
+
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-703"><a href="https://act.ipaa.org.au/about/what-we-do/">What we do</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2290"><a href="https://act.ipaa.org.au/about/our-people/">Our people</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1030"><a href="https://act.ipaa.org.au/about/governance/">Governance</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1031"><a href="https://act.ipaa.org.au/about/committees/">Committees</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="https://act.ipaa.org.au/about/work-with-us/">Work with us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1032"><a href="https://act.ipaa.org.au/about/partner-with-us/">Partner with us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="https://act.ipaa.org.au/about/our-history/">Our history</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2352"><a href="https://act.ipaa.org.au/membership/">Membership</a><a href='#' class='menu-arrow menu-arrow--closed js-menu-expand'><span class='menu-arrow__icon'><i class="fa-regular fa-chevron-down"></i></span></a>
+
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2353"><a href="https://act.ipaa.org.au/membership/am-i-a-member/">Am I a member?</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2354"><a href="https://act.ipaa.org.au/membership/become-a-member/">Become a member</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1029"><a href="https://act.ipaa.org.au/events/">Events</a><a href='#' class='menu-arrow menu-arrow--closed js-menu-expand'><span class='menu-arrow__icon'><i class="fa-regular fa-chevron-down"></i></span></a>
+
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2377"><a href="https://act.ipaa.org.au/events/upcoming-events/">Upcoming events</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4595"><a href="https://act.ipaa.org.au/category/past-events/">Past events library</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1042"><a href="https://act.ipaa.org.au/awards/">Awards</a><a href='#' class='menu-arrow menu-arrow--closed js-menu-expand'><span class='menu-arrow__icon'><i class="fa-regular fa-chevron-down"></i></span></a>
+
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1047"><a href="https://act.ipaa.org.au/awards/spirit-of-service-awards/">Spirit of Service Awards</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1095"><a href="https://act.ipaa.org.au/awards/ipaa-national-fellows/">IPAA National Fellows</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1106"><a href="https://act.ipaa.org.au/awards/historical-awards/">Historical awards</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1105"><a href="https://act.ipaa.org.au/awards/ea-lyall-memorial-prize/">EA Lyall Memorial Prize</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-559"><a href="https://act.ipaa.org.au/capability/">Capability</a><a href='#' class='menu-arrow menu-arrow--closed js-menu-expand'><span class='menu-arrow__icon'><i class="fa-regular fa-chevron-down"></i></span></a>
+
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-951"><a href="https://act.ipaa.org.au/capability/future-leaders-program/">Future Leaders Program</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1198"><a href="https://act.ipaa.org.au/capability/ses-program/">Senior Executive Leadership Conversations Program</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6579"><a href="https://act.ipaa.org.au/capability/first-nations-emerging-leaders-program/">First Nations Emerging Leaders Program</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6716"><a href="https://act.ipaa.org.au/capability/navigating-leadership-challenges-in-the-public-sector/">Navigating Leadership Challenges in the Public Sector</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562"><a href="https://act.ipaa.org.au/news-and-insights/">News and insights</a><a href='#' class='menu-arrow menu-arrow--closed js-menu-expand'><span class='menu-arrow__icon'><i class="fa-regular fa-chevron-down"></i></span></a>
+
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1509"><a href="https://act.ipaa.org.au/news-and-insights/news/">News</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2138"><a href="https://act.ipaa.org.au/news-and-insights/podcasts/">Podcasts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2149"><a href="https://act.ipaa.org.au/news-and-insights/resources/">Resources</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2150"><a href="https://act.ipaa.org.au/news-and-insights/australian-journal-of-public-administration/">Australian Journal of Public Administration</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5294"><a href="https://act.ipaa.org.au/subscribe/">Subscribe to news from us</a></li>
+</ul>
+</li>
+</ul></nav>					</div>
+				</div>
+			</div>
+		</div>
+
+		<main>
+	<article id="post-7" class="home post-7 page type-page status-publish hentry">
+
+		<section class="banner-row position_relative hide-for-large">
+	<div class="flexslider" data-controlNav="true">
+		<ul class="slides">
+						<li class="background-image background-image-overlay-color background-image--overlay--" style="background-image:url(https://act.ipaa.org.au/wp-content/uploads/2023/10/IPAA-website-bg-1800x1080.jpg)">
+				<div class="grid-x banner-row__slide height_100 padding-top-x2 medium-padding-bottom-x2">
+					<div class="grid-container padding-bottom-x2 position_relative text-tertiary align-self-middle">
+						<div class="banner-row__slide__content grid-x content-area-x2">
+							<div class="cell medium-9 large-5 color-white padding-bottom-x2">
+								<div class="grid-x grid-padding-x grid-padding-y  padding-top"><div class="cell"><div class="padding-top padding-bottom"><h2 class="h1 fix_line_height text-weight-semibold fz-66">Building the best public sector, for the benefit of all.</h2></div></div></div>							</div>
+						</div>
+					</div>
+										<div class="banner-row__video background-image background-image-overlay-color  background-image--overlay--">
+												<video class="js-banner-video" preload="auto" autoplay loop muted playsinline controlsList="nodownload">
+							<source src="https://act.ipaa.org.au/wp-content/uploads/2023/10/IPAA-website-video.mp4" type="video/mp4">
+						</video>
+					</div>
+									</div>
+			</li>
+						<li class="background-image background-image-overlay-color background-image--overlay--" style="background-image:url(https://act.ipaa.org.au/wp-content/uploads/2024/05/Podcast-generic-website.png)">
+				<div class="grid-x banner-row__slide height_100 padding-top-x2 medium-padding-bottom-x2">
+					<div class="grid-container padding-bottom-x2 position_relative text-tertiary align-self-middle">
+						<div class="banner-row__slide__content grid-x content-area-x2">
+							<div class="cell medium-9 large-5 color-white padding-bottom-x2">
+								<div class="grid-x grid-padding-x grid-padding-y  padding-top"><div class="cell"><div class="padding-top padding-bottom"><h2 class="h1 fix_line_height text-weight-semibold fz-66">Work with Purpose: Changing the climate for wellbeing</h2></div></div></div>								<div class="padding-top">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																				<div class="cell shrink">
+											<a class="btn btn--hollow btn--hollow--white" href="https://act.ipaa.org.au/ipaa-podcast/changing-the-climate-for-wellbeing/" target="_self">Listen now</a>
+										</div>
+																			</div>
+								</div>
+															</div>
+						</div>
+					</div>
+									</div>
+			</li>
+					</ul>
+		<div class="banner-row__pagination padding-bottom">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x grid-padding-y align-middle align-justify">
+										<div class="cell shrink">
+						<div class="slider-pagination"></div>
+					</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="banner-row position_relative show-for-large ">
+	<div class="flexslider" data-controlNav="true">
+		<ul class="slides">
+						<li class="background-tertiary position_relative">
+				<div class="grid-x banner-row__slide height_100 padding-top medium-padding-bottom-x2">
+					<div class="grid-container content-area position_relative align-self-middle">
+						<div class="banner-row__slide__content grid-x content-area">
+							<div class="cell medium-9 large-5  padding-bottom-x2">
+								<div class="grid-x grid-padding-x grid-padding-y padding-top"><div class="cell"><div class="padding-top padding-bottom"><h2 class="h1 fix_line_height text-weight-semibold fz-66">Building the best public sector, for the benefit of all.</h2></div></div></div>							</div>
+						</div>
+					</div>
+					<div class="background-image banner-row__images bg_overlay_tertiary" style="background-image:url(https://act.ipaa.org.au/wp-content/uploads/2023/10/IPAA-website-bg-1800x1080.jpg)"></div>
+										<div class="banner-row__video background-image large-background-image-overlay-color-none background-image-overlay-color  background-image--overlay--  bg_overlay_tertiary">
+												<video class="js-banner-video" preload="auto" autoplay loop muted playsinline controlsList="nodownload">
+							<source src="https://act.ipaa.org.au/wp-content/uploads/2023/10/IPAA-website-video.mp4" type="video/mp4">
+						</video>
+					</div>
+									</div>
+			</li>
+						<li class="background-blue position_relative">
+				<div class="grid-x banner-row__slide height_100 padding-top medium-padding-bottom-x2">
+					<div class="grid-container content-area position_relative align-self-middle">
+						<div class="banner-row__slide__content grid-x content-area">
+							<div class="cell medium-9 large-5  padding-bottom-x2">
+								<div class="grid-x grid-padding-x grid-padding-y padding-top"><div class="cell"><div class="padding-top padding-bottom"><h2 class="h1 fix_line_height text-weight-semibold fz-66">Work with Purpose: Changing the climate for wellbeing</h2></div></div></div>								<div class="padding-top">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																				<div class="cell shrink">
+											<a class="btn btn--hollow btn--hollow--white" href="https://act.ipaa.org.au/ipaa-podcast/changing-the-climate-for-wellbeing/" target="_self">Listen now</a>
+										</div>
+																			</div>
+								</div>
+															</div>
+						</div>
+					</div>
+					<div class="background-image banner-row__images bg_overlay_blue" style="background-image:url(https://act.ipaa.org.au/wp-content/uploads/2024/05/Podcast-generic-website.png)"></div>
+									</div>
+			</li>
+					</ul>
+		
+		<div class="banner-row__pagination padding-bottom">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x grid-padding-y align-middle align-justify">
+										<div class="cell shrink">
+						<div class="slider-pagination"></div>
+					</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section id="row-1" class="position_relative tabs-row padding-bottom-x2 large-margin-bottom-x2" data-row-type="tabs_row" data-row-index="row_1">
+	<div class="tab_outer_row">
+		<div class="grid-container padding-top">
+			<div class="grid-x align-center">
+				<div class="cell ">
+					<div class="grid-x grid-padding-y background-white border-radius box_shadow_row">
+												<div class="cell medium-6 large-3 boxed_row_btn">
+							<a class="btn text-weight-medium size-h4" href="https://act.ipaa.org.au/membership/become-a-member/" target="_self"><span>Join IPAA ACT</span> <i class="fa-solid fa-chevron-right"></i></a>
+						</div>
+												<div class="cell medium-6 large-3 boxed_row_btn">
+							<a class="btn text-weight-medium size-h4" href="https://act.ipaa.org.au/events/" target="_self"><span>Attend an event</span> <i class="fa-solid fa-chevron-right"></i></a>
+						</div>
+												<div class="cell medium-6 large-3 boxed_row_btn">
+							<a class="btn text-weight-medium size-h4" href="https://act.ipaa.org.au/news-and-insights/podcasts/" target="_self"><span>Listen to our podcasts</span> <i class="fa-solid fa-chevron-right"></i></a>
+						</div>
+												<div class="cell medium-6 large-3 boxed_row_btn">
+							<a class="btn text-weight-medium size-h4" href="https://act.ipaa.org.au/subscribe/" target="_self"><span>Subscribe</span> <i class="fa-solid fa-chevron-right"></i></a>
+						</div>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<style>
+	.tabs-row{
+		z-index: 9;
+		margin-top:-40px
+	}
+	.box_shadow_row{
+		box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+	}
+	.tabs-row .btn{
+		color:var(--color-tertiary-400);
+		width: 100%;
+		padding: 1.28em  2em;
+		font-weight: 600;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		border-right:3px solid var(--color-grey-200);
+		border-radius:0px;
+	}
+	.tabs-row .box_shadow_row .cell:last-child .btn{
+		border-right:none;
+	}
+	.tabs-row .box_shadow_row .boxed_row_btn:hover .btn span{
+		text-decoration:underline;
+	}
+	.tabs-row .box_shadow_row .boxed_row_btn:hover .btn i{
+		transform: translate(5px,0px);
+    	transition: all .1s ease-in-out;
+	}
+	.tabs-row .box_shadow_row .boxed_row_btn:last-child:hover .btn{
+		border-right:none !important;
+	}
+</style>
+<section id="about-us" class="content-area-x2 background-white" data-row-type="content_row" data-row-index="row_2">
+		<div class="grid-container position_relative">
+		<div class="grid-x align-center">
+			<div class="cell ">
+					
+				<div class="grid-x grid-padding-x grid-padding-y align-middle align-center large-flex-dir-row-reverse">
+					<div class="cell large-6">
+												<div class="flexslider flexslider--hide-controls height_100">
+							<ul class="slides height_100">
+																<li>
+									<div class="slide-content height_100">
+																				<figure class="height_100">
+											<div class="set-size set-size--landscape height_100 border-radius">
+												<div class="set-size__image" style="background-image:url(https://act.ipaa.org.au/wp-content/uploads/2023/10/about_ipaa.png)">
+													<img src="https://act.ipaa.org.au/wp-content/uploads/2023/10/about_ipaa.png" alt="Home image">
+												</div>
+											</div>
+																					</figure>
+																			</div>
+								</li>
+															</ul>
+						</div>
+																	</div>
+					<div class="cell large-6">
+                        <div class="grid-x align-middle height_100">
+                            <div class="cell xlarge-11">
+								<h2 class="h3">About us</h2><div class="wysiwyg"><p><span class="size-h5">The Institute of Public Administration Australia (IPAA) ACT is a member-based organisation, empowering and inspiring public sector professionals to do great work.</span></p>
+<p>We are not-for-profit and non-partisan. We provide members with a platform for debate and discussion about improving and striving for excellence in public administration in Australia through thought leadership, events, and networking opportunities.</p>
+<p>As an IPAA ACT member, we help keep you ahead of the curve so you can deliver policy that makes a difference, implement programs that have impact, and play your part in building a better future for Australia.</p>
+</div>								<div class="padding-top-x2">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																				<div class="cell shrink">
+											<a class="btn btn--tertiary size-h5" href="https://act.ipaa.org.au/about/" target="_self">Learn more</a>
+										</div>
+																			</div>
+								</div>
+								                            </div>
+                        </div>
+					</div>
+				</div>
+							</div>
+		</div>
+	</div>
+	</section><section id="upcoming-events" class="content-area-x2 background-grey grey--200" data-row-type="upcoming_events_row" data-row-index="row_3">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="cell ">	
+								<div class="slider-functions padding-bottom">
+									<div class="grid-x grid-padding-x grid-padding-y align-middle padding-bottom-x2">
+						
+						<div class="cell medium-auto">
+							<h2 class="h3 fix_line_height">Upcoming events</h2>
+						</div>												<div class="cell medium-shrink">
+							<a class="text-underline" href="https://act.ipaa.org.au/events/upcoming-events/" target="_self">View all upcoming events</a>
+						</div>
+											</div>
+								</div>
+								<div class="flexslider " data-controlNav="true" data-directionNav="true" data-animationLoop="false" data-slideshow="false" data-columnSlider="small">
+				<ul class="slides">
+									<li>
+					<div class="slide-content height_100">
+					
+<a href="https://act.ipaa.org.au/event/naidoc-week-hackathon-2024-keep-the-fire-burning-blak-loud-and-proud/" id="post-7198" class="naidoc-week-hackathon-2024-keep-the-fire-burning-blak-loud-and-proud grid-x height_100 align-stretch flex-dir-column tile-link border-radius background-white post-7198 tribe_events type-tribe_events status-publish hentry tag-hackathon tag-naidoc tag-naidoc-week-2024 tribe_events_cat-upcoming-events cat_upcoming-events">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/07/IPAA-ACT-website-banner_Hackathon800x400.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/07/IPAA-ACT-website-banner_Hackathon800x400.png" alt="NAIDOC Week Hackathon 2024: Keep the Fire Burning! Blak, Loud and Proud image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100-x">
+			<div class="cell">
+				
+				<span class="size-body category_title">Upcoming events</span>				<h4 class="text-weight-medium">NAIDOC Week Hackathon 2024: Keep the Fire Burning! Blak, Loud and Proud</h4>
+				<p class="size-body">Thursday 18 July 2024 <span class="tile-link">12:30 pm - 3:30 pm</span></p>				<p class="text-underline size-body">Read more</p>  
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					
+<a href="https://act.ipaa.org.au/event/2024-ea-series-micro-masterclass/" id="post-6036" class="2024-ea-series-micro-masterclass grid-x height_100 align-stretch flex-dir-column tile-link border-radius background-white post-6036 tribe_events type-tribe_events status-publish hentry tag-aps-eas tag-aps-executive-assitants tag-australia-executive-assitants tag-ea-professional-development-australia tag-ipaa-eas tag-ipaa-executive-assistants tribe_events_cat-ea-series cat_ea-series">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/03/Networking_-1200-x-800.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/03/Networking_-1200-x-800.png" alt="2024 EA Series: Micro masterclass image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100-x">
+			<div class="cell">
+				
+				<span class="size-body category_title">EA Series</span>				<h4 class="text-weight-medium">2024 EA Series: Micro masterclass</h4>
+				<p class="size-body">Thursday 25 July 2024 <span class="tile-link">1:00 pm - 6:00 pm</span></p>				<p class="text-underline size-body">Read more</p>  
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					
+<a href="https://act.ipaa.org.au/event/frances-adamson-oration-dr-wendy-craik-am-ftse/" id="post-6984" class="frances-adamson-oration-dr-wendy-craik-am-ftse grid-x height_100 align-stretch flex-dir-column tile-link border-radius background-white post-6984 tribe_events type-tribe_events status-publish hentry tag-frances-adamson-oration tag-wendy-craik tribe_events_cat-upcoming-events cat_upcoming-events">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/06/Wendy-Craik-banner-800x400-1.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/06/Wendy-Craik-banner-800x400-1.png" alt="Frances Adamson Oration: Dr Wendy Craik AM FTSE image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100-x">
+			<div class="cell">
+				
+				<span class="size-body category_title">Upcoming events</span>				<h4 class="text-weight-medium">Frances Adamson Oration: Dr Wendy Craik AM FTSE</h4>
+				<p class="size-body">Thursday 01 August 2024 <span class="tile-link">5:30 pm - 7:00 pm</span></p>				<p class="text-underline size-body">Read more</p>  
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					
+<a href="https://act.ipaa.org.au/event/spirit-of-service-awards-gala-dinner/" id="post-7063" class="spirit-of-service-awards-gala-dinner grid-x height_100 align-stretch flex-dir-column tile-link border-radius background-white post-7063 tribe_events type-tribe_events status-publish hentry tag-awards tag-ipaa-events tag-ipaa-spirit-of-service-awards tag-spirit-of-service-2024 tribe_events_cat-upcoming-events cat_upcoming-events">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/02/SoS-website-banner-889-x-312-px-1-1.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/02/SoS-website-banner-889-x-312-px-1-1.png" alt="Spirit of Service Awards gala dinner image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100-x">
+			<div class="cell">
+				
+				<span class="size-body category_title">Upcoming events</span>				<h4 class="text-weight-medium">Spirit of Service Awards gala dinner</h4>
+				<p class="size-body">Wednesday 23 October 2024 <span class="tile-link">6:30 pm - 9:30 pm</span></p>				<p class="text-underline size-body">Read more</p>  
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					
+<a href="https://act.ipaa.org.au/event/2024-ipaa-act-conference/" id="post-7120" class="2024-ipaa-act-conference grid-x height_100 align-stretch flex-dir-column tile-link border-radius background-white post-7120 tribe_events type-tribe_events status-publish hentry tag-ipaa-act-conference tag-state-conference tribe_events_cat-upcoming-events cat_upcoming-events">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2020/06/IPAA-ACT-website-placeholder.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2020/06/IPAA-ACT-website-placeholder.png" alt="2024 IPAA ACT Conference image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100-x">
+			<div class="cell">
+				
+				<span class="size-body category_title">Upcoming events</span>				<h4 class="text-weight-medium">2024 IPAA ACT Conference</h4>
+				<p class="size-body">Wednesday 06 11:00 am - Thursday 07 November 2024 2:30 pm</p>				<p class="text-underline size-body">Read more</p>  
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+									</ul>
+				</div>
+								
+
+                <div class="grid-x grid-padding-x grid-padding-y grid-margin-y align-middle padding-top">
+                    					<div class="cell auto"><div class="slider-pagination slider-pagination--progress"></div></div>
+                    <div class="cell shrink">
+                        <div class="slider-controls">
+                            <ul class="custom-direction-nav">
+                                <li><a href="#" class="flex-prev"><span class="link-icon"><i class="fa-light fa-arrow-left size-h5"></i></span></a></li>
+                                <li><a href="#" class="flex-next"><span class="link-icon"><i class="fa-light fa-arrow-right size-h5"></i></span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                                    </div>
+
+                
+			</div>
+		</div>
+	</div>
+</section>
+<section id="news-and-insights" class="content-area-x2 background-white" data-row-type="posts_row" data-row-index="row_4">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="cell ">	
+								<div class="slider-functions padding-bottom">
+									<div class="grid-x grid-padding-x grid-padding-y align-middle padding-bottom">
+						
+						<div class="cell medium-auto">
+							<h2 class="h3 fix_line_height">News and insights</h2>
+						</div>												<div class="cell medium-shrink">
+							<a class="text-underline" href="https://act.ipaa.org.au/news-and-insights/" target="_self">View all news and insights</a>
+						</div>
+											</div>
+								</div>
+								<div class="flexslider " data-controlNav="true" data-directionNav="true" data-animationLoop="false" data-slideshow="false" data-columnSlider="small">
+				<ul class="slides">
+									<li>
+					<div class="slide-content height_100">
+					<a id="post-7213" class="devolving-leadership-lessons-from-blair-comleys-public-service-career grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-7213 post type-post status-publish format-standard hentry category-news" href="https://act.ipaa.org.au/devolving-leadership-lessons-from-blair-comleys-public-service-career/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/07/IPAA-ACT-website-banner_devolution-1000-x-290-px.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/07/IPAA-ACT-website-banner_devolution-1000-x-290-px.png" alt="Devolving leadership: Lessons from Blair Comley’s public service career  image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Devolving leadership: Lessons from Blair Comley’s public service career </h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-7127" class="takeaways-from-the-future-leaders-summit grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-7127 post type-post status-publish format-standard hentry category-news" href="https://act.ipaa.org.au/takeaways-from-the-future-leaders-summit/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/06/IMG_5597-1200x800.jpg');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/06/IMG_5597-1200x800.jpg" alt="Takeaways from the Future Leaders Summit image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Takeaways from the Future Leaders Summit</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-7102" class="championing-innovation-in-your-public-sector-organisation grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-7102 post type-post status-publish format-standard hentry category-news tag-innovation tag-work-with-purpose" href="https://act.ipaa.org.au/championing-innovation-in-your-public-sector-organisation/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/06/IPAA-ACT-website-banner_innovation-2.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/06/IPAA-ACT-website-banner_innovation-2.png" alt="Championing innovation in your public sector organisation image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Championing innovation in your public sector organisation</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-6954" class="six-tips-for-incorporating-human-centred-design-and-complex-systems-thinking-in-your-public-sector-work grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-6954 post type-post status-publish format-standard hentry category-news tag-design-thinking tag-human-centred-design tag-work-with-purpose" href="https://act.ipaa.org.au/six-tips-for-incorporating-human-centred-design-and-complex-systems-thinking-in-your-public-sector-work/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/05/IPAA-ACT-website-banner-800x400-1.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/05/IPAA-ACT-website-banner-800x400-1.png" alt="Six tips for incorporating human-centred design and complex systems thinking in your public sector work image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Six tips for incorporating human-centred design and complex systems thinking in your public sector work</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-6889" class="get-to-the-heart-of-public-service-with-gordon-de-brouwer grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-6889 post type-post status-publish format-standard hentry category-news tag-aps tag-australian-public-service tag-effective-leadership tag-gordon-de-brouwer tag-integrity tag-work-with-purpose" href="https://act.ipaa.org.au/get-to-the-heart-of-public-service-with-gordon-de-brouwer/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/05/Website-banner_ep100-1000-x-290-px.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/05/Website-banner_ep100-1000-x-290-px.png" alt="Get to the heart of public service with Gordon de Brouwer image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Get to the heart of public service with Gordon de Brouwer</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-6832" class="to-lead-and-serve-what-makes-a-great-senior-leader-in-the-public-sector grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-6832 post type-post status-publish format-standard hentry category-news tag-aps-ses tag-ses-leadership" href="https://act.ipaa.org.au/to-lead-and-serve-what-makes-a-great-senior-leader-in-the-public-sector/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/05/SES-IPAA-Session-1.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/05/SES-IPAA-Session-1.png" alt="To lead and serve: What makes a great senior leader in the public sector? image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">To lead and serve: What makes a great senior leader in the public sector?</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-6748" class="more-than-aspiration-australias-whole-of-nation-approach grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-6748 post type-post status-publish format-standard hentry category-news tag-collaboration tag-community-engagement tag-whole-of-nation" href="https://act.ipaa.org.au/more-than-aspiration-australias-whole-of-nation-approach/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/04/Website-banner_whole-of-nation-1200-x-800.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/04/Website-banner_whole-of-nation-1200-x-800.png" alt="More than aspiration: Australia’s whole-of-nation approach image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">More than aspiration: Australia’s whole-of-nation approach</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-6112" class="how-to-keep-momentum-after-international-womens-day grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-6112 post type-post status-publish format-standard hentry category-news tag-australia-gender-equality tag-international-womens-day-australia tag-iwd-2024" href="https://act.ipaa.org.au/how-to-keep-momentum-after-international-womens-day/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/03/How-to-keep-momentum-from-IWD_title-image.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/03/How-to-keep-momentum-from-IWD_title-image.png" alt="How to keep momentum after International Women’s Day image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">How to keep momentum after International Women’s Day</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-6045" class="connecting-trust-ai-and-public-service-values grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-6045 post type-post status-publish format-standard hentry category-news tag-ai-public-service tag-aps-artificial-intelligence tag-artificial-intelligence-public-service tag-how-to-use-ai-in-the-aps" href="https://act.ipaa.org.au/connecting-trust-ai-and-public-service-values/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/03/Connecting-trust-AI-and-public-service_1200x800.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/03/Connecting-trust-AI-and-public-service_1200x800.png" alt="Connecting trust, AI and public service values image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Connecting trust, AI and public service values</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-5651" class="institute-of-public-administration-australia-act-welcomes-new-ceo-kate-driver grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-5651 post type-post status-publish format-standard hentry category-news tag-ceo tag-ipaa-act tag-kate-driver" href="https://act.ipaa.org.au/institute-of-public-administration-australia-act-welcomes-new-ceo-kate-driver/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/01/Website-photo-1200-x-600_new-CEO.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/01/Website-photo-1200-x-600_new-CEO.png" alt="Institute of Public Administration Australia ACT welcomes new CEO Kate Driver image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Institute of Public Administration Australia ACT welcomes new CEO Kate Driver</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-5091" class="ipaa-act-reveals-2023-spirit-of-service-awards-winners grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-5091 post type-post status-publish format-standard hentry category-news tag-public-service-awards tag-spirit-of-service tag-spirit-of-service-awards" href="https://act.ipaa.org.au/ipaa-act-reveals-2023-spirit-of-service-awards-winners/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/11/IP1FB61-1200x800.jpg');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/11/IP1FB61-1200x800.jpg" alt="IPAA ACT reveals 2023 Spirit of Service Awards winners image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">IPAA ACT reveals 2023 Spirit of Service Awards winners</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-3999" class="in-the-spirit-of-service-celebrating-public-service-excellence-with-pat-hetherington grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-3999 post type-post status-publish format-standard hentry category-news tag-ipaa-pat-hetherington tag-ipaa-spirit-of-service-awards tag-pat-hetherington tag-spirit-of-service-2023" href="https://act.ipaa.org.au/in-the-spirit-of-service-celebrating-public-srevice-excellence-with-pat-hetherington/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/11/SoS-Awards-LinkedIn-FB-Twitter-1200-x-800-px.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/11/SoS-Awards-LinkedIn-FB-Twitter-1200-x-800-px.png" alt="In the spirit of service: Celebrating public service excellence with Pat Hetherington image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">In the spirit of service: Celebrating public service excellence with Pat Hetherington</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-3995" class="ceo-caroline-walsh-to-depart-ipaa-act-for-new-role-at-ozhelp grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-3995 post type-post status-publish format-standard hentry category-news tag-caroline-walsh-ipaa tag-ipaa-act-ceo" href="https://act.ipaa.org.au/ceo-caroline-walsh-to-depart-ipaa-act-for-new-role-at-ozhelp/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/11/Caroline-Walsh-departs-IPAA-ACT.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/11/Caroline-Walsh-departs-IPAA-ACT.png" alt="CEO Caroline Walsh to depart IPAA ACT for new role at OzHelp image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">CEO Caroline Walsh to depart IPAA ACT for new role at OzHelp</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-3989" class="want-to-uplift-capability-in-your-team-heres-what-you-can-do grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-3989 post type-post status-publish format-standard hentry category-news tag-aps-capability tag-aps-reform-capability tag-public-service-capability tag-rachel-bacon tag-work-with-purpose" href="https://act.ipaa.org.au/want-to-uplift-capability-in-your-team-heres-what-you-can-do/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/11/AdobeStock_215484326-1-1200x800.jpeg');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/11/AdobeStock_215484326-1-1200x800.jpeg" alt="Want to uplift capability in your team? Here&#8217;s what you can do image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Want to uplift capability in your team? Here&#8217;s what you can do</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-3985" class="keeping-public-good-at-the-forefront-of-public-service grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-3985 post type-post status-publish format-standard hentry category-news tag-ipaa-public-good tag-public-good-podcasts tag-work-with-purpose" href="https://act.ipaa.org.au/keeping-public-good-at-the-forefront-of-public-service/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/11/AdobeStock_362306286-1-1200x800.jpeg');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/11/AdobeStock_362306286-1-1200x800.jpeg" alt="Keeping public good at the forefront of public service image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Keeping public good at the forefront of public service</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-3981" class="why-australias-wellbeing-framework-matters grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-3981 post type-post status-publish format-standard hentry category-news tag-australia-wellbeing-framework tag-ipaa-podcast tag-ipaa-wellbeing tag-measuring-what-matters tag-work-with-purpose" href="https://act.ipaa.org.au/why-australias-wellbeing-framework-matters/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/11/AdobeStock_582239379-1200x800.jpeg');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/11/AdobeStock_582239379-1200x800.jpeg" alt="Why Australia&#8217;s wellbeing framework matters image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Why Australia&#8217;s wellbeing framework matters</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-3977" class="looking-ahead-the-future-of-first-nations-community-consultation grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-3977 post type-post status-publish format-standard hentry category-news tag-ipaa-hackathon tag-ipaa-naidoc tag-naidoc-hackathon tag-naidoc-week-2023" href="https://act.ipaa.org.au/looking-ahead-the-future-of-first-nations-community-consultation/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/11/NAIDOCHackathon_Group_5-1200x800.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/11/NAIDOCHackathon_Group_5-1200x800.png" alt="Looking ahead: The future of First Nations community consultation image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Looking ahead: The future of First Nations community consultation</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-3973" class="insights-inspiration-integrity-hear-from-new-south-wales-auditor-general-margaret-crawford-psm grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-3973 post type-post status-publish format-standard hentry category-news tag-margaret-crawford-garran-oration tag-margaret-crawford-integrity" href="https://act.ipaa.org.au/insights-inspiration-integrity-hear-from-new-south-wales-auditor-general-margaret-crawford-psm/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/11/Margaret-Crawford-1.jpg');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/11/Margaret-Crawford-1.jpg" alt="Insights, inspiration, integrity: Hear from New South Wales Auditor-General Margaret Crawford PSM image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Insights, inspiration, integrity: Hear from New South Wales Auditor-General Margaret Crawford PSM</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-3966" class="what-does-it-take-to-make-a-workplace-psychologically-safe grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-3966 post type-post status-publish format-standard hentry category-news tag-australia-psychological-safety tag-greg-vines tag-greg-vines-psychological-safety tag-psychological-safety-at-work tag-psychological-safety-ipaa" href="https://act.ipaa.org.au/what-does-it-take-to-make-a-workplace-psychologically-safe/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/11/AdobeStock_535728569-1200x800.jpeg');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/11/AdobeStock_535728569-1200x800.jpeg" alt="What does it take to make a workplace psychologically safe? image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">What does it take to make a workplace psychologically safe?</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1233" class="in-memory-of-dr-damian-west-psm grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1233 post type-post status-publish format-standard hentry category-news" href="https://act.ipaa.org.au/in-memory-of-dr-damian-west-psm/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/Damian-West-IPAA-Workplace-of-the-Future-2021-1_970x450.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/Damian-West-IPAA-Workplace-of-the-Future-2021-1_970x450.png" alt="In memory of Dr Damian West PSM image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">In memory of Dr Damian West PSM</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1231" class="supporting-carers-in-the-workplace-and-community grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1231 post type-post status-publish format-standard hentry category-news tag-carer-policy-australia tag-carers-act tag-carers-podcast tag-ipaa-act-carers" href="https://act.ipaa.org.au/supporting-carers-in-the-workplace-and-community/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/Caring_970x450.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/Caring_970x450.png" alt="Supporting carers in the workplace and community image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Supporting carers in the workplace and community</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1227" class="putting-collaboration-at-the-core-of-public-service grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1227 post type-post status-publish format-standard hentry category-news tag-aps-reform-podcast tag-ipaa-aps-reform tag-ipaa-collaboration" href="https://act.ipaa.org.au/putting-collaboration-at-the-core-of-public-service/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/06/WwP-web-story-banner_ep86.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/06/WwP-web-story-banner_ep86.png" alt="Putting collaboration at the core of public service image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Putting collaboration at the core of public service</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1224" class="taking-action-on-reconciliation grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1224 post type-post status-publish format-standard hentry category-news tag-brendan-moyle-podcast tag-ipaa-reconciliation tag-reconciliation-australia" href="https://act.ipaa.org.au/taking-action-on-reconciliation/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/WwP-web-story-banner-wwp-ep-85.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/WwP-web-story-banner-wwp-ep-85.png" alt="Taking action on reconciliation image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Taking action on reconciliation</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1222" class="seizing-an-opportunity-to-be-creative-meet-future-leaders-committee-member-megan-aponte-payne grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1222 post type-post status-publish format-standard hentry category-news tag-ipaa-future-leaders-program tag-megan-aponte-payne" href="https://act.ipaa.org.au/seizing-an-opportunity-to-be-creative-meet-future-leaders-committee-member-megan-aponte-payne/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/Megan-Aponte-Payne_970x450.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/Megan-Aponte-Payne_970x450.png" alt="Seizing an opportunity to be creative: Meet Future Leaders Committee member Megan Aponte-Payne image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Seizing an opportunity to be creative: Meet Future Leaders Committee member Megan Aponte-Payne</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1169" class="here-to-build-connections-meet-future-leaders-committee-member-hend-rifai grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1169 post type-post status-publish format-standard hentry category-news tag-hend-rifai tag-ipaa-future-leaders" href="https://act.ipaa.org.au/here-to-build-connections-meet-future-leaders-committee-member-hend-rifai/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/05/Website-banner_Hend-Rifai.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/05/Website-banner_Hend-Rifai.png" alt="Here to build connections: Meet Future Leaders Committee member Hend Rifai image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Here to build connections: Meet Future Leaders Committee member Hend Rifai</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1167" class="introducing-ai-to-your-public-sector-workplace grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1167 post type-post status-publish format-standard hentry category-news tag-ipaa-ai tag-ipaa-artificial-intelligence" href="https://act.ipaa.org.au/introducing-ai-to-your-public-sector-workplace/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/How-to-use-AI-in-the-public-sector_970x450.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/How-to-use-AI-in-the-public-sector_970x450.png" alt="Introducing AI to your public sector workplace image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Introducing AI to your public sector workplace</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1165" class="a-voice-for-diversity-representation-meet-future-leaders-committee-member-zoe-tassicker grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1165 post type-post status-publish format-standard hentry category-news tag-ipaa-future-leaders tag-ipaa-future-leaders-program" href="https://act.ipaa.org.au/a-voice-for-diversity-representation-meet-future-leaders-committee-member-zoe-tassicker/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/05/Website-banner_Zoe-Tassicker.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/05/Website-banner_Zoe-Tassicker.png" alt="A voice for diversity representation: Meet Future Leaders Committee member Zoë Tassicker image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">A voice for diversity representation: Meet Future Leaders Committee member Zoë Tassicker</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1163" class="why-you-should-seek-a-data-career-in-the-public-service-now grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1163 post type-post status-publish format-standard hentry category-news tag-aps-capability tag-data-capability-aps tag-work-with-purpose" href="https://act.ipaa.org.au/why-you-should-seek-a-data-career-in-the-public-service-now/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/Why-you-should-work-in-data_970x450.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/Why-you-should-work-in-data_970x450.png" alt="Why you should seek a data career in the public service now image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Why you should seek a data career in the public service now</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1161" class="join-us-for-the-inaugural-aps-data-awards-a-celebration-of-achievements-across-the-public-sectors-data-landscape grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1161 post type-post status-publish format-standard hentry category-news tag-australian-government-data-forum tag-jenet-connell-ipaa" href="https://act.ipaa.org.au/join-us-for-the-inaugural-aps-data-awards-a-celebration-of-achievements-across-the-public-sectors-data-landscape/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/AGDF_Jenet-Connell_970x450-1.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/AGDF_Jenet-Connell_970x450-1.png" alt="Join us for the inaugural APS Data Awards: A celebration of achievements across the public sector’s data landscape image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Join us for the inaugural APS Data Awards: A celebration of achievements across the public sector’s data landscape</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1159" class="time-to-talk-data-join-us-for-the-australian-government-data-forum grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1159 post type-post status-publish format-standard hentry category-news tag-gayle-milnes-ipaa" href="https://act.ipaa.org.au/time-to-talk-data-join-us-for-the-australian-government-data-forum/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/AGDF_Gayle-Milnes_970x450.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/AGDF_Gayle-Milnes_970x450.png" alt="Time to talk data: Join us for the Australian Government Data Forum image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Time to talk data: Join us for the Australian Government Data Forum</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1157" class="be-the-leader-youd-want-to-follow-meet-future-leaders-committee-member-brock-phyland grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1157 post type-post status-publish format-standard hentry category-news tag-brock-phyland-ipaa tag-ipaa-future-leaders" href="https://act.ipaa.org.au/be-the-leader-youd-want-to-follow-meet-future-leaders-committee-member-brock-phyland/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/05/Website-banner_Brock-Phyland.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/05/Website-banner_Brock-Phyland.png" alt="“Be the leader you’d want to follow”: Meet Future Leaders Committee member Brock Phyland image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">“Be the leader you’d want to follow”: Meet Future Leaders Committee member Brock Phyland</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1155" class="how-to-write-convincing-policy-advice grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1155 post type-post status-publish format-standard hentry category-news tag-frank-and-fearless-advice tag-how-government-experts-self-sabotage" href="https://act.ipaa.org.au/how-to-write-convincing-policy-advice/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/05/Giving-advice_1000x290.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/05/Giving-advice_1000x290.png" alt="How to write convincing policy advice image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">How to write convincing policy advice</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1153" class="lifting-others-up-meet-future-leaders-committee-member-hilary-schubert-jones grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1153 post type-post status-publish format-standard hentry category-news tag-ipaa-future-leaders" href="https://act.ipaa.org.au/lifting-others-up-meet-future-leaders-committee-member-hilary-schubert-jones/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/05/Website-banner_Hilary-Schubert-Jones.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/05/Website-banner_Hilary-Schubert-Jones.png" alt="Lifting others up: Meet Future Leaders Committee member Hilary Schubert-Jones image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Lifting others up: Meet Future Leaders Committee member Hilary Schubert-Jones</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1151" class="enabling-personal-growth-meet-future-leaders-committee-chair-anthony-pronin grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1151 post type-post status-publish format-standard hentry category-news tag-future-leaders-program" href="https://act.ipaa.org.au/enabling-personal-growth-meet-future-leaders-committee-chair-anthony-pronin/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/web-story-banner-FLC-Anthony.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/web-story-banner-FLC-Anthony.png" alt="Enabling personal growth: Meet Future Leaders Committee Chair Anthony Pronin image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Enabling personal growth: Meet Future Leaders Committee Chair Anthony Pronin</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-4733" class="enabling-personal-growth-meet-future-leaders-committee-chair-anthony-pronin grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-4733 post type-post status-publish format-standard hentry category-news tag-aps-future-leaders tag-ipaa-future-leaders" href="https://act.ipaa.org.au/enabling-personal-growth-meet-future-leaders-committee-chair-anthony-pronin-2/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/11/Website-banner_Anthony-Pronin.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/11/Website-banner_Anthony-Pronin.png" alt="Enabling personal growth: Meet Future Leaders Committee Chair Anthony Pronin image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Enabling personal growth: Meet Future Leaders Committee Chair Anthony Pronin</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1149" class="strengthening-integrity-by-default-in-the-public-service grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1149 post type-post status-publish format-standard hentry category-news tag-gordon-de-brouwer-robodebt tag-ipaa-robodebt tag-robodebt-royal-commission" href="https://act.ipaa.org.au/strengthening-integrity-by-default-in-the-public-service/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/WwP-news-story-banner_ep81.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/WwP-news-story-banner_ep81.png" alt="Strengthening ‘integrity by default’ in the public service image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Strengthening ‘integrity by default’ in the public service</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1147" class="using-mentoring-to-supercharge-womens-careers grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1147 post type-post status-publish format-standard hentry category-news tag-aps-mentoring tag-ipaa-mentoring tag-work-with-purpose" href="https://act.ipaa.org.au/using-mentoring-to-supercharge-womens-careers/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/News-banner_mentoring-women.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/News-banner_mentoring-women.png" alt="Using mentoring to supercharge women’s careers image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Using mentoring to supercharge women’s careers</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1145" class="a-recipe-for-effective-partnerships grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1145 post type-post status-publish format-standard hentry category-news tag-aps-collaboration tag-ipaa-partnerships tag-public-sector-collaboration tag-work-with-purpose" href="https://act.ipaa.org.au/a-recipe-for-effective-partnerships/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/Partnerships_1000x290.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/Partnerships_1000x290.png" alt="A recipe for effective partnerships image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">A recipe for effective partnerships</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1141" class="improving-public-sector-workplaces-for-neurodivergent-staff grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1141 post type-post status-publish format-standard hentry category-news tag-ipaa-diversity-and-inclusion tag-ipaa-neurodiversity tag-work-with-purpose" href="https://act.ipaa.org.au/improving-public-sector-workplaces-for-neurodivergent-staff/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/Neurodiversity_1000x290.png');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/Neurodiversity_1000x290.png" alt="Improving public sector workplaces for neurodivergent staff image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Improving public sector workplaces for neurodivergent staff</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1139" class="advancing-employment-outcomes-for-first-nations-peoples-today grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1139 post type-post status-publish format-standard hentry category-news" href="https://act.ipaa.org.au/advancing-employment-outcomes-for-first-nations-peoples-today/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2023/08/6281_1000x290.jpg');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2023/08/6281_1000x290.jpg" alt="Advancing employment outcomes for First Nations peoples today image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Advancing employment outcomes for First Nations peoples today</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-1137" class="shaping-the-narrative-lessons-for-leaders grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-1137 post type-post status-publish format-standard hentry category-news" href="https://act.ipaa.org.au/shaping-the-narrative-lessons-for-leaders/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2022/12/hello-i-m-nik-MAgPyHRO0AA-unsplash_1000x290.jpg');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2022/12/hello-i-m-nik-MAgPyHRO0AA-unsplash_1000x290.jpg" alt="Shaping the Narrative: Lessons for leaders image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">Shaping the Narrative: Lessons for leaders</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+										<li>
+					<div class="slide-content height_100">
+					<a id="post-6721" class="2020-garran-oration-the-hon-greg-hunt-mp grid-x height_100 align-stretch tile-link flex-dir-column border-radius background-grey grey--200 post-6721 post type-post status-publish format-standard hentry category-news tag-garran-oration tag-greg-hunt tag-ipaa-events" href="https://act.ipaa.org.au/2020-garran-oration-the-hon-greg-hunt-mp/">
+		<div class="cell flex-child-shrink"> 
+		<figure>
+			<span class="tile-link__image-container set-size set-size--landscape border-topright-radius border-topleft-radius">
+				<span class="set-size__image background-image" style="background-image:url('https://act.ipaa.org.au/wp-content/uploads/2024/04/Minister-Hunt-hero-shot-e1712713314753.jpg');">
+					<img src="https://act.ipaa.org.au/wp-content/uploads/2024/04/Minister-Hunt-hero-shot-e1712713314753.jpg" alt="2020 Garran Oration | The Hon Greg Hunt MP image">
+				</span>
+			</span>
+		</figure>
+	</div>
+		<div class="cell flex-child-grow boxed-content">
+		<div class="grid-x height_100">
+			<div class="cell">
+				<span class="size-body margin-top-x0 category_title">News</span>				<h4 class="text-weight-medium">2020 Garran Oration | The Hon Greg Hunt MP</h4>
+				<p class="text-underline size-body">Read more</p>
+			</div>
+		</div>
+	</div>
+</a>					</div>
+					</li>
+									</ul>
+				</div>
+								<div class="grid-x grid-padding-x grid-padding-y grid-margin-y align-middle padding-top">
+					
+										<div class="cell auto"><div class="slider-pagination slider-pagination--progress"></div></div>
+					<div class="cell shrink">
+						<div class="slider-controls">
+							<ul class="custom-direction-nav">
+								<li><a href="#" class="flex-prev"><span class="link-icon"><i class="fa-light fa-arrow-left size-h5"></i></span></a></li>
+								<li><a href="#" class="flex-next"><span class="link-icon"><i class="fa-light fa-arrow-right size-h5"></i></span></a></li>
+							</ul>
+						</div>
+					</div>
+									</div> 			</div>
+		</div>
+	</div>
+</section>
+<section id="row-5" class="content-area-x2 background-grey grey--200" data-row-type="buttons_row" data-row-index="row_5">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="cell accordion_button_rows padding-top padding-bottom ">
+            <div class="padding-top padding-bottom"><h3>Membership</h3><div class="button_rows">                               
+                                <div class="panel__title">
+                                                                            <a class="h4 text-weight-medium w_100 btn btn--white" href="https://act.ipaa.org.au/membership/am-i-a-member/" target="_self">
+                                            Am I a member?                                            <span class="title__link__icon link-icon"><i class="fa-light fa-arrow-right size-h5"></i></span>
+                                        </a>
+                                                                    </div>
+                               
+                                                           
+                                <div class="panel__title">
+                                                                            <a class="h4 text-weight-medium w_100 btn btn--white" href="https://act.ipaa.org.au/membership/become-a-member/" target="_self">
+                                            Become a member                                            <span class="title__link__icon link-icon"><i class="fa-light fa-arrow-right size-h5"></i></span>
+                                        </a>
+                                                                    </div>
+                               
+                            </div></div><div class="padding-top padding-bottom"><h3>Capability</h3><div class="button_rows">                               
+                                <div class="panel__title">
+                                                                            <a class="h4 text-weight-medium w_100 btn btn--white" href="https://act.ipaa.org.au/capability/future-leaders-program/" target="_self">
+                                            Future Leaders Program                                            <span class="title__link__icon link-icon"><i class="fa-light fa-arrow-right size-h5"></i></span>
+                                        </a>
+                                                                    </div>
+                               
+                                                           
+                                <div class="panel__title">
+                                                                            <a class="h4 text-weight-medium w_100 btn btn--white" href="https://act.ipaa.org.au/capability/ses-program/" target="_self">
+                                            SES Program                                            <span class="title__link__icon link-icon"><i class="fa-light fa-arrow-right size-h5"></i></span>
+                                        </a>
+                                                                    </div>
+                               
+                                                           
+                                <div class="panel__title">
+                                                                            <a class="h4 text-weight-medium w_100 btn btn--white" href="https://act.ipaa.org.au/capability/first-nations-emerging-leaders-program/" target="_self">
+                                            First Nations Emerging Leaders Program                                            <span class="title__link__icon link-icon"><i class="fa-light fa-arrow-right size-h5"></i></span>
+                                        </a>
+                                                                    </div>
+                               
+                                                           
+                                <div class="panel__title">
+                                                                            <a class="h4 text-weight-medium w_100 btn btn--white" href="https://act.ipaa.org.au/capability/navigating-leadership-challenges-in-the-public-sector/" target="_self">
+                                            Navigating Leadership Challenges in the Public Sector                                            <span class="title__link__icon link-icon"><i class="fa-light fa-arrow-right size-h5"></i></span>
+                                        </a>
+                                                                    </div>
+                               
+                            </div></div><div class="padding-top padding-bottom"><h3>Awards</h3><div class="button_rows">                               
+                                <div class="panel__title">
+                                                                            <a class="h4 text-weight-medium w_100 btn btn--white" href="https://act.ipaa.org.au/awards/spirit-of-service-awards/" target="_self">
+                                            Spirit of Service Awards                                            <span class="title__link__icon link-icon"><i class="fa-light fa-arrow-right size-h5"></i></span>
+                                        </a>
+                                                                    </div>
+                               
+                                                           
+                                <div class="panel__title">
+                                                                            <a class="h4 text-weight-medium w_100 btn btn--white" href="https://act.ipaa.org.au/awards/ipaa-national-fellows/" target="_self">
+                                            IPAA National Fellows                                            <span class="title__link__icon link-icon"><i class="fa-light fa-arrow-right size-h5"></i></span>
+                                        </a>
+                                                                    </div>
+                               
+                                                           
+                                <div class="panel__title">
+                                                                            <a class="h4 text-weight-medium w_100 btn btn--white" href="https://act.ipaa.org.au/awards/historical-awards/" target="_self">
+                                            Historical awards                                            <span class="title__link__icon link-icon"><i class="fa-light fa-arrow-right size-h5"></i></span>
+                                        </a>
+                                                                    </div>
+                               
+                                                           
+                                <div class="panel__title">
+                                                                            <a class="h4 text-weight-medium w_100 btn btn--white" href="https://act.ipaa.org.au/awards/ea-lyall-memorial-prize/" target="_self">
+                                            EA Lyall Memorial Prize                                            <span class="title__link__icon link-icon"><i class="fa-light fa-arrow-right size-h5"></i></span>
+                                        </a>
+                                                                    </div>
+                               
+                            </div></div>            </div>
+        </div>
+    </div>
+</section>
+	</article>
+
+			</main>
+
+		<section id="" class="content-area background-white" data-row-type="" data-row-index="row-5">
+	<div class="grid-container position_relative">
+		<div class="grid-x">
+			<div class="cell">
+			<h2 class="h3 padding-bottom text-center">Our partners</h2>			</div>
+		</div>
+		
+					<div class="grid-x align-center padding-top">
+			    <div class="cell text-center color-primary padding-bottom--"><h6 class="size-body text-weight-medium">Tier 1 corporate partners</h6></div>
+				<div class="cell">
+					<div class="grid-x grid-padding-x grid-padding-y align-center medium-up-3 large-up-5">
+												<div class="cell">
+							<article id="post-601" class="commonwealth-bank-of-australia grid-x height_100 align-stretch flex-dir-column post-601 ipp_partner type-ipp_partner status-publish hentry partner_category-tier-1-corporate-partners" >
+								<div class="cell flex-child-grow boxed-content background-white">
+									<div class="grid-x height_100 align-middle text-center">
+										<div class="cell">
+											<a href="https://act.ipaa.org.au/about/partner-with-us/" target="_blank" class="height_100">											<img class="icon--auto-80" src="https://act.ipaa.org.au/wp-content/uploads/2023/07/partner-cba-2022.svg" alt="Commonwealth Bank of Australia">
+											</a>										</div>
+									</div>
+								</div>
+							</article>
+						</div>		
+												<div class="cell">
+							<article id="post-599" class="hays grid-x height_100 align-stretch flex-dir-column post-599 ipp_partner type-ipp_partner status-publish hentry partner_category-tier-1-corporate-partners" >
+								<div class="cell flex-child-grow boxed-content background-white">
+									<div class="grid-x height_100 align-middle text-center">
+										<div class="cell">
+											<a href="https://act.ipaa.org.au/about/partner-with-us/" target="_blank" class="height_100">											<img class="icon--auto-80" src="https://act.ipaa.org.au/wp-content/uploads/2023/07/partner-hays-2022.svg" alt="Hays">
+											</a>										</div>
+									</div>
+								</div>
+							</article>
+						</div>		
+												<div class="cell">
+							<article id="post-597" class="kpmg grid-x height_100 align-stretch flex-dir-column post-597 ipp_partner type-ipp_partner status-publish hentry partner_category-tier-1-corporate-partners" >
+								<div class="cell flex-child-grow boxed-content background-white">
+									<div class="grid-x height_100 align-middle text-center">
+										<div class="cell">
+											<a href="https://act.ipaa.org.au/about/partner-with-us/" target="_blank" class="height_100">											<img class="icon--auto-80" src="https://act.ipaa.org.au/wp-content/uploads/2023/07/partner-kpmg.svg" alt="KPMG">
+											</a>										</div>
+									</div>
+								</div>
+							</article>
+						</div>		
+												<div class="cell">
+							<article id="post-595" class="minter-ellison grid-x height_100 align-stretch flex-dir-column post-595 ipp_partner type-ipp_partner status-publish hentry partner_category-tier-1-corporate-partners" >
+								<div class="cell flex-child-grow boxed-content background-white">
+									<div class="grid-x height_100 align-middle text-center">
+										<div class="cell">
+											<a href="https://act.ipaa.org.au/about/partner-with-us/" target="_blank" class="height_100">											<img class="icon--auto-80" src="https://act.ipaa.org.au/wp-content/uploads/2023/07/partner-minterellison.svg" alt="Minter Ellison">
+											</a>										</div>
+									</div>
+								</div>
+							</article>
+						</div>		
+											</div>
+				</div>
+			</div>
+		
+					<div class="grid-x align-center padding-top">
+			    <div class="cell text-center color-primary padding-bottom--"><h6 class="size-body text-weight-medium">Tier 2 corporate partners</h6></div>
+				<div class="cell">
+					<div class="grid-x grid-padding-x grid-padding-y align-center medium-up-3 large-up-5">
+												<div class="cell">
+							<article id="post-591" class="commonwealth-superannuation-corporation grid-x height_100 align-stretch flex-dir-column post-591 ipp_partner type-ipp_partner status-publish hentry partner_category-tier-2-corporate-partners" >
+								<div class="cell flex-child-grow boxed-content background-white">
+									<div class="grid-x height_100 align-middle text-center">
+										<div class="cell">
+											<a href="https://act.ipaa.org.au/about/partner-with-us/" target="_blank" class="height_100">											<img class="icon--auto-80" src="https://act.ipaa.org.au/wp-content/uploads/2023/07/partner-csc.svg" alt="Commonwealth Superannuation Corporation">
+											</a>										</div>
+									</div>
+								</div>
+							</article>
+						</div>		
+												<div class="cell">
+							<article id="post-3912" class="sententia-consulting grid-x height_100 align-stretch flex-dir-column post-3912 ipp_partner type-ipp_partner status-publish hentry partner_category-tier-2-corporate-partners" >
+								<div class="cell flex-child-grow boxed-content background-white">
+									<div class="grid-x height_100 align-middle text-center">
+										<div class="cell">
+											<a href="https://sententiaconsulting.com.au/" target="_blank" class="height_100">											<img class="icon--auto-80" src="https://act.ipaa.org.au/wp-content/uploads/2023/10/partner-sententia.png" alt="Sententia Consulting">
+											</a>										</div>
+									</div>
+								</div>
+							</article>
+						</div>		
+											</div>
+				</div>
+			</div>
+		
+					<div class="grid-x align-center">
+				<div class="cell">
+													
+														<div class="grid-x grid-padding-x align-center grid-padding-y medium-up-3 large-up-5">
+																							
+								<div class="cell">
+									<article id="post-589" class="content-group grid-x height_100 align-stretch flex-dir-column post-589 ipp_partner type-ipp_partner status-publish hentry partner_category-digital-content-partner" >
+										<div class="cell flex-child-grow boxed-content background-white">
+											<div class="grid-x height_100 align-top text-center">
+												<div class="cell">
+																											<h6 class="text-center color-primary padding-bottom margin-bottom-x0 size-body text-weight-medium"><span>Digital content partner</span></h6>
+																									</div>
+												<div class="cell">
+													<a href="https://act.ipaa.org.au/about/partner-with-us/" target="_blank" class="height_100 tile-link">																													<img class="icon--auto-80" src="https://act.ipaa.org.au/wp-content/uploads/2023/07/partner-contentgroup.svg" alt="Content Group">
+														</a>												</div>
+											</div>
+										</div>
+									</article>
+								</div> 
+																						
+							
+						 							
+																							
+								<div class="cell">
+									<article id="post-3918" class="bellchambers-barrett grid-x height_100 align-stretch flex-dir-column post-3918 ipp_partner type-ipp_partner status-publish hentry partner_category-in-kind-partner" >
+										<div class="cell flex-child-grow boxed-content background-white">
+											<div class="grid-x height_100 align-top text-center">
+												<div class="cell">
+																											<h6 class="text-center color-primary padding-bottom margin-bottom-x0 size-body text-weight-medium"><span>In-kind partner</span></h6>
+																									</div>
+												<div class="cell">
+													<a href="https://www.bellchambersbarrett.com.au/" target="_blank" class="height_100 tile-link">																													<img class="icon--auto-80" src="https://act.ipaa.org.au/wp-content/uploads/2023/10/partner-bellchambers-barrett.png" alt="Bellchambers Barrett">
+														</a>												</div>
+											</div>
+										</div>
+									</article>
+								</div> 
+																						</div>
+														
+							
+						 						
+				</div>
+			</div> 
+				</div>
+</section>
+
+		<footer class="bottom-bar background-tertiary">
+			<div class="show-for-medium">
+				<div class="grid-container padding-top-x2">
+					<div class="grid-x grid-padding-x grid-padding-y">
+						<div class="cell large-6">
+							<!-- <h3 class="site-logo">
+								<a class="site-logo__link ir" href="https://act.ipaa.org.au/" title=" Institute of Public Administration Australia (ACT) Limited" rel="home"> Institute of Public Administration Australia (ACT) Limited</a>
+							</h3> -->
+														<div class="grid-x">
+								<div class="cell large-10 newsletter">
+									<h3 class="margin-bottom-x0 mr_btm_small">Subscribe to our newsletter</h3><p>Subscribe to our mailing list to receive information about upcoming events, initiatives and activities.</p>										<a class="btn btn--grey" href="https://act.ipaa.org.au/subscribe/" target="_self">Subscribe</a>
+																	</div>
+							</div>
+						</div>
+												<div class="cell medium-6 large-3">
+							<nav class="bottom-bar__navigation"><ul id="menu-footer-menu" class="menu"><li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="https://act.ipaa.org.au/about/">About</a></li>
+<li id="menu-item-2157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2157"><a href="https://act.ipaa.org.au/events/">Events</a></li>
+<li id="menu-item-2156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2156"><a href="https://act.ipaa.org.au/awards/">Awards</a></li>
+<li id="menu-item-573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-573"><a href="https://act.ipaa.org.au/capability/">Capability</a></li>
+<li id="menu-item-575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-575"><a href="https://act.ipaa.org.au/news-and-insights/">News and insights</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="https://act.ipaa.org.au/membership/">Membership</a></li>
+<li id="menu-item-576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-576"><a href="https://act.ipaa.org.au/contact/">Contact</a></li>
+</ul></nav>						</div>
+																		<div class="cell medium-6 large-3">
+							<h4 class="size-h6 padding-bottom margin-bottom-x0 text-weight-medium">Follow us</h4>
+							<div class="grid-x grid-x--xsmall grid-padding-x grid-padding-y">
+																<div class="cell shrink"> 
+									<a target="_blank" href="https://www.facebook.com/IPAAACT"><span class="icon-link"><i class="fa-brands fa-square-facebook h4"></i></span></a>
+								</div>
+																								<div class="cell shrink"> 
+									<a target="_blank" href="https://www.instagram.com/ipaa_act/"><span class="icon-link"><i class="fa-brands fa-square-instagram h4"></i></span></a> 
+								</div>
+																								<div class="cell shrink"> 
+									<a target="_blank" href="https://twitter.com/i/flow/login?redirect_after_login=%2FIPAAACT"><span class="icon-link"><i class="fa-brands fa-square-twitter h4"></i></span></a> 
+								</div>
+																								<div class="cell shrink"> 
+									<a target="_blank" href="https://www.linkedin.com/company/ipaa-act"><span class="icon-link"><i class="fa-brands fa-linkedin h4"></i></span></a> 
+								</div>
+																																<div class="cell shrink"> 
+									<a target="_blank" href="https://vimeo.com/ipaaact"><span class="icon-link"><i class="fa-brands fa-square-vimeo h4"></i></span></a> 
+								</div>
+															</div>
+						</div>
+											</div>
+				</div>
+			</div>
+			<div class="bottom-bar__legality">
+				<div class="grid-container">
+					<hr class="show-for-medium">
+					<div class="grid-x grid-padding-x text-center padding-top padding-bottom">
+						<div class="cell large-7 large-text-left">
+							IPAA ACT acknowledges the Traditional Owners and Custodians of country throughout Australia, and their continuing connection to land, sea and community. We pay our respects to their Elders past, present and emerging.	
+						</div>
+					</div>
+					<div class="grid-x grid-padding-x  grid-padding-y text-center padding-top padding-bottom">
+						<div class="cell large-auto large-text-left">
+							&copy; 2024  Institute of Public Administration Australia (ACT) Limited						</div>
+						<div class="cell large-5 large-text-right">
+							<div class="grid-x grid-padding-x grid-margin-y align-center large-align-right">
+								<div class="cell shrink"><a href="https://act.ipaa.org.au/privacy-policy/">Privacy</a></div>
+								<div class="cell shrink"><a href="https://act.ipaa.org.au/disclaimer/">Disclaimer</a></div>
+								<div class="cell shrink"><a href="https://act.ipaa.org.au/terms-and-conditions/">Terms and Conditions</a></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+		<div class="site-search outer-row">
+			<div class="grid-container content-area height_100">
+				<div class="grid-x grid-padding-x align-center align-middle height_100">
+					<div class="cell large-9 xlarge-7">
+						<div class="boxed-content padding-top-x2 padding-bottom-x2 background-grey grey--200 position_relative">
+							<a href="#" class="close-btn js-search-close-trigger"><i class="fal fa-times size-h4" aria-hidden="true"></i></a>
+							<div class="padding-bottom">
+								<h3>Search</h3>
+							</div>
+							<form class="search-form" method="get" action="https://act.ipaa.org.au/">
+								<div class="grid-x grid-x--small grid-padding-x">
+									<div class="cell auto">
+										<input type="text" name="s"  value="" placeholder="Search…">
+										
+									</div>
+									<div class="cell shrink">
+										<button class="btn search-btn height_100"><i class="fa-solid fa-magnifying-glass"></i></button>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<section class="grid-x popup js-ajax-popup content-area">
+			<div class="grid-container medium-align-self-middle">
+				<div class="grid-x grid-padding-x align-center">
+					<div class="cell large-10 xlarge-8">
+						<div class="popup__content boxed-content large-boxed-content-sides-x2 content-area large-content-area-x2 background-white wysiwyg position_relative">
+							<div class="js-ajax-loader">
+
+							</div>
+							<a href="#" class="close-btn js-close-trigger">
+								<span class="link-icon"><i class="fa-regular fa-xmark"></i></span>
+							</a>
+						</article>
+					</div>
+				</div>
+			</div>
+			<div class="popup__close js-close-trigger"></div>
+		</section>
+
+		
+		
+		<div id="outdated"></div>
+		<script src="https://act.ipaa.org.au/wp-content/themes/ipp-act/assets/js/outdatedbrowser.min.js"></script>
+		<script>		
+		//event listener: DOM ready
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function() {
+					if (oldonload) {
+						oldonload();
+					}
+					func();
+				}
+			}
+		}
+		//call plugin function after DOM ready
+		addLoadEvent(function(){
+			outdatedBrowser({
+				bgColor: '#f25648',
+				color: '#ffffff',
+				lowerThan: 'borderImage',
+				languagePath: 'https://act.ipaa.org.au/wp-content/themes/ipp-act/assets/js/lang/en.html'
+			})
+		});
+		</script>
+
+		<!--[if lt IE 9]>
+		  <script src="https://act.ipaa.org.au/wp-content/themes/ipp-act/assets/js/html5shiv.js"></script>
+		  <script src="https://act.ipaa.org.au/wp-content/themes/ipp-act/assets/js/respond.min.js"></script>
+		<![endif]-->
+
+		<script type="text/javascript">
+_linkedin_partner_id = "6410257";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=6410257&fmt=gif" />
+</noscript>		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><script src="https://act.ipaa.org.au/wp-content/themes/ipp-act/assets/js/vendor/jquery-migrate-3.0.1.min.js?ver=3.0.1" id="migrate-js"></script>
+<script src="https://kit.fontawesome.com/29b58b9908.js?ver=1" id="icons-js"></script>
+<script src="https://act.ipaa.org.au/wp-content/themes/ipp-act/assets/js/plugins.js?ver=1" id="plugins-js"></script>
+<script id="app-js-extra">
+var themeurl = {"templateUrl":"https:\/\/act.ipaa.org.au\/wp-content\/themes\/ipp-act"};
+var events_loadmore_params = {"ajaxurl":"https:\/\/act.ipaa.org.au\/wp-admin\/admin-ajax.php","posts":"{\"error\":\"\",\"m\":\"\",\"p\":\"7\",\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":\"7\",\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":9,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","filter":"[]","current_page":"1","max_page":"0"};
+</script>
+<script src="https://act.ipaa.org.au/wp-content/themes/ipp-act/assets/js/app.js?ver=1" id="app-js"></script>
+
+	</body>
+</html>

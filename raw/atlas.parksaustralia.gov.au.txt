@@ -1,0 +1,579 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+		lang="en"
+		xml:lang="en"
+		version="XHTML+RDFa 1.0"
+		dir="ltr"
+		
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://atlas.parksaustralia.gov.au/amps" />
+<link rel="shortlink" href="/node/27183" />
+<link rel="shortcut icon" href="https://atlas.parksaustralia.gov.au/sites/all/themes/eatlases/subthemes/amps/amps_favicon.png" type="image/png" />
+	<title>Welcome to the Australian Marine Parks Science Atlas | Australian Marine Parks Science Atlas</title>
+
+	<!-- For mobile devices - also works on iPad -->
+	<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0" />
+
+	<!-- OpenLayers requirement for old environments like Internet Explorer and Android 4.x -->
+        <!-- Polyfill.io removed because of supply chain injection 2024-06-29 Eric Lawrey -->
+        <!--
+	<script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL,Array.prototype.includes,String.prototype.padStart,String.prototype.startsWith,String.prototype.endsWith"></script>
+	-->
+
+	<!-- Google Analytics v4 for AMPSA -->
+	<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-999XKHTQE4"></script>
+	<script type="text/javascript">
+		<!--//--><![CDATA[//><!--
+		window.dataLayer = window.dataLayer || [];
+		function gtag() {
+			dataLayer.push(arguments)
+		};
+		gtag("js", new Date());
+		gtag("config", "G-999XKHTQE4", {
+			"groups": "default",
+			"linker": {
+				"domains": [
+					"atlas.parksaustralia.gov.au"
+				]
+			}
+		});
+		//--><!]]>
+	</script>
+
+	<link type="text/css" rel="stylesheet" href="https://atlas.parksaustralia.gov.au/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://atlas.parksaustralia.gov.au/sites/default/files/css/css_aspJexyZbSy-mMQCoq4YYgcmk8Ps3vDh_U10OuJIIhk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://atlas.parksaustralia.gov.au/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Muli:400,600,700|Lato:400,700" media="all" />
+<link type="text/css" rel="stylesheet" href="https://atlas.parksaustralia.gov.au/sites/default/files/css/css_YDF6RpN2oBFMRTwDqFpflwuBoHQmUBlePXOTCx91kO4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://atlas.parksaustralia.gov.au/sites/default/files/css/css_VgcA1MUlmLZ51bBaY9-k7kHyAcPn0tlqdjSqENHUPsA.css" media="print" />
+	<script type="text/javascript" src="https://atlas.parksaustralia.gov.au/sites/default/files/js/js_YD9ro0PAqY25gGWrTki6TjRUG8TdokmmxjfqpNNfzVU.js"></script>
+<script type="text/javascript" src="https://atlas.parksaustralia.gov.au/sites/default/files/js/js_knBiEmiAhpyiEjn4DQ2U6kTb9kwgdnFqedbNw310faM.js"></script>
+<script type="text/javascript" src="https://atlas.parksaustralia.gov.au/sites/default/files/js/js_A9F5ZHG3yCZiQx-FKhof7JCcpFMM4yJDEsl3ZXVeDiY.js"></script>
+<script type="text/javascript" src="https://atlas.parksaustralia.gov.au/sites/default/files/js/js_tCEowHS7gyNhK6NOrM1Gthpbyg4BpH3ULAF8eLRqICc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"amps","theme_token":"WAkU7c3P-blw0OrJiLcnNW0Ovwty3krxfgajk97Y22g","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/eatlas\/eatlas_geonetwork3_aggregator\/js\/eatlas_geonetwork3_aggregator_map.js":1,"sites\/all\/modules\/eatlas\/eatlas_image_slider\/..\/..\/..\/libraries\/flexslider2\/jquery.flexslider-min.js":1,"sites\/all\/modules\/eatlas\/eatlas_image_slider\/js\/load_flexslider2.js":1,"sites\/all\/modules\/eatlas\/eatlas_media_frame_filter\/js\/CKEditor_media_tab.js":1,"sites\/all\/modules\/eatlas\/eatlas_media_frame_filter\/js\/wysiwyg-media-override.js":1,"sites\/all\/modules\/eatlas\/eatlas_media_frame_filter\/js\/eatlas_media_frame_filter_mediaframe_tile.js":1,"sites\/all\/modules\/eatlas\/eatlas_metadata_viewer\/js\/eatlas_metadata_viewer_map.js":1,"sites\/all\/modules\/eatlas\/eatlas_responsive_menus\/js\/eatlas_responsive_menus.js":1,"sites\/all\/modules\/eatlas\/eatlas_spatial_publisher\/js\/eAtlas_spatial_publisher_collapsible_list.js":1,"sites\/all\/modules\/eatlas\/eatlas_spatial_publisher\/js\/eAtlas_spatial_publisher_back_to_top_button.js":1,"sites\/all\/modules\/eatlas\/eatlas_spatial_publisher\/..\/..\/..\/libraries\/openlayers\/ol.js":1,"sites\/all\/modules\/eatlas\/eatlas_splash_screen\/js\/eatlas_splash_screen.js":1,"sites\/all\/modules\/eatlas\/eatlas_spatial_publisher\/js\/EAtlasSpatialPublisherMap.js":1,"sites\/all\/themes\/eatlases\/js\/field_video_url_resize.js":1,"sites\/all\/themes\/eatlases\/subthemes\/amps\/js\/amps_search_overlay.js":1,"sites\/all\/themes\/eatlases\/subthemes\/amps\/js\/amps_region_menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/eatlas\/eatlas_branding\/css\/eatlas_branding.css":1,"sites\/all\/modules\/eatlas\/eatlas_ckeditor_config\/css\/eatlas_ckeditor_config_drupal.css":1,"sites\/all\/modules\/eatlas\/eatlas_commons\/css\/eatlas_commons.css":1,"sites\/all\/modules\/eatlas\/eatlas_geonetwork3_aggregator\/css\/eatlas_geonetwork3_aggregator.css":1,"sites\/all\/modules\/eatlas\/eatlas_image_slider\/css\/eatlas_image_slider.css":1,"sites\/all\/modules\/eatlas\/eatlas_image_slider\/..\/..\/..\/libraries\/flexslider2\/flexslider.css":1,"sites\/all\/modules\/eatlas\/eatlas_media_frame_filter\/css\/eatlas_media_frame_filter_style.css":1,"sites\/all\/modules\/eatlas\/eatlas_media_gallery_fixes\/css\/eatlas_media_gallery_fixes.css":1,"sites\/all\/modules\/eatlas\/eatlas_metadata_viewer\/css\/eatlas_metadata_viewer.css":1,"sites\/all\/modules\/eatlas\/eatlas_ncanimate\/css\/eatlas_ncanimate.css":1,"sites\/all\/modules\/eatlas\/eatlas_ncanimate\/css\/eatlas_ncanimate_responsive.css":1,"sites\/all\/modules\/eatlas\/eatlas_ncanimate2\/css\/eatlas_ncanimate2.css":1,"sites\/all\/modules\/eatlas\/eatlas_ncanimate2\/css\/eatlas_ncanimate2_responsive.css":1,"sites\/all\/modules\/eatlas\/eatlas_responsive_menus\/css\/eatlas_responsive_menus.css":1,"sites\/all\/modules\/eatlas\/eatlas_search\/css\/eatlas_search_style.css":1,"sites\/all\/modules\/eatlas\/eatlas_spatial_publisher\/css\/eatlas_spatial_publisher.css":1,"sites\/all\/modules\/eatlas\/eatlas_spatial_publisher\/..\/..\/..\/libraries\/openlayers\/ol.css":1,"sites\/all\/modules\/eatlas\/eatlas_splash_screen\/css\/eatlas_splash_screen.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/eatlas\/eatlas_anti_spam\/css\/eatlas_anti_spam.css":1,"sites\/all\/modules\/eatlas\/eatlas_media_browser_plus_fixes\/css\/eatlas_media_browser_plus_fixes.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"https:\/\/fonts.googleapis.com\/css?family=Muli:400,600,700|Lato:400,700":1,"sites\/all\/themes\/eatlases\/css\/main.css":1,"sites\/all\/themes\/eatlases\/css\/column.css":1,"sites\/all\/themes\/eatlases\/css\/form.css":1,"sites\/all\/themes\/eatlases\/css\/responsive.css":1,"sites\/all\/themes\/eatlases\/subthemes\/amps\/css\/amps_new_header.css":1,"sites\/all\/themes\/eatlases\/subthemes\/amps\/css\/amps.css":1,"sites\/all\/themes\/eatlases\/css\/print.css":1}},"eatlas_media_frame_filter":{"drupal_custom_image_styles":{"amps_header_image":"AMPS header image","amps_image_slider":"AMPS Image slider","eatlas_image_slider":"eAtlas image slider","eatlas_page_teaser":"eAtlas Page teaser","editor":"Editor","ereefs_member":"eReefs member","m_article_sq_crop":"Media Article square cropped (300x300)","m_icon":"Media icon (80x80)","m_logo":"Media logo (210x80)","m_preview":"Preview image (180x240)","m_preview_full":"Media Preview Full","m_preview_strip":"Media Preview strip (690x150)","m_small":"Media Small (210x210)","m_very_large":"Media Very large (900x900)"}},"urlIsAjaxTrusted":{"\/amps":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-27183 node-type-eatlas-publisher-region-set" >
+	<div id="skip-link">
+		<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+	</div>
+		
+	<header>
+		<div class="header nocontent">
+			
+			<div class="amps-logo"><a href="/amps"><img src="/sites/all/themes/eatlases/subthemes/amps/img/logo-marine-parks.svg" /></a></div>
+			<div class="amps-home"><a href="/amps"><img src="/sites/all/themes/eatlases/subthemes/amps/img/home-icon.svg" /></a></div>
+
+			  <div class="region region-header">
+    <div id="block-menu-menu-menu-amps" class="block block-menu eatlas-responsive-menu">
+
+    <h2>Menu AMPS</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/amps/about" title="About the Australian Marine Parks Science Atlas">Science Atlas</a></li>
+<li class="expanded eAtlas_spatial_publisher_menu"><a>Marine parks</a><ul class="menu"><li class="first expanded"><a>Coral Sea</a><ul class="menu"><li class="first last leaf"><a href="/amps?featureId=AMP_CS_CS">Coral Sea</a></li>
+</ul></li>
+<li class="expanded"><a href="/amps?featureId=AMP_N">North</a><ul class="menu"><li class="first leaf"><a href="/amps?featureId=AMP_N_ARA">Arafura</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_N_ARN">Arnhem</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_N_GOC">Gulf of Carpentaria</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_N_JBG">Joseph Bonaparte Gulf</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_N_LIM">Limmen</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_N_OS">Oceanic Shoals</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_N_WES">Wessel</a></li>
+<li class="last leaf"><a href="/amps?featureId=AMP_N_WCY">West Cape York</a></li>
+</ul></li>
+<li class="expanded"><a href="/amps?featureId=AMP_NW">North-west</a><ul class="menu"><li class="first leaf"><a href="/amps?featureId=AMP_NW_ART">Argo-Rowley Terrace</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_AR">Ashmore Reef</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_CC">Carnarvon Canyon</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_CI">Cartier Island</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_DAM">Dampier</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_EMB">Eighty Mile Beach</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_GAS">Gascoyne</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_KIM">Kimberley</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_MR">Mermaid Reef</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_MON">Montebello</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_NIN">Ningaloo</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_ROE">Roebuck</a></li>
+<li class="last leaf"><a href="/amps?featureId=AMP_NW_SB">Shark Bay</a></li>
+</ul></li>
+<li class="expanded"><a href="/amps?featureId=AMP_SE">South-east</a><ul class="menu"><li class="first leaf"><a href="/amps?featureId=AMP_SE_APO">Apollo</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_BEA">Beagle</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_BOA">Boags</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_EG">East Gippsland</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_FLI">Flinders</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_FRA">Franklin</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_FRE">Freycinet</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_HUO">Huon</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_MI">Macquarie Island</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_MUR">Murray</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_NEL">Nelson</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_STR">South Tasman Rise</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_TF">Tasman Fracture</a></li>
+<li class="last leaf"><a href="/amps?featureId=AMP_SE_ZEE">Zeehan</a></li>
+</ul></li>
+<li class="expanded"><a href="/amps?featureId=AMP_SW">South-west</a><ul class="menu"><li class="first leaf"><a href="/amps?featureId=AMP_SW_ABR">Abrolhos</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_BRE">Bremer</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_ER">Eastern Recherche</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_GEO">Geographe</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_GAB">Great Australian Bight</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_JUR">Jurien</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_MUR">Murat</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_PC">Perth Canyon</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_SWC">South-west Corner</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_SKI">Southern Kangaroo Island</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_TWI">Twilight</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_TR">Two Rocks</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_WE">Western Eyre</a></li>
+<li class="last leaf"><a href="/amps?featureId=AMP_SW_WKI">Western Kangaroo Island</a></li>
+</ul></li>
+<li class="expanded"><a href="/amps?featureId=AMP_TE">Temperate East</a><ul class="menu"><li class="first leaf"><a href="/amps?featureId=AMP_TE_CE">Central Eastern</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_TE_CG">Cod Grounds</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_TE_GIF">Gifford</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_TE_HUN">Hunter</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_TE_JER">Jervis</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_TE_LH">Lord Howe</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_TE_NOR">Norfolk</a></li>
+<li class="last leaf"><a href="/amps?featureId=AMP_TE_SI">Solitary Islands</a></li>
+</ul></li>
+<li class="last expanded"><a href="/amps?featureId=AMP_IOT">Indian Ocean Territories</a><ul class="menu"><li class="first leaf"><a href="/amps?featureId=AMP_IOT_CI">Christmas Island</a></li>
+<li class="last leaf"><a href="/amps?featureId=AMP_IOT_CKI">Cocos (Keeling) Islands</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a>Learn</a><ul class="menu"><li class="first leaf"><a href="/amps/learn-more">Marine park science</a></li>
+<li class="leaf"><a href="/amps/research">Recent research</a></li>
+<li class="leaf"><a href="/amps/natural-values">Natural values</a></li>
+<li class="leaf"><a href="/amps/key-maps">Key maps</a></li>
+<li class="last leaf"><a href="/amps/latest-maps">Latest maps</a></li>
+</ul></li>
+<li class="leaf"><a href="https://www.youtube.com/channel/UCnqPCRIstLy4owewLhdZdNA" target="_blank">Videos</a></li>
+<li class="leaf last"><a href="/amps/image-gallery">Images</a></li>
+</ul><div class="eatlas-responsive-menu-container"><div class="eatlas-responsive-menu-button"><div class="eatlas-responsive-menu-button-image" title="Menu"></div></div><ul class="accordion-menu"><li class="leaf first"><a href="/amps/about" title="About the Australian Marine Parks Science Atlas">Science Atlas</a></li>
+<li class="expanded eAtlas_spatial_publisher_menu"><a>Marine parks</a><ul><li class="first expanded"><a>Coral Sea</a><ul><li class="first last leaf"><a href="/amps?featureId=AMP_CS_CS">Coral Sea</a></li>
+</ul></li>
+<li class="expanded"><a href="/amps?featureId=AMP_N">North</a><ul><li class="first leaf"><a href="/amps?featureId=AMP_N_ARA">Arafura</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_N_ARN">Arnhem</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_N_GOC">Gulf of Carpentaria</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_N_JBG">Joseph Bonaparte Gulf</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_N_LIM">Limmen</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_N_OS">Oceanic Shoals</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_N_WES">Wessel</a></li>
+<li class="last leaf"><a href="/amps?featureId=AMP_N_WCY">West Cape York</a></li>
+</ul></li>
+<li class="expanded"><a href="/amps?featureId=AMP_NW">North-west</a><ul><li class="first leaf"><a href="/amps?featureId=AMP_NW_ART">Argo-Rowley Terrace</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_AR">Ashmore Reef</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_CC">Carnarvon Canyon</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_CI">Cartier Island</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_DAM">Dampier</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_EMB">Eighty Mile Beach</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_GAS">Gascoyne</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_KIM">Kimberley</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_MR">Mermaid Reef</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_MON">Montebello</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_NIN">Ningaloo</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_NW_ROE">Roebuck</a></li>
+<li class="last leaf"><a href="/amps?featureId=AMP_NW_SB">Shark Bay</a></li>
+</ul></li>
+<li class="expanded"><a href="/amps?featureId=AMP_SE">South-east</a><ul><li class="first leaf"><a href="/amps?featureId=AMP_SE_APO">Apollo</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_BEA">Beagle</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_BOA">Boags</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_EG">East Gippsland</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_FLI">Flinders</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_FRA">Franklin</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_FRE">Freycinet</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_HUO">Huon</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_MI">Macquarie Island</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_MUR">Murray</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_NEL">Nelson</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_STR">South Tasman Rise</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SE_TF">Tasman Fracture</a></li>
+<li class="last leaf"><a href="/amps?featureId=AMP_SE_ZEE">Zeehan</a></li>
+</ul></li>
+<li class="expanded"><a href="/amps?featureId=AMP_SW">South-west</a><ul><li class="first leaf"><a href="/amps?featureId=AMP_SW_ABR">Abrolhos</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_BRE">Bremer</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_ER">Eastern Recherche</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_GEO">Geographe</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_GAB">Great Australian Bight</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_JUR">Jurien</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_MUR">Murat</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_PC">Perth Canyon</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_SWC">South-west Corner</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_SKI">Southern Kangaroo Island</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_TWI">Twilight</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_TR">Two Rocks</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_SW_WE">Western Eyre</a></li>
+<li class="last leaf"><a href="/amps?featureId=AMP_SW_WKI">Western Kangaroo Island</a></li>
+</ul></li>
+<li class="expanded"><a href="/amps?featureId=AMP_TE">Temperate East</a><ul><li class="first leaf"><a href="/amps?featureId=AMP_TE_CE">Central Eastern</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_TE_CG">Cod Grounds</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_TE_GIF">Gifford</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_TE_HUN">Hunter</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_TE_JER">Jervis</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_TE_LH">Lord Howe</a></li>
+<li class="leaf"><a href="/amps?featureId=AMP_TE_NOR">Norfolk</a></li>
+<li class="last leaf"><a href="/amps?featureId=AMP_TE_SI">Solitary Islands</a></li>
+</ul></li>
+<li class="last expanded"><a href="/amps?featureId=AMP_IOT">Indian Ocean Territories</a><ul><li class="first leaf"><a href="/amps?featureId=AMP_IOT_CI">Christmas Island</a></li>
+<li class="last leaf"><a href="/amps?featureId=AMP_IOT_CKI">Cocos (Keeling) Islands</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a>Learn</a><ul><li class="first leaf"><a href="/amps/learn-more">Marine park science</a></li>
+<li class="leaf"><a href="/amps/research">Recent research</a></li>
+<li class="leaf"><a href="/amps/natural-values">Natural values</a></li>
+<li class="leaf"><a href="/amps/key-maps">Key maps</a></li>
+<li class="last leaf"><a href="/amps/latest-maps">Latest maps</a></li>
+</ul></li>
+<li class="leaf"><a href="https://www.youtube.com/channel/UCnqPCRIstLy4owewLhdZdNA" target="_blank">Videos</a></li>
+<li class="leaf last"><a href="/amps/image-gallery">Images</a></li>
+</ul></div>  </div>
+</div>
+<div id="block-eatlas-splash-screen-eatlas-splash-screen-1" class="block block-eatlas-splash-screen">
+
+    
+  <div class="content">
+    <div class="overlay"></div><div class="splash-screen" style="background-image:url('https://atlas.parksaustralia.gov.au/sites/default/files/eatlas_splash_screen/photo_for_main_splash_screen_as_of_8Feb18_lower-res.jpg')"><div class="splash-screen-container"><a href="#" class="close-button top-close-button"></a><div class="splash-screen-body"><div style="background-color: rgba(18, 39, 86, 0.6); color:#FFFFFF; font-size:2em; display: inline-block;">
+	<div style="padding: 1em;">
+		<div style="float: right;"><img src="/sites/default/files/amps/australian-marine-parks-logo.svg"></div>
+
+		<h2 style="margin-top:65px; color: #ffffff;">Discover</h2>
+
+		<div style="margin-left: 7vw;">Australian Marine Parks</div>
+	</div>
+</div>
+</div><a href="#" class="close-button bottom-close-button"></a></div><div class="splash-screen-attributions">&copy; <span class="verbose">all rights reserved</span></div></div>  </div>
+</div>
+  </div>
+						<div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/amps" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="search-block-minimised">
+<a class="show-search-overlay" title="Search" href="/search"></a>
+</div>
+<div class="search-block-overlay">
+<div class="search-overlay"></div>
+<div class="search-overlay-content">
+<div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Search for articles, metadata, images, etc." placeholder="Articles, metadata, images, etc." style="font-size: 1em;" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-yJSHrLSIa4K8K33ihIDDR95FSlkJzWrmOE259BzthcY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+
+<div class="close-search-overlay" title="Close search"></div>
+</div>
+</div></div>
+</div></form>  </div>
+</div>
+		</div>
+	</header>
+
+	<section>
+		<div class="navigation_map_node">
+			<!-- [View] [Edit] [Outline] tabs (for authenticated users) -->
+							<div id="tabs-wrapper" class="clearfix">
+				</div>
+			
+			<!-- Floating left (for authenticated users) -->
+						<!-- end Floating left -->
+
+			<a id="main-content"></a>
+
+			
+			<script>
+				var extra_content =
+										'';
+			</script>
+
+			  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    
+<div id="node-27183" class="eatlas_spatial_publisher_map">
+    <div class="map_container">
+        <div id="map-wrapper" class="map" tabindex="0"></div>
+
+        <div class="map_panel_button">&lt;</div>
+        <div class="map_panel">
+            <div class="loading"></div>
+            <div class="content-wrapper" id="content-top">
+                <div class="content">
+                    <div class="panel-header"><h1 class="title">Welcome to the Australian Marine Parks Science Atlas</h1></div><div class="flexslider-wrapper"><div class="flexslider-image"><img src="https://atlas.parksaustralia.gov.au/sites/default/files/styles/amps_header_image/public/amps/photo_for_main_splash_screen_as_of_8Feb18.jpg?itok=6hXdCh6b" alt="Splash image for Australia Marine Parks Science Atlas" title="Splash image for Australia Marine Parks Science Atlas"></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden">
+		<div class="field-items">
+					<div class="field-item even" property="content:encoded">  <div class="pagewidth">
+	<p>Australian Marine Parks protect a huge range of spectacular marine life and features like coral reefs, and underwater canyons and mountains. They are big, deep and often beyond sight of the coastline.</p>
+
+	<p>There is much we know about these special places and much that we don't. The Australian Marine Parks Science Atlas provides those interested in marine science with a snapshot of:</p>
+
+	<ul>
+		<li>the scientific research and information that underpinned the establishment of Australian Marine Parks</li>
+		<li>the work that Parks Australia and the Australian marine science community are doing to improve our understanding of and ability to effectively manage these parks.</li>
+	</ul>
+
+	<p>&nbsp;</p>
+
+	<div class="youtube_video"><iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/JZ3GT4Po0jE?rel=0" width="560"></iframe></div>
+
+	<h3>Learn more about:</h3>
+
+	<div style="display:flex; flex-wrap:wrap;"><div style="margin: 0.5em; " class="media-image mediaframe_tile wysiwyg-media-file"><div class="image"><div class="image-cell"><a href="/amps/underpinning-science"><img alt="Underpinning Science" class="media-image" style="width: 250px; height: 167px; " typeof="foaf:Image" src="/sites/default/files/resize/styles/editor/public/amps/Images%20-%20PA%20science%20articles/DSC_7271-Edit-250x167.jpg?itok=oIu8rj0i" width="250" height="167" /></a></div></div><div class="metadata" style="width: 250px; "><a href="/amps/underpinning-science"><span class="title">Underpinning Science</span></a></div></div> <div style="margin: 0.5em; " class="media-image mediaframe_tile wysiwyg-media-file"><div class="image"><div class="image-cell"><a href="/amps/science-in-management"><img alt="Science for Management" class="media-image" style="width: 250px; height: 167px; " typeof="foaf:Image" src="/sites/default/files/resize/styles/editor/public/amps/Images%20-%20PA%20science%20articles/P1010007-250x167.jpg?itok=zuiSA_8h" width="250" height="167" /></a></div></div><div class="metadata" style="width: 250px; "><a href="/amps/science-in-management"><span class="title">Science for Management</span></a></div></div> <div style="margin: 0.5em; " class="media-image mediaframe_tile wysiwyg-media-file"><div class="image"><div class="image-cell"><a href="/amps/science-partnerships"><img alt="Science Partnerships" class="media-image" style="width: 250px; height: 167px; " typeof="foaf:Image" src="/sites/default/files/resize/styles/editor/public/amps/Images%20-%20PA%20science%20articles/DSC_7607-Edit-250x167.jpg?itok=o8TZKOSb" width="250" height="167" /></a></div></div><div class="metadata" style="width: 250px; "><a href="/amps/science-partnerships"><span class="title">Science Partnerships</span></a></div></div> <div style="margin: 0.5em; " class="media-image mediaframe_tile wysiwyg-media-file"><div class="image"><div class="image-cell"><a href="/amps/science-tools"><img alt="Science Tools" class="media-image" style="width: 250px; height: 167px; " typeof="foaf:Image" src="/sites/default/files/resize/styles/editor/public/amps/Images%20-%20PA%20science%20articles/GOPR0146-250x167.JPG?itok=tuae58QD" width="250" height="167" /></a></div></div><div class="metadata" style="width: 250px; "><a href="/amps/science-tools"><span class="title">Science Tools</span></a></div></div> <div style="margin: 0.5em; " class="media-image mediaframe_tile wysiwyg-media-file"><div class="image"><div class="image-cell"><a href="/amps/biodiversity"><img alt="Biodiversity" class="media-image" style="width: 250px; height: 167px; " typeof="foaf:Image" src="/sites/default/files/resize/styles/editor/public/amps/Images%20-%20PA%20science%20articles/Tasman-Peninsula_Rick-Stuart-Smith-1-250x167.jpg?itok=fZ1AiSkr" width="250" height="167" /></a></div></div><div class="metadata" style="width: 250px; "><a href="/amps/biodiversity"><span class="title">Biodiversity</span></a></div></div> <div style="margin: 0.5em; " class="media-image mediaframe_tile wysiwyg-media-file"><div class="image"><div class="image-cell"><a href="/amps/science-needs"><img alt="Share your research" class="media-image" style="width: 250px; height: 167px; " typeof="foaf:Image" src="/sites/default/files/resize/styles/editor/public/amps/Images%20-%20PA%20science%20articles/AMP-Use-Research-Selection-of-sea%20creatures-with-labels-credit-Museums-Victoria-CSIRO-250x167.jpg?itok=3zwMYV49" width="250" height="167" /></a></div></div><div class="metadata" style="width: 250px; "><a href="/amps/science-needs"><span class="title">Share your research</span></a></div></div></div>
+</div>
+
+<div class="share" style="margin-top: 1em;"><a class="share-button facebook-share-button" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fatlas.parksaustralia.gov.au%2Famps" target="_blank">Share</a> <a class="share-button twitter-share-button" href="https://twitter.com/intent/tweet?text=http%3A%2F%2Fatlas.parksaustralia.gov.au%2Famps" target="_blank">Tweet</a></div>
+  </div>
+			</div>
+</div>
+                </div>
+                <div class="goto-top">
+                    <a class="goto-top-button" href="#content-top"><img src="/sites/all/modules/eatlas/eatlas_spatial_publisher/img/top-arrow.svg" style="display: block; margin: 0 auto;">TOP</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    (function ($) {
+        $(document).ready(function() {
+            // Trigger 'content-change' event, to initialise event listeners.
+            $('.eatlas_spatial_publisher_map .map_panel').trigger('content-change');
+
+            // Create a EAtlasSpatialPublisherMap instance and initialise it.
+            // NOTE: The EAtlasSpatialPublisherMap class is defined in "js/EAtlasSpatialPublisherMap.js"
+            var currentState = null;
+
+            var eAtlasSpatialPublisherMap = new EAtlasSpatialPublisherMap({
+                target: 'map-wrapper',
+                baseLayer: "new ol.layer.Tile({\r\n  source: new ol.source.TileWMS({\r\n    attributions: 'Basemap: <a href=\"http:\/\/eatlas.org.au\/data\/uuid\/ac57aa5a-233b-4c2c-bd52-1fb40a31f639\" target=\"_blank\">Bright earth<\/a>',\r\n    url: 'https:\/\/maps.eatlas.org.au\/maps\/gwc\/service\/wms',\r\n    crossOrigin: 'anonymous',\r\n    params: {\r\n      'LAYERS': 'ea-be:World_Bright-Earth_MPA-basemap',\r\n      'FORMAT': 'image\/jpeg',\r\n      'TRANSPARENT': false,\r\n      'VERSION': '1.1.1',\r\n      'TILED': true\r\n    },\r\n    hidpi: false,\r\n    serverType: 'geoserver'\r\n  })\r\n})\r\n",
+                layers: [
+	{
+		id: "27183",
+		title: "Welcome to the Australian Marine Parks Science Atlas",
+		url: "\/eatlas_spatial_publisher\/27183\/geojson",
+		style: "new ol.style.Style({\r\n    'stroke': new ol.style.Stroke({\r\n      'color': feature.get('colour'),\r\n      'width': 1,\r\n    }),\r\n    'fill': new ol.style.Fill({\r\n      'color': getAlphaColour(feature.get('colour'), 0.5)\r\n    })\r\n  })",
+		selected_style: "[\r\n  new ol.style.Style({\r\n    'stroke': new ol.style.Stroke({\r\n      'color': feature.get('colour'),\r\n      'width': 4\r\n    }),\r\n    'fill': new ol.style.Fill({\r\n      'color': getAlphaColour(feature.get('colour'), 0.6)\r\n    })\r\n  })\r\n]",
+		mouseover_style: "[\r\n  resolution > 40000 ? new ol.style.Style() : ( feature.get('menu_ignore') === \"TRUE\" ?\r\n      \/\/ Style for non Parks Australia parks. \r\n      \/\/ De-emphasise them\r\n      new ol.style.Style({\r\n          'text': new ol.style.Text({\r\n          'text': feature.get('Network'),\r\n          'textAlign': 'center',\r\n          'font': resolution > 10000 ? '8px Arial' : '10px Arial',\r\n          'stroke': new ol.style.Stroke({'color': getAlphaColour('#ffffff', 0.8), width: 2})\r\n        }),\r\n        \/\/ Find the center of the multi-polygon\r\n        'geometry': function(feature) {\r\n          var extent = feature.getGeometry().getExtent();\r\n          if (extent) {\r\n            var network = feature.get('Network');\r\n            var offsetX = 0, offsetY = 0;\r\n            \/\/ Adjust labels to not clash with basemap\r\n            if (network == 'Moreton Bay') {\r\n                offsetX = resolution * 5;\r\n                \/\/ move away from Brisbane label. When zoomed in have no offset.\r\n                offsetY = resolution * 15; \r\n            }\r\n            centre = ol.extent.getCenter(extent);\r\n            return new ol.geom.Point([centre[0]+offsetX,centre[1]+offsetY]);\r\n          }\r\n        }\r\n      }) :\r\n      new ol.style.Style({\r\n        'text': new ol.style.Text({\r\n          'text': feature.get('Network'),\r\n          'textAlign': 'center',\r\n          'font': resolution > 20000 ? 'bold 13px Arial' : 'bold 16px Arial',\r\n          'stroke': new ol.style.Stroke({'color': getAlphaColour('#ffffff', 0.8), width: 2})\r\n        }),\r\n        \/\/ Find the center of the multi-polygon\r\n        'geometry': function(feature) {\r\n          var extent = feature.getGeometry().getExtent();\r\n          if (extent) {\r\n            var network = feature.get('Network');\r\n            var offsetX = 0, offsetY = 0;\r\n            if (network == 'South-west') {\r\n                offsetX = -300000;\r\n                offsetY = -600000;\r\n            } else if (network == 'South-east') {\r\n                offsetX = -350000;\r\n                offsetY = 400000;\r\n            } else if (network == 'North-west') {\r\n                offsetX = 0;\r\n                offsetY = 300000;\r\n            } else if (network === 'North') {\r\n                offsetX = 0;\r\n                offsetY = 300000;\r\n            }\r\n            centre = ol.extent.getCenter(extent);\r\n            return new ol.geom.Point([centre[0]+offsetX,centre[1]+offsetY]);\r\n          }\r\n        }\r\n      })\r\n  ),\r\n  new ol.style.Style({\r\n    'stroke': new ol.style.Stroke({\r\n      'color': feature.get('colour'),\r\n      'width': 2,\r\n    }),\r\n    'fill': new ol.style.Fill({\r\n      'color': getAlphaColour(feature.get('colour'), 0.5)\r\n    })\r\n  })\r\n]"
+	}, {
+		id: "27184",
+		parentId: "27183",
+		title: "Marine parks",
+		url: "\/eatlas_spatial_publisher\/27184\/geojson",
+		style: "new ol.style.Style({\r\n    'stroke': new ol.style.Stroke({\r\n      'color': feature.get('showcase_colour'),\r\n      'width': 1\r\n    }),\r\n    'fill': new ol.style.Fill({\r\n      'color': getAlphaColour(feature.get('showcase_colour'), 0.5)\r\n    })\r\n  })",
+		selected_style: "[\r\n  new ol.style.Style({\r\n    'stroke': new ol.style.Stroke({\r\n      'color': feature.get('showcase_colour'),\r\n      'width': 4\r\n    }),\r\n    'fill': new ol.style.Fill({\r\n      'color': getAlphaColour(feature.get('showcase_colour'), 0.6)\r\n    })\r\n  })\r\n]",
+		mouseover_style: "[\r\n  resolution > 40000 ? new ol.style.Style() : ( feature.get('menu_ignore') === \"TRUE\" ?\r\n      \/\/ Style for non Parks Australia parks. \r\n      \/\/ De-emphasise them\r\n      new ol.style.Style({\r\n          'text': new ol.style.Text({\r\n          'text': feature.get('MPA_NAME'),\r\n          'textAlign': 'center',\r\n          'font': resolution > 10000 ? '8px Arial' : '10px Arial',\r\n          'stroke': new ol.style.Stroke({'color': getAlphaColour('#ffffff', 0.8), width: 2})\r\n        }),\r\n        \/\/ Find the center of the multi-polygon\r\n        'geometry': function(feature) {\r\n          var extent = feature.getGeometry().getExtent();\r\n          if (extent) {\r\n            var mpa = feature.get('MPA_NAME');\r\n            var offsetX = 0, offsetY = 0;\r\n            \/\/ Adjust labels to not clash with basemap\r\n            if (mpa == 'Moreton Bay') {\r\n                \/\/ move away from Brisbane label. When zoomed in have no offset.\r\n                offsetX = resolution * 5;\r\n                offsetY = resolution * 15; \r\n            }\r\n            centre = ol.extent.getCenter(extent);\r\n            return new ol.geom.Point([centre[0]+offsetX,centre[1]+offsetY]);\r\n          }\r\n        }\r\n      }) :\r\n      new ol.style.Style({\r\n        'text': new ol.style.Text({\r\n          'text': feature.get('MPA_NAME'),\r\n          'textAlign': 'center',\r\n          'font': resolution > 20000 ? 'bold 13px Arial' : 'bold 16px Arial',\r\n          'stroke': new ol.style.Stroke({'color': getAlphaColour('#ffffff', 0.8), width: 2})\r\n        }),\r\n        \/\/ Find the center of the multi-polygon\r\n        'geometry': function(feature) {\r\n          var extent = feature.getGeometry().getExtent();\r\n          if (extent) {\r\n            var offsetX = 0, offsetY = 0;\r\n            centre = ol.extent.getCenter(extent);\r\n            return new ol.geom.Point([centre[0]+offsetX,centre[1]+offsetY]);\r\n          }\r\n        }\r\n      })\r\n  ),\r\n  new ol.style.Style({\r\n    'stroke': new ol.style.Stroke({\r\n      'color': feature.get('colour'),\r\n      'width': 2,\r\n    }),\r\n    'fill': new ol.style.Fill({\r\n      'color': getAlphaColour(feature.get('colour'), 0.5)\r\n    })\r\n  })\r\n]\r\n"
+	}
+],
+                bbox: {"north":-9,"east":159,"south":-47,"west":110},
+                maxZoom: 11,
+                panelCss: {
+                    'width': '45%',
+                    'min-width': '400px'
+                },
+                onFeatureClick: featureClicked
+            });
+
+            eAtlasSpatialPublisherMap.init();
+
+            // URL Addressability
+            $(window).bind('popstate', function(e) {
+                var state = e.originalEvent.state;
+                if (!state) {
+                    state = getURLParameters();
+                }
+                if (!stateEquals(currentState, state)) {
+                    currentState = state;
+                    loadState(state);
+                }
+            });
+            currentState = getURLParameters();
+            if (currentState.featureId) {
+                eAtlasSpatialPublisherMap.selectFeatureId(currentState.featureId);
+                eAtlasSpatialPublisherMap.zoomToFeatureId(currentState.featureId);
+            }
+
+            function changeState(state) {
+                var urlPath = '';
+                if (state) {
+                    for (var key in state) {
+                        if (state.hasOwnProperty(key)) {
+                            urlPath += (urlPath ? '&' : '?') +
+                                    encodeURIComponent(key) + '=' +
+                                    encodeURIComponent(state[key]);
+                        }
+                    }
+                }
+
+                loadState(state);
+                // NOTE: The pushState method doesn't work with an empty string.
+                window.history.pushState(state, "", urlPath ? urlPath : "?");
+            }
+
+            function loadState(state) {
+                if (state && state.featureId) {
+                    eAtlasSpatialPublisherMap.getFeatureLayer(state.featureId, function(featureId) {
+                        return function(layer) {
+                            eAtlasSpatialPublisherMap.loadPanelTitle(
+                                '/eatlas_spatial_publisher/' + layer.config.id + '/featuretitle/' + state.featureId
+                            );
+                            eAtlasSpatialPublisherMap.loadPanelContent(
+                                '/eatlas_spatial_publisher/' + layer.config.id + '/feature/' + state.featureId
+                            );
+                        };
+                    }(state.featureId));
+                    eAtlasSpatialPublisherMap.selectFeatureId(state.featureId);
+                    eAtlasSpatialPublisherMap.zoomToFeatureId(state.featureId);
+                } else {
+                    setDefaultPanelContent();
+                    eAtlasSpatialPublisherMap.resetZoom();
+                }
+            }
+
+            function stateEquals(stateA, stateB) {
+                function safeState(state) {
+                    if (!state || !state.hasOwnProperty('featureId') || !state.featureId) {
+                        return {
+                            'featureId': ''
+                        };
+                    }
+                    return state;
+                }
+
+                var safeStateA = safeState(stateA);
+                var safeStateB = safeState(stateB);
+
+                return safeStateA.featureId === safeStateB.featureId;
+            }
+
+
+            function featureClicked(layer, feature) {
+                var newState = null;
+                var newTitleUrl = null;
+                var newContentUrl = null;
+
+                if (layer && feature) {
+                    var nodeId = layer.config.id;
+                    var featureId = feature.getId();
+
+                    // If there is only one children, zoom to that child
+                    var children = feature.get('_childNodes');
+                    if (children != null && children.length === 1) {
+                        while (children.properties != null && children.properties._childNodes != null && children.properties._childNodes.length === 1) {
+                            children = children.properties._childNodes;
+                        }
+                        var uniqueChild = children[0];
+                        nodeId = uniqueChild.nid;
+                        featureId = uniqueChild.id;
+                    }
+
+                    newState = {
+                        'featureId': featureId
+                    };
+
+                    newTitleUrl = '/eatlas_spatial_publisher/' + nodeId + '/featuretitle/' + featureId;
+                    newContentUrl = '/eatlas_spatial_publisher/' + nodeId + '/feature/' + featureId;
+                }
+
+                if (!stateEquals(currentState, newState)) {
+                    currentState = newState;
+                    changeState(newState);
+                    if (newContentUrl && newTitleUrl) {
+                        eAtlasSpatialPublisherMap.loadPanelTitle(newTitleUrl);
+                        eAtlasSpatialPublisherMap.loadPanelContent(newContentUrl);
+                    } else {
+                        setDefaultPanelContent();
+                    }
+                }
+            }
+
+            function setDefaultPanelContent() {
+                var panelTitle = "Welcome to the Australian Marine Parks Science Atlas | Australian Marine Parks Science Atlas";
+                var panelContent = "<div class=\"panel-header\"><h1 class=\"title\">Welcome to the Australian Marine Parks Science Atlas<\/h1><\/div><div class=\"flexslider-wrapper\"><div class=\"flexslider-image\"><img src=\"https:\/\/atlas.parksaustralia.gov.au\/sites\/default\/files\/styles\/amps_header_image\/public\/amps\/photo_for_main_splash_screen_as_of_8Feb18.jpg?itok=6hXdCh6b\" alt=\"Splash image for Australia Marine Parks Science Atlas\" title=\"Splash image for Australia Marine Parks Science Atlas\"><\/div><\/div><div class=\"field field-name-body field-type-text-with-summary field-label-hidden\">\n\t\t<div class=\"field-items\">\n\t\t\t\t\t<div class=\"field-item even\" property=\"content:encoded\">  <div class=\"pagewidth\">\n\t<p>Australian Marine Parks protect a huge range of spectacular marine life and features like coral reefs, and underwater canyons and mountains. They are big, deep and often beyond sight of the coastline.<\/p>\n\n\t<p>There is much we know about these special places and much that we don't. The Australian Marine Parks Science Atlas provides those interested in marine science with a snapshot of:<\/p>\n\n\t<ul>\n\t\t<li>the scientific research and information that underpinned the establishment of Australian Marine Parks<\/li>\n\t\t<li>the work that Parks Australia and the Australian marine science community are doing to improve our understanding of and ability to effectively manage these parks.<\/li>\n\t<\/ul>\n\n\t<p>&nbsp;<\/p>\n\n\t<div class=\"youtube_video\"><iframe allow=\"autoplay; encrypted-media\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/JZ3GT4Po0jE?rel=0\" width=\"560\"><\/iframe><\/div>\n\n\t<h3>Learn more about:<\/h3>\n\n\t<div style=\"display:flex; flex-wrap:wrap;\"><div style=\"margin: 0.5em; \" class=\"media-image mediaframe_tile wysiwyg-media-file\"><div class=\"image\"><div class=\"image-cell\"><a href=\"\/amps\/underpinning-science\"><img alt=\"Underpinning Science\" class=\"media-image\" style=\"width: 250px; height: 167px; \" typeof=\"foaf:Image\" src=\"\/sites\/default\/files\/resize\/styles\/editor\/public\/amps\/Images%20-%20PA%20science%20articles\/DSC_7271-Edit-250x167.jpg?itok=oIu8rj0i\" width=\"250\" height=\"167\" \/><\/a><\/div><\/div><div class=\"metadata\" style=\"width: 250px; \"><a href=\"\/amps\/underpinning-science\"><span class=\"title\">Underpinning Science<\/span><\/a><\/div><\/div> <div style=\"margin: 0.5em; \" class=\"media-image mediaframe_tile wysiwyg-media-file\"><div class=\"image\"><div class=\"image-cell\"><a href=\"\/amps\/science-in-management\"><img alt=\"Science for Management\" class=\"media-image\" style=\"width: 250px; height: 167px; \" typeof=\"foaf:Image\" src=\"\/sites\/default\/files\/resize\/styles\/editor\/public\/amps\/Images%20-%20PA%20science%20articles\/P1010007-250x167.jpg?itok=zuiSA_8h\" width=\"250\" height=\"167\" \/><\/a><\/div><\/div><div class=\"metadata\" style=\"width: 250px; \"><a href=\"\/amps\/science-in-management\"><span class=\"title\">Science for Management<\/span><\/a><\/div><\/div> <div style=\"margin: 0.5em; \" class=\"media-image mediaframe_tile wysiwyg-media-file\"><div class=\"image\"><div class=\"image-cell\"><a href=\"\/amps\/science-partnerships\"><img alt=\"Science Partnerships\" class=\"media-image\" style=\"width: 250px; height: 167px; \" typeof=\"foaf:Image\" src=\"\/sites\/default\/files\/resize\/styles\/editor\/public\/amps\/Images%20-%20PA%20science%20articles\/DSC_7607-Edit-250x167.jpg?itok=o8TZKOSb\" width=\"250\" height=\"167\" \/><\/a><\/div><\/div><div class=\"metadata\" style=\"width: 250px; \"><a href=\"\/amps\/science-partnerships\"><span class=\"title\">Science Partnerships<\/span><\/a><\/div><\/div> <div style=\"margin: 0.5em; \" class=\"media-image mediaframe_tile wysiwyg-media-file\"><div class=\"image\"><div class=\"image-cell\"><a href=\"\/amps\/science-tools\"><img alt=\"Science Tools\" class=\"media-image\" style=\"width: 250px; height: 167px; \" typeof=\"foaf:Image\" src=\"\/sites\/default\/files\/resize\/styles\/editor\/public\/amps\/Images%20-%20PA%20science%20articles\/GOPR0146-250x167.JPG?itok=tuae58QD\" width=\"250\" height=\"167\" \/><\/a><\/div><\/div><div class=\"metadata\" style=\"width: 250px; \"><a href=\"\/amps\/science-tools\"><span class=\"title\">Science Tools<\/span><\/a><\/div><\/div> <div style=\"margin: 0.5em; \" class=\"media-image mediaframe_tile wysiwyg-media-file\"><div class=\"image\"><div class=\"image-cell\"><a href=\"\/amps\/biodiversity\"><img alt=\"Biodiversity\" class=\"media-image\" style=\"width: 250px; height: 167px; \" typeof=\"foaf:Image\" src=\"\/sites\/default\/files\/resize\/styles\/editor\/public\/amps\/Images%20-%20PA%20science%20articles\/Tasman-Peninsula_Rick-Stuart-Smith-1-250x167.jpg?itok=fZ1AiSkr\" width=\"250\" height=\"167\" \/><\/a><\/div><\/div><div class=\"metadata\" style=\"width: 250px; \"><a href=\"\/amps\/biodiversity\"><span class=\"title\">Biodiversity<\/span><\/a><\/div><\/div> <div style=\"margin: 0.5em; \" class=\"media-image mediaframe_tile wysiwyg-media-file\"><div class=\"image\"><div class=\"image-cell\"><a href=\"\/amps\/science-needs\"><img alt=\"Share your research\" class=\"media-image\" style=\"width: 250px; height: 167px; \" typeof=\"foaf:Image\" src=\"\/sites\/default\/files\/resize\/styles\/editor\/public\/amps\/Images%20-%20PA%20science%20articles\/AMP-Use-Research-Selection-of-sea%20creatures-with-labels-credit-Museums-Victoria-CSIRO-250x167.jpg?itok=3zwMYV49\" width=\"250\" height=\"167\" \/><\/a><\/div><\/div><div class=\"metadata\" style=\"width: 250px; \"><a href=\"\/amps\/science-needs\"><span class=\"title\">Share your research<\/span><\/a><\/div><\/div><\/div>\n<\/div>\n\n<div class=\"share\" style=\"margin-top: 1em;\"><a class=\"share-button facebook-share-button\" href=\"https:\/\/www.facebook.com\/sharer\/sharer.php?u=http%3A%2F%2Fatlas.parksaustralia.gov.au%2Famps\" target=\"_blank\">Share<\/a> <a class=\"share-button twitter-share-button\" href=\"https:\/\/twitter.com\/intent\/tweet?text=http%3A%2F%2Fatlas.parksaustralia.gov.au%2Famps\" target=\"_blank\">Tweet<\/a><\/div>\n  <\/div>\n\t\t\t<\/div>\n<\/div>\n";
+                eAtlasSpatialPublisherMap.setPanelTitle(panelTitle);
+                eAtlasSpatialPublisherMap.setPanelContent(panelContent);
+
+                // Add the "cog" to edit blocks (if any)
+                // NOTE: The "cog" is added by JavaScript. Since this panel
+                //   is drawn afterwards, the script needs to be ran again.
+                if (Drupal.behaviors.contextualLinks) {
+                    Drupal.behaviors.contextualLinks.attach(document);
+                }
+            }
+
+            function getURLParameters() {
+                // NOTE: This can easily be done using the JavaScript URL object,
+                //   but Internet Explorer doesn't support it (it's always him...)
+
+                // window.location => Page URL
+                //   .search       => URL parameters part
+                //   .substring(1) => Remove the "?" at the beginning
+                var parameters = {};
+                var query = window.location.search.substring(1);
+                if (query) {
+                    var key, value, pos, entries = query.split("&");
+                    for (var i=0; i<entries.length; i++) {
+                        // Separate key from value
+                        //   Key and value are decoded using "decodeURIComponent"
+                        // NOTE: It's safer to use "indexOf", in case the value contains an unencodded "="
+                        pos = entries[i].indexOf("=");
+                        if (pos < 0) {
+                            key = decodeURIComponent(entries[i]);
+                            value = "";
+                        } else {
+                            key = decodeURIComponent(entries[i].substring(0, pos));
+                            value = decodeURIComponent(entries[i].substring(pos+1));
+                        }
+
+                        // Prevent key from clashing with internal Array attributes
+                        // Examples: "toString", "valueOf", "isPrototypeOf", "hasOwnProperty", "get", "set", etc.
+                        while (typeof parameters[key] !== "undefined" && !parameters.hasOwnProperty(key)) {
+                            key = "_" + key;
+                        }
+
+                        // If first entry with this key (enter as string)
+                        if (typeof parameters[key] === "undefined") {
+                            parameters[key] = value;
+
+                        // If second entry with this key (enter as array with first value)
+                        } else if (typeof parameters[key] === "string") {
+                            var arr = [parameters[key], value];
+                            parameters[key] = arr;
+
+                        // If third or later entry with this key (append value to array)
+                        } else if (typeof parameters[key] === "array") {
+                            parameters[key].push(value);
+                        }
+                    }
+                }
+                return parameters;
+            }
+        });
+    }(jQuery));
+
+</script>
+  </div>
+</div>
+  </div>
+		</div>
+
+	</section>
+	</body>
+</html>

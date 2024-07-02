@@ -1,0 +1,476 @@
+<!DOCTYPE html><html
+class="no-js" lang="en" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head><meta
+charset="utf-8" /><meta
+http-equiv="X-UA-Compatible" content="IE=edge" /><meta
+name="viewport" content="width=device-width, minimum-scale=1.0" /><link
+rel="dns-prefetch" href="/dist" /><link
+rel="preconnect" href="/dist" crossorigin /><link
+rel="dns-prefetch" href="https://www.google-analytics.com" /><link
+rel="preconnect" href="https://www.google-analytics.com" crossorigin /><link
+type="image/png" href="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2Zhdmljb25fc3JjLnN2ZyIsImVkaXRzIjp7InBuZyI6eyJxdWFsaXR5IjoxMDAsInByb2dyZXNzaXZlIjpmYWxzZX0sInJlc2l6ZSI6eyJ3aWR0aCI6MTkyLCJoZWlnaHQiOjE5MiwiZml0IjoiY292ZXIifSwic2hhcnBlbiI6dHJ1ZX19" rel="icon" sizes="192x192"><link
+type="image/png" href="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2Zhdmljb25fc3JjLnN2ZyIsImVkaXRzIjp7InBuZyI6eyJxdWFsaXR5IjoxMDAsInByb2dyZXNzaXZlIjpmYWxzZX0sInJlc2l6ZSI6eyJ3aWR0aCI6NDgsImhlaWdodCI6NDgsImZpdCI6ImNvdmVyIn19fQ==" rel="icon" sizes="48x48"><link
+type="image/png" href="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2Zhdmljb25fc3JjLnN2ZyIsImVkaXRzIjp7InBuZyI6eyJxdWFsaXR5IjoxMDAsInByb2dyZXNzaXZlIjpmYWxzZX0sInJlc2l6ZSI6eyJ3aWR0aCI6MzIsImhlaWdodCI6MzIsImZpdCI6ImNvdmVyIn19fQ==" rel="icon" sizes="32x32"><link
+type="image/png" href="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2Zhdmljb25fc3JjLnN2ZyIsImVkaXRzIjp7InBuZyI6eyJxdWFsaXR5IjoxMDAsInByb2dyZXNzaXZlIjpmYWxzZX0sInJlc2l6ZSI6eyJ3aWR0aCI6MTYsImhlaWdodCI6MTYsImZpdCI6ImNvdmVyIn19fQ==" rel="icon" sizes="16x16"><link
+href="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2Zhdmljb25fc3JjLnN2ZyIsImVkaXRzIjp7InBuZyI6eyJxdWFsaXR5IjoxMDAsInByb2dyZXNzaXZlIjpmYWxzZX0sInJlc2l6ZSI6eyJ3aWR0aCI6MTgwLCJoZWlnaHQiOjE4MCwiZml0IjoiY292ZXIifSwic2hhcnBlbiI6dHJ1ZX19" rel="apple-touch-icon" sizes="180x180"><script>document.documentElement.classList.remove('no-js');</script><script defer async src="https://cdn.polyfill.io/v3/polyfill.min.js?callback=polyfillsAreLoaded&flags=gated"></script><style>html:not(.user-is-tabbing) button:focus,html:not(.user-is-tabbing) input:focus,html:not(.user-is-tabbing) select:focus,html:not(.user-is-tabbing) textarea:focus,html:not(.user-is-tabbing) a:focus{outline:none}</style><script>function handleFirstTab(event){if(event.keyCode===9){document.documentElement.classList.add('user-is-tabbing');window.removeEventListener('keydown',handleFirstTab);window.addEventListener('mousedown',handleMouseDownOnce);}}
+function handleMouseDownOnce(){document.documentElement.classList.remove('user-is-tabbing');window.removeEventListener('mousedown',handleMouseDownOnce);window.addEventListener('keydown',handleFirstTab);}
+window.addEventListener('keydown',handleFirstTab);</script><style>[v-cloak]{display:none !important};</style><script type="module">!function(){const e=document.createElement("link").relList;if(!(e&&e.supports&&e.supports("modulepreload"))){for(const e of document.querySelectorAll('link[rel="modulepreload"]'))r(e);new MutationObserver((e=>{for(const o of e)if("childList"===o.type)for(const e of o.addedNodes)if("LINK"===e.tagName&&"modulepreload"===e.rel)r(e);else if(e.querySelectorAll)for(const o of e.querySelectorAll("link[rel=modulepreload]"))r(o)})).observe(document,{childList:!0,subtree:!0})}function r(e){if(e.ep)return;e.ep=!0;const r=function(e){const r={};return e.integrity&&(r.integrity=e.integrity),e.referrerpolicy&&(r.referrerPolicy=e.referrerpolicy),"use-credentials"===e.crossorigin?r.credentials="include":"anonymous"===e.crossorigin?r.credentials="omit":r.credentials="same-origin",r}(e);fetch(e.href,r)}}();</script><script>!function(){var e=document.createElement("script");if(!("noModule"in e)&&"onbeforeload"in e){var t=!1;document.addEventListener("beforeload",(function(n){if(n.target===e)t=!0;else if(!n.target.hasAttribute("nomodule")||!t)return;n.preventDefault()}),!0),e.type="module",e.src=".",document.head.appendChild(e),e.remove()}}();</script><script src="/dist/assets/polyfills-legacy.6168c191.js" nomodule onload="e=new CustomEvent(&#039;vite-script-loaded&#039;, {detail:{path: &#039;vite/legacy-polyfills&#039;}});document.dispatchEvent(e);" integrity="sha384-bDYAMhYsnhJODGegjKik4KZ4ZTPjQyZ6ErjRRR16Qzwl2+xGXQzZs6qVnuj8//c+"></script><script type="module" src="/dist/assets/main.9c8aa1df.js" crossorigin onload="e=new CustomEvent(&#039;vite-script-loaded&#039;, {detail:{path: &#039;src/js/main.js&#039;}});document.dispatchEvent(e);" integrity="sha384-9dgdXN5bCN/29IuAP6utyVKjC2nvEq0eFT73ZQ2hn+23wobbBkKYypVM6QVWb+H4"></script><link
+href="/dist/assets/main.9722aa43.css" rel="stylesheet"><script src="/dist/assets/main-legacy.590fa62e.js" nomodule onload="e=new CustomEvent(&#039;vite-script-loaded&#039;, {detail:{path: &#039;src/js/main-legacy.js&#039;}});document.dispatchEvent(e);" integrity="sha384-qqO1wgTK8TzHM9uL4bpTrxe4VbCJbTT5PWO8v+HleJ5MB8p+aR/s/5NNFwoP6+cS"></script><title>Koala Life</title>
+<script>dataLayer = [];
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WST9FGJ');
+</script><meta name="generator" content="SEOmatic">
+<meta name="keywords" content="Koala Life,Koala,funds for Koala,Adelaide Koala, ,Koala research,assist in the conservation">
+<meta name="description" content="Koala Life is a not for profit foundation raising funds for Koala research to assist in the conservation and management of our beautiful koala.">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="robots" content="all">
+<meta content="https://www.facebook.com/koalalifeau" property="fb:profile_id">
+<meta content="en_AU" property="og:locale">
+<meta content="Koala Life" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="https://koalalife.asn.au/" property="og:url">
+<meta content="Koala Life" property="og:title">
+<meta content="Koala Life is a not for profit foundation raising funds for Koala research to assist in the conservation and management of our beautiful koala." property="og:description">
+<meta content="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL0tvYWxhLXRyZWUtYmFieS0yLmpwZyIsImVkaXRzIjp7ImpwZWciOnsicXVhbGl0eSI6ODIsInByb2dyZXNzaXZlIjpmYWxzZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifSwic2hhcnBlbiI6dHJ1ZX19?mtime=1614926466" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="630" property="og:image:height">
+<meta content="Koala Life is a not for profit foundation raising funds for Koala research to assist in the conservation and management of our beautiful koala." property="og:image:alt">
+<meta content="https://www.instagram.com/koalalifeau" property="og:see_also">
+<meta content="https://www.facebook.com/koalalifeau" property="og:see_also">
+<meta content="https://twitter.com/koalalifeau" property="og:see_also">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@https://twitter.com/koalalifeau">
+<meta name="twitter:creator" content="@https://twitter.com/koalalifeau">
+<meta name="twitter:title" content="Koala Life">
+<meta name="twitter:description" content="Koala Life is a not for profit foundation raising funds for Koala research to assist in the conservation and management of our beautiful koala.">
+<meta name="twitter:image" content="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL0tvYWxhLXRyZWUtYmFieS0yLmpwZyIsImVkaXRzIjp7ImpwZWciOnsicXVhbGl0eSI6ODIsInByb2dyZXNzaXZlIjpmYWxzZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6NDE4LCJmaXQiOiJjb3ZlciJ9fX0=?mtime=1614926466">
+<meta name="twitter:image:width" content="800">
+<meta name="twitter:image:height" content="418">
+<meta name="twitter:image:alt" content="Koala Life is a not for profit foundation raising funds for Koala research to assist in the conservation and management of our beautiful koala.">
+<link href="https://koalalife.asn.au" rel="canonical">
+<link href="https://koalalife.asn.au" rel="home">
+<link type="text/plain" href="https://koalalife.asn.au/humans.txt" rel="author"></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WST9FGJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div
+id="app"><nav
+id="nav" class="bg-black px-6 md:px-0"><div
+class="border-b md:border-b-2 border-red"><div
+class="max-w-7xl mx-auto py-1 md:py-3 md:px-8"><div
+class="flex justify-between h-12 md:h-16"><div
+class="flex"><a
+href="https://koalalife.asn.au/"
+class="flex-shrink-0 flex items-center p-1 text-red hover:text-white md:transition-colors focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"><svg
+class="h-5 md:h-8 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2768.23 333"><path
+fill="currentColor" d="M240.44 220.13a21.78 21.78 0 1121.61-21.94v.16a21.7 21.7 0 01-21.61 21.78m97.19-14.8c34.94 0 59.81 62.82 59.81 121.08h135.87a134.24 134.24 0 009.1-67.94c112.48-27.39 121.18-83.06 109-137.66l19.46 7.58a3.22 3.22 0 004.38-3.51c-5-39.24-50.45-60.79-71.24-68.83l25.34-10.85a2 2 0 001-2.57 1.94 1.94 0 00-1.28-1.14C581.94 28.61 507.31 20.29 444 47.1c-5.14 2.48-8.54-.18-13.4-1.92a239.21 239.21 0 00-186 0c-4.83 1.76-8.26 4.41-13.4 1.92-63.26-26.81-137.88-18.43-185.07-5.61a2 2 0 00-.23 3.71l25.37 10.85C50.49 64.11 5.08 85.64 0 124.88a3.21 3.21 0 002.66 3.7 3.16 3.16 0 001.72-.19l19.45-7.58c-12.21 54.6-3.5 110.27 109 137.66a134.24 134.24 0 009.1 67.94h135.86c0-58.28 24.89-121.08 59.83-121.08m75.56-7a21.62 21.62 0 1121.62 21.78 21.61 21.61 0 01-21.62-21.78m2250.7-29.07a37.85 37.85 0 0140.37 34.29h-82.81a41.25 41.25 0 0142.46-34.29m104.27 49.93a99.45 99.45 0 00-95.86-102.92c-2.66-.09-5.33-.08-8 0a103 103 0 00-108.81 96.83 100.92 100.92 0 00-.08 10.29c0 62.66 44.55 107.55 111.42 107.55 50.45 0 89.56-26.68 99.64-69h-67.65a35 35 0 01-31.11 14.82 44.09 44.09 0 01-45.83-33h145a161.45 161.45 0 001.25-24.57M2478.34 121V94.71a32.21 32.21 0 0130.83-33.54 31.41 31.41 0 014.55.14 167.13 167.13 0 0131.12 3.8L2554 7.88a208 208 0 00-54.24-7.62c-52.14 0-89.56 36.83-89.56 96.13v24.55h-50v58.87h50v146.58h68.09V179.81h71.9v-58.87zm-139.55 0h-68.12v205.31h68.12zm-34.47-32.21a39 39 0 10-.69 0h.69m-61.05 174.45H2102V38.48h-71v287.94h212.32zm-478.74 11a51.09 51.09 0 010-102 53.75 53.75 0 0142.06 19.06v63.91a52.48 52.48 0 01-42.06 19.06m110.16-153.37h-68.1v11a100.18 100.18 0 00-55.91-15.67 107.29 107.29 0 000 214.23 100.18 100.18 0 0055.91-15.67v11.44h68.1zm-258-82.42h-68.52v287.94h68.52zm-222.08 235.85a51.09 51.09 0 010-102 53.76 53.76 0 0142.06 19.05v63.92a52.46 52.46 0 01-42.06 19.06M1504.78 121h-68.11v11a100.11 100.11 0 00-55.92-15.67 107.29 107.29 0 000 214.23 100.21 100.21 0 0055.92-15.67v11.44h68.11zm-358.5 152.45a46.28 46.28 0 01-46.36-46.2c0-1.12 0-2.23.11-3.35a46.09 46.09 0 0192.08-4.22c.06 1.41.06 2.81 0 4.22a46.45 46.45 0 01-43.23 49.45c-.86.05-1.73.09-2.6.1m0-157.1a105.43 105.43 0 00-110.87 99.69c-.13 2.47-.17 5-.13 7.42a110.58 110.58 0 00221.14 0 105 105 0 00-102.64-107.22c-2.5 0-5 0-7.5.11m-274.8 104.18l79.89 105.86H1038L919.83 164.64l108.89-126.19h-84.08L830.71 169.29V38.48h-71.13v287.94h71.06V268z"></path></svg></a></div><div
+class="flex items-center"><div
+class="flex-shrink-0 hidden md:block"><a
+href="/donate"
+class="relative inline-flex items-center px-4 py-2 no-underline border border-transparent shadow-sm text-sm font-extrabold text-black bg-red hover:bg-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-black focus:ring-white">
+Donate
+</a></div><div
+class="md:ml-4 md:flex-shrink-0 md:flex md:items-center"><div
+class="-mr-2 lr-2 flex items-center"><button
+v-on:click="toggleMenu"
+class="inline-flex items-center justify-center p-2 text-red hover:text-white md:transition-colors focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"
+aria-expanded="false"><span
+class="sr-only">Open menu</span><svg
+class="block h-6 w-6"
+xmlns="http://www.w3.org/2000/svg"
+fill="none"
+viewBox="0 0 24 24"
+stroke="currentColor"
+aria-hidden="true"><path
+stroke-linecap="round"
+stroke-linejoin="round"
+stroke-width="2"
+d="M4 6h16M4 12h16M4 18h16" /></svg><svg
+class="hidden h-6 w-6"
+xmlns="http://www.w3.org/2000/svg"
+fill="none"
+viewBox="0 0 24 24"
+stroke="currentColor"
+aria-hidden="true"><path
+stroke-linecap="round"
+stroke-linejoin="round"
+stroke-width="2"
+d="M6 18L18 6M6 6l12 12" /></svg></button></div></div></div></div></div><transition
+enter-active-class="duration-200 ease-out"
+enter-class="opacity-0 scale-95"
+enter-to-class="opacity-100 scale-100"
+leave-active-class="duration-100 ease-in"
+leave-class="opacity-100 scale-100"
+leave-to-class="opacity-0 scale-95"><div
+v-cloak
+v-show="menuOpen"
+class="z-10 fixed top-0 inset-x-0 animation-fade-in overscroll-contain"><div
+class="h-screen bg-white px-6 md:px-0"><div
+class="border-red border-b mb-10"><div
+class="max-w-7xl mx-auto py-1 md:py-3 md:px-8"><div
+class="flex justify-between h-12 md:h-16"><div
+class="flex"><a
+href="https://koalalife.asn.au/"
+class="flex-shrink-0 flex items-center p-1 text-red hover:text-black md:transition-colors focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"><svg
+class="h-5 md:h-8 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2768.23 333"><path
+fill="currentColor" d="M240.44 220.13a21.78 21.78 0 1121.61-21.94v.16a21.7 21.7 0 01-21.61 21.78m97.19-14.8c34.94 0 59.81 62.82 59.81 121.08h135.87a134.24 134.24 0 009.1-67.94c112.48-27.39 121.18-83.06 109-137.66l19.46 7.58a3.22 3.22 0 004.38-3.51c-5-39.24-50.45-60.79-71.24-68.83l25.34-10.85a2 2 0 001-2.57 1.94 1.94 0 00-1.28-1.14C581.94 28.61 507.31 20.29 444 47.1c-5.14 2.48-8.54-.18-13.4-1.92a239.21 239.21 0 00-186 0c-4.83 1.76-8.26 4.41-13.4 1.92-63.26-26.81-137.88-18.43-185.07-5.61a2 2 0 00-.23 3.71l25.37 10.85C50.49 64.11 5.08 85.64 0 124.88a3.21 3.21 0 002.66 3.7 3.16 3.16 0 001.72-.19l19.45-7.58c-12.21 54.6-3.5 110.27 109 137.66a134.24 134.24 0 009.1 67.94h135.86c0-58.28 24.89-121.08 59.83-121.08m75.56-7a21.62 21.62 0 1121.62 21.78 21.61 21.61 0 01-21.62-21.78m2250.7-29.07a37.85 37.85 0 0140.37 34.29h-82.81a41.25 41.25 0 0142.46-34.29m104.27 49.93a99.45 99.45 0 00-95.86-102.92c-2.66-.09-5.33-.08-8 0a103 103 0 00-108.81 96.83 100.92 100.92 0 00-.08 10.29c0 62.66 44.55 107.55 111.42 107.55 50.45 0 89.56-26.68 99.64-69h-67.65a35 35 0 01-31.11 14.82 44.09 44.09 0 01-45.83-33h145a161.45 161.45 0 001.25-24.57M2478.34 121V94.71a32.21 32.21 0 0130.83-33.54 31.41 31.41 0 014.55.14 167.13 167.13 0 0131.12 3.8L2554 7.88a208 208 0 00-54.24-7.62c-52.14 0-89.56 36.83-89.56 96.13v24.55h-50v58.87h50v146.58h68.09V179.81h71.9v-58.87zm-139.55 0h-68.12v205.31h68.12zm-34.47-32.21a39 39 0 10-.69 0h.69m-61.05 174.45H2102V38.48h-71v287.94h212.32zm-478.74 11a51.09 51.09 0 010-102 53.75 53.75 0 0142.06 19.06v63.91a52.48 52.48 0 01-42.06 19.06m110.16-153.37h-68.1v11a100.18 100.18 0 00-55.91-15.67 107.29 107.29 0 000 214.23 100.18 100.18 0 0055.91-15.67v11.44h68.1zm-258-82.42h-68.52v287.94h68.52zm-222.08 235.85a51.09 51.09 0 010-102 53.76 53.76 0 0142.06 19.05v63.92a52.46 52.46 0 01-42.06 19.06M1504.78 121h-68.11v11a100.11 100.11 0 00-55.92-15.67 107.29 107.29 0 000 214.23 100.21 100.21 0 0055.92-15.67v11.44h68.11zm-358.5 152.45a46.28 46.28 0 01-46.36-46.2c0-1.12 0-2.23.11-3.35a46.09 46.09 0 0192.08-4.22c.06 1.41.06 2.81 0 4.22a46.45 46.45 0 01-43.23 49.45c-.86.05-1.73.09-2.6.1m0-157.1a105.43 105.43 0 00-110.87 99.69c-.13 2.47-.17 5-.13 7.42a110.58 110.58 0 00221.14 0 105 105 0 00-102.64-107.22c-2.5 0-5 0-7.5.11m-274.8 104.18l79.89 105.86H1038L919.83 164.64l108.89-126.19h-84.08L830.71 169.29V38.48h-71.13v287.94h71.06V268z"></path></svg></a></div><div
+class="flex items-center"><div
+class="md:ml-4 md:flex-shrink-0 md:flex md:items-center"><div
+class="-mr-2 lr-2 flex items-center"><button
+v-on:click="toggleMenu"
+type="button"
+class="bg-white p-2 inline-flex items-center justify-center text-red hover:text-black focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500"><span
+class="sr-only">Close menu</span><svg
+class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path
+stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg></button></div></div></div></div></div></div><div
+class="max-w-7xl mx-auto md:px-8"><nav
+class="max-w-4xl mx-auto mb-8"><a
+href="https://koalalife.asn.au/donate"
+class="bg-red text-black hover:bg-black hover:text-white group flex items-center px-6 -mx-6 md:px-3 md:-mx-3 py-2 text-sm font-extrabold no-underline border-white border-b-2"
+aria-current="page"><span
+class="truncate">Donate</span><span
+class="ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/saving-an-icon"
+class="text-black hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Saving an icon</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/our-work"
+class="text-black hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Our work</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/our-partners"
+class="text-black hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Our partners</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/events"
+class="text-black hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Events</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/news"
+class="text-black hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">News</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/research"
+class="text-black hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Research</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/about-us"
+class="text-black hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">About us</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/reports-documents"
+class="text-black hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Reports &amp; documents</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/testimonials"
+class="text-black hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Testimonials</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/supporters"
+class="text-black hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Supporters</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a></nav><div
+class="flex flex-col items-center"><h2 class="text-sm font-extrabold text-black p-0">
+Follow us</h2><ul
+class="flex list-none pl-0 mt-3"><li
+class="mr-3"><a
+href="https://www.facebook.com/koalalifeau" class="text-black hover:text-red"><svg
+class="h-6 w-auto inline fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.3 24"><path
+fill="currentColor" d="M11.5 13.5l.6-4.3h-4V6.3C8 5.2 8.9 4.1 10 4h2.3V.3C11.2.1 10.2 0 9.1 0 5.8 0 3.6 2.1 3.6 5.8v3.3H0v4.3h3.6V24h4.5V13.5h3.4z"></path></svg></a></li><li
+class="mr-3"><a
+href="https://www.instagram.com/koalalifeau" class="text-black hover:text-red"><svg
+class="h-6 w-auto inline fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 24"><path
+fill="currentColor" d="M11.5 5.8c-3.3.1-6 2.8-5.9 6.1-.1 3.3 2.5 6.1 5.9 6.2 3.3-.1 6-2.8 5.9-6.1 0-3.3-2.6-6.1-5.9-6.2zm0 10.2c-2.2-.1-3.9-1.8-3.8-4 0-2.2 1.7-4 3.8-4 2.2.1 3.9 1.8 3.8 4 .1 2.2-1.7 3.9-3.8 4zM19 5.6c0 .8-.7 1.3-1.4 1.3-.8 0-1.3-.7-1.3-1.4s.6-1.3 1.4-1.3c.7 0 1.3.6 1.3 1.4zM22.9 7c0-1.9-.6-3.6-1.9-5C19.7.7 18 0 16.2.1 14.3 0 8.6 0 6.7.1 4.9.1 3.2.8 1.9 2 .7 3.4 0 5.2.1 7 0 9 0 15 .1 17c0 1.9.6 3.6 1.9 5 1.3 1.3 3 2 4.8 1.9 1.9.1 7.6.1 9.5 0 1.8 0 3.5-.7 4.8-1.9 1.2-1.4 1.9-3.2 1.9-5 0-2 0-8-.1-10zm-2.5 12.1c-.4 1-1.2 1.9-2.2 2.3-1.5.6-5.1.5-6.8.5s-5.2.1-6.7-.5c-1-.4-1.8-1.3-2.2-2.3-.6-1.6-.5-5.3-.5-7.1s-.1-5.5.5-7.1c.4-1 1.2-1.9 2.2-2.3 1.5-.6 5.1-.4 6.8-.4s5.3-.1 6.8.5c1 .4 1.8 1.3 2.2 2.3.6 1.6.5 5.3.5 7.1s0 5.4-.6 7z"></path></svg></a></li><li><a
+href="https://www.twitter.com/koalalifeau" class="text-black hover:text-red"><svg
+class="h-6 w-auto inline fill-current" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 1200 1227" aria-hidden="true"><path
+d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z"></path></svg></a></li></ul></div></div></div></div></transition></div></nav><div
+class="bg-black"><div
+class="mx-auto px-6 md:px-8 grid max-w-7xl sm:grid-cols-3 sm:h-64 lg:grid-cols-2"><h1 class="font-extrabold text-red py-6 text-5xl leading-tight self-center sm:col-span-2 lg:col-span-1 xl:text-6xl">
+Partners <br
+class="md:hidden" /> in survival science</h1><svg
+class="text-white w-36 -ml-3 self-end sm:justify-self-end sm:ml-0 sm:w-60 lg:w-72" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 10.5"><path
+fill="currentColor" d="M19.3 8.1c4-1 4.3-2.9 3.9-4.8l.7.3c.1 0 .1 0 .1-.1v-.1C23.8 2 22.2 1.3 21.5 1l.9-.4s.1-.1 0-.1c-2.2-.6-4.5-.6-6.6.2-.2.1-.3 0-.5-.1-1-.4-2.2-.6-3.3-.6-1.1 0-2.3.2-3.3.7-.2 0-.3.1-.5 0C6.1 0 3.8-.1 1.6.5c0 0-.1 0 0 .1l.9.4C1.8 1.3.2 2.1 0 3.4c0 .1 0 .1.1.1h.1l.7-.3c-.5 2-.2 3.9 3.8 4.9-.1.8 0 1.6.3 2.4h4.8c0-2 .9-4.2 2.1-4.2S14 8.5 14 10.5h5c.3-.8.4-1.6.3-2.4zM8.5 6.8c-.2-.2-.4-.5-.2-.8.1-.3.5-.4.7-.3.3.1.4.5.3.8-.1.3-.5.4-.8.3zm7 0c-.3-.2-.5-.5-.3-.8s.5-.4.8-.3c.3.1.4.5.3.8-.2.3-.6.4-.8.3z"></path></svg></div></div><div
+class="bg-white"><div
+class="mx-auto px-6 grid max-w-lg md:px-8 lg:px-2 lg:max-w-7xl lg:grid-cols-3"><div
+class="py-8 space-y-6 lg:flex lg:px-6 flex-col"><div
+class="flex space-x-3 items-start"><svg
+class="w-12 flex-shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 925"><path
+fill="currentColor" d="M993.52 876.39l-30.27 36.14a27.7 27.7 0 01-39 3.46l-164-137A448.35 448.35 0 01490 900.94C242.28 922.88 23.72 740 1.78 492.36s161.06-466.1 408.73-488 466.22 161 488.16 408.57a448 448 0 01-72.59 287.46l164 137a27.68 27.68 0 013.46 39M533.72 355a14.12 14.12 0 11-14.1-14.12 14.12 14.12 0 0114.1 14.12m-141-14.12A14.13 14.13 0 10406.8 355a14.12 14.12 0 00-14.11-14.12m63.46 18.65c-21.66 0-39.22 35.37-39.22 79 0 0 5.37 23.73 39.22 23.73s39.21-23.73 39.21-23.73c0-43.63-17.56-79-39.21-79m220.44-53.16c-3.29-25.44-32.94-39.4-46.53-44.63l16.58-7a1.29 1.29 0 00-.14-2.42c-30.82-8.3-79.54-13.72-120.86 3.65-3.35 1.6-5.56-.12-8.76-1.25-22.4-8-41.21-12.31-60.73-12.21-19.53-.1-38.34 4.21-60.75 12.21-3.17 1.13-5.38 2.85-8.73 1.25-41.34-17.37-90.06-11.95-120.86-3.65a1.29 1.29 0 00-.16 2.42l16.58 7c-13.59 5.23-43.24 19.19-46.53 44.63a2.14 2.14 0 002.87 2.27l12.69-4.92c-8 35.41-2.29 71.5 71.17 89.25-1.7 16.2.18 30.59 5.92 44.06l9.94 18.61-31.41 48.76c-71.2 33.6-42.71 124.4-42.71 124.4 11.09 29.65 53.45 29.91 70.67 1.88h20.86l4.13 26.15c0 28.39 87.83 28.25 87.91 0l-4.11-26.15h25l-4.09 26.15c.06 28.25 87.85 28.39 87.91 0l4.11-26.15h20.86c17.22 28 59.58 27.77 70.67-1.88 0 0 28.47-90.81-42.7-124.43L574 455.61l9.94-18.61c5.74-13.47 7.62-27.86 5.92-44.06C663.32 375.19 669 339.1 661 303.69l12.71 4.92a2.13 2.13 0 002.85-2.27"></path></svg><h2 class="font-extrabold text-3xl self-center">
+Saving an icon</h2></div><p>
+Koalas are so much more than just a part of our cultural identity and lifestyle. They’re vital to our economy, and play an important role in the health of our ecosystems.</p><a
+href="https://koalalife.asn.au/saving-an-icon" class="inline-flex items-center px-6 py-3 border border-transparent text-base font-extrabold no-underline focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-black transition text-black bg-red hover:bg-red-400 focus:bg-red-400 self-start justify-self-end">Learn more</a></div><div
+class="h-px w-full bg-black lg:hidden"></div><div
+class="py-8 space-y-6 lg:flex lg:px-6 flex-col"><div
+class="flex space-x-3 items-start"><svg
+class="w-12 flex-shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 925"><path
+fill="currentColor" d="M43.3 913.5h78.6c12.4.1 9.9-16.4 11.7-27.4 1.2-9.8 3-21.9 5.7-35.6h721.3c3.7 18.6 5.4 31.2 6.8 45.5.9 8.2-.4 16.6 13.4 17.5h72.6c3.4-.3 9.4-1.9 10.9-9.6-2.7-40.5-10.9-116.9-57.2-210.5-38.9-77.2-94.4-138.9-165.4-187.9-24.6-14.3-68.4 17.6-95.3 26.7-.9.4-17.7 6 4.7 23.2 19.1 14 35.4 26.5 47.8 36.1-119.8-.2-278.1-.2-397.7 0 83.4-61.2 179.4-74.4 278.5-97 75.7-21.2 149.3-55.3 207.2-108C888.7 316.2 969.6 107.8 964.4 21c-1.5-7.7-7.3-9.4-10.7-9.6H882c-16.7 1.3-11.7 13.8-13.9 24-1.1 10.4-3 23.7-6.1 39H138.1c-2.7-13.7-4.5-25.8-5.7-35.6-1.8-11 .8-27.4-11.5-27.4H43.3c-6.3.8-7.5 5.4-7.6 8.1C37 182.1 159.3 397.9 340.4 464.8c-177.8 59-298.4 273.7-304 428.3.4 9.1-5.2 17.3 6.9 20.4zm254.5-580h404.3c-56.6 45.2-123.1 66.2-192.9 85.7-41.3-9.4-75.6-18.5-109.6-31.8-32.3-12.9-64.3-29.5-101.8-53.9zm526.3-146.2c-9.2 18.8-19.9 37-31.6 53.9v-1.4h-586c-11.3-16.4-21.7-34.2-30.6-52.5h648.2zM177.6 737.7c9-18.3 19.5-36 31-52.5h581.6v-1.4c11.9 16.9 22.7 35.1 32 53.9H177.6z"></path></svg><h2 class="font-extrabold text-3xl self-center">
+Our work</h2></div><p>
+We need research – and lots of it - if we are to come up with a workable management plan for these amazing animals.</p><a
+href="https://koalalife.asn.au/our-work" class="inline-flex items-center px-6 py-3 border border-transparent text-base font-extrabold no-underline focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-black transition text-black bg-red hover:bg-red-400 focus:bg-red-400 self-start justify-self-end">Learn more</a></div><div
+class="h-px w-full bg-black lg:hidden"></div><div
+class="py-8 space-y-6 lg:flex lg:px-6 flex-col"><div
+class="flex space-x-3 items-start"><svg
+class="w-12 flex-shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 925"><path
+fill="currentColor" d="M960.2 188.7C899 80.3 779.4.3 661.1 15.6c-45.3 5.8-116.8 39.9-116.8 39.9-5 2.4-5.5 7.1-1.1 10.5 0 0 17.9 13.7 29.6 23.6 18 15 34.4 30.1 49 45 50.3 51.3 80.2 101.6 88.8 149.5 2.5 13.8 3.2 27.3 2.1 40.3-.9 10.6-3 20.9-6.3 30.5-5.3 15.7-12.1 24.9-14 27.4-20.8 26.9-49.4 43.3-82.6 47.6-16.1 2.1-33.1 1.3-50.7-2.4-17.4-3.6-35.3-10.1-53.3-19.2-58.9-29.9-166.4-92.8-166.4-92.8-4.8-2.8-12-2-16.1 1.7L84.5 536.5c-4.1 3.7-4.9 10.6-1.9 15.2 0 0 26.2 40.1 45.6 68.7 19.3 28.7 58.1 68.8 58.1 68.8 3.8 4 10.3 4.2 14.4.4l197.7-181.7c4.1-3.7 11.7-8.2 17-9.8 0 0 13.9-4.3 21.9 6 7.9 10.3 1.3 25.2 1.3 25.2-2.2 5.1-7.4 12.3-11.5 16L239.4 718c-4.1 3.7-3.7 9.4.9 12.5 0 0 36 24.7 58.1 40 16.6 11.5 41.5 28.9 41.5 28.9 4.5 3.2 11.6 2.7 15.7-1l138-126.8c4.1-3.7 11.7-8.2 17-9.8 0 0 13.9-4.3 21.9 6 7.9 10.3 1.3 25.2 1.3 25.2-2.2 5.1-7.4 12.3-11.5 16L394.6 826.3c-4.1 3.7-3.7 9.5.7 12.7 0 0 33.2 24.2 51.9 38.1 12.6 9.4 24.5 18.4 35.9 27.1 3 2.3 8.9 8.8 15.4 9.4 6.5.6 13.6-4.7 15.9-6.5 8.1-6.2 16.1-12.3 24.2-18.5C610.1 834.4 682.7 782 756.8 732c155.3-105.1 321-334.9 203.4-543.3z"></path><path
+fill="currentColor" d="M98 460.3c4.1-3.7 10.7-9.9 14.8-13.6l193.5-177.8c4.1-3.7 11.6-9.9 13.3-10.6 1.8-.7 3.8-1.8 4.4-2.4s1.8-.8 2.5-.3c.7.4 4.7 1.2 8.8 1.7l3.4 2c1.1.7 113.2 67.6 185.9 104.4 14.7 7.4 29.1 12.7 42.9 15.6 13.1 2.7 25.5 3.4 37.1 1.9 11-1.4 21.1-4.8 30.2-9.9 9-5.1 16.9-12.1 23.6-20.8 0-.1.1-.1.1-.2.4-.5 4-5.7 6.8-15.1 1.7-5.7 2.7-11.8 3-18.2.4-8.2-.3-16.8-2.1-25.8-3.3-16.5-10.4-34.2-21-52.4-13.3-22.7-32.1-46.5-56-70.6-21.8-22-47.9-44.4-78-67.1-6-4.5-12.2-9.1-18.6-13.6-67-53.1-150.7-91-234.3-70.2-15 3.2-29.9 7.8-44.3 13.8-14.4 5.9-28.4 13.2-41.7 21.7-8.6 5.4-16.9 11.1-24.9 16.9-8 5.9-15.8 11.9-23.3 18.2C19.5 175.3-28.2 301 17.1 432.7c5 14.7 11.2 29.4 18.6 44.1 4.5 9 9.9 18.3 9.9 18.3 2.8 4.8 8.4 5.7 12.4 1.9l11.7-10.8c4.1-3.7 10.7-9.9 14.8-13.6L98 460.3z"></path></svg><h2 class="font-extrabold text-3xl self-center">
+Our partners</h2></div><p>
+Together with our partners, Koala Life is helping to connect and support an international network of koala experts</p><a
+href="https://koalalife.asn.au/our-partners" class="inline-flex items-center px-6 py-3 border border-transparent text-base font-extrabold no-underline focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-black transition text-black bg-red hover:bg-red-400 focus:bg-red-400 self-start justify-self-end">Learn more</a></div></div></div><div
+class="grid md:grid-cols-3 lg:grid-cols-2"><div
+class=""><picture><source
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWhvbGQuanBnIiwiZWRpdHMiOnsid2VicCI6eyJxdWFsaXR5Ijo4Mn0sInJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvdmVyIn19fQ== 1200w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWhvbGQuanBnIiwiZWRpdHMiOnsid2VicCI6eyJxdWFsaXR5Ijo4Mn0sInJlc2l6ZSI6eyJ3aWR0aCI6OTkyLCJoZWlnaHQiOjU1OCwiZml0IjoiY292ZXIifX19 992w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWhvbGQuanBnIiwiZWRpdHMiOnsid2VicCI6eyJxdWFsaXR5Ijo2MH0sInJlc2l6ZSI6eyJ3aWR0aCI6NzY4LCJoZWlnaHQiOjQzMiwiZml0IjoiY292ZXIifX19 768w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWhvbGQuanBnIiwiZWRpdHMiOnsid2VicCI6eyJxdWFsaXR5Ijo2MH0sInJlc2l6ZSI6eyJ3aWR0aCI6NTc2LCJoZWlnaHQiOjMyNCwiZml0IjoiY292ZXIifX19 576w"
+sizes="(min-width: 1024px) 50vw, (min-width: 768px) 33.333333333333vw, 100vw"
+type="image/webp" /><source
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWhvbGQuanBnIiwiZWRpdHMiOnsianBlZyI6eyJxdWFsaXR5Ijo4MiwicHJvZ3Jlc3NpdmUiOnRydWUsInRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pemVTY2FucyI6dHJ1ZX0sInJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvdmVyIn19fQ== 1200w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWhvbGQuanBnIiwiZWRpdHMiOnsianBlZyI6eyJxdWFsaXR5Ijo4MiwicHJvZ3Jlc3NpdmUiOnRydWUsInRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pemVTY2FucyI6dHJ1ZX0sInJlc2l6ZSI6eyJ3aWR0aCI6OTkyLCJoZWlnaHQiOjU1OCwiZml0IjoiY292ZXIifX19 992w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWhvbGQuanBnIiwiZWRpdHMiOnsianBlZyI6eyJxdWFsaXR5Ijo2MCwicHJvZ3Jlc3NpdmUiOnRydWUsInRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pemVTY2FucyI6dHJ1ZX0sInJlc2l6ZSI6eyJ3aWR0aCI6NzY4LCJoZWlnaHQiOjQzMiwiZml0IjoiY292ZXIifX19 768w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWhvbGQuanBnIiwiZWRpdHMiOnsianBlZyI6eyJxdWFsaXR5Ijo2MCwicHJvZ3Jlc3NpdmUiOnRydWUsInRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pemVTY2FucyI6dHJ1ZX0sInJlc2l6ZSI6eyJ3aWR0aCI6NTc2LCJoZWlnaHQiOjMyNCwiZml0IjoiY292ZXIifX19 576w"
+sizes="(min-width: 1024px) 50vw, (min-width: 768px) 33.333333333333vw, 100vw" /><img
+class="lazyload md:max-h-64 md:w-full md:h-full md:object-cover md:object-center"
+loading="lazy"
+src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%271200%27 height=%27675%27 style=%27background:%23606253%27 /%3E"
+data-src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%271200%27 height=%27675%27 style=%27background:%23606253%27 /%3E"
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWhvbGQuanBnIiwiZWRpdHMiOnsianBlZyI6eyJxdWFsaXR5Ijo4MiwicHJvZ3Jlc3NpdmUiOnRydWUsInRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pemVTY2FucyI6dHJ1ZX0sInJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2NzUsImZpdCI6ImNvdmVyIn19fQ== 1200w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWhvbGQuanBnIiwiZWRpdHMiOnsianBlZyI6eyJxdWFsaXR5Ijo4MiwicHJvZ3Jlc3NpdmUiOnRydWUsInRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pemVTY2FucyI6dHJ1ZX0sInJlc2l6ZSI6eyJ3aWR0aCI6OTkyLCJoZWlnaHQiOjU1OCwiZml0IjoiY292ZXIifX19 992w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWhvbGQuanBnIiwiZWRpdHMiOnsianBlZyI6eyJxdWFsaXR5Ijo2MCwicHJvZ3Jlc3NpdmUiOnRydWUsInRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pemVTY2FucyI6dHJ1ZX0sInJlc2l6ZSI6eyJ3aWR0aCI6NzY4LCJoZWlnaHQiOjQzMiwiZml0IjoiY292ZXIifX19 768w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWhvbGQuanBnIiwiZWRpdHMiOnsianBlZyI6eyJxdWFsaXR5Ijo2MCwicHJvZ3Jlc3NpdmUiOnRydWUsInRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pemVTY2FucyI6dHJ1ZX0sInJlc2l6ZSI6eyJ3aWR0aCI6NTc2LCJoZWlnaHQiOjMyNCwiZml0IjoiY292ZXIifX19 576w"
+alt="" /></picture></div><div
+class="bg-black flex items-center md:col-span-2 lg:col-span-1"><h2 class="font-extrabold text-white text-3xl leading-normal p-6 md:px-12 max-w-2xl">
+Habitat loss, life threatening diseases and rampant bushfires have pushed them to the brink.</h2></div></div><div
+class="bg-red"><div
+class="mx-auto px-6 md:px-8 lg:px-2 grid lg:max-w-7xl lg:grid-cols-3"><div
+class="-mx-6 px-6 md:-mx-8 md:px-8 lg:m-0 lg:p-0 bg-red"><div
+class="mx-auto lg:px-6 max-w-lg lg:mx-0 py-8 space-y-6"><div
+class="lg:h-20 flex items-center"><svg
+class="w-20" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 1000 925"><path
+fill="currentColor" d="M947.2 276.2c-2-3.7-7.4-4.3-10.7-1.2-119.4 115-106 224-130.3 294.4C739.2 119.7 549.5 38 506.7 1.7c-4.2-3.6-11.3-1.8-13.4 3.6C461 88.6 481.7 197.6 522 299.6c13.4 34 29 67.2 45.7 98.3 39.7 68.6 80.7 140.6 140.7 194.6-94-81-197-156-316.2-194.6-25.1-8.7-50.5-16.3-76.3-23.1-51.4-13.6-103.9-23.8-156.2-32.9-15.1-1.8-30.2-3-45.1-3.6-7.7-.3-15.7-.8-23 .1-2.1.2-2.7 3.2-.5 4.9 6.3 5.1 12.7 10.1 19.1 15.2 9.5 8.4 19.2 16.3 29 24.1 38.1 27.9 74.3 56.8 109.7 87.5 17.7 15.3 35.1 31.1 52.4 47.4 25 22 53 40 82 56-23 4-45 6-68.4 6.4-22.6 1-45 1.1-67.5.3-44.9-1.5-89.7-6.2-134.4-13.6-3.4-.5-5.8 3.2-3.4 5.4 4.6 4.1 16.5 11.9 31.9 21.6 34.7 21.8 70.7 42.8 106 63.9-17 .8-33.5 2-49.5 3.4-79.9 6.9-145.7 19.1-181 26.6-12.5 2.6-22.6 19.2-13.8 25C445.7 1006.4 758.1 915.3 833 890c4.9-1.7 14-8.4 16.6-11.5 245-295.9 123-555.7 97.6-602.3z"></path></svg></div><h2 class="font-extrabold text-4xl text-white">
+Our latest news and stories</h2><p>
+Read our latest news and stories with guest bloggers from the world best Koala researchers.</p><a
+href="https://koalalife.asn.au/news" class="inline-flex items-center px-6 py-3 border border-transparent text-base font-extrabold no-underline focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-black transition text-black bg-white hover:bg-white-900 focus:bg-white-900 ">Learn more</a></div></div><div
+class="-mx-6 px-6 md:-mx-8 md:px-8 lg:m-0 lg:p-0 bg-white"><div
+class="mx-auto lg:px-6 max-w-lg lg:mx-0 py-8 space-y-6"><div
+class="lg:h-20 flex items-center"><svg
+class="w-20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 925"><path
+fill="currentColor" d="M485.94 632.76c14.91-11.27 62.38 105.73 113.91 82.21 7.38-6.57-44.19-27.81-64-73.86-19.4-41.05-13.88-101.54 2.13-107 9.83-5.68 86.93 115.93 124 99.08C803.45 562 693.6 274.55 720 260.66c10.15-4 65.91 43.93 86.8 114.68 17.68 60 8 134.85 18.74 139.74 38.23 17.47.41-200.83 23.34-205.43 15.67-3.36 46.12 40.58 60.3 105.35 14 67.89-7.08 124.45 11.23 126.1 42.45 2.28 31.17-125.45 52-129.45 19-3.09 28.27 69 26.53 137.2C995.71 677 945.33 931.59 768 924.87c-61.76-.54-129.57-32.62-192.79-95.82-87.21-82.6-104.75-189.31-89.27-196.29m28.14-260.44c-14.93-11.27-62.38 105.73-113.93 82.21-7.38-6.55 44.19-27.81 64-73.86 19.4-41 13.88-101.54-2.15-107-9.83-5.68-86.93 115.93-124 99.08C196.55 301.59 306.4 14.11 280 .24c-10.15-4-65.91 43.92-86.78 114.66-17.68 60-8 134.85-18.76 139.76-38.24 17.47-.46-200.83-23.35-205.43-15.65-3.38-46.11 40.56-60.29 105.29-14 67.91 7.1 124.45-11.21 126.12-42.47 2.26-31.17-125.47-52-129.47-19-3.09-28.28 69-26.54 137.2 3.26 128.2 53.64 382.8 231 376.06 61.76-.54 129.55-32.62 192.79-95.82 87.19-82.61 104.7-189.31 89.22-196.29"></path></svg></div><h2 class="font-extrabold text-4xl ">
+Upcoming events</h2><p>
+Join us and show your support with other Koala Life ambassadors at an event in the future.</p><a
+href="https://koalalife.asn.au/events" class="inline-flex items-center px-6 py-3 border border-transparent text-base font-extrabold no-underline focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-black transition text-black bg-red hover:bg-red-400 focus:bg-red-400 ">Learn more</a></div></div><div
+class="-mx-6 px-6 md:-mx-8 md:px-8 lg:m-0 lg:p-0 bg-red"><div
+class="mx-auto lg:px-6 max-w-lg lg:mx-0 py-8 space-y-6"><div
+class="lg:h-20 flex items-center"><svg
+class="w-20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 925"><path
+fill="currentColor" d="M333.53 511.69a318.81 318.81 0 01-34.23-29.45c3.72-26.09 9.8-52.35 3.47-78.17-2.53-10.29-9.62-35.89-23.44-23.55-11.46 10.24-15.07 46-17.08 60.12-.13.89-.25 1.8-.39 2.72-6.32-6.68-12.65-13.28-19.13-19.71-3.22-3.19-6.63-6.49-10.16-9.79 4-25.52 7.55-51.11 1.36-76.34-3.08-12.48-11.69-43.59-28.46-28.61-13.63 12.19-18.12 54-20.59 71.89-2.19-.86-4.37-1.64-6.58-2.3-10.94-3.26-45.26-4.82-40.1 15.25 2.26 8.83 15.55 18.14 21.39 24.44 5.21 5.6 10.34 11.28 15.45 17-4.83 25.12-9.44 51.12-9.82 70.95a178.12 178.12 0 002.24 31.2c-25.2-40-31.92-88.37-34.06-104.3-4.27-32 1-65.9-3.44-98.09-1.39-10.12-13.6-59.29-30.69-59.29-13.48 0-18.57 51.52-20.34 137.26-2.09-5.32-4.23-10.59-6.53-15.78-14.63-33-32.73-67.69-71.94-74C-2.9 352.25 13 381.06 21.78 408c10.3 31.67 18 63.75 33.38 93.58a358.61 358.61 0 0034.06 53.71c18.56 23.85 44.23 44 65.75 65.17 54.64 53.81 121.08 101 166.48 163.4 21 28.88 26.66 59 29.48 93.89 1.14 14.3-2.74 26.92 2.43 40.56 13.24 20.18 68.4-10.35 81.53-23.34 31.68-31.34 29.72-81.61 30.6-122.74 1-47.72-2.67-98.62-23.27-143.15-22.65-49-65.99-86.08-108.69-117.39zm-84.62 68.68c-11.19-18.94-21.5-41.48-23.75-63.64-.86-8.46-.47-17.11.16-25.79 8 9.35 15.73 19 22.89 28.93a207.19 207.19 0 00-2 23 155.2 155.2 0 005.12 41.5c-.81-1.37-1.62-2.65-2.42-4zM999.54 323.07c-39.21 6.35-57.33 41-71.95 74-4.82 10.89-9 22.18-13.31 33.39-.92-25.43-2.82-51.74-2.81-71.51 0-15.25-1.91-29-3.75-44.1-1.14-9.43.19-23.21-6.47-31.13-14.47-17.2-27.4 12.36-32.21 24.29-9.57 23.78-9.79 49.24-9.47 74.73-7.71-8.25-29.56-6.75-37.87-4.28-1.52.45-3 .95-4.52 1.5-2.44-17.2-6.81-60.56-20.74-73-16.77-15-25.38 16.11-28.46 28.61-6.2 25.26-2.61 50.88 1.38 76.47-4.24 3.89-8.29 7.8-12.09 11.57-6.76 6.7-13.37 13.61-19.95 20.57-.19-1.2-.38-2.41-.54-3.58-2-14.16-5.62-49.88-17.08-60.12-13.81-12.34-20.89 13.26-23.44 23.55-6.41 26.09-.13 52.63 3.58 79a316.91 316.91 0 01-33.37 28.63c-42.7 31.27-86.06 68.39-108.7 117.37-20.59 44.53-24.26 95.43-23.26 143.15.86 41.13-1.09 91.4 30.59 122.74 13.13 13 68.28 43.52 81.54 23.34 5.17-13.64 1.28-26.26 2.43-40.56 2.82-34.84 8.44-65 29.46-93.89C723.94 721.47 790.39 674.25 845 620.44c21.52-21.2 47.2-41.32 65.75-65.17a357 357 0 0034.05-53.71c15.37-29.83 23.09-61.91 33.39-93.58 8.81-26.92 24.71-55.73 21.35-84.91zM776.75 514.82C774.5 537 764.2 559.52 753 578.45c-2.19 3.69-4.42 7.37-6.67 11a157.68 157.68 0 006.52-46.58A199.12 199.12 0 00751 521c8-11.17 16.61-21.86 25.62-32.27.58 8.78 1 17.54.13 26.09zM858 435.88c-2.24 16.77-1.55 34.52-5.58 50.84-3.19 12.84-9.21 25.4-16.46 37.08a172.16 172.16 0 00.77-19.61c-.38-19.88-5-45.94-9.85-71.12 4.49-5 9-10 13.55-14.88 4.86-5.24 14.8-12.51 19.36-19.89.04 12.7-.19 25.26-1.79 37.58zM769.07 272.78c66.81-118.39 26.31-218.79-58.3-258a158.45 158.45 0 00-210.41 77.16c-36.81-79.46-131-114-210.39-77.21-84.63 39.26-125.11 139.66-58.32 258 47.49 84.14 121.93 147.68 268.71 261.5 146.78-113.77 221.21-177.31 268.71-261.45z"></path></svg></div><h2 class="font-extrabold text-4xl ">
+Become a life saver</h2><p>
+Support vital koala research. Help us ensure the Koala continues to live safely and thrive within our community. Your donation will contribute to lead vital research into our understanding of this iconic animal</p><a
+href="https://koalalife.asn.au/donate" class="inline-flex items-center px-6 py-3 border border-transparent text-base font-extrabold no-underline focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-black transition text-black bg-white hover:bg-white-900 focus:bg-white-900 ">Donate</a></div></div></div></div><div
+class="bg-black"><div
+class="mx-auto grid md:grid-cols-3 lg:max-w-7xl"><div
+class="md:col-span-1"><picture><source
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2JhYnkta29hbGEtbGVhZi5qcGciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjYwfSwicmVzaXplIjp7IndpZHRoIjo3NjgsImhlaWdodCI6NDMyLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 768w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2JhYnkta29hbGEtbGVhZi5qcGciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjYwfSwicmVzaXplIjp7IndpZHRoIjo1NzYsImhlaWdodCI6MzI0LCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 576w"
+sizes="(min-width: 1024px) 33.333333333333vw, 100vw"
+type="image/webp" /><source
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2JhYnkta29hbGEtbGVhZi5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjo3NjgsImhlaWdodCI6NDMyLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 768w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2JhYnkta29hbGEtbGVhZi5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjo1NzYsImhlaWdodCI6MzI0LCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 576w"
+sizes="(min-width: 1024px) 33.333333333333vw, 100vw" /><img
+class="lazyload md:w-full md:h-full md:object-cover md:object-center md:max-h-full"
+loading="lazy"
+src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27768%27 height=%27432%27 style=%27background:%233e2e26%27 /%3E"
+data-src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27768%27 height=%27432%27 style=%27background:%233e2e26%27 /%3E"
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2JhYnkta29hbGEtbGVhZi5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjo3NjgsImhlaWdodCI6NDMyLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 768w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2JhYnkta29hbGEtbGVhZi5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjo1NzYsImhlaWdodCI6MzI0LCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 576w"
+alt="" /></picture></div><div
+class="px-6 py-8 mx-auto max-w-lg justify-self-center md:col-span-1"><div
+class="space-y-6"><svg
+class="w-20 text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 23.6"><path
+fill="currentColor" d="M24 3.5c-.2-1.4-1.8-2.1-2.5-2.4l.9-.4s.1-.1 0-.1c-2.2-.6-4.5-.6-6.6.2-.2.1-.3 0-.5-.1-2.1-.9-4.5-.9-6.6 0-.2 0-.3.1-.5 0C6.1 0 3.8-.1 1.6.5c0 0-.1 0 0 .1l.9.4C1.8 1.3.2 2.1 0 3.5c0 .1 0 .1.1.1h.1l.7-.3C.4 5.2.7 7.2 4.7 8.1c-.1.9 0 1.7.3 2.4l.5 1-1.7 2.6C0 16 1.5 20.9 1.5 20.9c.6 1.6 2.9 1.6 3.8.1h1.1l.2 1.4c0 1.5 4.8 1.5 4.8 0l-.1-1.4h1.4l-.2 1.4c0 1.5 4.8 1.5 4.8 0l.2-1.4h1.1c.9 1.5 3.2 1.5 3.8-.1 0 0 1.5-4.9-2.3-6.7l-1.7-2.6.5-1c.3-.8.4-1.6.3-2.4 4-1 4.3-2.9 3.9-4.8l.7.3c.1-.1.2-.1.2-.2zM8.5 6.8c-.4 0-.7-.3-.7-.8 0-.4.3-.8.8-.8.4.1.7.4.7.8 0 .5-.3.8-.8.8zm3.5 5c-1.8 0-2.1-1.3-2.1-1.3 0-2.4 1-4.3 2.1-4.3s2.1 1.9 2.1 4.3c0 .1-.3 1.3-2.1 1.3zm3.5-5c-.4 0-.8-.3-.8-.8 0-.4.3-.8.8-.8.4 0 .8.3.8.8-.1.5-.4.8-.8.8z"></path></svg><h2 class="font-extrabold text-4xl text-red">
+About us</h2><p
+class="text-white">
+Meet the partners in survival science. As a leading voice in koala conservation, Koala
+Life is committed to the fight. And we aren’t alone.</p><a
+href="https://koalalife.asn.au/about-us" class="inline-flex items-center px-6 py-3 border border-transparent text-base font-extrabold no-underline focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-black transition text-black bg-red hover:bg-red-400 focus:bg-red-400 ">Learn more</a></div></div><div
+class="md:col-span-1"><picture><source
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWZhbWlseS5qcGciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjYwfSwicmVzaXplIjp7IndpZHRoIjo1NzYsImhlaWdodCI6MzI0LCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 576w"
+sizes="(min-width: 1024px) 33.333333333333vw, 100vw"
+type="image/webp" /><source
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWZhbWlseS5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjo1NzYsImhlaWdodCI6MzI0LCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 576w"
+sizes="(min-width: 1024px) 33.333333333333vw, 100vw" /><img
+class="lazyload md:w-full md:h-full md:object-cover md:object-center md:max-h-full"
+loading="lazy"
+src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27576%27 height=%27324%27 style=%27background:%233f3934%27 /%3E"
+data-src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27576%27 height=%27324%27 style=%27background:%233f3934%27 /%3E"
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL2tvYWxhLWZhbWlseS5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjo1NzYsImhlaWdodCI6MzI0LCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 576w"
+alt="" /></picture></div></div></div><div
+class="bg-white"><div
+class="mx-auto grid lg:grid-cols-3 lg:max-w-7xl"><div
+class="p-8 space-y-6 lg:col-span-1 lg:bg-black lg:py-12"><h2 class="font-extrabold text-3xl mt-10 lg:mt-0 lg:text-white">
+Koala Life Shop</h2><p
+class="hidden text-white lg:block">
+Coming soon, a range of gifts that make a difference.</p></div><ul
+class="p-8 bg-white space-y-6 grid sm:grid-cols-2 lg:col-span-2 lg:p-0"><li><div
+class="flex sm:grid grid-cols-2 sm:h-full"><picture><source
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL3dhdGVyLWJvdHRsZS5qcGciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjgyfSwicmVzaXplIjp7IndpZHRoIjo5OTIsImhlaWdodCI6OTkyLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 992w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL3dhdGVyLWJvdHRsZS5qcGciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjYwfSwicmVzaXplIjp7IndpZHRoIjo3NjgsImhlaWdodCI6NzY4LCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 768w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL3dhdGVyLWJvdHRsZS5qcGciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjYwfSwicmVzaXplIjp7IndpZHRoIjo1NzYsImhlaWdodCI6NTc2LCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 576w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL3dhdGVyLWJvdHRsZS5qcGciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjYwfSwicmVzaXplIjp7IndpZHRoIjozMDAsImhlaWdodCI6MzAwLCJmaXQiOiJjb3ZlciJ9fX0= 300w"
+sizes="(min-width: 1024px) 16.666666666667vw,33.333333333333vw"
+type="image/webp" /><source
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL3dhdGVyLWJvdHRsZS5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjgyLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjo5OTIsImhlaWdodCI6OTkyLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 992w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL3dhdGVyLWJvdHRsZS5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjo3NjgsImhlaWdodCI6NzY4LCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 768w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL3dhdGVyLWJvdHRsZS5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjo1NzYsImhlaWdodCI6NTc2LCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 576w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL3dhdGVyLWJvdHRsZS5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjozMDAsImhlaWdodCI6MzAwLCJmaXQiOiJjb3ZlciJ9fX0= 300w"
+sizes="(min-width: 1024px) 16.666666666667vw,33.333333333333vw" /><img
+class="lazyload w-28 object-cover object-center sm:w-full sm:h-full"
+loading="lazy"
+src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27992%27 height=%27992%27 style=%27background:%23f56c69%27 /%3E"
+data-src=""
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL3dhdGVyLWJvdHRsZS5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjgyLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjo5OTIsImhlaWdodCI6OTkyLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 992w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL3dhdGVyLWJvdHRsZS5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjo3NjgsImhlaWdodCI6NzY4LCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 768w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL3dhdGVyLWJvdHRsZS5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjo1NzYsImhlaWdodCI6NTc2LCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 576w, https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL3dhdGVyLWJvdHRsZS5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjozMDAsImhlaWdodCI6MzAwLCJmaXQiOiJjb3ZlciJ9fX0= 300w"
+alt="Water bottle" /></picture><div
+class="px-6 self-center"><h3 class="font-extrabold text-sm m-0">
+Shop merchandise</h3><span
+class="text-sm inline-block italic font-light text-red">Coming soon</span></div></div></li><li><div
+class="flex sm:grid grid-cols-2 sm:h-full"><picture><source
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL2Jhc2ViYWxsLWNhcC5qcGciLCJlZGl0cyI6eyJ3ZWJwIjp7InF1YWxpdHkiOjYwfSwicmVzaXplIjp7IndpZHRoIjozMDAsImhlaWdodCI6MzAwLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 300w"
+sizes="(min-width: 1024px) 16.666666666667vw,33.333333333333vw"
+type="image/webp" /><source
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL2Jhc2ViYWxsLWNhcC5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjozMDAsImhlaWdodCI6MzAwLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 300w"
+sizes="(min-width: 1024px) 16.666666666667vw,33.333333333333vw" /><img
+class="lazyload w-28 object-cover object-center sm:w-full sm:h-full"
+loading="lazy"
+src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27300%27 height=%27300%27 style=%27background:%23282629%27 /%3E"
+data-src=""
+data-srcset="https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL3Byb2R1Y3RzL2Jhc2ViYWxsLWNhcC5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjYwLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjozMDAsImhlaWdodCI6MzAwLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0= 300w"
+alt="Baseball cap" /></picture><div
+class="px-6 self-center"><h3 class="font-extrabold text-sm m-0">
+Shop apparel</h3><span
+class="text-sm inline-block italic font-light text-red">Coming soon</span></div></div></li></ul></div></div></div><footer><div
+class="bg-red"><div
+class="mx-auto px-6 md:px-8 md:max-w-lg lg:max-w-7xl"><div
+class="subscribe grid lg:grid-cols-2 items-center py-8"><div
+class="flex items-end md:-ml-4 lg:items-center"><svg
+class="w-28 flex-shrink-0 mr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 10.5"><path
+fill="currentColor" d="M19.3 8.1c4-1 4.3-2.9 3.9-4.8l.7.3c.1 0 .1 0 .1-.1v-.1C23.8 2 22.2 1.3 21.5 1l.9-.4s.1-.1 0-.1c-2.2-.6-4.5-.6-6.6.2-.2.1-.3 0-.5-.1-1-.4-2.2-.6-3.3-.6-1.1 0-2.3.2-3.3.7-.2 0-.3.1-.5 0C6.1 0 3.8-.1 1.6.5c0 0-.1 0 0 .1l.9.4C1.8 1.3.2 2.1 0 3.4c0 .1 0 .1.1.1h.1l.7-.3c-.5 2-.2 3.9 3.8 4.9-.1.8 0 1.6.3 2.4h4.8c0-2 .9-4.2 2.1-4.2S14 8.5 14 10.5h5c.3-.8.4-1.6.3-2.4zM8.5 6.8c-.2-.2-.4-.5-.2-.8.1-.3.5-.4.7-.3.3.1.4.5.3.8-.1.3-.5.4-.8.3zm7 0c-.3-.2-.5-.5-.3-.8s.5-.4.8-.3c.3.1.4.5.3.8-.2.3-.6.4-.8.3z"></path></svg><h2 class="font-extrabold text-lg flex-grow leading-tight md:text-3xl lg:text-center">
+Get all the <br
+class="md:hidden" /> latest news</h2></div><div
+class="mt-4 lg:mt-0"><form
+method="post" class="w-full" data-freeform data-id="e87485-form-pNROk57Vo-Rep58mKdX-JDTEcUds42njQODKQ9UaRkexxhuQRhNY1ryHBZmL" data-handle="subscribe" data-ajax data-disable-submit data-show-spinner data-auto-scroll data-success-message="Thank you for subscribing." data-error-message="Sorry there has been an error." ><input
+type="hidden" name="freeform_payload" value="4yLasI3rdiuNe8ruwI80RzIyZWFkZWY4ZjQxYzQ0MjFlNGRkMDA0ODJkOTZkZjgxODU1NzM2MzhkNzRmM2VhMGY5MmYyMThhMDFmNTBlM2V93w34+XCRMS11S66zGbTTjKL9gFZ6dnjek8h26lZr42wuMntu75DMgFVeUIe8dErKpkN2LsNjh0ILulAfiusRH2S8AgmOujcRHqON7PcHjesmb1WfBoatB4xRDRe7nRHz8C4jHGzk9LX01o8VUXXcnEFIFGGhHjX9i+vk3H1s/adjDr/q1bnMqWTXvlZGr38DDEE6GXLn0jY4cO6RngOzURmUTUtd2QqJFpaNRFiTj58RZDkkizyzTpfQgQWQKyuhuy25KoAny1nzfVMxeOfizZkBZ81gaB56lyO5ji9SzBj6n2q6huQxkfFrBnr9wc8RJ+iCr5mmb0KBRGcOGt2m6rg2jaWmtsykTCxT6ppdcx35Ob0AxJQldXM7125/VuAOp6/dciuz3iyO34AVsPAM" /><input
+type="hidden" name="formHash" value="pNROk57Vo-Rep58mKdX-JDTEcUds42njQODKQ9UaRkexxhuQRhNY1ryHBZmL" /><input
+type="hidden" name="action" value="freeform/submit" /><input
+type="hidden" name="freeform-action" value="submit" /><div
+id="e87485-form-pNROk57Vo-Rep58mKdX-JDTEcUds42njQODKQ9UaRkexxhuQRhNY1ryHBZmL" data-scroll-anchor style="display: none;"></div><input
+type="hidden" name="CRAFT_CSRF_TOKEN" value="KRg6zWkRlx01SklWvbslK4K6llVQpHGGDkPA0_wK4sudLZUMTV29FxpOVaxZIaArdHt6O4vrTUT29tgXIdQu1G0ZorWjb5SF7nvlYi4o1UA=" /><div
+class="flex shadow-sm"><div
+class="flex-grow focus-within:z-10"><label
+for="form-input-email" class="sr-only">Email</label><input
+class="focus:ring-indigo-500 focus:border-indigo-500 block w-full pl-3 sm:text-sm border-black" name="email" type="email" id="form-input-email" placeholder="Email address" data-required/></div><button
+class="-ml-px relative inline-flex items-center space-x-2 px-4 py-2 text-sm font-bold text-white bg-black hover:bg-white hover:text-black border border-black focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500" data-freeform-action="submit" type="submit" name="form_page_submit">Submit</button></div></form></div></div></div></div><div
+class="bg-black"><div
+class="mx-auto p-6 md:p-8 lg:max-w-7xl"><div
+class="grid md:grid-cols-3 gap-y-8 gap-x-6"><div
+class="pr-6"><div
+class="text-white mb-10"><svg
+class="h-24 -ml-4 max-w-full md:h-32" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2107.43 835"><path
+fill="currentColor" d="M906.81 376.38h68.2V660.9h-68.2zM805.48 468.86c-15.07-9.64-33.05-15.49-55.66-15.49C695 453.37 649 498.55 649 559.23c0 60.25 46 105.86 100.83 105.86 22.61 0 40.59-5.86 55.66-15.48v11.3h67.79V458h-67.8zm0 121.75c-13 14.64-27.2 18.83-41.84 18.83-27.62 0-48.13-22.18-48.13-50.21S736 508.6 763.64 508.6c14.64 0 28.86 4.6 41.84 18.83zM628.51 559.23c0-61.09-45.6-105.86-109.62-105.86-64.43 0-110.46 44.77-110.46 105.86 0 61.92 46 108 110.46 108 64.02-.04 109.62-46.08 109.62-108zm-109.62 49.38c-28 0-46-21.76-46-49 0-26.36 18-47.7 46-47.7 27.2 0 45.61 21.34 45.61 47.7 0 27.24-18.41 49-45.61 49z"></path><path
+fill="currentColor" d="M407.94 376.38h-83.68L210.87 505.67V376.38h-70.72v284.53h70.72v-57.75l40.58-46.86 79.5 104.61h86.2L299.57 501.07l108.37-124.69zM141.22 296.53h135.2c0-57.59 24.77-119.64 59.53-119.64s59.52 62.05 59.52 119.64h135.21c8.78-20.54 11.63-42.44 9.06-67.13 111.92-27.05 120.59-82.06 108.43-136l19.35 7.5a3.25 3.25 0 004.36-3.47c-5-38.77-50.21-60-70.88-68l25.25-10.72A1.94 1.94 0 00626 15C579.07 2.38 504.81-5.9 441.84 20.59c-5.1 2.45-8.48-.17-13.33-1.9C394.36 6.48 365.69-.08 336 .09c-29.74-.17-58.41 6.39-92.56 18.6-4.84 1.73-8.22 4.35-13.33 1.9C167.08-5.9 92.83 2.38 45.88 15a1.94 1.94 0 00-.22 3.65L70.9 29.41C50.22 37.37 5 58.65 0 97.42a3.25 3.25 0 004.36 3.47l19.36-7.5c-12.16 54-3.49 109 108.43 136-2.55 24.7.29 46.61 9.07 67.14zm291.44-148.06A21.52 21.52 0 11411.14 170a21.52 21.52 0 0121.52-21.53zm-193.42 0A21.52 21.52 0 11217.72 170a21.53 21.53 0 0121.52-21.53zM1159.14 660.91h67.78V458h-67.78v10.89c-15.06-9.64-33.05-15.49-55.65-15.49-54.81 0-100.84 45.18-100.84 105.86 0 60.25 46 105.86 100.84 105.86 22.6 0 40.59-5.86 55.65-15.48zm-41.85-51.47c-27.61 0-48.11-22.18-48.11-50.21s20.5-50.63 48.11-50.63c14.65 0 28.88 4.6 41.85 18.83v63.18c-12.97 14.64-27.2 18.83-41.85 18.83zM2107.43 554.7c0-61.09-44.78-101.68-103.36-101.68-65.27 0-108.37 44.36-108.37 105.86 0 61.93 44.35 106.28 110.89 106.28 50.2 0 89.11-26.35 99.16-68.2h-67.37c-5.85 9.21-16.73 14.65-31 14.65-26 0-40.17-14.23-45.61-32.64h144.36c1.3-7.97 1.3-16.32 1.3-24.27zm-146-15.49c5-20.49 19.25-33.88 42.26-33.88 21.76 0 36.41 11.72 40.17 33.88zM1854.17 398.63c8.78 0 20.91 1.67 31 3.76l9.2-56.49c-20.92-5.43-37.65-7.53-54-7.53-51.89 0-89.13 36.41-89.13 95v24.26h-49.79v58.16h49.79v144.77H1819V515.78h71.56v-58.16H1819v-25.94c0-20.08 13.83-33.05 35.17-33.05zM1612.35 457.62h67.79v202.93h-67.79zM1645.83 349.25c-22.18 0-39.75 16.32-39.75 38.5 0 21.76 17.57 38.08 39.75 38.08 21.76 0 39.75-16.32 39.75-38.08 0-22.18-17.99-38.5-39.75-38.5zM1444.49 376.03h-70.72v284.53h211.31v-62.34h-140.59V376.03zM153.74 765.19c0-7.15 5.93-12.82 20.5-12.82a52.47 52.47 0 0126 7.42l5.53-13.62c-8.23-5.4-20.1-8.36-31.43-8.36-25.89 0-38 12.94-38 28.18 0 35.07 56.11 21.72 56.11 42.08 0 7-6.21 12.28-20.91 12.28-11.6 0-23.6-4.32-31.15-10.39l-6.07 13.63c7.82 6.74 22.52 11.32 37.22 11.32 25.9 0 38.17-12.94 38.17-28 0-34.71-55.97-21.63-55.97-41.72zM291.71 791.76c0 19.42-8.63 27.78-23.87 27.78s-24-8.36-24-27.78v-52.61H226.3v53.28c0 27.51 15.51 42.48 41.41 42.48s41.27-15 41.27-42.48v-53.28h-17.27zM412.56 772.74c0-20.91-15.37-33.59-40.19-33.59h-38.84v94.42h17.53v-27.52h21.31a34.06 34.06 0 003.64-.13l19.29 27.65h18.88l-21.72-31c12.82-5.02 20.1-15.57 20.1-29.83zm-41 18.88h-20.5V754h20.5c15.38 0 23.33 6.88 23.33 18.75s-7.95 18.87-23.33 18.87zM469.21 811.99l-31.43-72.84h-19.02l41.28 94.42h17.26l41.13-94.42H500.9l-31.69 72.84zM528.42 739.15h17.53v94.41h-17.53zM639.55 739.15l-31.69 72.84-31.43-72.84h-19.02l41.27 94.42h17.27l41.14-94.42h-17.54zM693.23 739.15l-42.48 94.42h18.07l9.31-21.85h47.2l9.44 21.85h18.35l-42.62-94.42zM684.06 798l17.67-41.27 17.8 41.27zM782.65 739.15h-17.53v94.42h66.9v-14.84h-49.37v-79.58zM894.6 765.19c0-7.15 5.93-12.82 20.5-12.82a52.47 52.47 0 0126 7.42l5.53-13.62c-8.23-5.4-20.1-8.36-31.43-8.36-25.89 0-38 12.94-38 28.18 0 35.07 56.11 21.72 56.11 42.08 0 7-6.21 12.28-20.91 12.28-11.6 0-23.6-4.32-31.15-10.39l-6.07 13.63c7.82 6.74 22.52 11.32 37.22 11.32 25.9 0 38.17-12.94 38.17-28 0-34.71-55.97-21.63-55.97-41.72zM1012.61 753.18a33.13 33.13 0 0125.22 11.06l11.33-10.65c-8.76-10.25-22-15.78-37.36-15.78-29 0-50.57 20.36-50.57 48.55s21.58 48.55 50.44 48.55c15.51 0 28.73-5.52 37.49-15.78l-11.33-10.78a32.81 32.81 0 01-25.22 11.19c-19.55 0-33.71-13.76-33.71-33.18s14.16-33.18 33.71-33.18zM1066.02 739.15h17.53v94.41h-17.53zM1126.58 792.83h45.59V778.4h-45.59v-24.54h51.39v-14.71h-68.92v94.42h70.81v-14.7h-53.28v-26.04zM1265.9 803.08l-52.06-63.93h-14.43v94.42h17.4v-63.93l52.06 63.93h14.43v-94.42h-17.4v63.93zM1353.3 753.18a33.16 33.16 0 0125.23 11.06l11.32-10.65c-8.76-10.25-22-15.78-37.36-15.78-29 0-50.57 20.36-50.57 48.55s21.58 48.55 50.44 48.55c15.51 0 28.73-5.52 37.49-15.78l-11.32-10.78a32.84 32.84 0 01-25.23 11.19c-19.55 0-33.71-13.76-33.71-33.18s14.16-33.18 33.71-33.18zM1424.25 792.83h45.58V778.4h-45.58v-24.54h51.38v-14.71h-68.92v94.42h70.81v-14.7h-53.27v-26.04z"></path></svg></div><h2 class="text-sm font-extrabold text-white p-0">
+Follow us</h2><ul
+class="flex list-none pl-0 mt-3"><li
+class="mr-3"><a
+href="https://www.facebook.com/koalalifeau" class="text-white hover:text-red"><svg
+class="h-6 w-auto inline fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.3 24"><path
+fill="currentColor" d="M11.5 13.5l.6-4.3h-4V6.3C8 5.2 8.9 4.1 10 4h2.3V.3C11.2.1 10.2 0 9.1 0 5.8 0 3.6 2.1 3.6 5.8v3.3H0v4.3h3.6V24h4.5V13.5h3.4z"></path></svg></a></li><li
+class="mr-3"><a
+href="https://www.instagram.com/koalalifeau" class="text-white hover:text-red"><svg
+class="h-6 w-auto inline fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 24"><path
+fill="currentColor" d="M11.5 5.8c-3.3.1-6 2.8-5.9 6.1-.1 3.3 2.5 6.1 5.9 6.2 3.3-.1 6-2.8 5.9-6.1 0-3.3-2.6-6.1-5.9-6.2zm0 10.2c-2.2-.1-3.9-1.8-3.8-4 0-2.2 1.7-4 3.8-4 2.2.1 3.9 1.8 3.8 4 .1 2.2-1.7 3.9-3.8 4zM19 5.6c0 .8-.7 1.3-1.4 1.3-.8 0-1.3-.7-1.3-1.4s.6-1.3 1.4-1.3c.7 0 1.3.6 1.3 1.4zM22.9 7c0-1.9-.6-3.6-1.9-5C19.7.7 18 0 16.2.1 14.3 0 8.6 0 6.7.1 4.9.1 3.2.8 1.9 2 .7 3.4 0 5.2.1 7 0 9 0 15 .1 17c0 1.9.6 3.6 1.9 5 1.3 1.3 3 2 4.8 1.9 1.9.1 7.6.1 9.5 0 1.8 0 3.5-.7 4.8-1.9 1.2-1.4 1.9-3.2 1.9-5 0-2 0-8-.1-10zm-2.5 12.1c-.4 1-1.2 1.9-2.2 2.3-1.5.6-5.1.5-6.8.5s-5.2.1-6.7-.5c-1-.4-1.8-1.3-2.2-2.3-.6-1.6-.5-5.3-.5-7.1s-.1-5.5.5-7.1c.4-1 1.2-1.9 2.2-2.3 1.5-.6 5.1-.4 6.8-.4s5.3-.1 6.8.5c1 .4 1.8 1.3 2.2 2.3.6 1.6.5 5.3.5 7.1s0 5.4-.6 7z"></path></svg></a></li><li><a
+href="https://www.twitter.com/koalalifeau" class="text-white hover:text-red"><svg
+class="h-6 w-auto inline fill-current" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 1200 1227" aria-hidden="true"><path
+d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z"></path></svg></a></li></ul></div><div
+class="md:px-6"><nav><a
+href="https://koalalife.asn.au/donate"
+class="bg-red text-black hover:bg-white hover:text-black group flex items-center px-6 -mx-6 py-2 text-sm font-extrabold no-underline border-black border-b-2"
+aria-current="page"><span
+class="truncate">Donate</span><span
+class="ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/saving-an-icon"
+class="text-white hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Saving an icon</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/our-work"
+class="text-white hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Our work</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/our-partners"
+class="text-white hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Our partners</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/events"
+class="text-white hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Events</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/news"
+class="text-white hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">News</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/research"
+class="text-white hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Research</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/about-us"
+class="text-white hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">About us</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/reports-documents"
+class="text-white hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Reports &amp; documents</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/testimonials"
+class="text-white hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Testimonials</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a><a
+href="https://koalalife.asn.au/supporters"
+class="text-white hover:bg-red hover:text-black group flex items-center px-3 -mx-3 py-2 text-sm font-medium no-underline border-red border-b"><span
+class="truncate">Supporters</span><span
+class="text-red group-hover:text-black ml-auto inline-block"><svg
+class="h-4 w-auto fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.354 15.838"><path
+d="M6.4 8l-6 5.6a1.1 1.1 0 001.5 1.7l6.8-6.5a1.1 1.1 0 00.1-1.5L2.4.3A1.1 1.1 0 001 .4 1.1 1.1 0 00.8 2z" fill="currentColor"></path></svg></span></a></nav></div><div
+class="text-sm text-white">
+Koala Life acknowledges Aboriginal people as the First Peoples and Nations of the lands and waters we live and work upon and we pay our respects to their Elders past, present and emerging. We acknowledge and respect the deep spiritual connection and the relationship that Aboriginal and Torres Strait Islander people have to Country.</div></div></div></div><div
+class="bg-grey"><div
+class="mx-auto p-6 md:p-8 lg:max-w-7xl"><p
+class="text-sm text-black">
+Koala Life is the trading name of the International Koala Life of Excellence.</p><p
+class="text-sm text-black">
+The Koala Life website is licensed under a Creative Commons Attribution 3.0 Australia Licence. ©
+Copyright
+2024</p><p
+class="text-sm text-black mt-2">
+All donations of $2 or more to Koala Life are tax-deductible</p></div></div></footer><script>if('loading'in HTMLImageElement.prototype){const images=document.querySelectorAll('img[loading="lazy"]');for(let i=0;i<images.length;i++){const img=images[i];img.src=img.dataset.src;}
+const sources=document.querySelectorAll('source[data-srcset]');for(let i=0;i<sources.length;i++){const source=sources[i];source.srcset=source.dataset.srcset;}}else{const script=document.createElement('script');script.src='https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js';document.body.appendChild(script);}</script><script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"WebPage","author":{"@id":"https://koalalife.asn.au#identity"},"copyrightHolder":{"@id":"https://koalalife.asn.au#identity"},"copyrightYear":"2021","creator":{"@id":"https://environment.sa.gov.au/#creator"},"dateCreated":"2021-02-05T08:28:12+10:30","dateModified":"2023-11-13T09:39:52+10:30","datePublished":"2021-02-05T08:28:00+10:30","description":"Koala Life is a not for profit foundation raising funds for Koala research to assist in the conservation and management of our beautiful koala.","headline":"Koala Life","image":{"@type":"ImageObject","url":"https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL0tvYWxhLXRyZWUtYmFieS0yLmpwZyIsImVkaXRzIjp7ImpwZWciOnsicXVhbGl0eSI6ODIsInByb2dyZXNzaXZlIjpmYWxzZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifSwic2hhcnBlbiI6dHJ1ZX19?mtime=1614926466"},"inLanguage":"en-au","mainEntityOfPage":"https://koalalife.asn.au/","name":"Koala Life","publisher":{"@id":"https://environment.sa.gov.au/#creator"},"url":"https://koalalife.asn.au"},{"@id":"https://koalalife.asn.au#identity","@type":"LocalBusiness","address":{"@type":"PostalAddress","addressCountry":"Australia","addressLocality":"Adelaide","addressRegion":"SA"},"description":"Koala Life is a not for profit foundation raising funds for Koala research to assist in the conservation and management of our beautiful koala.","email":"info@koalalife.asn.au","image":{"@type":"ImageObject","height":"1395","url":"https://cdn.envsa.dev/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYS1saWZlL2ltYWdlcy9Lb2FsYS10cmVlLWJhYnktMi5qcGcifQ==","width":"2000"},"logo":{"@type":"ImageObject","height":"60","url":"https://cdn.koalalife.asn.au/img/eyJidWNrZXQiOiJlbnZzYS1idWNrZXQiLCJrZXkiOiJrb2FsYWxpZmUvaW1hZ2VzL0tvYWxhLXRyZWUtYmFieS0yLmpwZyIsImVkaXRzIjp7InBuZyI6eyJxdWFsaXR5Ijo4MiwicHJvZ3Jlc3NpdmUiOmZhbHNlfSwicmVzaXplIjp7IndpZHRoIjo2MDAsImhlaWdodCI6NjAsImZpdCI6Imluc2lkZSJ9fX0=?mtime=1614926466","width":"86"},"name":"Koala Life","priceRange":"$","sameAs":["https://twitter.com/koalalifeau","https://www.facebook.com/koalalifeau","https://www.instagram.com/koalalifeau"],"url":"https://koalalife.asn.au"},{"@id":"https://environment.sa.gov.au/#creator","@type":"Organization","address":{"@type":"PostalAddress","addressCountry":"AU","addressLocality":"Adelaide","addressRegion":"SA","postalCode":"5000","streetAddress":"81 Waymouth Street"},"alternateName":"DEW","description":"The Department for Environment and Water aims to help South Australians conserve, sustain and prosper.","email":"dew.internet@sa.gov.au","foundingLocation":"Adelaide, South Australia","image":{"@type":"ImageObject","height":"40.75","url":"https://d3u55zae1ecw4x.cloudfront.net/shared/images/Logos/gosa-logotype-color.svg","width":"146"},"name":"Department for Environment and Water","url":"https://environment.sa.gov.au"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://koalalife.asn.au","name":"Home","position":1}],"name":"Breadcrumbs"}]}</script><script src="https://koalalife.asn.au/freeform/plugin.js?v=12f0405efbbc6fa07563112b0f3f4e8e74702bfc"></script></body></html>

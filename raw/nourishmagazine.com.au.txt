@@ -1,0 +1,2727 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<!--<link rel="preload" href="https://use.typekit.net/pgf5zeh.css" as="style" crossorigin> original -->
+  <link rel="preload" href="https://use.typekit.net/pkp5sbr.css" as="style" crossorigin>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+	
+	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
+	<script src="https://www.googletagmanager.com/gtm.js?id=GTM-P8SMZQ9" async=""></script>
+
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '411582162670133');
+	fbq('track', 'PageView');
+	</script>
+	<noscript>
+	<img height="1" width="1" style="display:none" 
+		src="https://www.facebook.com/tr?id=411582162670133&ev=PageView&noscript=1"/>
+	</noscript>
+		
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Home - Nourish plant-based living</title>
+	<meta name="description" content="Australia&#039;s premium vegan food &amp; living magazine, Nourish, is filled with vegetarian &amp; vegan recipes, health &amp; wellness inspiration, news &amp; more. Subscribe today." />
+	<link rel="canonical" href="https://nourishmagazine.com.au/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home - Nourish plant-based living" />
+	<meta property="og:description" content="Australia&#039;s premium vegan food &amp; living magazine, Nourish, is filled with vegetarian &amp; vegan recipes, health &amp; wellness inspiration, news &amp; more. Subscribe today." />
+	<meta property="og:url" content="https://nourishmagazine.com.au/" />
+	<meta property="og:site_name" content="Nourish plant-based living" />
+	<meta property="article:modified_time" content="2022-07-12T02:26:17+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//unpkg.com' />
+<link rel='dns-prefetch' href='//cdn.polyfill.io' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//stackpath.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//static.klaviyo.com' />
+<link rel='dns-prefetch' href='//www.klaviyo.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/eadn-wc05-5516459.nxedge.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='sbi_styles-css' href='https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.0.8' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://eadn-wc05-5516459.nxedge.io/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='adobe-fonts-css' href='https://use.typekit.net/pgf5zeh.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='anims-css' href='https://unpkg.com/aos@2.3.1/dist/aos.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='lovatts-base-theme-google-fonts-css' href='https://fonts.googleapis.com/css?family=Montserrat&#038;ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='child-theme-css' href='https://eadn-wc05-5516459.nxedge.io/wp-content/themes/nourish-child-theme/assets/css/child-theme.min.css?ver=1.1.91' type='text/css' media='all' />
+<link rel='stylesheet' id='lovatts-base-theme-style-css' href='https://eadn-wc05-5516459.nxedge.io/wp-content/themes/nourish-child-theme/style.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<!--n2css--><script type="text/javascript" id="addtoany-core-js-before">
+/* <![CDATA[ */
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Share",
+	Save: "Save",
+	Subscribe: "Subscribe",
+	Email: "Email",
+	Bookmark: "Bookmark",
+	ShowAll: "Show All",
+	ShowLess: "Show less",
+	FindServices: "Find service(s)",
+	FindAnyServiceToAddTo: "Instantly find any service to add to",
+	PoweredBy: "Powered by",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Bookmark in your browser",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Add to your favourites",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;",
+	ThanksForSharing: "Thanks for sharing!",
+	ThanksForFollowing: "Thanks for following!"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" async src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="text/javascript" src="https://eadn-wc05-5516459.nxedge.io/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://eadn-wc05-5516459.nxedge.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" async src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<script type="text/javascript" src="https://unpkg.com/aos@2.3.1/dist/aos.js?ver=1.1" id="anim-js-js"></script>
+<script type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=NPYriY&amp;ver=20151215" id="klaviyo-js"></script>
+<script type="text/javascript" src="https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js?ver=20151215" id="klaviyo-subscribve-js"></script>
+<link rel="https://api.w.org/" href="https://nourishmagazine.com.au/wp-json/" /><link rel="alternate" type="application/json" href="https://nourishmagazine.com.au/wp-json/wp/v2/pages/2" /><link rel='shortlink' href='https://nourishmagazine.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://nourishmagazine.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnourishmagazine.com.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://nourishmagazine.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnourishmagazine.com.au%2F&#038;format=xml" />
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>var documentWidth = window.innerWidth;window.googletag = window.googletag || {cmd: []};googletag.cmd.push(function() {googletag.defineSlot('/5283661/nourish/home-sidebar', [300, 250], 'home-sidebar').addService(googletag.pubads());googletag.defineSlot('/5283661/nourish/home-sidebar-2', [300, 250], 'home-sidebar-2').addService(googletag.pubads());if (documentWidth > 640) {googletag.defineSlot('/5283661/nourish/home-leaderboard', [[640, 160], [640, 165], [830, 214]], 'home-leaderboard').addService(googletag.pubads());} else {googletag.defineSlot('/5283661/nourish/home-leaderboard', [300, 250], 'home-leaderboard').addService(googletag.pubads());}googletag.defineSlot('/5283661/nourish/home-sidebar-3', [300, 250], 'home-sidebar-3').addService(googletag.pubads());googletag.defineSlot('/5283661/nourish/home-sidebar-4', [300, 250], 'home-sidebar-4').addService(googletag.pubads());googletag.defineSlot('/5283661/nourish/home-mobile-1', [300, 250], 'home-mobile-1').addService(googletag.pubads());googletag.defineSlot('/5283661/nourish/home-mobile-2', [300, 250], 'home-mobile-2').addService(googletag.pubads());googletag.defineSlot('/5283661/nourish/home-mobile-3', [300, 250], 'home-mobile-3').addService(googletag.pubads());googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.enableServices();});</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WDW4ZJC');</script>
+
+<script type="application/ld+json" class="saswp-schema-markup-output">
+[{"@context":"https://schema.org","@graph":[{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://nourishmagazine.com.au/#Main Nav","name":"Culture","url":"https://nourishmagazine.com.au/culture/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://nourishmagazine.com.au/#Main Nav","name":"Earth","url":"https://nourishmagazine.com.au/earth/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://nourishmagazine.com.au/#Main Nav","name":"Food","url":"https://nourishmagazine.com.au/recipes/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://nourishmagazine.com.au/#Main Nav","name":"Food stories","url":"https://nourishmagazine.com.au/food-stories/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://nourishmagazine.com.au/#Main Nav","name":"Recipes","url":"https://nourishmagazine.com.au/recipes/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://nourishmagazine.com.au/#Main Nav","name":"Health","url":"https://nourishmagazine.com.au/health/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://nourishmagazine.com.au/#Main Nav","name":"Mind","url":"https://nourishmagazine.com.au/mind/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://nourishmagazine.com.au/#Main Nav","name":"Style","url":"https://nourishmagazine.com.au/style/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://nourishmagazine.com.au/#Main Nav","name":"Latest Issue","url":"https://nourishmagazine.com.au/latest-issue/"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://nourishmagazine.com.au/#Main Nav","name":"Subscribe","url":""}]},
+
+{"@context":"https://schema.org","@type":"NewsMediaOrganization","@id":"https://nourishmagazine.com.au#Organization","name":"Mindful Parenting","url":"//nourishmagazine.com.au","sameAs":[],"contactPoint":{"@type":"ContactPoint","contactType":"sales","telephone":"+61-1800-254-199","url":"//nourishmagazine.com.au/contact-us/"}}]
+</script>
+
+<link rel="icon" href="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/cropped-nourish-favicon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/cropped-nourish-favicon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/cropped-nourish-favicon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/cropped-nourish-favicon-1-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.mobile-menu .sub-title {
+	text-transform: initial;
+}
+
+.entry-content figure.aligncenter{
+display:block;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+#social-share ul.social-itens .btn-share.social-item-3 {
+	padding-top:0;
+}
+#social-share {
+	right: 5px;
+}
+#social-share div.social-open-menu .btn-share {
+	width: 50px;
+	height: 50px;
+}
+
+.mobile-only {
+	display: none;
+}
+
+.sharing {
+	display: block;
+}
+
+.gold-links a, .single-newsletter a {
+	color: #8f713e;
+}
+
+.navbar-light .nav-item:not(.social) .nav-link:before {
+	height: 4px;
+}
+
+.page-template-latest-issue .entry-meta .category, .page-template-latest-issue .entry-meta .contributor-link, .single .entry-meta .category, .single .entry-meta .contributor-link {
+	border-bottom: 3px solid #000;
+}
+
+
+.single-recipe .contributor-link {
+	border-bottom: 3px solid #000;
+	text-transform: uppercase;
+	font-family: proxima-nova-condensed, Helvetica, Arial, sans-serif;
+	font-weight: 900;
+	font-size: 16px;
+	letter-spacing: 2px;
+}
+
+.single-recipe .method {
+	font-weight: normal;
+}
+
+.single-recipe .meta-detail .meta a.btn {
+	font-weight: normal !important;
+}
+
+.hero .highlighted:not(p) {
+	text-transform: none;
+}
+
+.lowercase {
+	text-transform: lowercase;
+}
+
+.fp-quote {
+	margin-bottom: 3rem;
+}
+
+.clear-filter {
+	color: #000;
+	font-weight: 900;
+	line-height: 2rem;
+	font-family: proxima-nova-condensed,Helvetica,Arial,sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	padding: 5px;
+}
+
+.mobile-logo {
+	width: 130px !important;
+	margin-top: 3px !important;
+}
+
+.archive .recipe-filter {
+	margin-bottom: 3rem;
+	padding-bottom: 3rem;
+	position: relative;
+}
+
+.archive .recipe-filter:after {
+	border-bottom: 2px solid #f1f2f2;
+	width: calc(100% - 30px);
+	position: absolute;
+	bottom: 0;
+	content: ' ';
+	left: 15px;
+}
+
+.entry-meta .categories a {
+	white-space: nowrap;
+	margin-bottom: 5px;
+}
+
+.margin-bottom {
+	margin-bottom: 10px;
+}
+
+
+.site-footer .subscribe-and-save .right .heading em {
+	font-weight: unset;
+}
+
+
+/*.recipe .card-img .contributor { */
+.card-img .contributor {
+	position: absolute;
+	background: #fff;
+	top: 0;
+	right: 0;
+	padding: .2rem .8rem;
+	z-index: 1;
+	margin-top: -1px;
+	z-index:100;
+}
+
+.single-recipe .meta-detail .meta .categories {
+	flex-wrap: wrap;
+}
+
+.single-recipe .meta-detail .meta a.btn {
+	width: auto!important;
+	display: inline-block!important;
+}
+
+.single-recipe .ingredients .sub-title {
+margin: 0 0 1.4rem 0;
+}
+
+.entry-content ol, .entry-content ul {
+	margin: 0 0 1.4rem 0;
+}
+.site-header .site-branding .custom-logo {
+	height: auto;
+}
+
+.contributor .post-thumbnail img, .contributor-section .post-thumbnail img {
+	filter: none;
+	-webkit-filter: none;
+}
+
+.contributor-template-default .featured-image-single {
+	margin-bottom: 0 !important;
+}
+
+#sticker {
+	float: right;
+	transform: rotateZ(90deg);
+	background-color: #000;
+	color: #fff;
+	margin-right: -30px;
+	padding: 10px 10px 5px 10px;
+	cursor: pointer;
+	position: -webkit-sticky;
+	position: fixed;
+	top: 360px;
+	right: 0;
+	z-index: 10000;
+	font-family: 'proxima-nova-condensed', Helvetica, Arial, sans-serif;
+	letter-spacing: 2px;
+}
+
+.recipe-book-credit-pic img {
+	max-width:150px;
+}
+
+.book-credit-section a {
+	color: #8f713e !important;
+}
+
+#recipes-leaderboard {
+	min-width: 300px; 
+	min-height: 160px;
+	margin-bottom: 4rem !important;
+}
+
+#archive-leaderboard {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media (max-width: 991px) {
+	
+	.post-template-default .meta-detail div {
+		margin-bottom: 1rem;
+	}
+	
+	.site-header .site-branding .custom-logo {
+		height: 102px;
+		width: 251px;
+		margin-left: -35px;
+		max-width: initial;
+	}
+	
+	.archive .top {
+		margin-bottom: 2rem;
+	}
+
+	.archive .recipe-filter, .archive .nourish-recipe-filter {
+		padding-bottom: 1.5rem;
+	}
+
+	.recipe-template-default .sharing {
+		display: none !important;
+	}
+
+	.mobile-only {
+		display: block;
+		margin-bottom: 1.6rem;
+		margin-top: 0.7rem;
+	}
+	
+	.recipe-template-default #page .entry-title, #page .page-title {
+		margin-bottom: 1rem;
+	}
+	
+	.page-template-latest-issue .lead, .single .lead {
+		font-size: 1.4rem;
+		margin-bottom: 1rem !important;
+	}
+	
+	.single-recipe .meta-detail .meta .categories {
+		width: 100%;
+		display: block;
+		text-align: center;
+	}
+	
+	.single .entry-meta .meta-detail {
+		display: block;
+	}
+	
+	
+	
+	.recipe-card {
+		margin-bottom: 30px;
+		background: #fafafa;
+	}
+	
+	.recipe-card .grid-card {
+		height: 100%;
+		background: #fafafa;
+	}
+	
+	.recipe-card .grid-card:before {
+		height: 0;
+	}
+	
+	.recipe-card .grid-card .text .post-title {
+		background-color: transparent;
+	}
+	
+	.recipe-cards .grid-card .grid-img, .recipe-cards .grid-card .text {
+		width: 50%;
+		padding-top:0;
+	}
+	
+	.recipe-cards .grid-card .grid-img {
+		float: left;
+	}
+	
+	.recipe-cards .grid-card .text {
+		float:right;
+	}
+	
+	.recipe-cards .grid-card .meta {
+		visibility: hidden;
+	}
+	
+	.recipe-cards .grid-card .text {
+		padding: 30px;
+	}
+	
+	.recipe-card .grid-card .contributor {
+		top: calc(100% - 80px);
+		bottom: 0;
+		background: transparent;
+		left: calc(50% + 20px);
+right: auto;
+		font-size: 16px;
+	}
+	
+	.recipe-card .grid-card .contributor:hover {
+		background: transparent;
+		color: #000;
+	}
+	
+	.recipe-card .grid-card .text .read-more {
+		width: 100%;
+		left: calc(50% - 25%);
+		top: 40%;
+		position: absolute;
+		color: #fff;
+		background: transparent;
+	}
+	
+	#recipes-leaderboard {
+		min-width: 300px; 
+		min-height: 160px;
+		margin-bottom: 4rem !important;
+		margin-top: 2rem;
+	}
+	
+}
+
+@media (max-width: 767px) {
+	.recipe-card .grid-card .text .read-more {
+		left: -25%;
+		background: transparent;
+	}
+}
+
+@media (max-width: 700px) {
+	.hide-on-mobile {
+		display: none;
+	}
+}
+
+@media (max-width: 575px) {
+	.site-header .site-branding .custom-logo {
+		height: 76px;
+		width: 251px;
+	}
+	
+	#page .entry-title, #page .page-title {
+		margin: 1rem 0 4rem;
+/*		font-size: 26px !important;
+		line-height: 30px; */
+	}
+	
+	.page-template-latest-issue .entry-meta, .single .entry-meta {
+		font-size: 12px;
+		line-height: 14px;
+	}
+	
+	.clear-filter {
+		text-align: center;
+		display: block;
+	}
+	
+	.single-recipe .meta-detail .meta .categories a:last-child {
+		margin-left: auto;
+	}
+	
+	.single-recipe .meta-detail .meta .categories a, .btn-group-sm>.btn, .btn-sm {
+		font-size: 12px;
+	}
+	
+	.contributor-template-default .featured-image-single {
+		margin-bottom: 5rem !important;
+	}
+	
+	#sticker {
+		display:none;
+	}
+	
+	.recipe-card {
+		min-height: 45vw;
+	}
+	
+	.recipe-card .grid-card .text {
+		background: #fafafa;
+	}	
+	.recipe-card .grid-card .text .read-more {
+		left: -100%;
+		display: none !important;
+	}
+	
+	.recipe-card .grid-card .contributor {
+		top: calc(100% - 40px);
+		left: calc(50% + 20px);
+		right: auto;
+		font-size: 16px;
+	}
+	
+	.recipe-cards .grid-card .meta {
+		display:none !important;
+	}
+	
+	.single .entry-header .entry-title, .single .entry-meta .meta-detail>div {
+		margin-top: 1em;
+	}
+	
+	.recipe-card .grid-card .grid-img img {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 50%;
+	}
+
+}
+.contributor {
+	background-color: #ffffffad !important;
+}
+
+/* ----------- Your input text boxes ------------ */
+input#field123115306.fsField.fsFormatText {
+  background: #f1f2f2 !important;
+}
+
+input#field123115308.fsField.fsFormatText {
+	background: #f1f2f2 !important;
+}
+
+input#field123115309.fsField.fsFormatText {
+	background: #f1f2f2 !important;
+}
+
+input#field123115311.fsField.fsFormatText {
+	background: #f1f2f2 !important;
+}
+
+textarea#field123115313.fsField {
+	background: #f1f2f2 !important;
+}
+
+input#field123115318.fsField.fsFormatEmail {
+	background: #f1f2f2 !important;
+}
+
+.gold-link {
+	color: #8f713e;
+}
+
+.anchortag::before {
+  content: '';
+  display: block;
+  height:      75px;
+  margin-top: -75px;
+  visibility: hidden;
+}
+.post-card .image-col a figure{background:#fff0;!important}		</style>
+			<!-- Google Analytics -->
+	<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-121227977-2', 'auto');ga('require', 'displayfeatures');ga('send', 'pageview');</script>
+	<!-- End Google Analytics -->
+
+	</head>
+
+<body class="home page-template-default page page-id-2 wp-custom-logo no-webp-support no-sidebar">
+	<noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P8SMZQ9" height="0" width="0" title="Google Tag Manager"></iframe></noscript>
+
+
+<nav id="section-brands">
+	<div class="brands-list-top-header d-flex">
+
+		<ul class="logos">
+			<li class="brands-list-top-header__item">
+				<a href="https://lovattsmagazines.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" class="brands-list-top-header__link" target="_blank" tabindex="-1">
+					<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/lovatts.svg" alt="Lovatts Media Logo" width="30"> 
+				</a>
+			</li>
+			<li class="brands-list-top-header__item">
+				<a href="https://mindfulpuzzles.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" class="brands-list-top-header__link"  target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'mindfulpuzzles.com.au');" tabindex="-1">
+					<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/mindful-puzzles.svg" alt="Mindful Puzzles Logo" width="60"> 
+				</a>
+			</li>
+			<li class="brands-list-top-header__item">
+				<a href="https://breathemagazine.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" class="brands-list-top-header__link logo" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'breathemagazine.com.au');" tabindex="-1">
+					<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/breathe.svg" alt="Breathe Logo" width="60"> 
+				</a>
+			</li>
+			<li class="brands-list-top-header__item">
+				<a href="https://teenbreathe.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" class="brands-list-top-header__link teen-breathe" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'teenbreathe.com.au');" tabindex="-1">
+					<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/teen-breathe.svg" alt="Teen Breathe Logo" width="80"> 
+				</a>
+			</li>
+			<li class="brands-list-top-header__item">
+				<a href="https://mindfulparenting.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" class="brands-list-top-header__link mindful-parenting" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'mindfulparenting.com.au');" tabindex="-1">
+					<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/mindful-parenting.svg" alt="Mindful Parenting Logo" width="50"> 
+				</a>
+			</li>
+			<li class="brands-list-top-header__item">
+				<a href="https://kitmagazine.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" class="brands-list-top-header__link kit" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'kitmagazine.com.au');" tabindex="-1">
+					<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/kit.svg" alt="KIT Logo" width="50"> 
+				</a>
+			</li>
+			<li class="brands-list-top-header__item">
+				<a href="https://nourishmagazine.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" class="brands-list-top-header__link logo" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'nourishmagazine.com.au');" tabindex="-1">
+					<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/nourish.svg" alt="Nourish Magazine Logo" width="70"> 
+				</a>
+			</li>
+			<li class="brands-list-top-header__item">
+				<a href="https://veganbeauty.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" class="brands-list-top-header__link logo" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'theguild.cc');" tabindex="-1">
+					<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/VeganBeauty_logo_thick_white.svg" alt="VeganBeauty Logo" width="80"> 
+				</a>
+			</li>
+			<li class="brands-list-top-header__item">
+				<a href="https://lovattspuzzles.com/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" class="brands-list-top-header__link logo lovpuz" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'lovattspuzzles.com');" tabindex="-1">
+					<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/lovatts-cp.svg" alt="Lovatts Crossword & Puzzles Logo" width="60"> 
+				</a>
+			</li>
+			<li class="brands-list-top-header__item">
+				<a href="https://naturalhealthmag.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" class="brands-list-top-header__link logo" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'naturalhealthmag.com.au');" tabindex="-1">
+					<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/natural-health.svg" alt="Natural Health Magazine Logo" width="60"> 
+				</a>
+			</li>
+			<li class="brands-list-top-header__item">
+				<a href="http://teenkit.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" class="brands-list-top-header__link logo" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'teenkit.com.au');" tabindex="-1">
+					<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/teen-kit.svg" alt="Natural Health Magazine Logo" width="70"> 
+				</a>
+			</li>
+		</ul>
+
+		<ul id="header-menu" class="links">
+			<li class="links-list__item dropdown">
+				<a href="javascript:void(0)" class="dropbtn nz">
+					<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/lovatts.svg" alt="Lovatts Media Logo" width="20"> Our Collective of Brands +</a>
+				<div class="dropdown-content">					
+					<a href="https://mindfulpuzzles.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'mindfulpuzzles.com.au');">Mindful Puzzles</a>
+					<a href="https://breathemagazine.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'breathemagazine.com.au');">Breathe</a>
+					<a href="https://teenbreathe.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'teenbreathe.com.au');">Teen Breathe</a>
+					<a href="https://mindfulparenting.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'mindfulparenting.com.au');">Mindful Parenting</a>
+					<a href="https://kitmagazine.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'kitmagazine.com.au');">KIT Magazine</a>
+					<a href="https://nourishmagazine.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'nourishmagazine.com.au');">Nourish</a>
+					<a href="https://veganbeauty.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'theguild.cc');">VeganBeauty</a>
+					<a href="https://lovattspuzzles.com/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'lovattspuzzles.com');">Lovatts Puzzles</a>
+					<a href="https://naturalhealthmag.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'naturalhealthmag.com.au');">Australian Natural Health</a>
+					<a href="https://http://teenkit.com.au/?utm_medium=top+brand+bar&utm_source=nourishmagazine.com.au" target="_blank" onclick="ga('send', 'event', 'top-brands-list-top-header', 'click', 'teenkit.com.au');">TeenKIT</a>
+				</div>
+			</li>
+		</ul>
+	</div>
+</nav><!--<div class="" style="background: url(https://nourishveganawards.com/wp-content/themes/nva2021/assets/img/hero_bg.jpg);background-position: 50% 37%;background-size: cover;">
+	<a target="_blank" href="https://nourishveganawards.com/?utm_medium=header+strip&utm_source=nourishmagazine.com.au&utm_campaign=NVA2022&utm_content=headerstrip+vote+now">
+		<div class="container" style="height:4rem">
+
+			<div class="row  " style="font-family: proxima-nova-condensed,Helvetica,Arial,sans-serif; text-transform: uppercase; font-size: 0.9rem; font-weight: 700; color:#fff; letter-spacing: 2.1px; height: 100%;">
+
+				<div class="col-xs-1">
+					<svg class="d-none d-sm-flex" style="position:absolute;width: 120px;transform: translate(-24px, -29px);" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="150px" y="150px" viewBox="0 0 1698 1714" style="enable-background:new 0 0 1698 1714;" xml:space="preserve">
+						<style type="text/css">
+							.sdg43{fill:#ffffff;}
+							@media (max-width:575px) {.center-mobile{margin: auto;text-align: center;} .center-mobile > span{margin:0!important}}
+						</style>
+					
+						<path class="sdg43" d="M1050.2,595.5c-0.4,0.3-14,4.2-32,36.4c-3.2,5.9-6.7,12.6-10.2,20.5c-1.3,3-2.7,5.9-4.1,8.6  c-19.1,36.1-46.2,46.4-67.4,46.3v354H918l-302.1-374c-15-24.2-62.7-32.7-62.7-32.7v-12h154.5l1.8,3L915,905.6V703.1  c0-0.3,0-0.5,0.1-0.8c1-12.8,8.7-32.4,24.4-49.7c10.5-11.8,24.6-22.5,42.8-29.3c-22.2,5.6-40,16.3-52.7,29.3  c-8.3,8.4-14.3,17.6-18.1,27c-2.2,5.6-3.6,11.3-4,16.8c-4.8-6.1-7.5-14-8.4-17.8c-0.9-4.1-1.3-8-1.4-11.8c-0.1-5,0.4-9.7,1.4-14.2  c6.4-27.6,32.8-46.2,51.9-53.3c8.3-3.1,16.7-5.1,25.1-6.4c8.7-1.5,17.3-2,25.2-2.1C1028.6,590.2,1049.7,595.6,1050.2,595.5z"/>
+						<path class="sdg43" d="M620.3,1002c0,35.9-67.1,47.9-67.1,47.9v12h155.7v-12c0,0-67.1-12-67.1-47.9V757.3l-21.6-26.6V1002z"/>
+						<rect x="964" y="886.7" class="sdg43" width="154" height="21.2"/>
+						<path class="sdg43" d="M1234.6,1050.8l-0.7,11.2h-150.5v-11.9c0,0,31.5-4.3,41.5-13.7c8-7.4,14.8-15.8,16.4-28.3  c1.3-10.4-6.8-27.5-8.8-33.1l-117.6-286.9c1.4-2.7,2.8-5.6,4.1-8.6c3.5-7.9,6.9-14.6,10.2-20.5l137.6,336.5  c5.6,13.6,14.5,26.3,27.6,36.7C1207.5,1042.5,1218.6,1046,1234.6,1050.8z"/>
+					</svg>
+				</div>
+
+				<div class="col d-flex align-items-center" style="justify-content:flex-end">
+
+					<style>
+						.btn-ghost:hover {
+							color: #003623;
+							border: 2px solid #dfb2b8;
+							background: #dfb2b8;
+							padding: 0.5rem 0.9rem 0.3rem;
+						}
+					</style>
+
+					<div class="d-none d-xl-inline-block" style="color: #fff;">
+						<span style="color: #ffffff;">2022 NOURISH VEGAN AWARDS • WINNERS REVEALED • </span><a href="/NVA2022"><span style="color: #e4bbc1;">VIEW NOW</span></a>
+					</div>
+						
+					<div class="d-xl-none center-mobile" style="color: #fff;">
+						<span style="color: #ffffff;">2022 NOURISH VEGAN AWARDS  • WINNERS REVEALED • </span><span style="color: #e4bbc1;"><a href="/NVA2022">VIEW NOW</span></a>
+					</div>
+					
+				</div>
+				
+			</div>
+		</div>
+	</a> 
+</div>
+
+ -->
+
+<div id="page" class="site">
+
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header">
+
+		<div class="container top-banner">
+			<div class="row align-items-center">
+				<div class="col-sm-4 offset-sm-4 site-branding text-center">
+					<a href="https://nourishmagazine.com.au/" class="custom-logo-link" rel="home" aria-current="page"><img width="1" height="1" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/Nourish_2020_ntag.svg" class="custom-logo" alt="Nourish plant-based living" decoding="async" /></a>				</div>
+				<div class="col-sm-4 header-subscribe">
+
+					<div class="subscribe-text">
+						<p><em>Nourish</em> magazine issue 76</p>
+						<a target="_blank" href="https://lovattsmagazines.com.au/collections/nourish-magazine-subscription" class="btn btn-primary subscribe_url">
+							Buy Now						</a>
+					</div>
+
+					<div class="subscribe-pic">
+													<a target="_blank" href="https://lovattsmagazines.com.au/collections/nourish-magazine-subscription" class="subscribe_url">
+								<img src="https://cdn.shopify.com/s/files/1/0049/8594/6225/files/NVFL076_OFC_w1000_ded82c27-24cc-466e-a750-fed10b3f1627.jpg?v=1691972733" class="img-fluid mag-img" alt="Subscribe to Nourish plant-based living">
+							</a>
+											</div>
+					
+				</div>
+			</div>
+			
+		</div>
+		<div class="primary-nav-wrapper sticky-nav" id="sticky-nav">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<nav class="navbar navbar-expand-xl navbar-light" id="primary-navbar">
+							<button class="navbar-toggler mobile-nav-toggle" type="button" aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+
+							<div class="collapse navbar-collapse"><ul id="primary-menu" class="navbar-nav mr-auto"><li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14 nav-item"><a href="https://nourishmagazine.com.au/culture/" class="nav-link">Culture</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15 nav-item"><a href="https://nourishmagazine.com.au/earth/" class="nav-link">Earth</a></li>
+<li id="menu-item-352" class="menu-item menu-item-type-post_type_archive menu-item-object-recipe menu-item-has-children menu-item-352 nav-item dropdown"><a href="https://nourishmagazine.com.au/recipes/" class="nav-link dropdown-toggle" data-toggle="dropdown">Food</a>
+<div class="dropdown-menu">
+<a href="https://nourishmagazine.com.au/food-stories/" class="dropdown-item">Food stories</a><a href="https://nourishmagazine.com.au/recipes/" class="dropdown-item">Recipes</a></div>
+</li>
+<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17 nav-item"><a href="https://nourishmagazine.com.au/health/" class="nav-link">Health</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-144 nav-item"><a href="https://nourishmagazine.com.au/mind/" class="nav-link">Mind</a></li>
+<li id="menu-item-1272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1272 nav-item"><a href="https://nourishmagazine.com.au/style/" class="nav-link">Style</a></li>
+<li id="menu-item-2047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2047 nav-item"><a href="https://nourishmagazine.com.au/latest-issue/" class="nav-link">Latest Issue</a></li>
+<li id="menu-item-1508" class="subscribe menu-item menu-item-type-custom menu-item-object-custom menu-item-1508 nav-item"><a target="_blank" href="https://lovattsmagazines.com.au/collections/nourish-magazine-subscription" class="nav-link">Subscribe</a></li>
+</ul></div>							
+							<div class="mobile-logo">
+								<a href="https://nourishmagazine.com.au/" class="custom-logo-link" rel="home" aria-current="page"><img width="1" height="1" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/Nourish_2020_ntag.svg" class="custom-logo" alt="Nourish plant-based living" decoding="async" /></a>							</div>
+							<ul class="nav right">
+
+																	<li class="nav-item social">
+										<a target="_blank" href="https://facebook.com/nourishmagau/" class="nav-link">
+											<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/fb.svg" width="20" height="20" alt="Facebook Icon">
+										</a>
+									</li>
+								
+																	<li class="nav-item social">
+										<a target="_blank" href="https://instagram.com/nourish_au/" class="nav-link">
+											<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/insta.svg" width="20" height="20" alt="Instagram Icon">
+										</a>
+									</li>
+								
+								
+								<li class="nav-item sub">
+
+									<!-- <a target="_blank" href="" class="nav-link btn btn-link subscribe_url">
+										Subscribe
+									</a> -->
+
+									<a href="#" class="nav-link btn btn-link" data-toggle="modal" data-target="#subscribePopUp">
+										Subscribe
+									</a>
+									
+								</li>
+								<li class="nav-item">
+									<button type="submit" class="btn btn-search">
+										<svg version="1.1" width="20" id="search-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 56.966 56.966;" xml:space="preserve">
+											<path fill="#555555" d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23											s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92											c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17											s-17-7.626-17-17S14.61,6,23.984,6z"/>
+										</svg>
+									</button>
+								</li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+			
+				<div class="row relative">
+					<div class="search-bar">
+						<div class="col-12">
+							
+<form action="https://nourishmagazine.com.au" method="get" class="search-form">
+  <div class="input-group">
+    <input type="text" name="s" id="search" class="form-control" value="" placeholder="Search our mindful collective" />
+    <div class="input-group-append">
+      <button class="btn btn-white d-flex search" type="submit">
+        <svg version="1.1" width="20" id="search-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 56.966 56.966;" xml:space="preserve">
+          <path fill="#555555" d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23          s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92          c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17          s-17-7.626-17-17S14.61,6,23.984,6z"></path>
+        </svg>
+      </button>
+
+      <button class="close d-flex exit" type="button">
+        <span aria-hidden="true">×</span>
+      </button>
+    </div>
+  </div>
+</form>						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+		<!-- Mobile menu -->
+
+<nav id="ml-menu" class="mobile-menu">
+	<button type="button" class="close close-nav-toggle" aria-label="Close Menu">
+		<span aria-hidden="true">&times;</span>
+	</button>
+	<div class="menu__wrap">
+			<a href="https://nourishmagazine.com.au/" class="custom-logo-link" rel="home" aria-current="page"><img width="1" height="1" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/Nourish_2020_ntag.svg" class="custom-logo" alt="Nourish plant-based living" decoding="async" /></a><ul data-menu="main" class="menu__level"><li class="menu__item title-culture"><a class="menu__link" href="https://nourishmagazine.com.au/culture/">Culture</a></li><li class="menu__item title-earth"><a class="menu__link" href="https://nourishmagazine.com.au/earth/">Earth</a></li><li class="menu__item title-food"><a class="menu__link" href="https://nourishmagazine.com.au/food-stories/">Food</a></li><li class="menu__item title-recipes"><a class="menu__link" href="https://nourishmagazine.com.au/recipes/">Recipes</a></li><li class="menu__item title-health"><a class="menu__link" href="https://nourishmagazine.com.au/health/">Health</a></li><li class="menu__item title-mind"><a class="menu__link" href="https://nourishmagazine.com.au/mind/">Mind</a></li><li class="menu__item title-style"><a class="menu__link" href="https://nourishmagazine.com.au/style/">Style</a></li><li class="menu__item title-magazine"><a class="menu__link" href="https://nourishmagazine.com.au/latest-issue/">Magazine</a></li><li class="menu__item title-join-e-newsletter"><a class="menu__link" href="#" data-toggle="modal" data-target="#enewsletterPopUp">Join e-newsletter</a></li><li class="spacer"><h6 class="menu__link sub-title">Our mindful collective</h6></li><li class="brands-mobile-menu">
+					<a href="https://mindfulpuzzles.com.au/?utm_medium=mobile+brand+menu&utm_source=https://nourishmagazine.com.au" class="menu__link"  target="_blank" onclick="ga('send', 'event', 'mobile-menu-brands', 'click', 'mindfulpuzzles.com.au');" tabindex="-1">
+						<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/mindful-puzzles.svg" alt="Mindful Puzzles Logo" width="60"> 
+					</a>
+				</li>
+				<li class="brands-mobile-menu">
+					<a href="https://breathemagazine.com.au/?utm_medium=mobile+brand+menu&utm_source=https://nourishmagazine.com.au" class="menu__link logo" target="_blank" onclick="ga('send', 'event', 'mobile-menu-brands', 'click', 'breathemagazine.com.au');" tabindex="-1">
+						<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/breathe.svg" alt="Breathe Logo" width="60"> 
+					</a>
+				</li>
+				<li class="brands-mobile-menu">
+					<a href="https://www.teenbreathe.com.au/?utm_medium=mobile+brand+menu&utm_source=https://nourishmagazine.com.au" class="menu__link teen-breathe" target="_blank" onclick="ga('send', 'event', 'mobile-menu-brands', 'click', 'teenbreathe.com.au');" tabindex="-1">
+						<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/teen-breathe.svg" alt="Teen Breathe Logo" width="80"> 
+					</a>
+				</li>             
+				<li class="brands-mobile-menu">
+					<a href="https://www.kitmagazine.com.au/?utm_medium=top+brand+bar&amp;utm_source=https://nourishmagazine.com.au" class="menu__link kit" target="_blank" onclick="ga('send', 'event', 'mobile-menu-brands', 'click', 'kitmagazine.com.au');" tabindex="-1">
+						<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/kit.svg" alt="Kit Logo" width="50"> 
+					</a>
+				</li>
+				<li class="brands-mobile-menu">
+					<a href="https://nourishmagazine.com.au/?utm_medium=mobile+brand+menu&utm_source=https://nourishmagazine.com.au" class="menu__link logo" target="_blank" onclick="ga('send', 'event', 'mobile-menu-brands', 'click', 'nourishmagazine.com.au');" tabindex="-1">
+						<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/nourish.svg" alt="Nourish Magazine Logo" width="70"> 
+					</a>
+				</li>
+				<li class="brands-mobile-menu">
+					<a href="https://mindfulparenting.com.au/?utm_medium=mobile+brand+menu&utm_source=https://nourishmagazine.com.au" class="menu__link mindful-parenting" target="_blank" onclick="ga('send', 'event', 'mobile-menu-brands', 'click', 'mindfulparenting.com.au');" tabindex="-1">
+						<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/logos/mindful-parenting.svg" alt="Mindful Parenting Logo" width="50"> 
+					</a>
+				</li></ul>	</div>
+</nav>
+
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+            <div class="container hero">	
+
+                <style>
+                    .jumbotron {
+                        background-image: url(https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/10/MZ034_Web-Article-Images_Taking-Care-Of-You_p8-10-1-690x460.jpg);
+                    }
+                    @media (min-width: 690px) {
+                        .jumbotron {
+                            background-image: url(https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/10/MZ034_Web-Article-Images_Taking-Care-Of-You_p8-10-1.jpg);
+                        }
+                    }
+                </style>
+
+                <a href="https://nourishmagazine.com.au/mind/taking-care-of-you/">
+                    <div class="jumbotron"></div>
+                </a>
+
+                <style>
+                    .hero .text {overflow: hidden!important}                    
+                </style>
+            
+                <div class="text">
+
+                    <a href="https://nourishmagazine.com.au/mind/taking-care-of-you/">
+                        <h1 class="highlighted">Mindful escapes with Billabong Retreat</h1>
+                    </a>
+
+                    <div class="sub-text">
+                        <p class="highlighted">In the fast-paced and demanding world we live in, finding moments of stillness and calm can be challenging. In an...</p>
+       
+                        <a 
+                            class="btn btn-link read-more"
+                            href="https://nourishmagazine.com.au/mind/taking-care-of-you/"
+                        >
+                            view post 
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                (function($) {
+                    var heroImg = new Image();
+                    heroImg.src = 'https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/10/MZ034_Web-Article-Images_Taking-Care-Of-You_p8-10-1-690x460.jpg';
+                    heroImg.onload = function() {
+                        $('.hero .jumbotron').addClass('loaded');
+                    }
+                })(jQuery);
+            </script>
+
+    
+<div class="container fp-first-posts"> 
+
+  <h2 class="text-center w-underline"><a href='/recipes/'>Our latest plant-based recipes</a></h2>
+
+  <div class="row">    
+    
+<div class="col-lg-3 col-sm-6 front-grid text-center post-id-10986">
+
+  <div class="grid-card">
+          <a href="https://nourishmagazine.com.au/contributors/rebecca-stonor/">
+        <span class="contributor">Rebecca Stonor</span>
+      </a>      
+    
+    <figure class="grid-img">
+              <img title="Lemon cheesecake" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/06/NVFL075_Web-Article-Image_lemon-cheesecake-504x504.jpg">          </figure>
+
+    <div class="text">
+
+      <h3 class="h6 post-title">          
+        <a 
+          class="link-btn"
+          href="https://nourishmagazine.com.au/recipes/lemon-cheesecake/"
+            
+        >    
+          Lemon cheesecake        </a>
+      </h3>
+
+      <a 
+        href="https://nourishmagazine.com.au/recipes/lemon-cheesecake/"
+          
+        class="btn btn-white  read-more"
+      >
+        View recipe      </a>
+
+    </div>
+  </div>
+
+</div>
+
+
+<div class="col-lg-3 col-sm-6 front-grid text-center post-id-10987">
+
+  <div class="grid-card">
+          <a href="https://nourishmagazine.com.au/contributors/clare-scrine/">
+        <span class="contributor">Clare Scrine</span>
+      </a>      
+    
+    <figure class="grid-img">
+              <img title="Roasted broccoli green curry with coconut rice" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/06/NVFL075_Web-Article-Image_roasted-broccoli-curry-504x504.jpg">          </figure>
+
+    <div class="text">
+
+      <h3 class="h6 post-title">          
+        <a 
+          class="link-btn"
+          href="https://nourishmagazine.com.au/recipes/roasted-broccoli-green-curry-with-coconut-rice/"
+            
+        >    
+          Roasted broccoli green curry with coconut rice        </a>
+      </h3>
+
+      <a 
+        href="https://nourishmagazine.com.au/recipes/roasted-broccoli-green-curry-with-coconut-rice/"
+          
+        class="btn btn-white  read-more"
+      >
+        View recipe      </a>
+
+    </div>
+  </div>
+
+</div>
+
+
+<div class="col-lg-3 col-sm-6 front-grid text-center post-id-10985">
+
+  <div class="grid-card">
+          <a href="https://nourishmagazine.com.au/contributors/raya-higgs/">
+        <span class="contributor">Raya Higgs</span>
+      </a>      
+    
+    <figure class="grid-img">
+              <img title="Mie goreng" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/06/NVFL075_Web-Article-Image_mei-goreng-504x504.jpg">          </figure>
+
+    <div class="text">
+
+      <h3 class="h6 post-title">          
+        <a 
+          class="link-btn"
+          href="https://nourishmagazine.com.au/recipes/mie-goreng/"
+            
+        >    
+          Mie goreng        </a>
+      </h3>
+
+      <a 
+        href="https://nourishmagazine.com.au/recipes/mie-goreng/"
+          
+        class="btn btn-white  read-more"
+      >
+        View recipe      </a>
+
+    </div>
+  </div>
+
+</div>
+
+
+<div class="col-lg-3 col-sm-6 front-grid text-center post-id-10300">
+
+  <div class="grid-card">
+          <a href="https://nourishmagazine.com.au/contributors/rebecca-stonor/">
+        <span class="contributor">Rebecca Stonor</span>
+      </a>      
+    
+    <figure class="grid-img">
+              <img title="Indonesian salad with spiced tempeh topping" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2022/12/Tempeh-salad-side-2-scaled-e1671943986124-504x504.jpg">          </figure>
+
+    <div class="text">
+
+      <h3 class="h6 post-title">          
+        <a 
+          class="link-btn"
+          href="https://nourishmagazine.com.au/recipes/indonesian-salad-with-spiced-tempeh-topping/"
+            
+        >    
+          Indonesian salad with spiced tempeh topping        </a>
+      </h3>
+
+      <a 
+        href="https://nourishmagazine.com.au/recipes/indonesian-salad-with-spiced-tempeh-topping/"
+          
+        class="btn btn-white  read-more"
+      >
+        View recipe      </a>
+
+    </div>
+  </div>
+
+</div>
+
+  </div>
+  
+  <div class="home-mobile-ad" id="fp-first-sidebar">
+    <section id="ad_widget-77" class="widget widget class-ad_widget">
+			<!-- /5283661/nourish/home-mobile-1 -->
+			<div id='home-mobile-1'>
+				<script>
+					googletag.cmd.push(function() { googletag.display('home-mobile-1'); });
+				</script>
+			</div>
+
+			
+		</section>  </div>
+
+  <div class="row">    
+        
+    <div class="col right-pad">
+
+      <h2 id="our-latest-inspiration" class="text-center w-underline left">Our latest inspiration</h2>
+
+      
+<div class="post-card row no-gutters ext-post-id-10969">
+	<div class="col-sm image-col">
+		<a 
+			href="https://nourishmagazine.com.au/health/mythbusting-gut-health/"
+			  
+		>
+			<figure>
+        					<img title="Mythbusting: Gut health" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/06/NVFL074_Web-Article-Image_Gut-Health-504x504.jpg">							</figure>
+				
+			<div 
+				class="btn btn-link read-more"
+			>
+				View <span class="lead">&rsaquo;</span>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-sm text-col">
+
+				
+
+			<a 
+				href="https://nourishmagazine.com.au/health/" 
+				class="category color-health"
+			>
+				Health			</a>
+
+		
+		<h2 class="h3 post-title">
+			<a 
+				href="https://nourishmagazine.com.au/health/mythbusting-gut-health/"
+				  
+			>
+				Mythbusting: Gut health			</a>
+		</h2>
+		
+		<p class="post-excerpt">
+			If you want to get your gut in order, Dr Will Bulsiewicz is the expert to help you sort out fact from fiction. This is the gut-health cheat sheet...		</p>
+		
+		<div class="last-row">
+
+			
+				<span class="post-contributor">
+					<a href="https://nourishmagazine.com.au/contributors/rachael-morris/">
+						- Rachael Morris					</a>	
+				</span>
+
+			
+		</div>
+
+	</div>
+
+
+</div>
+
+
+<div class="post-card row no-gutters ext-post-id-10988">
+	<div class="col-sm image-col">
+		<a 
+			href="https://nourishmagazine.com.au/earth/elevate-your-eco-cred/"
+			  
+		>
+			<figure>
+        					<img title="Elevate your eco cred" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/06/NVFL066_Web-Article-Image_elevate-your-eco-cred-504x504.jpg">							</figure>
+				
+			<div 
+				class="btn btn-link read-more"
+			>
+				View <span class="lead">&rsaquo;</span>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-sm text-col">
+
+				
+
+			<a 
+				href="https://nourishmagazine.com.au/earth/" 
+				class="category color-earth"
+			>
+				Earth			</a>
+
+		
+		<h2 class="h3 post-title">
+			<a 
+				href="https://nourishmagazine.com.au/earth/elevate-your-eco-cred/"
+				  
+			>
+				Elevate your eco cred			</a>
+		</h2>
+		
+		<p class="post-excerpt">
+			Time for an eco spring clean? Here are seven simple swaps for the conscious consumer		</p>
+		
+		<div class="last-row">
+
+			
+				<span class="post-contributor">
+					<a href="https://nourishmagazine.com.au/contributors/samantha-van-egmond/">
+						- Samantha van Egmond					</a>	
+				</span>
+
+			
+		</div>
+
+	</div>
+
+
+</div>
+
+
+<div class="post-card row no-gutters ext-post-id-10954">
+	<div class="col-sm image-col">
+		<a 
+			href="https://nourishmagazine.com.au/health/the-cycle-of-hormones/"
+			  
+		>
+			<figure>
+        					<img title="The cycle of hormones" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/05/NVFL075_Web-Article-Image_cycle-of-hormones-504x504.jpg">							</figure>
+				
+			<div 
+				class="btn btn-link read-more"
+			>
+				View <span class="lead">&rsaquo;</span>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-sm text-col">
+
+				
+
+			<a 
+				href="https://nourishmagazine.com.au/health/" 
+				class="category color-health"
+			>
+				Health			</a>
+
+		
+		<h2 class="h3 post-title">
+			<a 
+				href="https://nourishmagazine.com.au/health/the-cycle-of-hormones/"
+				  
+			>
+				The cycle of hormones			</a>
+		</h2>
+		
+		<p class="post-excerpt">
+			If you haven’t quite got your cycle phases figured out, you’re not alone. But it’s time to tune in to your body’s rhythms - so that you...		</p>
+		
+		<div class="last-row">
+
+			
+				<span class="post-contributor">
+					<a href="https://nourishmagazine.com.au/contributors/rohini-bajekal/">
+						- Rohini Bajekal					</a>	
+				</span>
+
+			
+		</div>
+
+	</div>
+
+
+</div>
+
+
+<div class="post-card row no-gutters ext-post-id-10958">
+	<div class="col-sm image-col">
+		<a 
+			href="https://nourishmagazine.com.au/earth/sustainable-and-eco-friendly-period-products/"
+			  
+		>
+			<figure>
+        					<img title="Sustainable and eco-friendly period products" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/05/NVFL075_Web-Article-Image_sustainability-period-504x504.jpg">							</figure>
+				
+			<div 
+				class="btn btn-link read-more"
+			>
+				View <span class="lead">&rsaquo;</span>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-sm text-col">
+
+				
+
+			<a 
+				href="https://nourishmagazine.com.au/earth/" 
+				class="category color-earth"
+			>
+				Earth			</a>
+
+		
+		<h2 class="h3 post-title">
+			<a 
+				href="https://nourishmagazine.com.au/earth/sustainable-and-eco-friendly-period-products/"
+				  
+			>
+				Sustainable and eco-friendly period products			</a>
+		</h2>
+		
+		<p class="post-excerpt">
+			Eco period products have risen in popularity – they’re sustainable, affordable, healthy, and convenient. Here’s what you need to know so...		</p>
+		
+		<div class="last-row">
+
+			
+				<span class="post-contributor">
+					<a href="https://nourishmagazine.com.au/contributors/kate-hall/">
+						- Kate Hall					</a>	
+				</span>
+
+			
+		</div>
+
+	</div>
+
+
+</div>
+
+
+<div class="post-card row no-gutters ext-post-id-10932">
+	<div class="col-sm image-col">
+		<a 
+			href="https://nourishmagazine.com.au/mind/seven-stages-of-going-vegan/"
+			  
+		>
+			<figure>
+        					<img title="Seven stages of going vegan" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/05/NVFL074_Web-Article-Image_Seven-Stages-504x504.jpg">							</figure>
+				
+			<div 
+				class="btn btn-link read-more"
+			>
+				View <span class="lead">&rsaquo;</span>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-sm text-col">
+
+				
+
+			<a 
+				href="https://nourishmagazine.com.au/mind/" 
+				class="category color-mind"
+			>
+				Mind			</a>
+
+		
+		<h2 class="h3 post-title">
+			<a 
+				href="https://nourishmagazine.com.au/mind/seven-stages-of-going-vegan/"
+				  
+			>
+				Seven stages of going vegan			</a>
+		</h2>
+		
+		<p class="post-excerpt">
+			Going vegan can be a life-changing experience, and it’s not without its challenges. The good news is you’re not alone. There are identifiable...		</p>
+		
+		<div class="last-row">
+
+			
+				<span class="post-contributor">
+					<a href="https://nourishmagazine.com.au/contributors/elizabeth-douglas/">
+						- Elizabeth Douglas					</a>	
+				</span>
+
+			
+		</div>
+
+	</div>
+
+
+</div>
+
+
+            
+      <div class="home-mobile-ad">
+              </div>
+    
+      
+    </div>
+
+    <div class="col sidebar sidebar-right" id="fp-first-sidebar">
+      
+<div class="home-sidebar-1">
+  <section id="subscribe_widget-3" class="widget widget subscribe_widget">
+<div class="current-issue text-center">
+
+      
+    <h4 class="script-heading">
+      Current issue    </h4>
+
+  
+        
+              <figure>
+          <a href="https://nourishmagazine.com.au/issues/issue-76-power-to-you/">
+            <img width="783" height="1024" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/08/NVFL076_OFC_w1000-783x1024.jpg" class="img-fluid wp-post-image" alt="" decoding="async" srcset="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/08/NVFL076_OFC_w1000-783x1024.jpg 783w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/08/NVFL076_OFC_w1000-229x300.jpg 229w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/08/NVFL076_OFC_w1000-768x1005.jpg 768w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/08/NVFL076_OFC_w1000-385x504.jpg 385w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/08/NVFL076_OFC_w1000.jpg 1000w" sizes="(max-width: 783px) 100vw, 783px" />          </a>
+        </figure>
+      
+      <div class="subscribe-btns mb-3">
+
+        <a href="https://lovattsmagazines.com.au/collections/nourish-magazine-subscription" 
+          target="_blank" 
+          class="btn btn-primary subscribe_url"
+        >
+          Subscribe
+        </a>
+
+        <a href="https://nourishmagazine.com.au/issues/issue-76-power-to-you/" class="btn btn-link">
+          View Issue
+        </a>
+
+      </div>
+
+    
+  <em class="secondary-font">or find your nearest retailer with our <a 
+      href="https://lovattsmagazines.com.au/pages/store-finder#nourish" 
+      class="storefinder_url"
+      target="_blank"
+    ><strong>store finder</strong></a>
+  </em>
+
+</div>
+
+</section><section id="ad_widget-50" class="widget widget class-ad_widget">
+			<!-- /5283661/nourish/home-sidebar -->
+			<div id='home-sidebar'>
+				<script>
+					googletag.cmd.push(function() { googletag.display('home-sidebar'); });
+				</script>
+			</div>
+
+			
+		</section><section id="ad_widget-2" class="widget widget class-ad_widget sticky">
+			<!-- /5283661/nourish/home-sidebar-2 -->
+			<div id='home-sidebar-2'>
+				<script>
+					googletag.cmd.push(function() { googletag.display('home-sidebar-2'); });
+				</script>
+			</div>
+
+			
+		</section></div>    </div>
+
+  </div>
+</div>
+
+
+<div class="home-mobile-ad" id="fp-first-sidebar">
+  <section id="ad_widget-78" class="widget widget class-ad_widget">
+			<!-- /5283661/nourish/home-mobile-2 -->
+			<div id='home-mobile-2'>
+				<script>
+					googletag.cmd.push(function() { googletag.display('home-mobile-2'); });
+				</script>
+			</div>
+
+			
+		</section></div>
+
+
+
+<div class="container fp-quote">
+  <div class="row">
+    <div class="col-lg-4">
+            <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/cow.jpg" alt="" srcset="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/cow-300x126.jpg 300w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/cow-768x323.jpg 768w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/cow-690x290.jpg 690w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/cow.jpg 800w" class="img-fluid">
+    </div>
+    <div class="col-md">
+      <blockquote>
+        <p>Earth was created for <br class="d-none d-xl-block d-lg-block"> all of us, not some of us.</p>
+        <cite>Anthony Douglas Williams</cite>
+      </blockquote>
+    </div>
+  </div>
+</div>
+
+<div class="container mb-5 fp-second-posts">
+  
+  <div class="row">
+    <div class="col right-pad" >
+
+      
+<div class="post-card row no-gutters ext-post-id-11042">
+	<div class="col-sm image-col">
+		<a 
+			href="https://nourishmagazine.com.au/culture/a-haven-on-earth/"
+			  
+		>
+			<figure>
+        					<img title="A haven on Earth" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/07/Shoalhaven-03-690x460.jpg">							</figure>
+				
+			<div 
+				class="btn btn-link read-more"
+			>
+				View <span class="lead">&rsaquo;</span>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-sm text-col">
+
+				
+
+			<a 
+				href="https://nourishmagazine.com.au/culture/" 
+				class="category color-culture"
+			>
+				Culture			</a>
+
+		
+		<h2 class="h3 post-title">
+			<a 
+				href="https://nourishmagazine.com.au/culture/a-haven-on-earth/"
+				  
+			>
+				A haven on Earth			</a>
+		</h2>
+		
+		<p class="post-excerpt">
+			Mountains stretch down to coastal plains, which hug the curves of over 100 pristine beaches, all gazing out towards the stunning waters of the...		</p>
+		
+		<div class="last-row">
+
+			
+		</div>
+
+	</div>
+
+
+</div>
+
+
+<div class="post-card row no-gutters ext-post-id-10962">
+	<div class="col-sm image-col">
+		<a 
+			href="https://nourishmagazine.com.au/style/serum-survival-guide/"
+			  
+		>
+			<figure>
+        					<img title="Serum survival guide" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/06/NVFL074_Web-Article-Image_Serums-504x504.jpg">							</figure>
+				
+			<div 
+				class="btn btn-link read-more"
+			>
+				View <span class="lead">&rsaquo;</span>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-sm text-col">
+
+				
+
+			<a 
+				href="https://nourishmagazine.com.au/style/" 
+				class="category color-style"
+			>
+				Style			</a>
+
+		
+		<h2 class="h3 post-title">
+			<a 
+				href="https://nourishmagazine.com.au/style/serum-survival-guide/"
+				  
+			>
+				Serum survival guide			</a>
+		</h2>
+		
+		<p class="post-excerpt">
+			There’s a serum for every skin condition, but which active ingredients do what? This is the guide to vegan and sustainably sourced serums...		</p>
+		
+		<div class="last-row">
+
+			
+				<span class="post-contributor">
+					<a href="https://nourishmagazine.com.au/contributors/jess-arnaudin/">
+						- Jess Arnaudin					</a>	
+				</span>
+
+			
+		</div>
+
+	</div>
+
+
+</div>
+
+
+<div class="post-card row no-gutters ext-post-id-10926">
+	<div class="col-sm image-col">
+		<a 
+			href="https://nourishmagazine.com.au/health/getting-started-with-a-wholefoods-approach/"
+			  
+		>
+			<figure>
+        					<img title="Getting started with a wholefoods approach" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/07/NVFL074_Web-Article-Image_Food-With-Benefits-504x504.jpg">							</figure>
+				
+			<div 
+				class="btn btn-link read-more"
+			>
+				View <span class="lead">&rsaquo;</span>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-sm text-col">
+
+				
+
+			<a 
+				href="https://nourishmagazine.com.au/health/" 
+				class="category color-health"
+			>
+				Health			</a>
+
+		
+		<h2 class="h3 post-title">
+			<a 
+				href="https://nourishmagazine.com.au/health/getting-started-with-a-wholefoods-approach/"
+				  
+			>
+				Getting started with a wholefoods approach			</a>
+		</h2>
+		
+		<p class="post-excerpt">
+			Wholefoods may just save your life, and at the very least, they will deliver a host of health benefits. Here’s what you need to know to get...		</p>
+		
+		<div class="last-row">
+
+			
+				<span class="post-contributor">
+					<a href="https://nourishmagazine.com.au/contributors/dr-renae-thomas/">
+						- Dr Renae Thomas					</a>	
+				</span>
+
+			
+		</div>
+
+	</div>
+
+
+</div>
+
+
+<div class="post-card row no-gutters ext-post-id-10836">
+	<div class="col-sm image-col">
+		<a 
+			href="https://nourishmagazine.com.au/earth/eating-up-the-world/"
+			  
+		>
+			<figure>
+        					<img title="Eating up the world" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/04/NVFL074_Web-Article-Image_Eating-Up-World-504x504.jpg">							</figure>
+				
+			<div 
+				class="btn btn-link read-more"
+			>
+				View <span class="lead">&rsaquo;</span>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-sm text-col">
+
+				
+
+			<a 
+				href="https://nourishmagazine.com.au/earth/" 
+				class="category color-earth"
+			>
+				Earth			</a>
+
+		
+		<h2 class="h3 post-title">
+			<a 
+				href="https://nourishmagazine.com.au/earth/eating-up-the-world/"
+				  
+			>
+				Eating up the world			</a>
+		</h2>
+		
+		<p class="post-excerpt">
+			There is a link between the climate crisis and what’s on our plates. The hard facts are astounding, as is the difference a plant-based change...		</p>
+		
+		<div class="last-row">
+
+			
+				<span class="post-contributor">
+					<a href="https://nourishmagazine.com.au/contributors/dr-shireen-kassam-and-dr-zahra-kassam/">
+						- Dr Shireen Kassam and Dr Zahra Kassam					</a>	
+				</span>
+
+			
+		</div>
+
+	</div>
+
+
+</div>
+
+
+<div class="post-card row no-gutters ext-post-id-10943">
+	<div class="col-sm image-col">
+		<a 
+			href="https://nourishmagazine.com.au/health/a-vegans-guide-for-going-gluten-free/"
+			  
+		>
+			<figure>
+        					<img title="A vegan's guide for going gluten-free" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2023/06/NVFL073_Web-Article-Image_guide-to-going-gluten-free-504x504.jpg">							</figure>
+				
+			<div 
+				class="btn btn-link read-more"
+			>
+				View <span class="lead">&rsaquo;</span>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-sm text-col">
+
+				
+
+			<a 
+				href="https://nourishmagazine.com.au/health/" 
+				class="category color-health"
+			>
+				Health			</a>
+
+		
+		<h2 class="h3 post-title">
+			<a 
+				href="https://nourishmagazine.com.au/health/a-vegans-guide-for-going-gluten-free/"
+				  
+			>
+				A vegan's guide for going gluten-free			</a>
+		</h2>
+		
+		<p class="post-excerpt">
+			Learn when to consider a vegan and gluten-free diet (and when you probably shouldn’t). Plus, discover four popular plant-based meals and how...		</p>
+		
+		<div class="last-row">
+
+			
+				<span class="post-contributor">
+					<a href="https://nourishmagazine.com.au/contributors/emma-strutt/">
+						- Emma Strutt					</a>	
+				</span>
+
+			
+		</div>
+
+	</div>
+
+
+</div>
+
+      
+    </div>
+
+    <div class="col sidebar sidebar-right" id="fp-second-sidebar">
+      
+<div class="home-sidebar-2">
+  		
+			<div class="newsletter-signup-widget text-center  widget">
+				<h5 class="w-underline title">Join our newsletter</h5>
+				<p style="color:#fff"><em>Enjoy regular Nourish updates and offers directly in your inbox</em></p>
+				<form 
+					id="newsletter_widget-2-form" 
+					class="klaviyo_gdpr_embed_Me2M9X" 
+					action="/index.php" 
+					method="POST" 
+					novalidate="novalidate"
+				>
+
+					<input type="hidden" name="g" value="Me2M9X">
+					<input type="hidden" name="$fields" value="$consent">
+					<input type="hidden" name="$list_fields" value="$consent">
+					<input type="hidden" name="$consent" value="Email">
+					<div class="container-fluid">
+						<div class="row mb-2">
+							
+								
+									<div class="col-sm-12">
+										<label for="first_name" class="sr-only">First Name</label>
+										<input type="text" class="form-control" name="first_name" placeholder="first name">
+									</div>
+									<div class="col-sm-12">
+										<label for="email" class="sr-only">Email</label>
+										<input type="email" class="form-control" id="k__email" name="email" aria-describedby="email" placeholder="email">
+										<input type="email" class="form-control" style="display: none;" name="emailconfirm" aria-describedby="emailconfirm" placeholder="email">
+									</div>
+
+									<div class="col-sm-12" style="background-color:#ffffff57;">
+										<div class="row mb-2">
+											<div class="col-12 pt-2 text-center">
+													<b>Location:</b>
+											</div>
+											<div class="col-6 text-left">
+												<input type="radio" id="AU" name="$country" value="Australia">
+						  						<label for="AU">AU</label>
+											</div>
+											<div class="col-6 text-left">
+												<input type="radio" id="NZ" name="$country" value="New Zealand">
+						  						<label for="NZ">NZ</label>
+											</div>
+											<div class="col-6 text-left">
+												<input type="radio" id="US" name="$country" value="United States">
+						  						<label for="US">US</label>
+											</div>
+											<div class="col-6 text-left">
+												<input type="radio" id="OtherCountry" name="$country" value="Other">
+						  						<label for="OtherCountry">Other</label>
+											</div>
+											
+										</div>
+									</div>
+						</div>
+					</div>
+
+					<button type="submit" class="btn btn-block btn-primary">sign up</button>
+
+					<div class="klaviyo_messages">
+						<div class="success_message" style="display:none;"></div>
+						<div class="error_message" style="display:none;"></div>
+					</div>
+
+				</form>
+				
+			</div>
+
+
+
+    <section id="ad_widget-9" class="widget widget class-ad_widget">
+			<!-- /5283661/nourish/home-sidebar-3 -->
+			<div id='home-sidebar-3'>
+				<script>
+					googletag.cmd.push(function() { googletag.display('home-sidebar-3'); });
+				</script>
+			</div>
+
+			
+		</section><section id="ad_widget-54" class="widget widget class-ad_widget sticky">
+			<!-- /5283661/nourish/home-sidebar-4 -->
+			<div id='home-sidebar-4'>
+				<script>
+					googletag.cmd.push(function() { googletag.display('home-sidebar-4'); });
+				</script>
+			</div>
+
+			
+		</section></div>    </div>
+
+  </div>
+</div>
+
+<div class="container leaderboard-ad mb-5">
+  <section id="ad_widget-10" class="leaderboard-widget widget class-ad_widget">
+			<!-- /5283661/nourish/home-leaderboard -->
+			<div id='home-leaderboard'>
+				<script>
+					googletag.cmd.push(function() { googletag.display('home-leaderboard'); });
+				</script>
+			</div>
+
+			
+		</section></div>
+
+<div class="home-mobile-ad" id="fp-first-sidebar">
+  <section id="ad_widget-79" class="widget widget class-ad_widget">
+			<!-- /5283661/nourish/home-mobile-3 -->
+			<div id='home-mobile-3'>
+				<script>
+					googletag.cmd.push(function() { googletag.display('home-mobile-3'); });
+				</script>
+			</div>
+
+			
+		</section></div>
+
+<div class="latest-contributors container text-center">
+
+  <h2 class="w-underline">Our latest contributors</h2>
+
+  <ul class="contributors-list-group contributors-bar nav row"><li id="menu-item-1334" class="contributor-col col-xl col-lg-3 col-6 no-1 menu-item menu-item-type-post_type menu-item-object-contributor menu-item-1334"><a href="https://nourishmagazine.com.au/contributors/adam-guthrie/"><figure class="contributor-avatar"><img width="300" height="300" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/AdamG_bw-scaled-e1638870512484-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Adam Guthrie, vegan chef" decoding="async" srcset="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/AdamG_bw-scaled-e1638870512484-300x300.jpg 300w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/AdamG_bw-scaled-e1638870512484-1024x1024.jpg 1024w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/AdamG_bw-scaled-e1638870512484-150x150.jpg 150w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/AdamG_bw-scaled-e1638870512484-768x768.jpg 768w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/AdamG_bw-scaled-e1638870512484-1536x1536.jpg 1536w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/AdamG_bw-scaled-e1638870512484-504x504.jpg 504w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/AdamG_bw-scaled-e1638870512484.jpg 1708w" sizes="(max-width: 300px) 100vw, 300px" /></figure><h5 class="italic-heading contributor-link">Adam Guthrie</h5></a></li>
+<li id="menu-item-1335" class="contributor-col col-xl col-lg-3 col-6 no-1 menu-item menu-item-type-post_type menu-item-object-contributor menu-item-1335"><a href="https://nourishmagazine.com.au/contributors/simon-hill/"><figure class="contributor-avatar"><img width="300" height="300" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/Simon-Hill-Plant-Proof-headshot-300x300.jpeg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/Simon-Hill-Plant-Proof-headshot-300x300.jpeg 300w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/Simon-Hill-Plant-Proof-headshot-150x150.jpeg 150w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/Simon-Hill-Plant-Proof-headshot.jpeg 379w" sizes="(max-width: 300px) 100vw, 300px" /></figure><h5 class="italic-heading contributor-link">Simon Hill</h5></a></li>
+<li id="menu-item-1336" class="contributor-col col-xl col-lg-3 col-6 no-1 menu-item menu-item-type-post_type menu-item-object-contributor menu-item-1336"><a href="https://nourishmagazine.com.au/contributors/claire-power/"><figure class="contributor-avatar"><img width="300" height="300" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/claire-power-300x300.png" class="attachment-medium size-medium wp-post-image" alt="Claire Power" decoding="async" srcset="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/claire-power-300x300.png 300w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/claire-power-150x150.png 150w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/claire-power-768x766.png 768w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/claire-power-505x504.png 505w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/02/claire-power.png 942w" sizes="(max-width: 300px) 100vw, 300px" /></figure><h5 class="italic-heading contributor-link">Claire Power</h5></a></li>
+<li id="menu-item-1494" class="contributor-col col-xl col-lg-3 col-6 no-1 menu-item menu-item-type-post_type menu-item-object-contributor menu-item-1494"><a href="https://nourishmagazine.com.au/contributors/gemma-davis/"><figure class="contributor-avatar"><img width="300" height="300" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/Gemma-Davis-headshot-BW-square-300x300.png" class="attachment-medium size-medium wp-post-image" alt="Gemma Davis" decoding="async" srcset="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/Gemma-Davis-headshot-BW-square-300x300.png 300w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/Gemma-Davis-headshot-BW-square-150x150.png 150w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/Gemma-Davis-headshot-BW-square-504x504.png 504w,   https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/Gemma-Davis-headshot-BW-square.png 750w" sizes="(max-width: 300px) 100vw, 300px" /></figure><h5 class="italic-heading contributor-link">Gemma Davis</h5></a></li>
+</ul>
+
+</div>
+<div class="social-feed container text-center" id="social-feed">
+
+  <h2 class="h4 primary-font font-weight-normal"><em>Follow us</em> and embrace the best in plant-based living</h2>
+
+  <div class="icons">
+      
+    
+      <a target="_blank" href="https://facebook.com/nourishmagau/" class="">
+        <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/fb.svg" width="30" height="30" alt="Facebook Icon">
+      </a>
+
+    
+      
+      <a target="_blank" href="https://instagram.com/nourish_au/" class="">
+        <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/lovatts-base-theme/assets/images/insta.svg" width="30" height="30" alt="Instagram Icon">
+      </a>
+
+    
+  </div>
+  
+  <div class="row">
+    
+<div id="sb_instagram"  class="sbi sbi_mob_col_1 sbi_tab_col_2 sbi_col_5 sbi_width_resp" style="padding-bottom: 30px;width: 100%;" data-feedid="*1"  data-res="auto" data-cols="5" data-colsmobile="1" data-colstablet="2" data-num="10" data-nummobile="" data-shortcode-atts="{}"  data-postid="2" data-locatornonce="f30ce55222" data-sbi-flags="favorLocal">
+	
+    <div id="sbi_images"  style="padding: 15px;">
+		<div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18042950233557977" data-date="1699826427">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/Czj92H-rbJL/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.2885-15/401087476_995307788191791_2211669883938048836_n.jpg?_nc_cat=103&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=qZUjYmA1_kMAX_daDxl&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfAOr4TZr5eJ2sNTp5QMEnYUu_FkKtzFnSacog26irmBMA&#038;oe=65C9B891" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/401087476_995307788191791_2211669883938048836_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=qZUjYmA1_kMAX_daDxl&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAOr4TZr5eJ2sNTp5QMEnYUu_FkKtzFnSacog26irmBMA&amp;oe=65C9B891&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/401087476_995307788191791_2211669883938048836_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=qZUjYmA1_kMAX_daDxl&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAOr4TZr5eJ2sNTp5QMEnYUu_FkKtzFnSacog26irmBMA&amp;oe=65C9B891&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/401087476_995307788191791_2211669883938048836_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=qZUjYmA1_kMAX_daDxl&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAOr4TZr5eJ2sNTp5QMEnYUu_FkKtzFnSacog26irmBMA&amp;oe=65C9B891&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/401087476_995307788191791_2211669883938048836_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=qZUjYmA1_kMAX_daDxl&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAOr4TZr5eJ2sNTp5QMEnYUu_FkKtzFnSacog26irmBMA&amp;oe=65C9B891&quot;}">
+            <span class="sbi-screenreader">Prepare for the upcoming busy season by embracing </span>
+            	                    <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Prepare for the upcoming busy season by embracing the power of mindful kindness. Focus your intentions on cultivating a &#039;kindset&#039; that unlocks the magic hidden in small acts of kindness, allowing the ripples of positivity to illuminate your path towards genuine and lasting happiness.↬ Read the full story under our MIND pillar and discover ways to balance your kindset🔗 NourishMagazine.com.au/mind/a-mind-more-kind/">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17911008677842578" data-date="1699660834">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CzfCALvP0S7/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.2885-15/401492495_653763480206013_6304571940901802914_n.jpg?_nc_cat=101&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=eQcLwQCEOLkAX_qIg22&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfC0w3-pt9vaw89RTDQ2wvgNqlO98EZlTbSWuFZ6_1ma4g&#038;oe=65C92BDB" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/401492495_653763480206013_6304571940901802914_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=eQcLwQCEOLkAX_qIg22&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfC0w3-pt9vaw89RTDQ2wvgNqlO98EZlTbSWuFZ6_1ma4g&amp;oe=65C92BDB&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/401492495_653763480206013_6304571940901802914_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=eQcLwQCEOLkAX_qIg22&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfC0w3-pt9vaw89RTDQ2wvgNqlO98EZlTbSWuFZ6_1ma4g&amp;oe=65C92BDB&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/401492495_653763480206013_6304571940901802914_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=eQcLwQCEOLkAX_qIg22&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfC0w3-pt9vaw89RTDQ2wvgNqlO98EZlTbSWuFZ6_1ma4g&amp;oe=65C92BDB&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/401492495_653763480206013_6304571940901802914_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=eQcLwQCEOLkAX_qIg22&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfC0w3-pt9vaw89RTDQ2wvgNqlO98EZlTbSWuFZ6_1ma4g&amp;oe=65C92BDB&quot;}">
+            <span class="sbi-screenreader">On this Remembrance Day, we pause to honour and re</span>
+            	                    <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/instagram-feed/img/placeholder.png" alt="On this Remembrance Day, we pause to honour and remember all those who have sacrificed for peace and freedom. 🌹 Lest we forget 🌹#NourishMagazine #PlantBasedLiving #RemembranceDay">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17979430694362509" data-date="1699394438">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CzXF5HOsHZx/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.2885-15/399350535_337596918962500_6124448666216949992_n.jpg?_nc_cat=111&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=2vCGDHvGawMAX_ZUzum&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfBb8Hy0X5JywifasV3d7er3ElrdfyvaFxuxJ1uMHMXNIQ&#038;oe=65C97078" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/399350535_337596918962500_6124448666216949992_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=2vCGDHvGawMAX_ZUzum&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfBb8Hy0X5JywifasV3d7er3ElrdfyvaFxuxJ1uMHMXNIQ&amp;oe=65C97078&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/399350535_337596918962500_6124448666216949992_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=2vCGDHvGawMAX_ZUzum&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfBb8Hy0X5JywifasV3d7er3ElrdfyvaFxuxJ1uMHMXNIQ&amp;oe=65C97078&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/399350535_337596918962500_6124448666216949992_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=2vCGDHvGawMAX_ZUzum&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfBb8Hy0X5JywifasV3d7er3ElrdfyvaFxuxJ1uMHMXNIQ&amp;oe=65C97078&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/399350535_337596918962500_6124448666216949992_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=2vCGDHvGawMAX_ZUzum&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfBb8Hy0X5JywifasV3d7er3ElrdfyvaFxuxJ1uMHMXNIQ&amp;oe=65C97078&quot;}">
+            <span class="sbi-screenreader">Gut health is foundational to overall health, so i</span>
+            	                    <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Gut health is foundational to overall health, so it’s something we really want to get right. There are plenty of opinions about how to optimise our good gut bugs and deal with any digestive distress – but what is fact and what is fiction? Unlock optimal health with Dr Will Bulsiewicz&#039;s expert gut health cheat sheet. Distinguish fact from fiction and discover the keys to a healthy gut. ↬ Read the full story and cheat sheet online under the HEALTH pillar at: 🔗 NourishMagazine.com.au/health/mythbusting-gut-health/">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17994990689123300" data-date="1699221630">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CzR8SOeO1O-/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.2885-15/399826627_305926618895995_2247422885655717643_n.jpg?_nc_cat=103&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=asqZQNpiyd8AX-T52OI&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfDoQYBrPlq4yiTjNmxWn-tEgPLaLfOJHQaj9dI_eavEGA&#038;oe=65C9ADA3" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/399826627_305926618895995_2247422885655717643_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=asqZQNpiyd8AX-T52OI&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDoQYBrPlq4yiTjNmxWn-tEgPLaLfOJHQaj9dI_eavEGA&amp;oe=65C9ADA3&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/399826627_305926618895995_2247422885655717643_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=asqZQNpiyd8AX-T52OI&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDoQYBrPlq4yiTjNmxWn-tEgPLaLfOJHQaj9dI_eavEGA&amp;oe=65C9ADA3&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/399826627_305926618895995_2247422885655717643_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=asqZQNpiyd8AX-T52OI&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDoQYBrPlq4yiTjNmxWn-tEgPLaLfOJHQaj9dI_eavEGA&amp;oe=65C9ADA3&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/399826627_305926618895995_2247422885655717643_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=asqZQNpiyd8AX-T52OI&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDoQYBrPlq4yiTjNmxWn-tEgPLaLfOJHQaj9dI_eavEGA&amp;oe=65C9ADA3&quot;}">
+            <span class="sbi-screenreader">Enjoy the exquisite taste of this luscious layered</span>
+            	                    <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Enjoy the exquisite taste of this luscious layered green smoothie, brimming with health-enhancing nutrients. It&#039;s the ultimate way to invigorate the start of your week.↬ View the recipe online at 🔗 NourishMagazine.com.au/recipes/green-supreme-layered-smoothie/">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18000294920498971" data-date="1698530428">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/Cy9V7CirRMJ/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.2885-15/397055867_642923944677925_305218474053115134_n.jpg?_nc_cat=110&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=w8RmHUu6SkQAX_Nt-hy&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfD9GFLikkDniXOMjIVMPjMvOGvRL2SxEsE2DElXLX1IgQ&#038;oe=65CACC64" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/397055867_642923944677925_305218474053115134_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=w8RmHUu6SkQAX_Nt-hy&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfD9GFLikkDniXOMjIVMPjMvOGvRL2SxEsE2DElXLX1IgQ&amp;oe=65CACC64&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/397055867_642923944677925_305218474053115134_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=w8RmHUu6SkQAX_Nt-hy&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfD9GFLikkDniXOMjIVMPjMvOGvRL2SxEsE2DElXLX1IgQ&amp;oe=65CACC64&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/397055867_642923944677925_305218474053115134_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=w8RmHUu6SkQAX_Nt-hy&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfD9GFLikkDniXOMjIVMPjMvOGvRL2SxEsE2DElXLX1IgQ&amp;oe=65CACC64&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/397055867_642923944677925_305218474053115134_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=w8RmHUu6SkQAX_Nt-hy&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfD9GFLikkDniXOMjIVMPjMvOGvRL2SxEsE2DElXLX1IgQ&amp;oe=65CACC64&quot;}">
+            <span class="sbi-screenreader">💚💚💚</span>
+            	                    <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/instagram-feed/img/placeholder.png" alt="💚💚💚">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18026929990610338" data-date="1698271247">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/Cy1nkyvLGzD/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.2885-15/395748289_1326727464875791_6132435188113082733_n.jpg?_nc_cat=101&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=hKaYP-o30fAAX9Hk7XO&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfA4W8e2o43pIfhbglKg4aC9WdZnIvYKgvCpNxC68iqOxA&#038;oe=65C9DF4E" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/395748289_1326727464875791_6132435188113082733_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=hKaYP-o30fAAX9Hk7XO&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfA4W8e2o43pIfhbglKg4aC9WdZnIvYKgvCpNxC68iqOxA&amp;oe=65C9DF4E&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/395748289_1326727464875791_6132435188113082733_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=hKaYP-o30fAAX9Hk7XO&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfA4W8e2o43pIfhbglKg4aC9WdZnIvYKgvCpNxC68iqOxA&amp;oe=65C9DF4E&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/395748289_1326727464875791_6132435188113082733_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=hKaYP-o30fAAX9Hk7XO&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfA4W8e2o43pIfhbglKg4aC9WdZnIvYKgvCpNxC68iqOxA&amp;oe=65C9DF4E&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/395748289_1326727464875791_6132435188113082733_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=hKaYP-o30fAAX9Hk7XO&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfA4W8e2o43pIfhbglKg4aC9WdZnIvYKgvCpNxC68iqOxA&amp;oe=65C9DF4E&quot;}">
+            <span class="sbi-screenreader">This brain food bowl smoothie is a mind-boosting, </span>
+            	                    <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/instagram-feed/img/placeholder.png" alt="This brain food bowl smoothie is a mind-boosting, brain-charging, omega-filled must-have! ↬ View the recipe online at NourishMagazine.com.au/recipes/the-brain-food-bowl/">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17985894311259716" data-date="1698012028">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/Cyt5Jxeu9Dp/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.2885-15/394581796_695954432466687_8601777625903970982_n.jpg?_nc_cat=105&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=bGFXLd868W8AX-13zEf&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfDxLdfFSfAHPAnzs-INTuxMoOZacoCEGlH3wJQZw80PoQ&#038;oe=65CA8217" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/394581796_695954432466687_8601777625903970982_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=bGFXLd868W8AX-13zEf&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDxLdfFSfAHPAnzs-INTuxMoOZacoCEGlH3wJQZw80PoQ&amp;oe=65CA8217&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/394581796_695954432466687_8601777625903970982_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=bGFXLd868W8AX-13zEf&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDxLdfFSfAHPAnzs-INTuxMoOZacoCEGlH3wJQZw80PoQ&amp;oe=65CA8217&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/394581796_695954432466687_8601777625903970982_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=bGFXLd868W8AX-13zEf&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDxLdfFSfAHPAnzs-INTuxMoOZacoCEGlH3wJQZw80PoQ&amp;oe=65CA8217&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/394581796_695954432466687_8601777625903970982_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=bGFXLd868W8AX-13zEf&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDxLdfFSfAHPAnzs-INTuxMoOZacoCEGlH3wJQZw80PoQ&amp;oe=65CA8217&quot;}">
+            <span class="sbi-screenreader">Planning your big day? Or a party to remember? Mak</span>
+            	                    <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Planning your big day? Or a party to remember? Make your event unforgettable while staying true to your values with these five top tips for hosting an ethical event that’ll wow all your guests.1. Serve plant-based food packed with delicious flavour2. Minimse waste and consider eco-friendly decorations3. Use ethical suppliers who prioritise sustainability, fair trade, and ethical practices 4. Dress the part, choosing cruelty-free fabrics5. Be inclusive and ensure everyone feels welcome and valued↬ For more top tips and other dos and don&#039;ts, read our full story online under our CULTURE pillar at 🔗 Nourishmagazine.com.au/culture/weddings-parties-anything/#NourishMagazine #PlantBasedLiving #PlantBasedWeddings #PlantBasedParty">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17909326403835453" data-date="1697752839">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CymKyqmLWrA/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.2885-15/393538064_1301360477185372_5071261284460838855_n.jpg?_nc_cat=102&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=zd8gJPtzbHQAX8nzizE&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfAuxYGF3MpFVo4jWAKfej5ZhxC0qArtXPO4jsE3BraAIw&#038;oe=65C9BC7D" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/393538064_1301360477185372_5071261284460838855_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=zd8gJPtzbHQAX8nzizE&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAuxYGF3MpFVo4jWAKfej5ZhxC0qArtXPO4jsE3BraAIw&amp;oe=65C9BC7D&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/393538064_1301360477185372_5071261284460838855_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=zd8gJPtzbHQAX8nzizE&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAuxYGF3MpFVo4jWAKfej5ZhxC0qArtXPO4jsE3BraAIw&amp;oe=65C9BC7D&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/393538064_1301360477185372_5071261284460838855_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=zd8gJPtzbHQAX8nzizE&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAuxYGF3MpFVo4jWAKfej5ZhxC0qArtXPO4jsE3BraAIw&amp;oe=65C9BC7D&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/393538064_1301360477185372_5071261284460838855_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=zd8gJPtzbHQAX8nzizE&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAuxYGF3MpFVo4jWAKfej5ZhxC0qArtXPO4jsE3BraAIw&amp;oe=65C9BC7D&quot;}">
+            <span class="sbi-screenreader">🌱 Last opportunity to grab Nourish Issue 76 in </span>
+            	                    <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/instagram-feed/img/placeholder.png" alt="🌱 Last opportunity to grab Nourish Issue 76 in stores! 🌱 Delve into a world of goodness within its pages: take control of your cholesterol, unleash the potential of a transformative mindset, explore the captivating realm of circular fashion, and indulge in 25+ delectable vegan recipes!Pick your copy of Nourish Issue 76 at your local newsagents, Coles, or Woolworths supermarkets. Alternatively, you can order this current issue and previous single issues online at LovattsMagazines.com/Nourish 💚#NourishMagazine #MyNourish #PlantBasedLiving #MindfulMagazines">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17996764160266614" data-date="1697666437">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/Cyjl_eaLVK0/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.2885-15/393137216_710166557811292_8776302960474780545_n.jpg?_nc_cat=104&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=Uz57wQdhiG4AX_lqlK5&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfAWTT-wGOaiVyb0Noey0-2kX5jIqpnV1Fu7TUHd7CVpGA&#038;oe=65C9B11C" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/393137216_710166557811292_8776302960474780545_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=Uz57wQdhiG4AX_lqlK5&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAWTT-wGOaiVyb0Noey0-2kX5jIqpnV1Fu7TUHd7CVpGA&amp;oe=65C9B11C&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/393137216_710166557811292_8776302960474780545_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=Uz57wQdhiG4AX_lqlK5&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAWTT-wGOaiVyb0Noey0-2kX5jIqpnV1Fu7TUHd7CVpGA&amp;oe=65C9B11C&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/393137216_710166557811292_8776302960474780545_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=Uz57wQdhiG4AX_lqlK5&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAWTT-wGOaiVyb0Noey0-2kX5jIqpnV1Fu7TUHd7CVpGA&amp;oe=65C9B11C&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/393137216_710166557811292_8776302960474780545_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=Uz57wQdhiG4AX_lqlK5&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAWTT-wGOaiVyb0Noey0-2kX5jIqpnV1Fu7TUHd7CVpGA&amp;oe=65C9B11C&quot;}">
+            <span class="sbi-screenreader">Looking to add a healthy twist to your weeknight d</span>
+            	                    <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Looking to add a healthy twist to your weeknight dinners? Try this delicious Kelp Noodle Stir-Fry recipe by renowned plant-based chef, @adamguthrie. 🌱 A colourful array of veggies, succulent tofu strips, and fine kelp noodles come together in this classic Asian dish that&#039;s packed with flavour. 🍜 Plus, it&#039;s free from added oil and can easily be made gluten-free by using tamari instead of soy sauce. ↬ View the recipe online at 🔗 NourishMagazine.com.au/recipes/kelp-noodle-stir-fry/">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18042582028490291" data-date="1697493638">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CyecZ7Mx1SH/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.2885-15/391398364_295132439976628_2071605805089344798_n.jpg?_nc_cat=111&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=d3puNS_qlgUAX8JiI2X&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfAxYifSDKJUUYa_Ug-UtjFRZY9Y7RWsQe2_muI8LyO9Lg&#038;oe=65C9552F" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/391398364_295132439976628_2071605805089344798_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=d3puNS_qlgUAX8JiI2X&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAxYifSDKJUUYa_Ug-UtjFRZY9Y7RWsQe2_muI8LyO9Lg&amp;oe=65C9552F&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/391398364_295132439976628_2071605805089344798_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=d3puNS_qlgUAX8JiI2X&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAxYifSDKJUUYa_Ug-UtjFRZY9Y7RWsQe2_muI8LyO9Lg&amp;oe=65C9552F&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/391398364_295132439976628_2071605805089344798_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=d3puNS_qlgUAX8JiI2X&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAxYifSDKJUUYa_Ug-UtjFRZY9Y7RWsQe2_muI8LyO9Lg&amp;oe=65C9552F&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.2885-15\/391398364_295132439976628_2071605805089344798_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=d3puNS_qlgUAX8JiI2X&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAxYifSDKJUUYa_Ug-UtjFRZY9Y7RWsQe2_muI8LyO9Lg&amp;oe=65C9552F&quot;}">
+            <span class="sbi-screenreader">Craving a nutritious boost? 🌿 Discover the incr</span>
+            	                    <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Craving a nutritious boost? 🌿 Discover the incredible health benefits of adding bok choy to your plate!1. Great source of calcium to help maintain strong bones2. Rich in potassium which helps to regulate heart rate and blood pressure3. Full of vitamins to help boost your immune system4. Great source of antioxidants5. Has anti-inflammatory properties, perfect for those looking for natural pain relief↬ Read the story to discover the full list of benefits and ways to pack more bok choy into your diet.🔗 NourishMagazine.com.au/food-stories/health-benefits-of-bok-choy/">
+        </a>
+    </div>
+</div>    </div>
+
+	<div id="sbi_load" >
+
+	
+	
+</div>
+
+	    <span class="sbi_resized_image_data" data-feed-id="*1" data-resized="{&quot;18042582028490291&quot;:{&quot;id&quot;:&quot;391398364_295132439976628_2071605805089344798_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;17996764160266614&quot;:{&quot;id&quot;:&quot;393137216_710166557811292_8776302960474780545_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;17909326403835453&quot;:{&quot;id&quot;:&quot;393538064_1301360477185372_5071261284460838855_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;17985894311259716&quot;:{&quot;id&quot;:&quot;394581796_695954432466687_8601777625903970982_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18026929990610338&quot;:{&quot;id&quot;:&quot;395748289_1326727464875791_6132435188113082733_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18000294920498971&quot;:{&quot;id&quot;:&quot;397055867_642923944677925_305218474053115134_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;17994990689123300&quot;:{&quot;id&quot;:&quot;399826627_305926618895995_2247422885655717643_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;17979430694362509&quot;:{&quot;id&quot;:&quot;399350535_337596918962500_6124448666216949992_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;17911008677842578&quot;:{&quot;id&quot;:&quot;401492495_653763480206013_6304571940901802914_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18042950233557977&quot;:{&quot;id&quot;:&quot;401087476_995307788191791_2211669883938048836_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}}}">
+	</span>
+	</div>
+
+  </div>  
+
+</div>
+<div class="container text-center">
+  <h2 class="w-underline">Join our newsletter</h2>
+</div>
+
+<div class="container fp-newsletter mb-5">
+  <div class="newsletter-signup text-center" id="newsletter-signup">
+ 
+  <form 
+    id="email_signup_1719920071-0325" 
+    class="klaviyo_gdpr_embed_Me2M9X" 
+    action="/index.php" 
+    method="POST" 
+    novalidate="novalidate"
+  >
+    <input type="hidden" name="g" value="Me2M9X">
+    <input type="hidden" name="$fields" value="$consent">
+    <input type="hidden" name="$list_fields" value="$consent">
+    <input type="hidden" name="$consent" value="Email">
+    <div class="row  mb-4">
+      <div class="col-sm-6">
+        <label for="first_name" class="sr-only">First Name</label>
+        <input type="text" class="form-control" id="first_name" name="first_name" placeholder="first name">
+      </div>
+      <div class="col-sm-6">
+        <label for="email" class="sr-only">Email</label>
+        <input type="email" class="form-control" id="k_id_email" name="email" aria-describedby="email" placeholder="email">
+        <input type="email" class="form-control" style="display: none;" id="emailconfirm" name="emailconfirm" placeholder="Email">
+      </div>
+      <div class="col-12 mt-3 text-center">
+        <b>Location:</b>
+      </div>
+      <div class="col-6 col-md-3 mt-3 text-left">
+        <!--<p>Country</p>-->
+      
+          <input type="radio" id="AUcountry" name="$country" value="Australia">
+          <label style="font-size:0.9rem;" for="AUcountry">AU</label>&nbsp;&nbsp;&nbsp;
+      </div>
+      <div class="col-6 col-md-3 mt-3 text-left">
+          <input type="radio" id="NZcountry" name="$country" value="New Zealand">
+          <label style="font-size:0.9rem;" for="NZcountry">NZ</label>&nbsp;&nbsp;&nbsp;
+      </div>
+      <div class="col-6 col-md-3 mt-3 text-left">
+          <input type="radio" id="UScountry" name="$country" value="United States">
+          <label style="font-size:0.9rem;" for="UScountry">US</label>&nbsp;&nbsp;&nbsp;
+      </div>
+      <div class="col-6 col-md-3 mt-3 text-left">
+          <input type="radio" id="OtherCountry2" name="$country" value="Other">
+          <label style="font-size:0.9rem;" for="OtherCountry2">Other</label>
+      </div>
+      
+    </div>
+    <button type="submit" class="btn btn-block btn-primary">sign up</button>
+
+    <div class="klaviyo_messages">
+      <div class="success_message" style="display:none;"></div>
+      <div class="error_message" style="display:none;"></div>
+    </div>
+  </form>
+  
+</div>
+
+
+
+
+
+
+
+</div>
+
+
+
+		<div id="sticker" class="d-none d-md-block"  data-toggle="modal" data-target="#yourinputPopUp">
+			YOUR INPUT
+		</div>
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+			
+		<div class="subscribe-and-save">
+			
+			<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/nourish-child-theme/assets/images/fork.png" alt="Fork" class="fork">
+
+			<div class="container relative">
+				<div class="row">
+					<div class="col-lg-4 left">
+						<div class="row sub-images">
+
+															<img src="https://cdn.shopify.com/s/files/1/0049/8594/6225/files/NVFL076_OFC_w1000_ded82c27-24cc-466e-a750-fed10b3f1627.jpg?v=1691972733" class="img-fluid mag-img" alt="Subscribe to Nourish plant-based living">
+														
+						</div>
+					
+					</div>
+				
+					<div class="col-lg-8 right text-center">
+
+								
+
+															<h3 class="heading">
+									<em>Nourish Magazine</em>								</h3>
+							
+															<p class="sub-text">
+									<em>Nourish</em>™ is the ultimate guide for Australians to learn about plant-based living, health and mindfulness, and how to adopt a more sustainable lifestyle. 								</p>
+								
+
+							<div class="btns">
+							<!--<button type="button" class="btn btn-primary subscribe_url margin-bottom" style="display:block" data-toggle="modal" data-target="#subscribePopUp"> Subscribe </button>-->
+							<a href="https://lovattsmagazines.com.au/collections/single-issues/nourish-magazine&utm_source=Nourish-Website" class="btn btn-primary subscribe_url margin-bottom" target="_blank">Shop Now</a>
+							
+									<!--<button type="button" class="btn btn-primary subscribe_url margin-bottom" style="display:block" data-toggle="modal" data-target="#subscribePopUp"  href="https://nourishmagazine.com.au/issues/issue-76-power-to-you/"> Latest issue </button>-->
+									<a href="https://lovattsmagazines.com.au/collections/single-issues/nourish-magazine&utm_source=Nourish-Website" class="btn btn-primary subscribe_url margin-bottom" target="_blank">Latest issue</a>
+									
+							</div>
+
+					</div>
+				</div>
+			</div>
+		</div>	
+
+					<div class="footer-storefinder">
+				<div class="container">
+					<div class="row">
+						<a href="https://lovattsmagazines.com.au/pages/store-finder#nourish" class="btn storefinder_url">
+							Find our latest copy at a retailer near you <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="arrow" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 31.49 31.49" style="enable-background:new 0 0 31.49 31.49;" xml:space="preserve"><path style="fill:#ffffff;" d="M21.205,5.007c-0.429-0.444-1.143-0.444-1.587,0c-0.429,0.429-0.429,1.143,0,1.571l8.047,8.047H1.111  C0.492,14.626,0,15.118,0,15.737c0,0.619,0.492,1.127,1.111,1.127h26.554l-8.047,8.032c-0.429,0.444-0.429,1.159,0,1.587  c0.444,0.444,1.159,0.444,1.587,0l9.952-9.952c0.444-0.429,0.444-1.143,0-1.571L21.205,5.007z"></path></svg>
+						</a>
+					</div>
+				</div>
+			</div>
+		
+		<div class="footer-dark">
+
+	<div class="container">
+        <div class="row">
+          <div class="col-md text-center footer-col">
+            <h6 class="footer-title">Nourish plant-based living</h6>
+            <nav class="menu-footer-1-container"><ul id="footer-menu-1" class="nav flex-column"><li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401 nav-item"><a href="https://nourishmagazine.com.au/about/" class="nav-link">About</a></li>
+<li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-400 nav-item"><a href="https://nourishmagazine.com.au/contact/" class="nav-link">Contact us</a></li>
+<li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399 nav-item"><a href="https://nourishmagazine.com.au/submissions/" class="nav-link">Submissions</a></li>
+<li id="menu-item-398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398 nav-item"><a href="https://nourishmagazine.com.au/advertise/" class="nav-link">Advertise</a></li>
+<li id="menu-item-6558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6558 nav-item"><a href="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2024/01/Nourish-website_Editorial-Standards_2024.pdf" class="nav-link">Editorial standards</a></li>
+<li id="menu-item-826" class="menu-item menu-item-type-gs_sim menu-item-object-gs_sim menu-item-826 nav-item"><a href="https://lovattsmagazines.com.au/collections/nourish-magazine-subscription" class="nav-link">Subscribe to magazine</a></li>
+<li id="menu-item-827" class="menu-item menu-item-type-gs_sim menu-item-object-gs_sim menu-item-827 nav-item"><a href="https://lovattsmagazines.com.au/pages/store-finder#nourish" class="nav-link">Store finder</a></li>
+<li id="menu-item-1846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1846 nav-item"><a href="https://nourishmagazine.com.au/win/" class="nav-link">Competitions</a></li>
+<li id="menu-item-3947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3947 nav-item"><a href="https://nourishveganawards.com/" class="nav-link">Nourish Vegan Awards</a></li>
+</ul></nav>          </div>
+          <div class="col-md text-center footer-col">
+            <h6 class="footer-title">Our magazines</h6>
+            <nav class="menu-footer-2-container"><ul id="footer-menu-2" class="nav flex-column"><li id="menu-item-412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-412 nav-item"><a target="_blank" href="https://mindfulpuzzles.com.au" class="nav-link">Mindful Puzzles</a></li>
+<li id="menu-item-414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-414 nav-item"><a target="_blank" href="https://breathemagazine.com.au/" class="nav-link">Breathe Magazine</a></li>
+<li id="menu-item-421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-421 nav-item"><a target="_blank" href="https://teenbreathe.com.au" class="nav-link">Teen Breathe</a></li>
+<li id="menu-item-416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-416 nav-item"><a target="_blank" href="https://mindfulparenting.com.au" class="nav-link">Mindful Parenting</a></li>
+<li id="menu-item-829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-829 nav-item"><a target="_blank" href="https://www.kitmagazine.com.au" class="nav-link">KIT Magazine</a></li>
+<li id="menu-item-419" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-419 current-menu-item nav-item active"><a target="_blank" href="http://nourishmagazine.com.au/" class="nav-link active">Nourish plant-based living</a></li>
+</ul></nav>          </div>
+          <div class="col-md text-center footer-col">
+            <h6 class="footer-title">Digital brands </h6>
+            <nav class="menu-footer-3-container"><ul id="footer-menu-3" class="nav flex-column"><li id="menu-item-423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-423 nav-item"><a href="https://veganbeauty.com.au" class="nav-link">VeganBeauty</a></li>
+<li id="menu-item-425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-425 nav-item"><a href="http://lovattspuzzles.com" class="nav-link">Lovatts Puzzles</a></li>
+<li id="menu-item-427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427 nav-item"><a href="http://naturalhealthmag.com.au" class="nav-link">Australian Natural Health</a></li>
+</ul></nav>		</div>
+	</div> 
+	
+	<div class="row mt-sm-1 mt-md-5">
+		<div class="col text-center mb-0 mb-sm-3 mb-md-2">
+			<div class="d-md-none"> <!-- hide for lg and up -->
+				Follow <span style="font-style: italic; font-weight: 300; padding-right: 10px;">Nourish <span class='hide-on-mobile'>plant-based living</span></span>
+
+										<a target="_blank" href="https://facebook.com/nourishmagau/" class="mr-2">
+							<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/nourish-child-theme/assets/images/white-fb.svg" width="20" height="20" alt="Facebook Icon">
+						</a>
+				
+										<a target="_blank" href="https://instagram.com/nourish_au/" class="mr-2">
+							<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/nourish-child-theme/assets/images/white-instagram.svg" width="20" height="20" alt="Instagram Icon">
+						</a>
+				  
+							</div>
+
+			<div class="d-none d-md-block"> <!-- show for md and up -->
+				Follow <span style="font-style: italic; font-weight: 300; padding-right: 10px;">Nourish <span class='hide-on-mobile'>plant-based living</span></span>
+
+										<a target="_blank" href="https://facebook.com/nourishmagau/" class="mr-2">
+							<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/nourish-child-theme/assets/images/white-fb.svg" width="20" height="20" alt="Facebook Icon">
+						</a>
+				
+										<a target="_blank" href="https://instagram.com/nourish_au/" class="mr-2">
+							<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/nourish-child-theme/assets/images/white-instagram.svg" width="20" height="20" alt="Instagram Icon">
+						</a>
+				
+							
+				| <a href="#" data-toggle="modal" style="color: #f1f1f1;" data-target="#enewsletterPopUp">Join e-newsletter</a>
+			</div>
+		</div>
+		
+    
+	</div>
+</div>
+				<div class="row contact-details">
+					<div class="col text-center">
+						<address>
+							<div>
+								<span>&copy; Copyright Lovatts Media 2024 - </span>
+								100-102 Terrigal Esplanade,
+								Terrigal Beach								NSW								Australia								2260							</div>
+							<div class="mt-2">
+								<a href="tel:1800254199">
+									1800 254 199								</a> - 9am-4pm Mon-Fri (AEDT) | <a href="https://www.lovattsmedia.com/privacy-policy/" target="_blank">Privacy policy</a> | <a href='https://www.lovattsmedia.com/terms-of-use/' target='_blank'>Terms of use</a>
+							</div> 
+						</address> 
+					</div>
+				</div>
+				<div class="row">
+					<div class="col">
+											</div>
+				</div>
+      		</div>
+		</div>
+
+
+		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- Subscribe Modal -->
+<div class="modal fade" id="subscribePopUp" tabindex="-1" role="dialog" aria-labelledby="subscribeModal" aria-hidden="true" style="z-index:99999;">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+
+      <div class="modal-body" style="padding: 2rem;">
+	  
+	  <div class="row">
+	  <div class="col-sm-12 text-right">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+			</button>
+		</div>
+	  <div class="col-sm-4 offset-sm-4 site-branding text-center">
+			<a href="https://nourishmagazine.com.au/" class="custom-logo-link" rel="home" aria-current="page"><img width="1" height="1" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/Nourish_2020_ntag.svg" class="custom-logo" alt="Nourish plant-based living" decoding="async" /></a> 
+		</div>
+		
+		</div>
+        <p class="text-center"><strong>Subscription Options</strong></p>
+
+		
+
+		<div class="row">
+			<div class="col py-2" style="background-color: #f1f1f1;">
+				<div class="row align-items-center">
+					<div class="col-7">
+						<div class="subscribe-text text-left my-auto">
+							<h2 class="text-left">Subscribe</h2>
+							<p>						<em>to our premium print magazine</em></p>
+							<a target="_blank" href="https://lovattsmagazines.com.au/collections/nourish-magazine-subscription" class="btn btn-primary subscribe_url">
+								Buy Now							</a>
+						</div>
+					</div>
+					
+					<div class="col-5 text-right py-2">
+						<a target="_blank" href="https://lovattsmagazines.com.au/collections/nourish-magazine-subscription" class="subscribe_url">
+							<img src="https://cdn.shopify.com/s/files/1/0049/8594/6225/files/NVFL076_OFC_w1000_ded82c27-24cc-466e-a750-fed10b3f1627.jpg?v=1691972733" class="img-fluid mag-img" alt="Subscribe to Nourish plant-based living">
+						</a>
+					</div>
+				</div>
+
+				
+
+			</div>
+		</div>
+		<div class="row align-items-center mt-5">
+			<div class="col pt-4" style="background-color: #fff;">
+				<div class="single-newsletter text-center">
+					<h2 class="">Join our e-newsletter</h2>
+					<p>
+					<em>to receive regular Nourish updates and offers directly in your inbox.</em></p>
+					<div class="newsletter-signup text-center" id="newsletter-signup">
+ 
+  <form 
+    id="email_signup_1719920071-0544" 
+    class="klaviyo_gdpr_embed_Me2M9X" 
+    action="/index.php" 
+    method="POST" 
+    novalidate="novalidate"
+  >
+    <input type="hidden" name="g" value="Me2M9X">
+    <input type="hidden" name="$fields" value="$consent">
+    <input type="hidden" name="$list_fields" value="$consent">
+    <input type="hidden" name="$consent" value="Email">
+    <div class="row  mb-4">
+      <div class="col-sm-6">
+        <label for="first_name" class="sr-only">First Name</label>
+        <input type="text" class="form-control" id="first_name" name="first_name" placeholder="first name">
+      </div>
+      <div class="col-sm-6">
+        <label for="email" class="sr-only">Email</label>
+        <input type="email" class="form-control" id="k_id_email" name="email" aria-describedby="email" placeholder="email">
+        <input type="email" class="form-control" style="display: none;" id="emailconfirm" name="emailconfirm" placeholder="Email">
+      </div>
+      <div class="col-12 mt-3 text-center">
+        <b>Location:</b>
+      </div>
+      <div class="col-6 col-md-3 mt-3 text-left">
+        <!--<p>Country</p>-->
+      
+          <input type="radio" id="AUcountry" name="$country" value="Australia">
+          <label style="font-size:0.9rem;" for="AUcountry">AU</label>&nbsp;&nbsp;&nbsp;
+      </div>
+      <div class="col-6 col-md-3 mt-3 text-left">
+          <input type="radio" id="NZcountry" name="$country" value="New Zealand">
+          <label style="font-size:0.9rem;" for="NZcountry">NZ</label>&nbsp;&nbsp;&nbsp;
+      </div>
+      <div class="col-6 col-md-3 mt-3 text-left">
+          <input type="radio" id="UScountry" name="$country" value="United States">
+          <label style="font-size:0.9rem;" for="UScountry">US</label>&nbsp;&nbsp;&nbsp;
+      </div>
+      <div class="col-6 col-md-3 mt-3 text-left">
+          <input type="radio" id="OtherCountry2" name="$country" value="Other">
+          <label style="font-size:0.9rem;" for="OtherCountry2">Other</label>
+      </div>
+      
+    </div>
+    <button type="submit" class="btn btn-block btn-primary">sign up</button>
+
+    <div class="klaviyo_messages">
+      <div class="success_message" style="display:none;"></div>
+      <div class="error_message" style="display:none;"></div>
+    </div>
+  </form>
+  
+</div>
+
+
+
+
+
+
+
+				</div>
+			</div>
+		</div>
+
+		
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- e-newsletter modal -->
+<div class="modal fade" id="enewsletterPopUp" tabindex="-1" role="dialog" aria-labelledby="enewsletterModal" aria-hidden="true" style="z-index:99999;">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+
+      <div class="modal-body" style="padding: 2rem;">
+	  
+	  	<div class="row">
+	  		<div class="col-sm-12 text-right">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+	  		<div class="col-sm-4 offset-sm-4 site-branding text-center">
+				<a href="https://nourishmagazine.com.au/" class="custom-logo-link" rel="home" aria-current="page"><img width="1" height="1" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/Nourish_2020_ntag.svg" class="custom-logo" alt="Nourish plant-based living" decoding="async" /></a> 
+			</div>
+		
+		</div>
+
+		<div class="row align-items-center mt-5">
+			<div class="col" style="background-color: #fff;">
+				<div class="single-newsletter text-center">
+					<h2 class="">Join our e-newsletter</h2>
+					<p>
+					<em>to receive regular Nourish updates and offers directly in your inbox.</em></p>
+					<div class="newsletter-signup text-center" id="newsletter-signup">
+ 
+  <form 
+    id="email_signup_1719920071-0548" 
+    class="klaviyo_gdpr_embed_Me2M9X" 
+    action="/index.php" 
+    method="POST" 
+    novalidate="novalidate"
+  >
+    <input type="hidden" name="g" value="Me2M9X">
+    <input type="hidden" name="$fields" value="$consent">
+    <input type="hidden" name="$list_fields" value="$consent">
+    <input type="hidden" name="$consent" value="Email">
+    <div class="row  mb-4">
+      <div class="col-sm-6">
+        <label for="first_name" class="sr-only">First Name</label>
+        <input type="text" class="form-control" id="first_name" name="first_name" placeholder="first name">
+      </div>
+      <div class="col-sm-6">
+        <label for="email" class="sr-only">Email</label>
+        <input type="email" class="form-control" id="k_id_email" name="email" aria-describedby="email" placeholder="email">
+        <input type="email" class="form-control" style="display: none;" id="emailconfirm" name="emailconfirm" placeholder="Email">
+      </div>
+      <div class="col-12 mt-3 text-center">
+        <b>Location:</b>
+      </div>
+      <div class="col-6 col-md-3 mt-3 text-left">
+        <!--<p>Country</p>-->
+      
+          <input type="radio" id="AUcountry" name="$country" value="Australia">
+          <label style="font-size:0.9rem;" for="AUcountry">AU</label>&nbsp;&nbsp;&nbsp;
+      </div>
+      <div class="col-6 col-md-3 mt-3 text-left">
+          <input type="radio" id="NZcountry" name="$country" value="New Zealand">
+          <label style="font-size:0.9rem;" for="NZcountry">NZ</label>&nbsp;&nbsp;&nbsp;
+      </div>
+      <div class="col-6 col-md-3 mt-3 text-left">
+          <input type="radio" id="UScountry" name="$country" value="United States">
+          <label style="font-size:0.9rem;" for="UScountry">US</label>&nbsp;&nbsp;&nbsp;
+      </div>
+      <div class="col-6 col-md-3 mt-3 text-left">
+          <input type="radio" id="OtherCountry2" name="$country" value="Other">
+          <label style="font-size:0.9rem;" for="OtherCountry2">Other</label>
+      </div>
+      
+    </div>
+    <button type="submit" class="btn btn-block btn-primary">sign up</button>
+
+    <div class="klaviyo_messages">
+      <div class="success_message" style="display:none;"></div>
+      <div class="error_message" style="display:none;"></div>
+    </div>
+  </form>
+  
+</div>
+
+
+
+
+
+
+
+				</div>
+			</div>
+		</div>
+
+		
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end e-newsletter modal -->
+
+<div class="mobile-overlay close-nav-toggle"></div>
+
+
+<!-- Your Input Modal -->
+<div class="modal fade" id="yourinputPopUp" tabindex="-1" role="dialog" aria-labelledby="yourinputModal" aria-hidden="true" style="z-index:99999;">
+	<div class="modal-dialog modal-dialog-centered" role="document">
+		<div class="modal-content"> 
+	
+			<div class="modal-body" style="padding: 2rem;">
+	
+				<div class="row">
+					<div class="col-sm-12 text-right">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true">&times;</span>
+						</button>
+					</div>
+					<div class="col-sm-4 offset-sm-4 site-branding text-center">
+						<a href="https://nourishmagazine.com.au/" class="custom-logo-link" rel="home" aria-current="page"><img width="1" height="1" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/Nourish_2020_ntag.svg" class="custom-logo" alt="Nourish plant-based living" decoding="async" /></a> 
+					</div>
+	
+					<div class="row align-items-center">
+						<div class="col pt-4" style="background-color: #fff;">
+							<div class="single-newsletter text-center">
+								<h3>Feedback form</h3>
+								<h4 style='font-weight: normal;'>Team Nourish is dedicated to serving our wonderful community as best we can. We warmly invite you to provide your feedback confidentially and anonymously via the form below. All fields are optional.</h4>
+								
+								<script type="text/javascript"  src="https://LovattsPuzzles.formstack.com/forms/js.php/tell_us_what_you_think"></script><noscript><a href="https://LovattsPuzzles.formstack.com/forms/tell_us_what_you_think" title="Online Form">Online Form - Tell Us What You Think Survey</a></noscript>
+								<!--					<p style='padding: 0 40px; font-size: 14px; font-family: helvetica;'>Thanks so much for providing your input today. If you have any questions for us, are interested in partnerships or submissions, or would like to provide more detailed feedback, please don't hesitate to get in touch via the methods provided on our <a href='/contact/'>contact page</a>.</p>
+								<p style='padding: 0 40px; font-size: 14px; font-family: helvetica;'>Your email will be used only to contact you about your feedback. You will not be subscribed to the Nourish e-news unless you choose to <a data-toggle="modal" data-target="#subscribePopUp" href="#">sign up</a> separately.</p>
+								-->
+								<p style='padding: 0 40px; font-size: 14px; font-family: helvetica;'>
+								Interested in partnerships, submissions or providing more detailed feedback? Please visit our <a href='/contact/'>contact us page</a>.
+								</p>
+							
+							</div>
+						</div>
+					</div>
+	
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="mobile-overlay close-nav-toggle"></div>
+
+
+<style>
+
+  #chooseCountry .modal-header {
+    display: block;
+    text-align: center;
+    border: 0;
+  }
+
+  #chooseCountry .custom-logo {
+    width: 230px;
+    max-width: 100%;
+    margin-top: 1rem;
+  }
+
+  #chooseCountry .modal-header .close {
+    position: absolute;
+    right: 21px;
+  }
+
+  #chooseCountry .modal-header a {
+    margin: auto;
+  }
+
+  #chooseCountry .modal-body p {
+    margin: 1rem 0;
+  }
+
+  #chooseCountry .modal-footer {
+    border: 0;
+  }
+
+  @media (max-width: 768px) {
+  
+    #chooseCountry .modal-footer {
+      display: block;
+    }
+
+    .mbtn {
+      width: 100%;
+      margin: 0 0 0.5rem!important;
+    }
+  }
+</style>
+
+<div class="modal fade" id="chooseCountry" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <a href="https://nourishmagazine.com.au/" class="custom-logo-link" rel="home" aria-current="page"><img width="1" height="1" src="https://eadn-wc05-5516459.nxedge.io/wp-content/uploads/2020/03/Nourish_2020_ntag.svg" class="custom-logo" alt="Nourish plant-based living" decoding="async" /></a>        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>  
+      </div>
+      <div class="modal-body text-center">
+      
+        <p class="mt-4">Based on your shipping address,<br> where would you like to shop?</p>
+      </div>
+      <div class="modal-footer">
+        <a href="https://lovattsmagazines.com.au/collections/nourish-magazine-subscription"    class="btn btn-secondary btn-block mt-0 mbtn" target="_blank">AUS</a>
+        <a href="https://lovattsmagazines.co.nz/collections/nourish-magazine-subscription" class="btn btn-secondary btn-block mt-0 mbtn" target="_blank">NZ</a>
+        <a href="https://www.magazine.store/nourish-plant-based-living/" class="btn btn-secondary btn-block mt-0 mbtn" target="_blank">USA</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+
+(function($) {
+  var country = '';
+
+  var auUrl = 'a[href="https://lovattsmagazines.com.au/collections/nourish-magazine-subscription"]';
+  var nzUrl = 'a[href="https://lovattsmagazines.co.nz/collections/nourish-magazine-subscription"]';
+  var usUrl = 'a[href="https://www.magazine.store/nourish-plant-based-living/"]';
+
+  country = "BG"
+  if (country !== 'AU') {
+    $(auUrl+','+nzUrl+','+ usUrl).click(function(e) {
+      if (!$(e.target).parents('#chooseCountry').length) {
+        e.preventDefault();
+        $('#chooseCountry').modal('show');
+      }
+      else {
+        $('#chooseCountry').modal('hide');
+        return true;
+      }
+    });
+  }
+
+})(jQuery);
+
+</script>
+<!-- Floating Social Buttons Code -->
+
+
+<div id="social-share" class="d-md-none">
+  <ul class="social-itens hidden">
+
+	<li>
+	  <button class="btn-share social-item-3">
+		  <a target="_blank" href="/contact">
+			  
+			  <img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/nourish-child-theme/assets/images/white-email.svg" width="23" height="23" alt="Email Icon">
+		</a>
+			
+		</button>
+	</li>
+	<li>
+	  <button class="btn-share social-item-2">
+										
+			<a target="_blank" href="https://instagram.com/nourish_au/">
+				<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/nourish-child-theme/assets/images/white-instagram.svg" width="20" height="20" alt="Instagram Icon">
+			</a>
+										
+				
+	  </button>
+	  
+	</li>
+	<li>
+	  <button class="btn-share social-item-1">
+											
+			<a target="_blank" href="https://facebook.com/nourishmagau/">
+				<img src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/nourish-child-theme/assets/images/white-fb.svg" width="20" height="20" alt="Facebook Icon">
+			</a>
+											
+				
+	  </button>
+	</li>
+  </ul>
+
+  <div class="social-open-menu">
+	<button class="btn-share"><span id="social-float"><span class="material-icons">more_horiz</span></span></button>
+  </div>
+</div>
+
+
+
+
+
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://nourishmagazine.com.au/wp-admin/admin-ajax.php";
+</script>
+<script>
+    // get country code
+    jQuery(function($) {
+      var lmAjaxUrl = "https://nourishmagazine.com.au/wp-admin/admin-ajax.php";
+      var ccVars = {"subscribe_url":{"AU":"https://lovattsmagazines.com.au/collections/nourish-magazine-subscription","NZ":"https://lovattsmagazines.co.nz/collections/nourish-magazine-subscription","US":"https://www.magazine.store/nourish-plant-based-living/"},"storefinder_url":{"AU":"https://lovattsmagazines.com.au/pages/store-finder#nourish","NZ":"https://lovattsmagazines.co.nz/pages/store-finder#nourish"},"lovattsmagazines_url":{"AU":"https://lovattsmagazines.co.nz","NZ":"https://lovattsmagazines.com.au"}}          
+      $.ajax({
+        url: lmAjaxUrl,
+        data: { action: "ajax_get_country_code" },
+        type: "GET", 
+        success: function(data) {
+          var country = data;
+          var subscribe_url = ccVars.subscribe_url[country]
+          var storefinder_url = ccVars.storefinder_url[country]
+          var lovattsmagazines_url = ccVars.lovattsmagazines_url[country]
+    
+          $(".subscribe_url").attr("href", subscribe_url ? subscribe_url : ccVars.subscribe_url.AU)
+          $(".storefinder_url").attr("href", storefinder_url ? storefinder_url : ccVars.storefinder_url.AU)
+          $(".lovattsmagazines_url").attr("href", lovattsmagazines_url ? lovattsmagazines_url : ccVars.lovattsmagazines_url.AU)
+        },
+        error: function(err) {
+          console.log(err)
+        }
+      });	
+    });
+  </script><script type="text/javascript" src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/nourishmagazine.com.au\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver" id="intersection-observer-polyfill-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad@1.3.0/dist/lozad.min.js" id="lozad-js"></script>
+<script type="text/javascript" src="https://eadn-wc05-5516459.nxedge.io/wp-content/themes/nourish-child-theme/assets/js/bundle.min.js?ver=1.0.94" id="lovatts-js-js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js?ver=20151215" id="lovatts-base-theme-popper-js"></script>
+<script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js?ver=20151215" id="lovatts-base-theme-bootstrap-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LcDZ-UUAAAAAKtwDsKIgB2Td425a9uHyPTv1UTw&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://eadn-wc05-5516459.nxedge.io/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://eadn-wc05-5516459.nxedge.io/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://eadn-wc05-5516459.nxedge.io/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcDZ-UUAAAAAKtwDsKIgB2Td425a9uHyPTv1UTw","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.6.4" id="wpcf7-recaptcha-js"></script>
+<script type="text/javascript" id="sbi_scripts-js-extra">
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/nourishmagazine.com.au\/wp-content\/uploads\/sb-instagram-feed-images\/","placeholder":"https:\/\/eadn-wc05-5516459.nxedge.io\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png","ajax_url":"https:\/\/nourishmagazine.com.au\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://eadn-wc05-5516459.nxedge.io/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=6.0.8" id="sbi_scripts-js"></script>
+<!-- jscript for Social floating buttons-->
+<script>
+	jQuery(document).ready(function($) {
+		$(".social-open-menu").click(function() {
+  		$(".social-itens").toggleClass("open");
+  		$(".social-itens").toggleClass("hidden");
+		  if($(".open")[0]){
+			
+			$("#social-float").html('<span class="material-icons">close</span>');
+		  }
+		  else
+		  {
+			$("#social-float").html('<span class="material-icons">more_horiz</span>');
+		  }
+		});
+		$('body').bind('cut copy paste', function (e) {
+			//e.preventDefault();
+		});
+		$("body").on("contextmenu",function(e){
+			  // return false;
+		});
+	});
+
+</script>
+
+
+
+
+</body>
+</html><!-- Cache Enabler by KeyCDN @ Tue, 02 Jul 2024 11:34:31 GMT (https-index.html) -->

@@ -1,0 +1,1083 @@
+<!-- Site by https://lpip.com.au -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title></title>
+<meta name="description" content="">
+<meta name="facebook-domain-verification" content="qwzijdqwx3kqw57wkn1wtkjhbrsrda" />
+<meta name="body-class" content="home page-template page-template-template-shellhouse page-template-template-shellhouse-php page page-id-2 page-parent">
+<meta name='robots' content='max-image-preview:large' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='style-css' href='https://shellhouse.com.au/site/wp-content/themes/shellhouse/dist/style.css?1715122284' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://shellhouse.com.au/wp-json/" /><link rel="alternate" type="application/json" href="https://shellhouse.com.au/wp-json/wp/v2/pages/2" /><link rel="icon" href="https://shellhouse.com.au/site/wp-content/uploads/2021/05/cropped-favicon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://shellhouse.com.au/site/wp-content/uploads/2021/05/cropped-favicon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://shellhouse.com.au/site/wp-content/uploads/2021/05/cropped-favicon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://shellhouse.com.au/site/wp-content/uploads/2021/05/cropped-favicon-1-270x270.png" />
+
+<!-- Google Tag Manager for main site -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KVZ2SFM');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2685YXQF09"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2685YXQF09');
+</script>
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '712791759679186');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"  src="https://www.facebook.com/tr?id=712791759679186&ev=PageView&noscript=1"/></noscript>
+
+</head>
+<body class="home page-template page-template-template-shellhouse page-template-template-shellhouse-php page page-id-2 page-parent">
+
+<!-- Google Tag Manager (noscript) Main site -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KVZ2SFM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <header class="locked">
+  <a href="/" class="derp"><svg class="logo" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="8.6px"
+     height="225.6px" viewBox="0 0 8.6 225.6" style="overflow:visible;enable-background:new 0 0 8.6 225.6;" xml:space="preserve">
+  <defs>
+  </defs>
+  <path d="M8.4,9.3c0,1-0.9,1.8-2,1.8h-4c-1.1,0-2-0.8-2-1.8V7.8h2.5v1C2.9,8.9,3,9,3.1,9h2.5c0.1,0,0.2-0.1,0.2-0.2
+    V7.2c0-0.1-0.1-0.2-0.2-0.2C5.2,6.9,4.3,6.7,2.1,6.1C1,5.8,0.4,5.4,0.4,4.4V1.8c0-1,0.9-1.8,2-1.8h3.9c1.1,0,2,0.8,2,1.8v1.5H5.7
+    V2.4c0-0.1-0.1-0.2-0.2-0.2H3.2C3.1,2.2,3,2.3,3,2.4v1.4C3,4,3.1,4,3.2,4C3.4,4.1,4.4,4.4,6.7,5c1,0.3,1.6,0.7,1.6,1.7V9.3z"/>
+  <path d="M6,28.1H2.6v4.6H0V21.4h2.6v4.4H6v-4.4h2.6v11.2H6V28.1z"/>
+  <path d="M0.8,42.9h7.4v2.2H3.4v2.1h4.4v2.2H3.4v2.4h4.8v2.2H0.8V42.9z"/>
+  <path d="M1,64.3h2.6v9h4.7v2.2H1V64.3z"/>
+  <path d="M1,85.8h2.6v9h4.7V97H1V85.8z"/>
+  <path d="M6,135.3H2.6v4.6H0v-11.2h2.6v4.4H6v-4.4h2.6v11.2H6V135.3z"/>
+  <path d="M6.5,161.3H2.1c-1.1,0-2-0.8-2-1.8V152c0-1,0.9-1.8,2-1.8h4.4c1.1,0,2,0.8,2,1.8v7.5
+    C8.5,160.5,7.6,161.3,6.5,161.3z M5.7,152.3H2.9c-0.1,0-0.2,0.1-0.2,0.2v6.4c0,0.1,0.1,0.2,0.2,0.2h2.8c0.1,0,0.2-0.1,0.2-0.2
+    v-6.4C5.9,152.4,5.8,152.3,5.7,152.3z"/>
+  <path d="M8.4,171.6v9.3c0,1-0.9,1.8-2,1.8H2.2c-1.1,0-2-0.8-2-1.8v-9.3h2.6v8.8c0,0.1,0.1,0.2,0.2,0.2h2.6
+    c0.1,0,0.2-0.1,0.2-0.2v-8.8H8.4z"/>
+  <path d="M8.4,202.4c0,1-0.9,1.8-2,1.8h-4c-1.1,0-2-0.8-2-1.8v-1.5h2.5v1c0,0.1,0.1,0.2,0.2,0.2h2.5
+    c0.1,0,0.2-0.1,0.2-0.2v-1.6c0-0.1-0.1-0.2-0.2-0.2c-0.3-0.1-1.3-0.3-3.5-0.9c-1.1-0.3-1.7-0.7-1.7-1.7v-2.5c0-1,0.9-1.8,2-1.8
+    h3.9c1.1,0,2,0.8,2,1.8v1.5H5.7v-0.9c0-0.1-0.1-0.2-0.2-0.2H3.2c-0.1,0-0.2,0.1-0.2,0.2v1.4c0,0.1,0.1,0.2,0.2,0.2
+    c0.2,0.1,1.2,0.3,3.6,0.9c1,0.3,1.6,0.7,1.6,1.7V202.4z"/>
+  <path d="M0.8,214.5h7.4v2.2H3.4v2.1h4.4v2.2H3.4v2.4h4.8v2.2H0.8V214.5z"/>
+  </svg>
+</a>
+
+
+<!-- <nav class="links data-no-swup">
+    <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-495"><a href="https://shellhouse.com.au/" aria-current="page">Reservations</a></li>
+<li id="menu-item-480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://shellhouse.com.au/home/contact-us/">Contact</a></li>
+</ul></div></nav> -->
+<nav class="links data-no-swup">
+  <div class="menu-main-menu-container">
+    <ul id="menu-main-menu" class="menu">
+    
+      <li><a class="open-modal" data-domodal="signup-form" data-no-swup>Signup</a></li>
+      <li id="menu-item-480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://shellhouse.com.au/home/contact-us/">Contact</a></li>
+
+    </ul>
+  </div>
+</nav>
+</header>
+
+<!-- <div class="spinner"></div> -->
+<nav id="venue-nav" class="swup">
+    <div class="menu-venue-menu-container"><ul id="menu-venue-menu" class="menu"><li id="menu-item-404" class="now breath menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="https://shellhouse.com.au/sky-bar/">Sky Bar</a></li>
+<li id="menu-item-405" class="now menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="https://shellhouse.com.au/dining-room-terrace/">Dining Room &#038; Terrace</a></li>
+<li id="menu-item-421" class="now menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="https://shellhouse.com.au/clocktower-bar/">Clocktower Bar</a></li>
+<li id="menu-item-406" class="now breath menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="https://shellhouse.com.au/menzies-bar/">Menzies Bar &#038; Bistro</a></li>
+</ul></div></nav><main data-scroll-container>
+<div class="swup">
+  <video loop autoplay playsinline muted class="beegee">
+    <source src="https://shellhouse.com.au/site/wp-content/uploads/video/video-extended.mp4" type="video/mp4">
+  </video>
+
+<!-- <div class="our-house hide-xs">
+  <div class="house-header locked orange">
+    <div class="top">
+      <a href="/our-house/"><span>15 Oct</span></a>
+      <a href="/our-house/"><span>31 Oct</span></a>
+    </div>
+    <div class="bottom">
+      <a href="/our-house/"><span>SHELL</span></a>
+      <a href="/our-house/"><span>HOUSE</span></a>
+    </div>
+  </div>
+  <section class="house-intro">
+    <div class="mega-boy locked">
+      <span>Your</span><span>House</span>
+    </div>
+    <div class="info-top">  
+    <h2>A two-week long festival of good times<br>
+      Born to lead the Renaissance of the CBD</h2>
+    </div>
+    <div class="info-bottom"> <div class="button dark"><a href="/your-house" data-no-swup >Visit Your House</a></div>
+      <img class="intro-logo" src="https://shellhouse.com.au/site/wp-content/uploads/2022/03/logos-2.png"  />
+    </div>
+  </section>
+</div> -->
+ 
+      <div id="shell-house" class="accordion" role="navigation" aria-label="Menu"> 
+        <div class="accordion-item">
+            <div class="heading">
+              Reservations            </div>
+            <div class="details parent" id="home">
+                <!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="medium" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 col-sm-10 start-xs">
+      <div class="inner-pad">  
+        <h1 style="text-align: center;">Reservations</h1>
+<p style="text-align: center;">Level 9 Dining Room &amp; Terrace &#8211; Monday to Saturday</p>
+<p style="text-align: center;"><a href="https://www.sevenrooms.com/reservations/diningroomterrace/dining-room-widget?venues=menziesbarbistro,diningroomterrace" target="_blank" rel="noopener"><strong>Reservations</strong></a></p>
+<p style="text-align: center;">Level 9 Clocktower Bar &#8211; Monday to Saturday</p>
+<p style="text-align: center;"><a href="https://www.sevenrooms.com/reservations/clocktowerbar/clocktower-widget?venues=menziesbarbistro,skybarsydney,clocktowerbar" target="_blank" rel="noopener"><strong>Reservations</strong></a></p>
+<p style="text-align: center;">Level 10 Sky Bar &#8211; Tuesday to Saturday</p>
+<p style="text-align: center;"><a href="https://www.sevenrooms.com/reservations/skybarsydney/sky-bar-widget?venues=menziesbarbistro,skybarsydney,clocktowerbar"><strong>Reservations</strong></a></p>
+<p style="text-align: center;"> Menzies Bar &amp; Bistro &#8211; Monday to Saturday</p>
+<p style="text-align: center;"><a href="https://www.sevenrooms.com/reservations/menziesbarbistro/menzies-widget?venues=menziesbarbistro,skybarsydney,diningroomterrace,clocktowerbar&amp;_gl=1*4as530*_ga*MTIwOTM5NDE1OS4xNzAxMDM4OTQz*_ga_2685YXQF09*MTcxNDEwNzg0Ni4xMTEuMS4xNzE0MTA3OTY1LjAuMC4w"><strong>Reservations</strong></a></p>
+<p style="text-align: center;">
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+            </div>
+        </div>
+                  
+          
+                <div class="accordion-item the-hits-item">
+          <div class="heading">The Hits</div>
+            <div id="the-hits" class="details child">
+                <!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="medium" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <figure><img loading="lazy" decoding="async" class="aligncenter wp-image-3696 size-full" src="https://shellhouse.com.au/site/wp-content/uploads/2024/06/SHS_menzies_thehits24_1_1920x1080.jpg" alt="" width="1920" height="1080" /></figure>
+<h2 style="text-align: center;">THE HITS</h2>
+<h3 style="text-align: center;"><strong>Winter menu of classic pastas in Menzies Bar!</strong></h3>
+<p style="text-align: center;">Crafted by Culinary Director Joel Bickford and his team, &#8216;The Hits&#8217; menu features 8 weeks of handmade $25 pasta dishes perfect for a quick lunch or dinner in the heart of the CBD.</p>
+<p style="text-align: center;">Drawing inspiration from classic Italian pastas and incorporating the unique Shell House signature, the new menu is something that everyone can enjoy.</p>
+<p style="text-align: center;">&#8216;The Hits&#8217; will be available all day in Menzies Bar Monday-Saturday and feature a different pasta each week, with guests able to pair it with a high-quality glass of wine for $10.</p>
+<p style="text-align: center;">The 8 week menu of &#8220;The Hits&#8221; includes dishes such as Salsiccia Conchiglioni, Spaghetti Vongole, Braised Pork Maccheroni and Risotto Nero with Clams.</p>
+<p style="text-align: center;">Commencing Monday 1st July, &#8216;The Hits&#8217; kicks off with an all time favourite, Pappardelle Bolognese.</p>
+<h3 style="text-align: center;">&#8216;The Hits&#8217; $25 Pasta<br />
+Monday-Saturday<br />
+Available all day in Menzies Bar</h3>
+<p style="text-align: center;">Reservations and full program below.<br />
+Walk-ins always welcome!</p>
+<p style="text-align: center;"><a href="https://www.sevenrooms.com/reservations/menziesbarbistro/menzies-widget?venues=menziesbarbistro"><strong>Reservations</strong></a></p>
+<p style="text-align: center;"><b>FULL PROGRAM</b></p>
+<p style="text-align: center;"><b>$25 / $35 </b><b><br />
+</b><b>  each pasta / with wine</b></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Week 1 | 1st &#8211; 6th July<br />
+</span>Pappardelle Bolognese</p>
+<p style="text-align: center;"><span style="font-weight: 400;">Week 2 | 8th &#8211; 13th July<br />
+</span>Salsiccia Conchiglioni</p>
+<p style="text-align: center;"><span style="font-weight: 400;">Week 3 | 15th &#8211; 20th July<br />
+</span>Rigatoni Alla Vermouth</p>
+<p style="text-align: center;"><span style="font-weight: 400;">Week 4 | 22nd &#8211; 27th July<br />
+</span>Spaghetti Vongole</p>
+<p style="text-align: center;"><span style="font-weight: 400;">Week 5 | 29th July &#8211; 3rd August<br />
+</span>Braised Pork Maccheroni</p>
+<p style="text-align: center;"><span style="font-weight: 400;"> Week 6 | 5th &#8211; 10th August<br />
+Bucatini Cacio &#8216;E&#8217; Pepe</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Week 7 | 12th &#8211; 17th August<br />
+</span>Napolitana Spaghetti Polpette</p>
+<p style="text-align: center;"><span style="font-weight: 400;">Week 8 | 19th &#8211; 24th August<br />
+</span>Risotto Nero with Clams</p>
+<p style="text-align: center;"><a href="https://www.sevenrooms.com/reservations/menziesbarbistro/menzies-widget?venues=menziesbarbistro"><strong>Reservations</strong></a></p>
+
+		<style type="text/css">
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 25%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-1' class='gallery galleryid-2670 gallery-columns-4 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="780" height="780" src="https://shellhouse.com.au/site/wp-content/uploads/2024/06/SHS_menzies_thehits24_wk1_ig_1080x1080_less-1-780x780.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="780" height="780" src="https://shellhouse.com.au/site/wp-content/uploads/2024/06/SHS_menzies_thehits24_wk2_ig_1080x1080_less-780x780.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="780" height="780" src="https://shellhouse.com.au/site/wp-content/uploads/2024/06/SHS_menzies_thehits24_wk3_ig_1080x1080_less-780x780.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="780" height="780" src="https://shellhouse.com.au/site/wp-content/uploads/2024/06/SHS_menzies_thehits24_wk4_ig_1080x1080_less-780x780.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />
+			</dt></dl><br style="clear: both" /><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="780" height="780" src="https://shellhouse.com.au/site/wp-content/uploads/2024/06/SHS_menzies_thehits24_wk5_ig_1080x1080_less-780x780.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="780" height="780" src="https://shellhouse.com.au/site/wp-content/uploads/2024/06/SHS_menzies_thehits24_wk6_ig_1080x1080_less-780x780.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="780" height="780" src="https://shellhouse.com.au/site/wp-content/uploads/2024/06/SHS_menzies_thehits24_wk7_ig_1080x1080_less-780x780.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="780" height="780" src="https://shellhouse.com.au/site/wp-content/uploads/2024/06/SHS_menzies_thehits24_wk8_ig_1080x1080_less-780x780.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />
+			</dt></dl><br style="clear: both" />
+		</div>
+
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+            </div>
+        </div>
+            <div class="accordion-item ourhouse2024-item">
+          <div class="heading">OUR HOUSE</div>
+            <div id="ourhouse2024" class="details child">
+                <!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="medium" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <h1><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-3619 aligncenter" src="https://shellhouse.com.au/site/wp-content/uploads/2024/05/shs_ourhouse24_fbheaders_1920x1080-1280x720.jpg" alt="" width="1280" height="720" /></h1>
+<h1 style="text-align: center;">OUR HOUSE 2024</h1>
+<p style="text-align: center;">Taking over Shell House from top to tail from Wednesday 8 May, <strong>OUR HOUSE</strong> is the elevation of the critically-lauded program of the same name which launched in 2022.</p>
+<p style="text-align: center;">Stacked with compelling and culturally significant experiences, the program spans food, wine, music, art and culture. Presented by Perrier-Jouët, the eclectic program is set to deliver a two-month long festival of good times and champagne moments.</p>
+<p style="text-align: center;"><em>Our House will feature a mixture of both ticketed and free events across the nine weeks. All ticketed events will be on sale via the website at 12pm on Monday 13 May.</em></p>
+<p style="text-align: center;"><b>OUR HOUSE</b><br />
+<strong>MAY 08 &#8211; JULY 06<br />
+PRESENTED BY PERRIER-JOUËT</strong></p>
+<p style="text-align: center;"><a href="https://shellhouse.com.au/our-house/" data-no-swup=""><strong>FULL PROGRAM DATES &amp; INFO</strong></a></p>
+<p style="text-align: center;"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-3620" src="https://shellhouse.com.au/site/wp-content/uploads/2024/05/shs_ourhouse24_lead_orange_1080x1350-1024x1280.jpg" alt="" width="1024" height="1280" /></p>
+<figure><img loading="lazy" decoding="async" class="alignnone size-full wp-image-3621 aligncenter" src="https://shellhouse.com.au/site/wp-content/uploads/2024/05/shs_ourhouse24_2month_autumn_1080x1080.jpg" alt="" width="1080" height="1080" /></figure>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+            </div>
+        </div>
+            <div class="accordion-item gift-cards-item">
+          <div class="heading">Gift Cards</div>
+            <div id="gift-cards" class="details child">
+                <!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="none" data-padding-bottom="none">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <h1 style="text-align: center;">Make someones day at Shell House</h1>
+<p style="text-align: center;"><a href="https://shellhouse.com.au/gift-voucher-terms-and-conditions/">Read our Gift Voucher Terms and Conditions</a></p>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- single column -->
+<section class="single-column">
+  <div class="container-fluid" data-padding-top="small" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+      <div class="reverse-iframe"><iframe id="roller-widget" style="width: 100%; min-height: 66.6vh; border: 0;" src="https://roller.app/shellhouse/products/giftcardcheckout"></iframe></div>
+      <p style="text-align: center;">All Prices in $AUD.</p>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>            </div>
+        </div>
+            <div class="accordion-item whats-on-item">
+          <div class="heading">What&#8217;s On</div>
+            <div id="whats-on" class="details child">
+                <!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="none" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <h1 style="text-align: left;"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-3619" src="https://shellhouse.com.au/site/wp-content/uploads/2024/05/shs_ourhouse24_fbheaders_1920x1080-1280x720.jpg" alt="" width="1280" height="720" /></h1>
+<h1 style="text-align: left;">OUR HOUSE 2024</h1>
+<p style="text-align: left;">Taking over Shell House from top to tail from Wednesday 8 May, <strong>OUR HOUSE</strong> is the elevation of the critically-lauded program of the same name which launched in 2022.</p>
+<p style="text-align: left;">Stacked with compelling and culturally significant experiences, the program spans food, wine, music, art and culture. Presented by Perrier-Jouët, the eclectic program is set to deliver a two-month long festival of good times and champagne moments.</p>
+<p style="text-align: left;"><em>Our House will feature a mixture of both ticketed and free events across the nine weeks. All ticketed events will be on sale via the website at 12pm on Monday 13 May.</em></p>
+<p style="text-align: left;"><b>OUR HOUSE</b><br />
+<strong>MAY 08 &#8211; JULY 06<br />
+PRESENTED BY PERRIER-JOUËT</strong></p>
+<p style="text-align: left;"><a href="https://shellhouse.com.au/our-house/"><strong>FULL PROGRAM DATES &amp; INFO</strong></a></p>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="none" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <figure><img loading="lazy" decoding="async" class="alignnone size-full wp-image-3696" src="https://shellhouse.com.au/site/wp-content/uploads/2024/06/SHS_menzies_thehits24_1_1920x1080.jpg" alt="" width="1920" height="1080" /></figure>
+<h1><strong>&#8216;THE HITS&#8217; &#8211; 8 WEEKS 8 PASTAS</strong></h1>
+<p style="text-align: left;">Crafted by Culinary Director Joel Bickford and his team, &#8216;The Hits&#8217; menu features 8 weeks of handmade $25 pasta dishes perfect for an express lunch in the heart of the CBD.<br />
+Drawing inspiration from all the classic Italian pastas and incorporating the unique Shell House signatures, the new menu is something that everyone can enjoy.</p>
+<p>&#8216;The Hits&#8217; will be available all day in Menzies Bar Monday-Saturday and feature a different pasta dish each week, with guests able to pair it with a high-quality glass of wine for $10.</p>
+<h5>&#8216;THE HITS&#8217; CLASSIC PASTAS<br />
+MONDAY TO SATURDAY<br />
+AVAILABLE ALL DAY IN MENZIES BAR</h5>
+<p><a href="https://www.sevenrooms.com/reservations/menziesbarbistro/menzies-widget?venues=menziesbarbistro"><strong>RESERVATIONS</strong></a> <a href="https://shellhouse.com.au/home/the-hits/"><strong>FULL PROGRAM</strong></a></p>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="none" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-2928" src="https://shellhouse.com.au/site/wp-content/uploads/2023/06/SH_Dishes_027_Web-1-853x1280.jpeg" alt="" width="853" height="1280" /></figure>
+<h1><strong>PERRIER-JOUËT CRAB + CAVIAR</strong></h1>
+<p><span style="font-weight: 400;">At Shell House you can enjoy a bottle of Perrier-Jouët Grand Brut and our signature Crab &amp; Caviar for $150.</span></p>
+<p><span style="font-weight: 400;">Pre-order only – Make sure you select the drop down box to access this special offer when making your reservation online.</span></p>
+<p>Now there’s a reason to make any moment a champagne moment at Shell House!</p>
+<p><a href="https://www.sevenrooms.com/reservations/shellhouse?venues=menziesbarbistro,skybarsydney,diningroomterrace,clocktowerbar"><strong>Reservations</strong></a></p>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="none" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-2712" src="https://shellhouse.com.au/site/wp-content/uploads/2023/05/shs_golden_photo_lead_socials_1920x1080-1280x720.jpg" alt="" width="1280" height="720" /></figure>
+<p><a href="https://www.sevenrooms.com/reservations/shellhouse?venues=menziesbarbistro,skybarsydney,diningroomterrace,clocktowerbar"><strong>Reservations</strong></a></p>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="medium" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <h1><img loading="lazy" decoding="async" class="size-full wp-image-3178 aligncenter" src="https://shellhouse.com.au/site/wp-content/uploads/2023/10/menzies_martini_socials_1_ig_1080x1080.jpg" alt="" width="1080" height="1080" /></h1>
+<p>Martini Hour at Menzies serves as a place to celebrate the end of day, or the beginning of your evening. Everyday between 4pm &amp; 6pm.</p>
+<p>Paired daily with a limited run of fresh lobster rolls (until sold out), Martini Hour at Menzies Bar returns a sense of daily ritual to the heart of the Sydney CBD.</p>
+<p>Reservations available, walk-ins welcome.</p>
+<p><a href="https://www.sevenrooms.com/reservations/menziesbarbistro/menzies-widget?venues=menziesbarbistro,skybarsydney,diningroomterrace,clocktowerbar" target="_blank" rel="noopener"><strong>Reservations</strong></a></p>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+            </div>
+        </div>
+            <div class="accordion-item events-item">
+          <div class="heading">Events &#038; Group Reservations</div>
+            <div id="events" class="details child">
+                <!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="medium" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <h1 style="text-align: center;">Host your next event with us</h1>
+<p style="text-align: center;">For more information or to talk to our team please enquire here</p>
+<p style="text-align: center;"><strong><a href="https://shellhouse.tripleseat.com/party_request/22087?hide_banner=1" target="_blank" rel="noopener">Event enquiry</a></strong></p>
+<p style="text-align: center;">For all other general enquiries please email <a href="mailto:info@shellhouse.com.au">info@shellhouse.com.au</a></p>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="none" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <h1 style="text-align: left;">MENZIES BAR</h1>
+<h5 style="text-align: left;">GROUND FLOOR</h5>
+<p>Full-service dining in the bistro | up 40 guests seated</p>
+<p>Bar drinks and snacks | groups of up to 20 guests casual over a mix of seated and standing | smaller parties up to 3 guests may be allocated to bar stools</p>
+<p>Bar drinks and snacks | up to 70 guests for cocktail and canapés parties</p>
+<p>Full exclusive use of Menzies for up to 100 guests seated | up to 200 guests cocktails and canapés over a mix of seated and standing</p>
+<figure><img loading="lazy" decoding="async" class="alignnone wp-image-1306" src="https://shellhouse.com.au/site/wp-content/uploads/2022/02/Menzies_Bar_256-1280x853.jpg" alt="" width="700" height="467" /></figure>
+<h1 style="text-align: left;">CLOCKTOWER BAR</h1>
+<h5 style="text-align: left;">LEVEL 9</h5>
+<p>Group bookings | up to 15 guests seated</p>
+<p>Full exclusive use | up to 40 guests seated | up to 70 guests cocktails and canapés over a mix of seated and standing</p>
+<figure><img loading="lazy" decoding="async" class="alignnone wp-image-1313" src="https://shellhouse.com.au/site/wp-content/uploads/2022/02/Shell_House_001_2100-1280x853.jpg" alt="" width="700" height="467" /></figure>
+<h1 style="text-align: left;">DINING ROOM &amp; TERRACE</h1>
+<p style="text-align: left;"><strong>LEVEL 9</strong></p>
+<p>Exclusive use of the Level 9 | shared banquet menus up to 94 guests seated | up to 220 guests standing cocktails and canapés over a mix of seated and standing</p>
+<p>Semi-private dining | shared banquet menus up to 24 guests seated</p>
+<p>Private dining | shared banquet menus for up to 40 guests seated</p>
+<p>Level 9 and 10 may be hired exclusively for up to 400 guests</p>
+<p><i>(Our outdoor terrace areas are weather dependent &amp; not included in the above capacities) </i></p>
+<figure><img loading="lazy" decoding="async" class="alignnone wp-image-1311" src="https://shellhouse.com.au/site/wp-content/uploads/2022/02/SH_Dining_Room_288_2100-1280x853.jpg" alt="" width="700" height="467" /></figure>
+<h1></h1>
+<h1>SEMI-PRIVATE DINING ROOM</h1>
+<p><strong>Level 9 semi-private dining room</strong></p>
+<p>Shared banquet menus for up to 24 guests seated</p>
+<figure><img loading="lazy" decoding="async" class="alignnone wp-image-1876" src="https://shellhouse.com.au/site/wp-content/uploads/2022/08/IMG_2693-1-1280x853.jpg" alt="" width="700" height="467" /></figure>
+<p>&nbsp;</p>
+<h1 style="text-align: left;">SKYBAR</h1>
+<p style="text-align: left;"><strong>Level 10</strong></p>
+<p>Casual group bookings<span class="Apple-converted-space"> | up to 40 guests cocktails and snacks over a mix of seated and standing</span></p>
+<p>Exclusive use of level 10 | up to 140 guests cocktails and canapés over a mix of seated and standing</p>
+<p>Level 9 and 10 may be reserved combined exclusively for up to 400 guests, a mix of seated and standing</p>
+<figure><img loading="lazy" decoding="async" class="alignnone wp-image-1319" src="https://shellhouse.com.au/site/wp-content/uploads/2022/02/Shell_House_018-v2-1-1280x853.jpg" alt="" width="700" height="467" /></figure>
+<h1></h1>
+<h1 style="text-align: left;">SHELL HOUSE</h1>
+<p style="margin: 0cm;"><strong>Entire Venue</strong></p>
+<p>Shell House is proud to offer all 3 levels from the Menzies Bar and Bistro on the ground floor plus levels 9 and 10 for large product launches, activations, music and other large events</p>
+<p>Capacity | up to 600 guests | mix of casual seated and standing</p>
+<p>Food and beverage offerings to suit the style of your event</p>
+<p>Four serviced bars</p>
+<p>Outdoor spaces located on level 9 and 10</p>
+<h1 style="text-align: left;">EXCLUSIVE EVENTS</h1>
+<p>We have an array of world class DJ&#8217;s, music and entertainment we can provide for you</p>
+<p>AV capabilities via our supplier</p>
+<p>Stunning floral arrangements via our supplier</p>
+<p>Please let us know your requirements upon enquiry</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+            </div>
+        </div>
+            <div class="accordion-item weddings-item">
+          <div class="heading">Weddings</div>
+            <div id="weddings" class="details child">
+                <!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="medium" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <h1 style="text-align: center;">Weddings at Shell House</h1>
+<p style="text-align: center;">Thank you for thinking of Shell House to celebrate your special day.</p>
+<p style="text-align: center;">Shell House is an unparalleled hospitality experience, weaving realities of grandeur through multiple revived levels of a heritage palazzo icon.</p>
+<p style="text-align: center;">If you are seeking a truly unique experience, Shell House is perfect for ceremonies, post-ceremony activities, wedding receptions or all the above.</p>
+<p style="text-align: center;">Please contact our dedicated events team as we would be delighted to hear from you to see how we can be a part of the wedding of your dreams!</p>
+<p style="text-align: center;"><strong><a href="https://shellhouse.tripleseat.com/party_request/22087?hide_banner=1" target="_blank" rel="noopener">Wedding enquiry</a></strong></p>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-3389" src="https://shellhouse.com.au/site/wp-content/uploads/2024/02/JA700696-Enhanced-NR-1-1-1280x853.jpg" alt="" width="1280" height="853" /></figure>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-3445" src="https://shellhouse.com.au/site/wp-content/uploads/2024/03/MyDRiYHz-1280x853.jpg" alt="" width="1280" height="853" /></figure>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-3401" src="https://shellhouse.com.au/site/wp-content/uploads/2024/02/JA901487-Enhanced-NR-1-3-1280x853.jpeg" alt="" width="1280" height="853" /></figure>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-3405" src="https://shellhouse.com.au/site/wp-content/uploads/2024/02/JA901415-2-1280x853.jpg" alt="" width="1280" height="853" /></figure>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-3400" src="https://shellhouse.com.au/site/wp-content/uploads/2024/02/JA700517-1280x853.jpg" alt="" width="1280" height="853" /></figure>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-3404" src="https://shellhouse.com.au/site/wp-content/uploads/2024/02/JA900997-2-1280x853.jpg" alt="" width="1280" height="853" /></figure>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+            </div>
+        </div>
+            <div class="accordion-item gallery-item">
+          <div class="heading">Gallery</div>
+            <div id="gallery" class="details child">
+                <!-- two column -->
+<section class="two-column  ">
+  <div class="container-fluid" data-padding-top="small" data-padding-bottom="small">
+    <div class="row center-xs">
+      <div class="col-xs-12">
+        <div class="row center-xs">
+          <div class="col-xs-12 col-lg-6 first-column">
+            <p>&nbsp;</p>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-253" src="https://shellhouse.com.au/site/wp-content/uploads/2021/06/210517-ShellHouse-External-_straightcrop-709x1280.jpeg" alt="" width="709" height="1280" /></figure>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1305" src="https://shellhouse.com.au/site/wp-content/uploads/2022/02/CCNbHWfQ-1280x853.jpeg" alt="" width="1280" height="853" /></figure>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1306" src="https://shellhouse.com.au/site/wp-content/uploads/2022/02/Menzies_Bar_256-1280x853.jpg" alt="" width="1280" height="853" /><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1312" src="https://shellhouse.com.au/site/wp-content/uploads/2022/02/SH_Dining_Room_301_2100-1280x853.jpg" alt="" width="1280" height="853" /><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1311" src="https://shellhouse.com.au/site/wp-content/uploads/2022/02/SH_Dining_Room_288_2100-1280x853.jpg" alt="" width="1280" height="853" /></figure>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1310" src="https://shellhouse.com.au/site/wp-content/uploads/2022/02/SH_Terrace_37_2100-1280x853.jpg" alt="" width="1280" height="853" /></figure>
+<p>&nbsp;</p>
+          </div>
+          <div class="col-xs-12 col-lg-6">
+            <figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-251" src="https://shellhouse.com.au/site/wp-content/uploads/2021/06/210409-ShellHouse-097_straight_wide-1280x1164.jpeg" alt="" width="1280" height="1164" /></figure>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1313" src="https://shellhouse.com.au/site/wp-content/uploads/2022/02/Shell_House_001_2100-1280x853.jpg" alt="" width="1280" height="853" /><br />
+<img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1314" src="https://shellhouse.com.au/site/wp-content/uploads/2022/02/Shell_House_018-v2-1280x853.jpg" alt="" width="1280" height="853" /></figure>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1315" src="https://shellhouse.com.au/site/wp-content/uploads/2022/02/Shell_House_019_2100-943x1280.jpg" alt="" width="943" height="1280" /></figure>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>            </div>
+        </div>
+            <div class="accordion-item news-item">
+          <div class="heading">News</div>
+            <div id="news" class="details child">
+                <!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="medium" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <h1>Press</h1>
+<p><a href="https://australianbartender.com.au/2023/08/30/campari-academy-is-bringing-an-aperitivo-symposium-to-sydney-bar-week/">Australian Bartender &#8211; &#8220;Campari Academy is bringing an Aperitivo Symposium to Sydney Bar Week&#8221;</a></p>
+<p>Gourmet Traveller Review</p>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1293" src="https://shellhouse.com.au/site/wp-content/uploads/2022/02/IMG_5239-2-960x1280.jpg" alt="" width="960" height="1280" /></figure>
+<p><a href="https://www.broadsheet.com.au/sydney/food-and-drink/article/now-open-shell-house-development-complete-rooftop-bars-majestic-dining-room">Broadsheet &#8211; &#8220;Review: At the Majestic Shell House Development, the Grand Dining Room Is the Heart and Soul of the Building&#8221;</a></p>
+<p><a href="https://www.goodfood.com.au/shell-house-dining-room-and-terrace-sydney/shell-house-dining-room-and-terrace-review-20211213-h20l3p">Good Food &#8211; &#8220;Review: Bright Light in the Big City&#8221;</a><img decoding="async" class="alignnone size-full wp-image-1100" src="https://shellhouse.com.au/site/wp-content/uploads/2021/12/IMG_2584.heic" alt="" /></p>
+<p><a href="https://www.broadsheet.com.au/sydney/event/our-house-world-class-bar-takeover-shell-house">Broadsheet &#8211; &#8220;Our House: World Class Bar Takeover at Shell House&#8221;</a></p>
+<p><a href="https://www.delicious.com.au/delicious-month-out/gallery/american-express-delicious-month-out-launch-party-sydney/w4h97fj5">Delicious &#8211; &#8220;Behind-the-scenes at our American Express delicious. Month Out launch party at Shell House, Sydney&#8221;</a></p>
+<p><a href="https://sitchu.com.au/sydney/bars/best-new-bars-sydney">Sitchu &#8211; &#8220;Best New Bars in Sydney for Cocktails &amp; Good Times&#8221;</a></p>
+<p class="_h1_1ucvn_1"><a href="https://www.timeout.com/sydney/bars/the-best-new-bars-in-sydney">TimeOut &#8211; &#8220;The best new bars in Sydney&#8221;</a></p>
+<p class="_h1_1ucvn_1"><a href="https://www.timeout.com/sydney/bars/world-class-x-shell-house">TimeOut &#8211; &#8220;World Class x Shell House&#8221;</a></p>
+<p class="_h1_1ucvn_1"><a href="https://www.broadsheet.com.au/national/entertainment/article/whats-making-sydney-cbd-and-its-surrounds">Broadsheet &#8211; &#8220;What’s Making Sydney CBD (and Its Surrounds) So Good Again? Many Things – You Just Need to Know Where To Look&#8221;</a></p>
+<p><a href="https://www.goodfood.com.au/eat-out/news/sydneys-most-exciting-restaurant-openings-of-the-year-so-far-20220627-h24p3w">Good Food &#8211; &#8220;Sydney&#8217;s most exciting restaurant openings of the year so far&#8221;</a></p>
+<p><a href="https://novonite.com/sydneys-most-exciting-restaurant-openings-of-the-year-yet/">Novonite &#8211; &#8220;Sydney’s most exciting restaurant openings of the year yet&#8221;</a></p>
+<p class="ArticleTitle-sc-1gqvqcu-1 jEIoNH"><a href="https://www.broadsheet.com.au/sydney/food-and-drink/article/sydney-best-restaurant-openings-2022-so-far">Broadsheet &#8211; &#8220;Sydney’s Best Bar Openings of 2022 (So Far)&#8221;</a></p>
+<p id="story-headline" class="g_font-title-xl"><a href="https://www.dailytelegraph.com.au/entertainment/sydney-confidential/top-20-restaurateurs-reveal-their-favourite-places-to-eat-in-sydney/news-story/be23e879d2226375496c020c52cddffa?btr=2521653a4580f3e2637c7712cb985943">Daily Telegraph &#8211; &#8220;Top 20 restaurateurs reveal their favourite Sydney bars, restaurants and service&#8221;</a></p>
+<p><a href="https://www.theurbanlist.com/sydney/a-list/beautiful-restaurants-sydney" target="_blank" rel="noopener">The Urban List &#8211; &#8220;Sydney&#8217;s Most Beautiful Restaurants To Book For A High-Flying Feed&#8221;</a></p>
+<p class="a-list-article-title"><a href="https://www.theurbanlist.com/sydney/a-list/restaurants-sydney-cbd?utm_medium=email&amp;utm_campaign=Sydney%20eNews%20300522&amp;utm_content=Sydney%20eNews%20300522+CID_3c0210889b094cc58bda89769627fff3&amp;utm_source=Campaign%20Monitor%20Emails">The Urban List &#8211; &#8220;22 Of The Best Restaurants In The Sydney CBD Right Now&#8221;</a></p>
+<p><a href="https://hercanberra.com.au/life/travel/long-weekending-in-sydney-here-are-10-new-restaurants-to-check-out/">HerCanberra &#8211; &#8220;Long weekending in Sydney? Here are 10 new restaurants to check out</a>&#8221;</p>
+<p><a href="https://www.broadsheet.com.au/sydney/entertainment/article/editors-picks-best-things-do-sydney-january-2022">Broadsheet &#8211; &#8220;Best Things To Do In Sydney This January&#8221; </a></p>
+<p><a href="https://www.delicious.com.au/eat-out/restaurants/review/shell-house-dining-room-terrace-restaurant-review/v9t1zstp">Delicious &#8211; &#8220;Review: Shell House Dining Room and Terrace is Sydney&#8217;s new fine diner in the sky&#8221;</a></p>
+<p><a href="https://www.broadsheet.com.au/sydney/food-and-drink/article/sydneys-best-bar-openings-2021">Good Food &#8211; &#8220;Sydney&#8217;s Best Bar Openings of 2021&#8221; </a></p>
+<p><a href="https://www.broadsheet.com.au/sydney/food-and-drink/article/sydneys-best-bar-openings-2021" target="_blank" rel="noopener">Broadsheet &#8211; &#8220;Sydney&#8217;s Best Bar Openings of 2021&#8221; </a></p>
+<p><a href="https://www.goodfood.com.au/eat-out/good-food-guides/heres-cheers-15-of-sydneys-finest-places-to-drink-this-summer-20211112-h1zr3u">Good Food &#8211; &#8220;Here&#8217;s Cheers! 15 of Sydney&#8217;s finest places to drink this Summer&#8221; </a></p>
+<p><a href="https://www.goodfood.com.au/eat-out/just-open/dining-room--terrace-opens-at-sydney-cbds-14-million-shell-house-20211126-h200gy">Good Food &#8211; &#8221; Dining Room &amp; Terrace opens at Sydney CBD&#8217;s $14million Shell House&#8221; </a></p>
+<p><a href="https://www.goodfood.com.au/eat-out/good-food-guides/good-food-guide-2022-the-it-list--next-big-things-in-nsw-20211117-h1zu03">Good Food &#8211; &#8220;Good Food Guide 2022: The It List &#8211; next big things in NSW&#8221; </a></p>
+<p><a href="https://www.goodfood.com.au/eat-out/just-open/sky-bar-opens-at-sydney-megavenue-shell-house-with-a-flood-of-bookings-20211112-h1zrec">Good Food &#8211; &#8220;Sky Bar opens at Sydney mega-venue Shell House with a flood of bookings&#8221; </a></p>
+<p><a href="https://www.delicious.com.au/people-events/delicious/gallery/delicious-20th-birthday-dinner-behind-scenes/brymueqw">Delicious &#8211; &#8220;Behind-the-scenes at our 20th birthday dinner at Shell House&#8221; </a></p>
+<p><a href="https://www.vogue.com.au/vogue-living/entertaining/new-sydney-restaurants-2021/image-gallery/be91496dfca402556932b53dfc9298be">Vogue Australia &#8211; &#8220;16 New Sydney Bars &amp; Restaurants To Try Now&#8221;  </a></p>
+<p><a href="https://www.gq.com.au/lifestyle/food-wine/new-sydney-restaurants/image-gallery/1d697f9de6bc96038b5bd82531a30480">GQ Australia &#8211; &#8220;22 New Sydney Restaurants To Try This Summer&#8221;</a></p>
+<p class="entry-title"><a href="https://www.bosshunting.com.au/lifestyle/drink/best-sydney-rooftop-bars/">Boss Hunting &#8211; &#8220;Sydney’s 37 Best Rooftop Bars To Tie One On This Summer&#8221;</a></p>
+<p><a href="https://www.timeout.com/sydney/bars/sky-bar-shell-house">Time Out &#8211; &#8220;Take a trip back to the 1920s, ten stories up, at Sydney&#8217;s swish new Art Deco hospo destination&#8221; </a></p>
+<p><a href="https://www.gq.com.au/lifestyle/food-wine/new-sydney-restaurant-openings/image-gallery/1d697f9de6bc96038b5bd82531a30480">GQ Australia &#8211; &#8220;10 New Sydney Restaurants To Check Out Post-Lockdown&#8221; </a></p>
+<p><a href="https://www.delicious.com.au/eat-out/restaurants/gallery/10-best-new-restaurants-opening-sydney-2021/18gldvlm">Delicious &#8211; &#8220;10 New Restaurants In Sydney you may have missed&#8221;  </a></p>
+<p><a href="https://www.goodfood.com.au/eat-out/news/massive-queues-expected-to-remain-as-sydneysiders-return-to-pubs-and-restaurants-20211014-h1z70h">Good Food &#8211; &#8221; &#8216;Massive&#8217; Queues Expected To Remain As Sydneysiders Return To Pubs And Restaurants&#8221; </a></p>
+<p><a href="https://www.broadsheet.com.au/sydney/food-and-drink/article/menzies-bar-bistro-first-venue-cbd-monumental-shell-house-open-next-week">Broadsheet &#8211; &#8220;Menzies Bar &amp; Bistro, the First Venue in the CBD&#8217;s Monumental Shell House&#8221; </a></p>
+<p><a href="https://concreteplayground.com/sydney/food-drink/the-menzies-bar-shell-house">Concrete Playground &#8211; &#8220;The Menzies Bar Is the First Venue Opening Inside Shell House&#8221; </a></p>
+<p><a href="https://www.theurbanlist.com/sydney/directory/the-menzies-bar-sydney">The Urban List &#8211; &#8220;The Point Group have taken on historic Shell House at Wynyard in the CBD&#8221; </a></p>
+<p><a href="https://www.delicious.com.au/eat-out/restaurants/article/menzies-bar-bistro-opens-shell-house-sydney-cbd/86rwp6ij">Delicious &#8211; &#8220;Make up for lost time at this slick new European bar and bistro by Joel Bickford.&#8221; </a></p>
+<p><a href="https://highlandsonlinenews.com.au/the-menzies-bar-is-the-first-venue-opening-inside-the-cbds-historic-shell-house-next-week/">Highlands Online &#8211; &#8220;The Menzies Bar Is the First Venue Opening Inside the CBD’s Historic Shell House&#8221; </a></p>
+<p><a href="https://eatdrinkplay.com/sydney/menzies-bar-shell-house/">Eat Drink Play &#8211; &#8220;The ground floor of the much anticipated Shell House has opened. Say hello to Menzies Bar &amp; Bistro.&#8221; </a></p>
+<p><a href="https://www.goodfood.com.au/eat-out/news/aaron-ward-joins-the-dining-room-at-fourinone-megavenue-shell-house-20210924-h1ysww">Good Food &#8211; &#8220;Ward takes over the Dining Room &amp; Terrace&#8221;. </a></p>
+<p><a href="https://www.broadsheet.com.au/sydney/food-and-drink/article/new-hire-five-minutes-aaron-ward-shell-house-dining-rooms-newly-appointed-head-chef">Broadsheet &#8211; &#8220;Five Minutes With Aaron Ward&#8221;. </a></p>
+<p><a href="https://www.gourmettraveller.com.au/news/restaurant-news/joel-bickford-shell-house-culinary-director-19329">Gourmet Traveller &#8211; &#8220;From Opera House to Shell House.&#8221; </a></p>
+<p><a href="https://www.goodfood.com.au/eat-out/news/top-chef-joel-bickford-swaps-aria-for-fort-denison-restaurant-20210806-h1xq9e">Good Food &#8211; &#8220;Top chef Joel Bickford swaps Aria for Fort Denison restaurant&#8221;. </a></p>
+<p><a href="https://www.broadsheet.com.au/sydney/food-and-drink/article/arias-former-executive-chef-set-forge-culinary-direction-two-sydneys-most-hotly-anticipated-monumental-new-venues">Broadsheet &#8211; &#8220;Chef appointed Culinary Director of two monumental Sydney venues.&#8221; </a></p>
+<p><a href="https://concreteplayground.com/sydney/food-drink/fort-denison">Concrete Playground &#8211; &#8220;Chef Joel Bickford joins Shell House project&#8221;. </a></p>
+<p><a href="https://www.hospitalitymagazine.com.au/joel-bickford-exits-aria-for-the-point-group/">Hospitality Magazine &#8211; &#8220;Joel joins The Point Group.&#8221; </a></p>
+<p><a href="https://www.spicenews.com.au/industry-news/the-point-group-nabs-acclaimed-ex-aria-chef/">Spice News &#8211; &#8220;The Point Group nabs Joel Bickford&#8221;. </a></p>
+<p><a href="https://newsforthefoodlover.com/2021/08/10/the-point-group-announces-joel-bickford-as-culinary-director-of-shell-house-and-fort-denison/">News For The Food Lover &#8211; &#8220;The Point Group announces Joel Bickford.&#8221; </a></p>
+<p class="BaseText-dZTLdJ BaseTitle-inZYgN Headline-Sqhiv Hed-flqWRf cbatjf" data-test-id="Hed"><a href="https://www.vogue.com.au/vogue-living/entertaining/best-new-restaurants-sydney/image-gallery/55a4406f95f067b10a8d867a345008a1">Vouge &#8211; &#8220;The 16 best new restaurants in Sydney [July 2022]&#8221;</a></p>
+<p><a href="https://www.vogue.com.au/vogue-living/entertaining/new-sydney-restaurants-2021/image-gallery/be91496dfca402556932b53dfc9298be">Vogue &#8211; &#8220;13 new Sydney Bars &amp; Restaurants to try this Winter.&#8221; </a></p>
+<p><a href="https://www.goodfood.com.au/eat-out/news/ambitious-fourinone-megavenue-shell-house-to-open-behind-wynyard-station-20210507-h1vo9n">Good Food &#8211; &#8220;Ambitious four in one mega venue.&#8221; </a></p>
+<p><a href="https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a_GGL&amp;dest=https%3A%2F%2Fwww.theaustralian.com.au%2Flife%2Fwish%2Fsydney-art-deco-icon-shell-house-gets-a-hospitality-revamp%2Fnews-story%2F326fb7574999db619b15cae3e817fce1&amp;memtype=anonymous&amp;mode=premium&amp;nk=9fd7991a2e49c0a2811c176384cbeaa5-1628819715">The Australian &#8211; &#8220;Sydney art deco icon gets a revamp.&#8221; VIEW</a></p>
+<p><a href="https://www.theaustralian.com.au/hero/gold-dinner-2022-sydneys-richlisters-break-charity-record/news-story/b9f111b0afbff6f71b97b445f7a7ba31?btr=666a73d809cb6849653190023e950072">The Australian &#8211; &#8220;Sydney rich-listers break record&#8221;</a></p>
+<p><a href="https://www.smh.com.au/business/companies/real-estate-giant-unveils-historic-shell-house-revamp-20200929-p5609j.html">Sydney Morning Herald &#8211; &#8220;Unveiling Historic Shell House revamp.&#8221; </a></p>
+<p><a href="https://www.dailytelegraph.com.au/subscribe/news/1/?sourceCode=DTWEB_WRE170_a_GGL&amp;dest=https%3A%2F%2Fwww.dailytelegraph.com.au%2Fnewslocal%2Fcentral-sydney%2Fshell-house-restaurant-and-bar-bondi-icebergs-teams-fresh-plans%2Fnews-story%2F5542e83121611784c6197ff46bda3163&amp;memtype=anonymous&amp;mode=premium">Sydney Morning Herald &#8211; &#8220;Brookfield Place launches a new rooftop bar.&#8221; </a></p>
+<p><a href="https://www.timeout.com/sydney/restaurants/shell-house">Timeout &#8211; &#8220;Grab a drink in a clocktower.&#8221; </a></p>
+<p><a href="https://concreteplayground.com/sydney/food-drink/a-new-multi-level-venue-and-rooftop-bar-is-opening-inside-the-cbds-historic-shell-house">Concrete Playground &#8211; &#8220;A new multi-level venue for Sydney.&#8221; </a></p>
+<p><a href="https://www.architectureanddesign.com.au/news/brookfield-place-make-architects-architectus">Architecture &amp; Design &#8211; &#8220;Brookfield Place, a place for Sydneysiders.&#8221;</a></p>
+<p class="is-title post-title-alt yd x"><a href="https://essentialsmagazine.com.au/food/taste-port-douglas-announces-its-2022-chef-talent-line-up/">Essential Magazine &#8211; &#8220;Taste Port Douglas Announces Its 2022 Chef &amp; Talent Line Up&#8221;</a></p>
+<p><a href="https://sitchu.com.au/sydney/restaurants/sydney-restaurants-american-express-delicious-month-out">Sitchu &#8211; &#8220;The Express Trail: 12 Must-Visit Sydney Restaurants &amp; Bars to Book at this American Express delicious. Month Out&#8221;</a></p>
+<p><a href="https://sitchu.com.au/sydney/whats-on/american-express-delicious-month-out">Sitchu &#8211; &#8220;Sitchu’s Ultimate Guide to American Express delicious. Month Out&#8221;</a></p>
+<p><a href="https://www.broadsheet.com.au/sydney/event/our-house-world-class-bar-takeover-shell-house">Broadsheet &#8211; &#8220;Our House: World Class Bar Takeover at Shell House&#8221;</a></p>
+<p><a href="https://www.delicious.com.au/delicious-month-out/gallery/american-express-delicious-month-out-launch-party-sydney/w4h97fj5">Delicious &#8211; &#8220;Behind-the-scenes at our American Express delicious. Month Out launch party at Shell House, Sydney&#8221;</a></p>
+<p><a href="https://sitchu.com.au/sydney/bars/best-new-bars-sydney">Sitchu &#8211; &#8220;Best New Bars in Sydney for Cocktails &amp; Good Times&#8221;</a></p>
+<p class="_h1_1ucvn_1"><a href="https://www.timeout.com/sydney/bars/the-best-new-bars-in-sydney">TimeOut &#8211; &#8220;The best new bars in Sydney&#8221;</a></p>
+<p class="text-display title-offset"><a href="https://hercanberra.com.au/life/travel/long-weekending-in-sydney-here-are-10-new-restaurants-to-check-out/">HerCanberra &#8211; &#8220;Long weekending in Sydney? Here are 10 new restaurants to check out</a>&#8220;</p>
+<p class="_h1_1ucvn_1"><a href="https://www.timeout.com/sydney/bars/world-class-x-shell-house">TimeOut &#8211; &#8220;World Class x Shell House&#8221;</a></p>
+<p class="_h1_1ucvn_1"><a href="https://www.broadsheet.com.au/national/entertainment/article/whats-making-sydney-cbd-and-its-surrounds">Broadsheet &#8211; &#8220;What’s Making Sydney CBD (and Its Surrounds) So Good Again? Many Things – You Just Need to Know Where To Look&#8221;</a></p>
+<p><a href="https://www.goodfood.com.au/eat-out/news/sydneys-most-exciting-restaurant-openings-of-the-year-so-far-20220627-h24p3w">Good Food &#8211; &#8220;Sydney&#8217;s most exciting restaurant openings of the year so far&#8221;</a></p>
+<p><a href="https://novonite.com/sydneys-most-exciting-restaurant-openings-of-the-year-yet/">Novonite &#8211; &#8220;Sydney’s most exciting restaurant openings of the year yet&#8221;</a></p>
+<p class="ArticleTitle-sc-1gqvqcu-1 jEIoNH"><a href="https://www.broadsheet.com.au/sydney/food-and-drink/article/sydney-best-restaurant-openings-2022-so-far">Broadsheet &#8211; &#8220;Sydney’s Best Bar Openings of 2022 (So Far)&#8221;</a></p>
+<p id="story-headline" class="g_font-title-xl"><a href="https://www.dailytelegraph.com.au/entertainment/sydney-confidential/top-20-restaurateurs-reveal-their-favourite-places-to-eat-in-sydney/news-story/be23e879d2226375496c020c52cddffa?btr=2521653a4580f3e2637c7712cb985943">Daily Telegraph &#8211; &#8220;Top 20 restaurateurs reveal their favourite Sydney bars, restaurants and service&#8221;</a></p>
+<p><a href="https://www.theurbanlist.com/sydney/a-list/best-bars-sydney">Urban List &#8211; &#8220;30 Best Bars In Sydney Right Now&#8221;</a></p>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-2102" src="https://shellhouse.com.au/site/wp-content/uploads/2022/11/4-October-2022-SMH-Print-The-six-bar-trends-rocking-Sydney-inclusion-of-Clocktower-Bar-Reach-580000-930x1280.jpg" alt="" width="930" height="1280" /> <img loading="lazy" decoding="async" class="alignnone size-medium wp-image-2103" src="https://shellhouse.com.au/site/wp-content/uploads/2022/11/4-October-2022-SMH-Print-The-six-bar-trends-rocking-Sydney-mention-of-Shell-House-Reach-580000-4-983x1280.jpg" alt="" width="983" height="1280" /></figure>
+<p><a href="https://www.goodfood.com.au/eat-out/good-food-guides/the-top-six-sydney-bar-trends-and-where-to-drink-them-20220929-h26stz">Good Food &#8211; &#8220;The top six Sydney bar trends (and where to drink them)&#8221;</a> <a href="https://www.theurbanlist.com/sydney/a-list/best-sbagliato-negroni-sydney">Urban List &#8211; &#8220;Sydney’s Best Sbagliato Negronis And Where To Drink Them&#8221;</a> <img loading="lazy" decoding="async" class="alignnone size-medium wp-image-2104" src="https://shellhouse.com.au/site/wp-content/uploads/2022/11/14-October-2022-AFR-Print-Marquee-magic-mention-of-Joel-Bickford-Reach-286000-2-904x1280.jpg" alt="" width="904" height="1280" /></p>
+<p><a href="https://www.broadsheet.com.au/sydney/guides/new-restaurants">Broadsheet &#8211; &#8220;Best New Restaurants in Sydney&#8221;</a></p>
+<p><a href="https://themarketherald.com.au/fancy/the-best-melbourne-cup-events-across-australia-2022/">The Market Herald &#8211; &#8220;The Best Melbourne Cup Events Across Australia&#8221;</a></p>
+<p><a href="https://harpersbazaar.com.au/best-marquees-at-melbourne-cup-birdcage/">Harpers Bazaar &#8211; &#8220;These are the best (and brightest) marquees at the celeb-infused Birdcage&#8221;</a></p>
+<p class="a-list-article-title"><a href="https://www.theurbanlist.com/sydney/a-list/best-outdoor-dining-sydney">Urban List &#8211; &#8220;16 Of The Best Outdoor Dining Spots In Sydney Right Now&#8221;</a></p>
+<p><a href="https://www.goodfood.com.au/eat-out/chef-danielle-alvarez-to-lead-special-allfemale-dinner-at-sydneys-word-class-cocktail-festival-20220905-h266pv">Good Food &#8211; &#8220;Chef Danielle Alvarez to lead special all-female dinner at Sydney&#8217;s World Class Cocktail Festival&#8221;</a></p>
+<p><a href="https://sitchu.com.au/sydney/bars/world-class-cocktail-festival?issubscriber=true&amp;utm_source=Sitchu+Audience&amp;utm_campaign=42fdb0b1c9-EMAIL_CAMPAIGN_2020_06_26_02_00_COPY_01&amp;utm_medium=email&amp;utm_term=0_28526a943a-42fdb0b1c9-383958092">Sitchu &#8211; &#8220;World Class Cocktail Festival: Everything to Add to Your Calendar This September&#8221;</a></p>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-2105" src="https://shellhouse.com.au/site/wp-content/uploads/2022/11/21-August-2022-The-Sunday-Herald-Sun-Print-THE-BEST-OF-THE-BEST-mention-of-Shell-House-Reach-709000-2-1194x1280.jpg" alt="" width="1194" height="1280" /></figure>
+<p><a href="https://cnalifestyle.channelnewsasia.com/travel/sydney-guide-best-restaurants-bars-cafe-new-south-wales-australia-325096">CNA Lifestyle &#8211; &#8220;Sydney for foodies: The ultimate guide from cafes and bars to experiential dining&#8221;</a></p>
+<p><a href="https://www.goodfood.com.au/eat-out/news/melbourne-cup-carnival-swaps-cult-chicken-sandwiches-for-foie-gras-burgers-and-croc-monsieurs-20221021-h27b3y">Good Food &#8211; &#8220;Melbourne Cup Carnival swaps cult chicken sandwiches for foie gras burgers and croc monsieurs&#8221;</a></p>
+<p><a href="https://www.broadsheet.com.au/national/art-and-design/article/2022-eat-drink-design-awards-shortlist-has-been-revealed">Broadsheet &#8211; &#8220;The 2022 Eat Drink Design Awards Shortlist Is Out – Celebrating the Best in Australasian Hospitality Design&#8221;</a></p>
+<p><a href="https://www.broadsheet.com.au/sydney/food-and-drink/article/sydney-best-restaurant-openings-2022-so-far">Broadsheet &#8211; &#8220;Sydney’s Best Bar Openings of 2022 (So Far)&#8221;</a></p>
+<p><a href="https://taustralia.com.au/shell-house-tuna-cotoletta/#">T Australia &#8211; &#8220;Shell House’s Recipe for Tuna Cotoletta&#8221;</a></p>
+<p><a href="https://www.timeout.com/sydney/bars/the-best-new-bars-in-sydney">Time Out &#8211; &#8220;The best new bars in Sydney&#8221;</a></p>
+<p><a href="https://www.theurbanlist.com/sydney/a-list/best-martinis-sydney?utm_medium=email&amp;utm_campaign=Sydney%20enews%208922&amp;utm_content=Sydney%20enews%208922+CID_f40db51ddede4ac2027f83248fe04762&amp;utm_source=Campaign%20Monitor%20Emails&amp;utm_term=martini">Urban List &#8211; &#8220;The Best Martinis In Sydney Right Now&#8221;</a></p>
+<p><a href="https://www.broadsheet.com.au/sydney/cbd/bars/menzies-bar">Broadsheet &#8211; &#8220;Features: Menzies Bar&#8221;</a></p>
+<p><a href="https://www.broadsheet.com.au/sydney/event/world-class-cocktail-festival">Broadsheet &#8211; &#8220;World Class Cocktail Festival&#8221;</a></p>
+<p><a href="https://australianbartender.com.au/2022/09/09/world-class-cocktail-festival-kicks-off-in-sydney-today-10-days-of-food-and-drink-experiences-famous-faces-comps-and-more/">Australian Bartender &#8211; &#8220;World Class Cocktail Festival kicks off in Sydney today; 10 days of food and drink experiences in 100 venues across the city&#8221;</a></p>
+<p><a href="https://worldarchitecture.org/article-links/enpze/inside-2022-shortlist-gives-glimpse-to-the-future-of-international-interior-design-trends.html">World Architecture &#8211; &#8220;INSIDE 2022 Shortlist Gives Glimpse To The Future Of International Interior Design Trends&#8221;</a></p>
+<p><a href="https://eatdrinkplay.com/sydney/the-best-happy-hours-in-sydney/">Eat Drink Play &#8211; &#8220;The Best Happy Hours In Sydney&#8221;</a></p>
+<p class="title"><a href="https://concreteplayground.com/sydney/pinboard/sydneys-20-most-clicked-on-restaurants-of-2022-so-far#">Concrete Playground &#8211; &#8220;Sydney&#8217;s 20 Most Clicked-On Restaurants of 2022 So Far&#8221;</a></p>
+<p>&nbsp;</p>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="divider"></section><!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="medium" data-padding-bottom="medium">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <h1>News</h1>
+<h3>Alex Kirkwood joins the Shell House team as Food &amp; Beverage Director</h3>
+<p>At age 32, Alex is one of the country’s most acclaimed front-of-house talents, having spent over a decade cementing his specialisation of wine &amp; beverage at Aria Sydney. His CV also includes front-of-house experience at some of the country’s top restaurants including Quay, Rockpool Bar &amp; Grill &amp; Momofuku Seiobo.</p>
+<p>Alex, an award-winning Sommelier, supports all winemakers &amp;producers, both local &amp; international, whose primary emphasis is the quality of what their vineyards produce.</p>
+<p>“We’re absolutely honoured to have Alex join our team at Shell House, which already includes some of the country’s best hospitality talent. Known for pushing the boundaries with wine, &amp; creating award winning wine programs, I am so excited to work with Alex &amp; showcase the incredible food &amp; beverage we have to offer through his skill &amp; experience. We have spent many years talking about working together over a bottle of wine at The Dolphin. Alex finally joining us is such an exciting moment for Shell House &amp; The Point Group” &#8211; Brett Robinson.&#8221;</p>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-645" src="https://shellhouse.com.au/site/wp-content/uploads/2021/11/Alex-Reduced-1280x853.jpg" alt="" width="1280" height="853" /></figure>
+<h3>Aaron Ward joins the Shell House team as Head Chef of the Dining Room &amp; Terrace</h3>
+<p>“I am absolutely thrilled to announce one of Sydney’s hottest Chefs, Aaron Ward has joined our Culinary Team at Shell House as the Head Chef of the rooftop Dining Room and Terrace. After spending time in such important Sydney kitchens as Ester, LuMi Dining, Copenhagen restaurants Relae and Amass, and then leading the kitchen success at acclaimed Sixpenny, Aaron joins Joel Bickford, our Culinary Director to further underpin the culinary identity of Shell House. Joel and I are so excited to continue menu development with Aaron and his new and innovative perspectives to deliver menus that I know Sydney will absolutely love when we open very, very soon.” &#8211; Brett Robinson</p>
+<figure><img loading="lazy" decoding="async" class="alignnone wp-image-577 size-medium" src="https://shellhouse.com.au/site/wp-content/uploads/2021/10/ShellH_Aaron_0035-2-1280x960.jpg" alt="" width="1280" height="960" /></figure>
+<h3>Joel Bickford, Culinary Director, Shell House &amp; Fort Denison Project</h3>
+<p>The Point Group are thrilled to welcome acclaimed chef Joel Bickford as Culinary Director across two of their upcoming landmark venues, Shell House in the heart of Sydney&#8217;s CBD and Fort Denison in Sydney Harbour.</p>
+<p>Joel, who was Executive Chef at Aria Sydney for four years, will work closely with Brett Robinson &amp; the Shell House team to create casual and approachable dining experiences at Shell House Dining Room &amp; Terrace and the Sky Bar Rooftop, when they open in October.</p>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-280" src="https://shellhouse.com.au/site/wp-content/uploads/2021/08/ShellHousePortraits_0121-1280x960.jpg" alt="" width="1280" height="960" /></figure>
+<p>Joel has been honing his craft for 28 years. In 2013, the call of the country led him to Biota Dining in the Southern Highlands where the restaurant earnt two Chef Hats under his guidance. Two years later, Joel returned to the city to head up the kitchen at Sydney’s waterfront Gantry Restaurant &amp; Bar, which was awarded its first Chef’s Hat after a year under Joel’s direction. Joel was named Daily Telegraph’s Chef Of The Year, 2015 and was more recently awarded Chef of the Year at the 2018 Savour Excellence Awards. Through his guidance and leadership in the ARIA kitchen, ARIA received two hats with a score of 17/20 from the Australian Good Food Guide for the past 4 years.</p>
+<h4><em>&#8220;I am thrilled to announce one of the country’s most respected culinary talents as the Culinary Director of Shell House and the upcoming Fort Denison project in Sydney Harbour.</em></h4>
+<h4><em>Joel’s vast experience, creativity and dedication to quality, accompanied by his belief in our vision to create two world class dining destinations for Sydney, is such an important milestone and gives our team so much confidence.&#8221;</em></h4>
+<p>– Brett Robinson</p>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-282" src="https://shellhouse.com.au/site/wp-content/uploads/2021/08/ShellHousePortraits_0201-1280x960.jpg" alt="" width="1280" height="960" /></figure>
+<h4><em>&#8220;I am really looking forward to joining Brett and his team at The Point Group. The team’s vision to breathe new life into two remarkable Sydney buildings is so exciting and the perfect next step in my career.</em></h4>
+<h4><em>It’s a great opportunity for me to challenge myself and work alongside a progressive, dynamic and forward-thinking team of people and I’m excited about creating these important new dining experiences for Sydney at a time when we all need some inspiration.&#8221;</em></h4>
+<p>– Joel Bickford</p>
+<figure><img loading="lazy" decoding="async" class="alignnone size-full wp-image-284" src="https://shellhouse.com.au/site/wp-content/uploads/2021/08/Screenshot-2021-08-09-at-2.55.21-pm-2-e1628494849168.jpeg" alt="" width="803" height="889" /></figure>
+<p>Growing up in a small rural town in the outskirts of Sydney’s rural Blue Mountains, Joel’s less-is-more approach to cooking is rooted in a lifelong connection to nature and a deep reverence for his ingredients and their unique regional qualities. His cooking style showcases seasonal Australian ingredients, with a razor-sharp balance between simplicity, extravagance and innovation.</p>
+<figure><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-303" src="https://shellhouse.com.au/site/wp-content/uploads/2021/08/Screenshot-2021-08-13-at-11.41.19-905x1280.png" alt="" width="905" height="1280" /><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-302" src="https://shellhouse.com.au/site/wp-content/uploads/2021/08/Screenshot-2021-08-13-at-11.41.26-901x1280.png" alt="" width="901" height="1280" /><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-304" src="https://shellhouse.com.au/site/wp-content/uploads/2021/08/Screenshot-2021-08-13-at-11.43.57-901x1280.png" alt="" width="901" height="1280" /><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-301" src="https://shellhouse.com.au/site/wp-content/uploads/2021/08/Screenshot-2021-08-13-at-11.41.39-901x1280.png" alt="" width="901" height="1280" /></figure>
+<figure><img loading="lazy" decoding="async" class="alignnone size-full wp-image-365" src="https://shellhouse.com.au/site/wp-content/uploads/2021/10/Screenshot-2021-10-04-at-10.44.13.png" alt="" width="484" height="640" /> <img loading="lazy" decoding="async" class="alignnone size-full wp-image-366" src="https://shellhouse.com.au/site/wp-content/uploads/2021/10/Screenshot-2021-10-04-at-10.44.29.png" alt="" width="485" height="629" /></figure>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+            </div>
+        </div>
+            <div class="accordion-item about-us-item">
+          <div class="heading">About</div>
+            <div id="about-us" class="details child">
+                <!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="small" data-padding-bottom="small">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <p><span style="font-weight: 400;">Spread over three levels, Shell House is an unparalleled hospitality experience in the Sydney CBD, combining both indoor and outdoor settings over 1,250 sqm of space. This includes a ground floor bar Menzies Bar, The Dining Room and Terrace and the Clocktower Bar on level 9 and Sky Bar on Level 10.</span></p>
+<p>“We feel like we have a once in a generation opportunity to do something extraordinary of a global standard, to build a new iconic hospitality landmark and take a leading role in reigniting the CBD dining culture. We love creating modern hospitality experiences in unique locations and have a proven track record of delivering experiences people love.&#8221;<br />
+&#8211; Brett Robinson</p>
+<p>Rooftop diners will be provided with a bird’s eye view of the building’s iconic 400-tonne clock tower, which has been lovingly restored after being suspended mid-air for several years while Shell House was excavated and rebuilt.</p>
+<p>Shell House is historically significant as the only surviving interwar commercial palazzo-style building in Sydney, clad with glazed terracotta ‘faience’ blocks. Standing at 65.5 metres high, Shell House’s façade is also one of the tallest retained heritage façades in the world.</p>
+<p>Prior to redevelopment, Shell House was home to the Menzies Hotel, with its outdated 1970s interiors now being transformed into a contemporary office building designed by architects MAKE and Architectus with fitout by Woods Bagot.</p>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+            </div>
+        </div>
+            <div class="accordion-item careers-item">
+          <div class="heading">Careers</div>
+            <div id="careers" class="details child">
+                <!-- single column -->
+
+<section class="single-column  ">
+  <div class="container-fluid" data-padding-top="small" data-padding-bottom="small">
+    <div class="row center-xs">
+      <div class="col-xs-12 start-xs">
+      <div class="inner-pad">  
+        <h1>Careers</h1>
+<p>Shell House &#8211; 3 Bars, 1 Dining Room.</p>
+<p>Shell House presents a truly rare opportunity for hospitality. Our collective job is to revive a cultural icon, fill it with excellence and place it firmly at the epicentre of Sydney culture. Over three enormous levels we present a myriad of hospitality experiences to ensure we can meet the needs of all of Sydney. Our open invitation is for you to be a part of delivering this experience.</p>
+<p>We are calling out for staff with all levels of experience. Innovative Culinary Leaders and Ambitious Chefs, Restaurant, Bar, Service and Management Specialists, Guest Relations, Hosts and Reservations Experts, Events Production and Marketing Aficionados, Section Waiters, Bartenders, Sommeliers, Barristas, Floor and Cellar Professionals &amp; More.</p>
+<p>Welcome to the new centre of gravity for the Sydney CBD.</p>
+<p>For all position enquiries please email <a href="mailto:people@the-point.com" data-no-swup >people@the-point.com</a></p>
+<p><a href="https://shellhouse.com.au/career-listings/" data-no-swup ><strong>CLICK HERE FOR CURRENT OPENINGS</strong></a></p>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
+            </div>
+        </div>
+        <!-- <div class="accordion-item" javascript:click.preventDefault();  style="background-color:#fff; color: #000">
+        <div class="heading house">
+          <a href="/melbourne-cup-2023/" style="color: #000">Melbourne Cup 2023  <span>Reservations</span></a>
+          <a href="/" data-no-swup>No Swup Link<span>2023</span></a>
+        </div>
+    </div> -->
+  </div>
+<!-- swup container -->
+</div> 
+
+</main>
+
+<footer class="locked swup">
+</footer>
+<div class="blocker">
+  <div data-modal="bookings" class="modal">
+    <div class="close close-modal">
+        <span></span>
+        <span></span>
+    </div>
+    <div class="container-fluid">
+      <div class="row center-xs">
+        <div class="col-xs-12 col-sm-8 col-md-6">
+        <h1 style="text-align: center">Reservations</h1>
+<p style="text-align: center">Menzies Bar is open Monday to Friday from 12 pm until late, and Saturday 4 pm until late.</p>
+<p style="text-align: center">Please note you can make a reservation with us at Menzies for either full table service for lunch or dinner,</p>
+<p style="text-align: center">or simply seats in our casual area where you order from the bar yourself. Please ensure you choose the correct option for you.</p>
+<p style="text-align: center">To make a reservation, please email reservations@shellhouse.com.au</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <div data-modal="widgets" class="modal">
+    <div class="close close-modal">
+        <span></span>
+        <span></span>
+    </div>
+    <div class="container-fluid">
+      <div class="row center-xs">
+        <div class="col-xs-12 col-sm-8 col-md-6">
+          <div data-padding-bottom="medium"><h1 style="text-align: center">Reservations</h1>
+<p style="text-align: center">Select a venue to make a reservation.</p>
+</div>
+          <div class="accordion" role="navigation" aria-label="Menu">
+          
+            <div class="accordion-item" data-name="Menzies-Bar">
+                <div class="close">
+                    <span></span>
+                    <span></span>
+                </div>
+                <div class="heading">
+                    Menzies-Bar                </div>
+                <div class="details parent">
+                    <p style="text-align: center;"> Menzies Bar &amp; Bistro on the ground floor of Shell House</p>
+<p style="text-align: center;">Open Monday to Saturday from 12 pm until late</p>
+<p style="text-align: center;">Reservations can be made online for group of up to 9 guests</p>
+<p style="text-align: center;">For reservation and event enquiries for groups of 10 and over, please email <a href="mailto:reservations@shellhouse.com.au">reservations@shellhouse.com.au</a></p>
+<p style="text-align: center;">Walk-ins are very welcome, subject to availability</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+                                    </div>
+            </div>
+          
+            <div class="accordion-item" data-name="Skybar">
+                <div class="close">
+                    <span></span>
+                    <span></span>
+                </div>
+                <div class="heading">
+                    Skybar                </div>
+                <div class="details parent">
+                    <p style="text-align: center;">Sky Bar is located on level 10 of Shell House</p>
+<p style="text-align: center;">Open Tuesday to Saturday, 4 pm until late</p>
+<p style="text-align: center;">Reservations can be made online for groups of up to 15 guests</p>
+<p style="text-align: center;">For reservation and event enquiries for groups of 16 and over, please email <a href="mailto:reservations@shellhouse.com.au">reservations@shellhouse.com.au</a></p>
+<p style="text-align: center;">Walk-ins are very welcome, subject to availability</p>
+                                    </div>
+            </div>
+          
+            <div class="accordion-item" data-name="Clocktower">
+                <div class="close">
+                    <span></span>
+                    <span></span>
+                </div>
+                <div class="heading">
+                    Clocktower                </div>
+                <div class="details parent">
+                    <p style="text-align: center;">Clocktower Bar is located on level 9 of Shell House</p>
+<p style="text-align: center;">Open Tuesday to Saturday, 12pm until late</p>
+<p style="text-align: center;">Reservations can be made online for groups of up to 15 guests</p>
+<p style="text-align: center;">For reservation and event enquiries for groups of 16 and over, please email <a href="mailto:reservations@shellhouse.com.au">reservations@shellhouse.com.au</a></p>
+<p style="text-align: center;">Walk-ins are very welcome, subject to availability</p>
+                                    </div>
+            </div>
+          
+            <div class="accordion-item" data-name="Dining-Room-&-Terrace">
+                <div class="close">
+                    <span></span>
+                    <span></span>
+                </div>
+                <div class="heading">
+                    Dining-Room-&-Terrace                </div>
+                <div class="details parent">
+                    <p style="text-align: center;">Lunch Tuesday to Saturday from 12 pm</p>
+<p style="text-align: center;">Dinner Tuesday to Saturday from 5.30 pm</p>
+<p style="text-align: center;">Reservations can be made online for groups of up to 9 guests</p>
+<p style="text-align: center;">For reservation and event enquiries for groups of 10 and over, please email <a href="mailto:reservations@shellhouse.com.au">reservations@shellhouse.com.au</a></p>
+<p style="text-align: center;">Walk-ins are very welcome, subject to availability</p>
+<p style="text-align: center;">Join us for a pre or post dining drink in our beautiful Clocktower Bar</p>
+<p style="text-align: center;">
+                                    </div>
+            </div>
+                    </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div data-modal="signup-form" class="modal">
+    <div class="close close-modal">
+        <span></span>
+        <span></span>
+    </div>
+        <div class="container-fluid">
+      <div class="row center-xs">
+        <div class="col-xs-12 col-sm-8 col-md-6">
+        <h1 style="text-align: center;">Signup for<br />
+announcements</h1>
+<div id="mc_embed_signup">
+<form id="mc-embedded-subscribe-form" class="validate" action="https://idrb.us13.list-manage.com/subscribe/post?u=98a041d0128551f10c925895e&amp;id=f69575416e" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+<p><span class="small block"><label for="mce-MMERGE5-month">Name</label></span></p>
+<div class="mc-field-group half inline"><input id="mce-FNAME" class="" name="FNAME" type="text" value="" placeholder="First*" /></div>
+<div class="mc-field-group half inline"><input id="mce-LNAME" class="" name="LNAME" type="text" value="" placeholder="Last*" /></div>
+<div class="mc-field-group"><input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="" placeholder="Email Address*" /></div>
+<div class="mc-field-group">
+<p class="small" style="text-align: center;">BIRTHDAY</p>
+<div class="datefield"><span class="subfield dayfield half"><input id="mce-MMERGE5-day" class="birthday " maxlength="2" name="MMERGE5[day]" pattern="[0-9]*" size="2" type="text" value="" placeholder="DD" /></span> <span class="subfield monthfield half last"><input id="mce-MMERGE5-month" class="birthday " maxlength="2" name="MMERGE5[month]" pattern="[0-9]*" size="2" type="text" value="" placeholder="MM" /></span></div>
+</div>
+<div id="mce-responses" class="clear">
+<div id="mce-error-response" class="response" style="display: none;"></div>
+<div id="mce-success-response" class="response" style="display: none;"></div>
+</div>
+<p><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--></p>
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input tabindex="-1" name="b_98a041d0128551f10c925895e_f69575416e" type="text" value="" /></div>
+<div class="clear"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Register" /></div>
+</div>
+</form>
+</div>
+<div class="email_form_success">Thank you, stay tuned.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="calendar hide">
+    <div class="cmcal-calendar-container cmcal-calendar-9"><div class="cmcal-calendar-filter-area "></div><div id="cmcal_calendar_9" class="cmcal-calendar " data-cmcal-id ="9" ></div></div></div>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/js/codemine-calendar.js?ver=1" id="codemine-calendar-js-js"></script>
+
+<link rel='stylesheet' id='fullcalendar-min-css-css' href='https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/fullcalendar/packages/core/main.min.css?ver=6.5.5' type='text/css' media='all' />
+<style id='fullcalendar-min-css-inline-css' type='text/css'>
+.cmcal-calendar-container.cmcal-calendar-9  
+                                body .fc,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc ,.cmcal-calendar-container.cmcal-calendar-9    
+                                .fc button,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc a,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc h2
+                                 {font-style:normal;font-weight:normal;text-align:left;color:#000000; }.cmcal-calendar-container.cmcal-calendar-9      
+                                .fc-head,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-head th,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-head a,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-list-heading td,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-list-heading a
+                                 {font-style:normal;font-weight:normal;text-align:left;text-transform:uppercase;color:#000000; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-list-empty-wrap1 {background-color:transparent; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-head,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-unthemed .fc-divider,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-unthemed .fc-popover .fc-header,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-unthemed .fc-list-heading td,.cmcal-calendar-container.cmcal-calendar-9 
+                                thead.fc-head th.fc-day-header {background-color:transparent; }.cmcal-calendar-container.cmcal-calendar-9 
+                                    .fc-list-table .fc-list-item,.cmcal-calendar-container.cmcal-calendar-9  
+                                    .fc-unthemed .fc-list-empty,.cmcal-calendar-container.cmcal-calendar-9 
+                                    .fc-list-view .fc-scroller,.cmcal-calendar-container.cmcal-calendar-9 
+                                    .fc-list-view .fc-list-empty-wrap1,.cmcal-calendar-container.cmcal-calendar-9 
+                                    .fc-body {background-color:transparent; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-bg .fc-day.fc-today,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-bg .fc-day.fc-other-month.fc-today,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-bg .fc-day.cmcal-nonbusinessDays.fc-today {background-color:transparent !important; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-bg .fc-day.cmcal-nonbusinessDays,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-bg .fc-day.fc-other-month.cmcal-nonbusinessDays {background-color:transparent !important; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-head  td,.cmcal-calendar-container.cmcal-calendar-9  
+                                .fc-unthemed .fc-list-heading td,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-head-container th
+                                 {border-bottom-width:1px !important;border-style:solid !important;border-color:#000000 !important; }.cmcal-calendar-container.cmcal-calendar-9 
+                               .fc .fc-body td,.cmcal-calendar-container.cmcal-calendar-9 
+                               .fc-unthemed .fc-list-item td
+                                 {border-color:#000000 !important; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-row th.fc-widget-header,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-list-heading .fc-widget-header {padding-top:15px;padding-right:10px;padding-bottom:15px;padding-left:10px; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-row td,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-list-item td,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc td.fc-axis {padding-top:8px;padding-right:16px;padding-bottom:8px;padding-left:0px; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .cmcal-calendar-filter-area select,.cmcal-calendar-container.cmcal-calendar-9  .cmcal-calendar-filter-area input {background-color:transparent; }.cmcal-calendar-container.cmcal-calendar-9 
+                                 .cmcal-calendar-filter-area select,.cmcal-calendar-container.cmcal-calendar-9  .cmcal-calendar-filter-area input,.cmcal-calendar-container.cmcal-calendar-9  .cmcal-calendar-filter-area input::placeholder
+                                 {color:#000000; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .cmcal-calendar-filter-area select,.cmcal-calendar-container.cmcal-calendar-9  .cmcal-calendar-filter-area input
+                                 {margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .cmcal-calendar-filter-area select,.cmcal-calendar-container.cmcal-calendar-9  .cmcal-calendar-filter-area input
+                                 {padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-toolbar {background-color:transparent; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-toolbar .fc-button {background-color:transparent; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-toolbar .fc-button.fc-state-disabled {background-color:transparent; }.cmcal-calendar-container.cmcal-calendar-9 
+                                 .fc-toolbar .fc-button
+                                 {color:#000000; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-toolbar .fc-button:hover,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-toolbar .fc-button.fc-button-active {color:#ededed; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-toolbar h2
+                                 {font-size:2em;line-height:1em;text-transform:capitalize;color:#000000; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-toolbar
+                                 {margin-top:20px;margin-bottom:20px; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-toolbar
+                                 {padding-top:0px;padding-right:0px;padding-bottom:40px;padding-left:0px; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc button,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-button.fc-button-active,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-center h2
+                                 {padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px; }.cmcal-calendar-container.cmcal-calendar-9 
+                    .fc-day-number,.cmcal-calendar-container.cmcal-calendar-9 
+                    .fc-other-month .fc-day-number
+                     {line-height:21px;width:21px;display:inline-block; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-day-number {background-color:transparent; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-today .fc-day-number {background-color:#000000 !important; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-dayGridMonth-view .fc-week:nth-child(odd) .fc-bg table td:nth-child(odd) ,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-dayGridMonth-view .fc-week:nth-child(even) .fc-bg table td:nth-child(even)  {background-color:transparent; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-bg .fc-day.fc-other-month {background-color:transparent !important; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-row td.fc-day-top,.cmcal-calendar-container.cmcal-calendar-9  
+                                .fc .fc-row td.fc-day-top a,.cmcal-calendar-container.cmcal-calendar-9  
+                                .fc .fc-bg td.fc-day,.cmcal-calendar-container.cmcal-calendar-9 
+                                 {color:#000000; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-today .fc-day-number,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-row td.fc-today a,.cmcal-calendar-container.cmcal-calendar-9  
+                                 {color:#cc955f; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-other-month .fc-day-number,.cmcal-calendar-container.cmcal-calendar-9  
+                                .fc .fc-bg td.fc-day.fc-other-month,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-row td.fc-day-top.fc-other-month a
+                                 {color:#727272; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-content-skeleton .fc-day-top.has-events .fc-day-number {text-align:center; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-list-empty {padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-event,.cmcal-calendar-container.cmcal-calendar-9                                 
+                                .fc-list-table .fc-list-item .fc-widget-content {background-color:transparent; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-event:hover,.cmcal-calendar-container.cmcal-calendar-9                                 
+                                .fc-list-item:hover .fc-widget-content {background-color:#ff5800 !important; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-event-dot {background-color:#000000; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-event-container,.cmcal-calendar-container.cmcal-calendar-9 
+                                a.fc-event,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-unthemed td.fc-event-container .fc-event,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-list-item td,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-list-item td a
+                                 {color:#000000; }.cmcal-calendar-container.cmcal-calendar-9 
+                                a.fc-event:hover,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-unthemed td.fc-event-container .fc-event:hover,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-list-item td a:hover,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-list-item:hover td,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-list-item:hover td a {color:#000000; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc a.fc-event,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-list-item td.fc-widget-content
+                                 {border-top-width:1px;border-style:solid;border-color:#000000;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-left-radius:0px;border-bottom-right-radius:0px; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-event,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-list-item .fc-widget-content
+                                 {margin-bottom:0px; }.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-event,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc-event.fc-h-event,.cmcal-calendar-container.cmcal-calendar-9 
+                                .fc .fc-list-item td.fc-widget-content
+                                 {padding-top:7px;padding-right:0px;padding-bottom:8px;padding-left:0px; } @media (max-width: 480px) {.cmcal-calendar-container.cmcal-calendar-9 .fc-toolbar .fc-left,.cmcal-calendar-container.cmcal-calendar-9 .fc-toolbar .fc-right { margin-bottom: 10px;  }.cmcal-calendar-container.cmcal-calendar-9 .fc-toolbar .fc-center { display: block;  }.cmcal-calendar-container.cmcal-calendar-9 .fc-toolbar .fc-right { float: left;  }.cmcal-calendar-container.cmcal-calendar-9 .fc-toolbar .fc-button { font-size: px;line-height: px; }.cmcal-calendar-container.cmcal-calendar-9 .fc-toolbar h2 { font-size: px;line-height: px; }}
+</style>
+<link rel='stylesheet' id='jquery-qtip-min-css-css' href='https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/qtip/jquery.qtip.min.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fullcalendar-daygrid-min-css-css' href='https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/fullcalendar/packages/daygrid/main.min.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fullcalendar-timegrid-min-css-css' href='https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/fullcalendar/packages/timegrid/main.min.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fullcalendar-list-min-css-css' href='https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/fullcalendar/packages/list/main.min.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css-css' href='https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/select2/select2.min.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cmcal-calendar-fixes-css-css' href='https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/css/cmcal-calendar-fixes.css?ver=6.5.5' type='text/css' media='all' />
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/themes/shellhouse/dist/scripts.js?1715062777" id="scripts-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/fullcalendar/packages/core/main.min.js?ver=6.5.5" id="fullcalendar-min-js-js"></script>
+<script type="text/javascript" src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Intl.%7Elocale.en&amp;ver=6.5.5" id="fullcalendar_safari_polyfix-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/fullcalendar/packages/core/locales-all.min.js?ver=6.5.5" id="fullcalendar-language-js-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/qtip/jquery.qtip.min.js?ver=1" id="jquery-qtip-min-js-js"></script>
+<script type="text/javascript" id="codemine-calendar-js-js-extra">
+/* <![CDATA[ */
+var CMCAL_vars_9 = {"ajaxurl":"https:\/\/shellhouse.com.au\/site\/wp-admin\/admin-ajax.php","shortname":"cmcal","data_action":"CMCAL_get_events","language_code":"en-AU","wpml":"","selectedTheme":"Month Green","defaultView":"dayGridMonth","defaultDateMode":"0","defaultDate_MovableDate":"0","defaultDate_CertainDate":"","firstDay":"1","hiddenDays":"","businessDays":"","aspectRatio":"1.35","navLinks":"false","navToOtherCalendar_id":"","isRTL":"false","loading_gif":"false","filter_visibility":"true","select2_for_tax":"false","search_box_label":"","date_navigator_label":"","filter_box_event-type_all_events_text":"Event Type","filter_box_venue_all_events_text":"","filter_template":"[filter_box_event-type]","toolbar_visibility":"true","buttonText_today":"today","buttonText_month":"month","buttonText_week":"week","buttonText_agendaWeek":"agendaWeek","buttonText_day":"day","buttonText_agendaDay":"agendaDay","buttonText_listYear":"listYear","buttonText_listMonth":"listMonth","buttonText_listWeek":"listWeek","buttonText_listDay":"listDay","buttonText_listDuration":"listDuration","month_events_style":"template","fixedWeekCount":"false","showNonCurrentDates":"true","navigation_days_without_events":"false","dayNumberLeadingZeros":"true","monthDay_verticalAlign":"","columnFormatMonth":"ddd","columnFormatMonth_Custom":"ddd","allDaySlot":"true","slotEventOverlap":"true","slotDuration":"30","slotLabelInterval":"60","minTime":"00:00","maxTime":"00:00","slotLabelFormat":"h:mm a","slotLabelFormat_Custom":"h:mm a","columnFormatWeek":"ddd MM\/YY","columnFormatWeek_Custom":"ddd MM\/YY","columnFormatDay":"dddd","columnFormatDay_Custom":"dddd","list_duration_days":"10","list_events_sort_order":"asc","noEventsMessage":"","listDayFormat_Year":"MMMM D, YYYY","listDayFormat_Year_Custom":"MMMM D, YYYY","listDayAltFormat_Year":"dddd","listDayAltFormat_Year_Custom":"dddd","listDayFormat_Month":"MMMM D, YYYY","listDayFormat_Month_Custom":"MMMM D, YYYY","listDayAltFormat_Month":"dddd","listDayAltFormat_Month_Custom":"dddd","listDayFormat_Week":"dddd","listDayFormat_Week_Custom":"dddd","listDayAltFormat_Week":"MMMM D, YYYY","listDayAltFormat_Week_Custom":"MMMM D, YYYY","listDayFormat_Day":"dddd","listDayFormat_Day_Custom":"dddd","listDayAltFormat_Day":"MMMM D, YYYY","listDayAltFormat_Day_Custom":"MMMM D, YYYY","listDayFormat_Duration":"MMMM D, YYYY","listDayFormat_Duration_Custom":"MMMM D, YYYY","listDayAltFormat_Duration":"dddd","listDayAltFormat_Duration_Custom":"dddd","eventDuration":"60","eventDateFormat":"custom","eventDateFormat_Custom":"D MMMM, YYYY","eventTimeFormat":"custom","eventTimeFormat_Custom":"h:mma","event_template":"<article class=\"domodal\">\r\n  <div class=\"e-type\">[event-type]<\/div>\r\n  <span class=\"e-title\" role=\"heading\">[event_title]<\/span ><br>\r\n  <span class=\"e-time\">[venue]<br>[event_start_time]- [pretty-end-time]<\/span>\r\n","event_template_list":"<article class=\"domodal\">\r\n  <div class=\"e-type\">[event-type]<\/div>\r\n  <span class=\"e-title\" role=\"heading\">[event_title]<\/span ><br>\r\n  <span class=\"e-time\">[venue]<br>[event_start_time]- [pretty-end-time]<\/span>","eventsLimitEnabled":"0","eventLimit":"","eventLimitText":"more","dayPopoverFormat":"dddd, MMMM D","dayPopoverFormat_Custom":"dddd, MMMM D","responsiveWidth":"480","dayGridMonthResponsiveView":"listMonth","dayGridWeekResponsiveView":"dayGridWeek","dayGridDayResponsiveView":"dayGridDay","timeGridWeekResponsiveView":"timeGridWeek","timeGridDayResponsiveView":"timeGridDay","listYearResponsiveView":"listYear","listMonthResponsiveView":"listMonth","listWeekResponsiveView":"listWeek","listDayResponsiveView":"listDay","listDurationResponsiveView":"listDuration","tooltipEnabled":"0","tooltip_modal":"0","tooltip_my":"bottom center","tooltip_at":"top center","tooltip_rounded":"0","tooltip_shadow":"0","tooltip_inactive":"0","tooltip_solo":"false","tooltip_show_event":"hover","tooltip_show_delay":"90","tooltip_hide_event":"hover","tooltip_hide_delay":"0","tooltip_show_animation":"fade","tooltip_show_animation_time":"90","tooltip_hide_animation":"fade","tooltip_hide_animation_time":"90","tooltip_target":"event","tooltip_mouse":"false","tooltip_template":"","toolbar_json":"{\"left\":[],\"center\":[],\"right\":[{\"type\":\"name\",\"value\":\"title\"},{\"type\":\"gap\",\"value\":\"1\"},{\"type\":\"name\",\"value\":\"prev\"},{\"type\":\"gap\",\"value\":\"0\"},{\"type\":\"name\",\"value\":\"next\"}]}","toolbar_left":"","toolbar_center":"","toolbar_right":"title prev,next","all_events":[{"id":3656,"url":"https:\/\/shellhouse.com.au\/events\/daimon-downey-drink-draw-2\/","url_new_window":"false","event-type":["Culture"],"event-type-ids":[13],"venue":["Clocktower"],"venue-ids":[5],"pretty-end-time":"","colorway":"","post_image":"<img width=\"596\" height=\"596\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/DAIMON.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Join us for Drink &amp; Draw, an afternoon of creativity and artistic expression hosted by Sydney based multi disciplinary artist Daimon Downey. Known for his vibrant abstract and expressionist paintings, Downey brings a dynamic energy to his art that is both sophisticated and joyously uninhibited.<\/p>\n<p>Unleash your inner artist as you sip and sketch your way through a session filled with colour, laughter and artistic exploration. Drink &amp; Draw is the perfect way to spend a Saturday with friends; soak up the sunshine with a lunch booking in the Dining Room &amp; Terrace beforehand.<\/p>\n<p>$40 incl. glass of Perrier-Jou\u00ebt on arrival<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n<p><strong><a href=\"https:\/\/www.sevenrooms.com\/reservations\/clocktowerbar?default_date=2024-06-01&amp;default_time=2:00PM\">BOOK 01 JUNE<\/a> <a href=\"https:\/\/www.sevenrooms.com\/reservations\/clocktowerbar?default_date=2024-06-15&amp;default_time=2:00PM\">BOOK 15 JUNE<\/a><\/strong><\/p>\n","title":"Daimon Downey: Drink &#038; Draw","start":"2024-06-15T14:00:00+00:00","end":"2024-06-15T00:00:00+00:00","is_allDay":false},{"id":3654,"url":"https:\/\/shellhouse.com.au\/events\/daimon-downey-drink-draw\/","url_new_window":"false","event-type":["Culture"],"event-type-ids":[13],"venue":["Clocktower"],"venue-ids":[5],"pretty-end-time":"","colorway":"","post_image":"<img width=\"596\" height=\"596\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/DAIMON.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Join us for Drink &amp; Draw, an afternoon of creativity and artistic expression hosted by Sydney based multi disciplinary artist Daimon Downey. Known for his vibrant abstract and expressionist paintings, Downey brings a dynamic energy to his art that is both sophisticated and joyously uninhibited.<\/p>\n<p>Unleash your inner artist as you sip and sketch your way through a session filled with colour, laughter and artistic exploration. Drink &amp; Draw is the perfect way to spend a Saturday with friends; soak up the sunshine with a lunch booking in the Dining Room &amp; Terrace beforehand.<\/p>\n<p>$40 incl. glass of Perrier-Jou\u00ebt on arrival<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n<p><strong><a href=\"https:\/\/www.sevenrooms.com\/reservations\/clocktowerbar?default_date=2024-06-01&amp;default_time=2:00PM\">BOOK 01 JUNE<\/a> <a href=\"https:\/\/www.sevenrooms.com\/reservations\/clocktowerbar?default_date=2024-06-15&amp;default_time=2:00PM\">BOOK 15 JUNE<\/a><\/strong><\/p>\n","title":"Daimon Downey: Drink &#038; Draw","start":"2024-06-01T14:00:00+00:00","end":"2024-06-01T00:00:00+00:00","is_allDay":false},{"id":3643,"url":"https:\/\/shellhouse.com.au\/events\/finer-things-takeover\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"586\" height=\"586\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/Screen-Shot-2024-05-13-at-3.37.37-pm.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Masterful curators and purveyors of all things fine, Finer Things, take over Sky Bar on Saturday June 22nd for a night of high quality house music.<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Finer Things Takeover","start":"2024-06-22T17:00:00+00:00","end":"2024-06-22T00:00:00+00:00","is_allDay":false},{"id":3608,"url":"https:\/\/shellhouse.com.au\/events\/osteria-illaria-x-menzies-bar-takeover\/","url_new_window":"false","event-type":["Food &amp; Wine"],"event-type-ids":[11],"venue":["Menzies Bar"],"venue-ids":[4],"pretty-end-time":"","colorway":"","post_image":"<img width=\"467\" height=\"467\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/Screen-Shot-2024-05-08-at-2.55.08-pm.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Osteria Ilaria is teaming up with Menzies Bar for one night only on Saturday June 22nd. The talented group behind beloved Melbourne restaurants Tipo 00, Figlia, and Grana will be presenting Osteria Ilaria, known for its impressive wine selection and contemporary Italian cuisine. Head chef Jack Ives has created an exciting menu in collaboration with Shell House Culinary Director Joel Bickford.<\/p>\n<p>The menu features a mix of new and signature dishes from both establishments and Osteria Ilaria\u2019s Head Sommelier Justin Howe has raided the cellar for some very special bottles. This exclusive event promises to be a memorable evening featuring freewheeling bowls of pasta, epic wine, and killer cocktails, all paired with effortless hospitality across five generous courses.<\/p>\n<p><span style=\"text-decoration: underline;\">MENU<\/span><\/p>\n<p>Tuna Tartare, Squid Ink Sourdough, Saltbush Mayo<br \/>\nParfait, Frittelle, Smoked Trout Roe<\/p>\n<p>Black Olive Sourdough, Arbequina Oil<\/p>\n<p>Pappa Al Pomodoro, Green Tomato, Mustard Oil, Cone Cabbage<br \/>\nRicotta Gnudi, Pine Mushroom, Rabbit, Black Truffle<\/p>\n<p>Prawn Tortelli, Saffron Bisque, Prawn Oil<br \/>\nMulloway, Brodo Di Pesce, Squid, Clams, Agretti<\/p>\n<p>Sher Wagyu Rump Cap, Pine Mushroom, Red Wine Jus<\/p>\n<p>Zuppa Inglese &#8211; Pistachio &amp; Chocolate<\/p>\n<p>$125 incl. 4 course menu + snacks<br \/>\nLimited seats available<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n<p><strong><a href=\"https:\/\/www.sevenrooms.com\/reservations\/menziesbarbistro?default_date=2024-06-22&amp;default_time=4:00PM\">BOOK NOW<\/a><\/strong><\/p>\n","title":"Osteria Ilaria x Menzies Bar Takeover","start":"2024-06-22T16:00:00+00:00","end":"2024-06-22T00:00:00+00:00","is_allDay":false},{"id":3603,"url":"https:\/\/shellhouse.com.au\/events\/refuge-x-ca-lou-takeover\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"600\" height=\"600\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/REFUGE.jpeg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Independent record label Refuge joins forces with Sydney based DJ Ca Lou to curate a night of all out classic house music.<\/p>\n<p>Lineup<\/p>\n<p>Joey Coco<br \/>\nCa Lou<br \/>\nOscar De Lima<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Refuge x Ca Lou Takeover","start":"2024-06-08T17:00:00+00:00","end":"2024-06-08T00:00:00+00:00","is_allDay":false},{"id":3600,"url":"https:\/\/shellhouse.com.au\/events\/veer-east-presents\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1280\" height=\"1280\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/VEER-EAST-1280x1280.jpeg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Veer East is a collective redefining Sydney&#8217;s music scene through immersive, genre-blending events. Their latest curated night in Sky Bar at Shellhouse, happening on Saturday, July 6th from 5pm to 1am, promises an evening of soulful vibes and infectious energy. Vibe curation with ET Le Cr\u00e9ateur and Thandi Phoenix, accompanied by live sax and drums, expect a dynamic mix of afro house, afrobeats and amapiano that will keep you moving. Set against the stunning city skyline, this event is where music and atmosphere converge to create a unique and unforgettable experience.<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Veer East Presents","start":"2024-07-06T17:00:00+00:00","end":"2024-07-06T00:00:00+00:00","is_allDay":false},{"id":3596,"url":"https:\/\/shellhouse.com.au\/events\/better-together-takeover\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1179\" height=\"1179\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/BETTER-TOGETHER-1.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Better Together founders\/DJ&#8217;s, Veda and Alex Dowsing bring their collective of artistic, loveable rogues to Sky Bar.<\/p>\n<p>Lineup<\/p>\n<p>Veda<br \/>\nAlex Dowsing<br \/>\n+ guests<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Better Together Takeover","start":"2024-07-05T16:00:00+00:00","end":"2024-07-05T00:00:00+00:00","is_allDay":false},{"id":3594,"url":"https:\/\/shellhouse.com.au\/events\/ben-fester-all-night-long\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"800\" height=\"800\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/BEN-FESTER.jpeg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Get ready for a marathon of musical ecstasy as Ben Fester brings his legendary &#8216;One Night Stand&#8217; to Sky Bar. Renowned for his boundless range and infectious energy, Ben will take you on a genre-bending journey through soul, disco, house, techno, UKG, breaks, and beyond, ensuring every beat resonates deep within your soul. Don&#8217;t miss this opportunity to experience the magic of Ben Fester as he transforms the intimate Sky Bar dance floor into a pulsating realm of sonic bliss.<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Ben Fester (All Night Long)","start":"2024-06-29T17:00:00+00:00","end":"2024-06-29T00:00:00+00:00","is_allDay":false},{"id":3590,"url":"https:\/\/shellhouse.com.au\/events\/our-house-pres-tseba\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1280\" height=\"1280\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/TSEBA-1280x1280.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>The Tseba project captures the euphoric sound of House music as it pivoted from being underground music from urban centres in the USA, to being an internationally celebrated commercial phenomenon. There&#8217;s an energy that flirts with legends like Todd Terry and Kerri Chandler, with a balance of cryptic, esoteric ideas from nascent electronic music contrasted with approachable, familiar sounds and global pop and dance.<\/p>\n<p>A naturally gifted DJ, the Tseba live show comprises of an audacious collection of bootlegs, deep house cuts &amp; unreleased material; a joyous encapsulation of new &amp; old that will keep clubgoers glued to the dance floor for hours on end.<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Our House pres. Tseba","start":"2024-06-28T16:00:00+00:00","end":"2024-06-28T00:00:00+00:00","is_allDay":false},{"id":3588,"url":"https:\/\/shellhouse.com.au\/events\/ella-haber-live\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1169\" height=\"1169\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/ELLA-HABER.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>With roots in classical piano and vocals, Ella Haber&#8217;s musical journey has taken her through the realms of jazz, soul, and indie folk, delivering spellbinding performances infused with unrivalled intimacy. Experience Ella&#8217;s profound storytelling and powerful presence firsthand, as she takes the stage at Sky Bar for a captivating live performance\u00a0\u00a0that promises to mesmerise.<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Ella Haber (Live)","start":"2024-06-27T17:00:00+00:00","end":"2024-06-27T00:00:00+00:00","is_allDay":false},{"id":3585,"url":"https:\/\/shellhouse.com.au\/events\/classic-contemporary-no-9-grace-jones-by-the-shell-house-band-live\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1080\" height=\"1080\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/shs_ourhouse24_classic_gracejones_socials_1_1080x1080_a.jpeg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Join us for the ninth edition of our signature musical moment, Classic Contemporary, where we present live reinterpretations of some of the most beautiful records ever made.<\/p>\n<p>Join us as we delve into the catalogue of one of the most iconic artists of all time, Grace Jones and present a selection of chart-topping albums played front to back, including the hits &#8220;Nightclubbing&#8221;, &#8220;Slave to the Rhythm&#8221; and &#8220;Warm Leatherette&#8221; before the Shell House Band takes to the stage to perform their propulsive reinterpretations.<\/p>\n<p>$55 incl. glass of Perrier-Jou\u00ebt on arrival<br \/>\nLimited seats available<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n<p><a href=\"https:\/\/www.sevenrooms.com\/xMtbzaIp\"><strong>TICKETS<\/strong><\/a><\/p>\n","title":"Classic Contemporary No.9 \u2013 Grace Jones by The Shell House Band (Live)","start":"2024-06-26T18:00:00+00:00","end":"2024-06-26T00:00:00+00:00","is_allDay":false},{"id":3583,"url":"https:\/\/shellhouse.com.au\/events\/wet-cold-delicious-a-deep-dive-into-tuna-2\/","url_new_window":"false","event-type":["Food &amp; Wine"],"event-type-ids":[11],"venue":["Clocktower","Dining Room &amp; Terrace"],"venue-ids":[5,6],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1280\" height=\"1280\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/Shellhouse-80-copy-1280x1280.jpeg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>A crowd favourite and returning for a third year, Wet, Cold &amp; Delicious is a celebration of Southern Bluefin Tuna season. Featuring a live Maguro Shoten (traditional Japanese tuna cutting show and auction) by Chef Toshihiko Oe (Sushi Oe) and Narito Ishii (Sydney Fish Markets) followed by an exquisite five-course dinner meticulously crafted by culinary director Joel Bickford and head chef Brad Guest.<\/p>\n<p>$290 incl. Tuna auction entry + glass of Perrier-Jou\u00ebt on arrival + 5 course menu<br \/>\nLimited seats available<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n<p><a href=\"https:\/\/www.sevenrooms.com\/reservations\/diningroomterrace?default_date=2024-06-24&amp;default_time=6:00PM\"><strong>BOOK NOW<\/strong><\/a><\/p>\n","title":"Wet, Cold + Delicious: A Deep Dive Into Tuna","start":"2024-06-24T18:30:00+00:00","end":"2024-06-24T00:00:00+00:00","is_allDay":false},{"id":3580,"url":"https:\/\/shellhouse.com.au\/events\/prime-time-the-ultimate-beef-dinner-by-st-hugo-anthony-puharich-victor-churchill-vics-meat\/","url_new_window":"false","event-type":["Food &amp; Wine"],"event-type-ids":[11],"venue":["Clocktower"],"venue-ids":[5],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1240\" height=\"1240\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/Anthony-Puhariach-copy.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Prime Time: The Ultimate Beef Dinner. Prime Time will see Shell House Culinary Director Joel Bickford join forces with Australia\u2019s leading butcher, author and entrepreneur Anthony Purharich of Victor Churchill\/Vic\u2019s Meats on Thursday 20 June. This exclusive dinner will showcase the absolute best available in this country, presented in various AAA grade preparations by Anthony and Joel including them both up close and personal hosting and sharing their vast experience with guests throughout the dining experience.<\/p>\n<p><span style=\"text-decoration: underline;\"><strong>MENU<\/strong><\/span><\/p>\n<p>Oysters<\/p>\n<p>Hibachi on the terrace<br \/>\nSpinalis sanga, wasabi slaw<\/p>\n<p>Wagyu &amp; parmesan cigar<br \/>\nWhipped parfait brioche<br \/>\nBeef tendon, uni, black truffle<\/p>\n<p>Charcuterie<br \/>\nCured meats, jamon, pates, terrines<\/p>\n<p>Hand cut Stone Axe full blood wagyu Beef tartare served tableside<\/p>\n<p>Wagyu pastrami skewers, flat bread, house pickles, hot sauce<\/p>\n<p>Coal roasted sirloin<br \/>\nRangers Valley &amp; O\u2019connor<\/p>\n<p>Stone Axe 9+ Beef rib on the bone<\/p>\n<p>Dutch cream potato, hazelnut, black truffle<br \/>\nRadicchio, black grape, gorgonzola<\/p>\n<p>Victor Churchill Lemon Meringue tart<\/p>\n<p>$450 incl. glass of Perrier-Jou\u00ebt on arrival + 4 course menu + matched wines<br \/>\nLimited seats available<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n<p><a href=\"https:\/\/www.sevenrooms.com\/reservations\/clocktowerbar?default_date=2024-06-20&amp;default_time=6:30PM\"><strong>BOOK NOW<\/strong><\/a><\/p>\n","title":"Prime Time: The Ultimate Beef Dinner by St Hugo &#038; Anthony Puharich (Victor Churchill\/Vic&#8217;s Meat)","start":"2024-06-20T18:30:00+00:00","end":"2024-06-20T00:00:00+00:00","is_allDay":false},{"id":3579,"url":"https:\/\/shellhouse.com.au\/events\/mikey-freedom-masterclass-2\/","url_new_window":"false","event-type":["Culture"],"event-type-ids":[13],"venue":["Clocktower"],"venue-ids":[5],"pretty-end-time":"","colorway":"","post_image":"<img width=\"600\" height=\"600\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/MIKEY-FREEDOM.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>This May and June, our artist-in-residence Mikey Freedom\u00a0takes us on a journey through the art of d\u00e9couper. Known for his rhythmic compositions of engaging colour, contorted figures and abstract shapes, Mikey&#8217;s art, his murals and cutouts are uniquely identifiable.<\/p>\n<p>In this masterclass, armed with paper, a pair of scissors and a UHU stick, Mikey will guide you through the creation of your very own miniature masterpieces to take home.<\/p>\n<p>$40 incl. glass of Perrier-Jou\u00ebt on arrival<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n<p><strong><a href=\"https:\/\/www.sevenrooms.com\/reservations\/clocktowerbar?default_date=2024-05-25&amp;default_time=2:00PM\">BOOK 25 MAY<\/a> <a href=\"https:\/\/www.sevenrooms.com\/reservations\/clocktowerbar?default_date=2024-06-29&amp;default_time=2:00PM\">BOOK 29 JUNE<\/a><\/strong><\/p>\n","title":"Mikey Freedom Masterclass","start":"2024-06-29T14:00:00+00:00","end":"2024-06-29T00:00:00+00:00","is_allDay":false},{"id":3576,"url":"https:\/\/shellhouse.com.au\/events\/a-night-with-the-james-morrison-quartet\/","url_new_window":"false","event-type":["Food &amp; Wine","Music"],"event-type-ids":[11,12],"venue":["Dining Room &amp; Terrace"],"venue-ids":[6],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1280\" height=\"1280\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/JAMES-MORRISON-1-1280x1280.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Immerse yourself in a night of worldly pleasures and be entertained by one of the best Jazz musicians in Australia if not the world, James Morrison. Undoubtedly a true virtuoso, Morrison&#8217;s talents extend beyond the trumpet as he skillfully masters the piano, all brass instruments, and double bass.<\/p>\n<p>The night begins at 6.30 pm with a glass of Perrier-Jouet Champagne and canapes on arrival in the Clocktower Bar. Guests will then move into the Dining Room for a special three course menu crafted by Culinary Director Joel Bickford and Head Chef Brad Guest with a matched wine option selected by Alex Kirkwood and Eduardo Fritis-Lamora. The evening culminates as James Morrison and his exceptional jazz ensemble take to the stage for an unforgettable live performance.<\/p>\n<p>$245 incl. glass of Perrier-Jou\u00ebt on arrival + 3 course menu + entertainment<br \/>\nLimited seats available<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n<p><a href=\"https:\/\/www.sevenrooms.com\/reservations\/diningroomterrace?default_date=2024-06-18&amp;default_time=6:30PM\"><strong>BOOK NOW<\/strong><\/a><\/p>\n","title":"A Night With The James Morrison Quartet","start":"2024-06-18T18:30:00+00:00","end":"2024-06-18T00:00:00+00:00","is_allDay":false},{"id":3574,"url":"https:\/\/shellhouse.com.au\/events\/sushi-oe-omakase-dinner\/","url_new_window":"false","event-type":["Food &amp; Wine"],"event-type-ids":[11],"venue":["Clocktower"],"venue-ids":[5],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1179\" height=\"1179\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/TOSHIHIKO.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Sushi Oe Omakase: renowned two-hatted omakase Sushi Oe\u2019s menu will take centre stage during a one-night takeover at Shell House. With Chef Toshihiko Oe&#8217;s famed six-seater restaurant notoriously booked out a month in advance, this rare opportunity promises an unforgettable dining experience. Guests will indulge in Chef Oe&#8217;s meticulously crafted dishes, celebrated for their seafood-focused delights, in the intimate setting of Shell House.<\/p>\n<p>$350 incl. full omakase experience + glass of Perrier-Jou\u00ebt Brut &amp; Perrier-Jou\u00ebt Ros\u00e9<br \/>\n6PM &amp; 8PM seatings<br \/>\nLimited seats available<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n<p><a href=\"https:\/\/www.sevenrooms.com\/reservations\/clocktowerbar?default_date=2024-06-17&amp;default_time=6:00PM\"><strong>BOOK NOW<\/strong><\/a><\/p>\n","title":"Sushi Oe Omakase Dinner","start":"2024-06-17T18:00:00+00:00","end":"2024-06-17T00:00:00+00:00","is_allDay":false},{"id":3571,"url":"https:\/\/shellhouse.com.au\/events\/waxo-paradiso-all-night-long\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1280\" height=\"1280\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/WAXO-PARADISO-1-1280x1280.jpeg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>One of Melbourne\u2019s most treasured parties, Wax&#8217;o Paradiso, ventures indoors for an up close and personal one night only bash. Expect unbridled euphoria and dance floor bliss at Sky Bar as the duo takes you on an immersive journey through sublime house and disco.<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Wax&#8217;o Paradiso (All Night Long)","start":"2024-06-15T17:00:00+00:00","end":"2024-06-15T00:00:00+00:00","is_allDay":false},{"id":3569,"url":"https:\/\/shellhouse.com.au\/events\/moire-presents\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1000\" height=\"1000\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/MOIRE.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Moir\u00e9 founders and Sydney based artists Hatch and Apollo Fontane curate a showcase of talented musicians and special guests from a range of backgrounds, bringing them together for one night only in Sky Bar.<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Moir\u00e9 Presents","start":"2024-06-14T16:00:00+00:00","end":"2024-06-14T00:00:00+00:00","is_allDay":false},{"id":3567,"url":"https:\/\/shellhouse.com.au\/events\/setwun-the-soulstranauts-live\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1179\" height=\"1179\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/SETWUN.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Setwun and The Soulstranauts bring their electrifying live band performance of R&amp;B, jazz, and soulful hip-hop to Sky Bar. A mainstay in Sydney&#8217;s underground music scene and catching the eye of global tastemakers, Setwun\u2019s versatile sound will get you moving to a blend of low-slung grooves with dancefloor tempos and soul-jazz influences.<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Setwun &#038; The Soulstranauts (Live)","start":"2024-06-13T17:00:00+00:00","end":"2024-06-13T00:00:00+00:00","is_allDay":false},{"id":3564,"url":"https:\/\/shellhouse.com.au\/events\/our-house-pres-ciara-byron-spencer-madami-bongmist\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1178\" height=\"1178\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/CIARA.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>On Friday 31 May, Our House presents an eclectic, enigmatic lineup of some of Sydney&#8217;s finest selectors in Sky Bar.<\/p>\n<p>Lineup<\/p>\n<p>Ciara<br \/>\nByron Spencer<br \/>\nDJ Crabby<br \/>\nBongmist<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"OUR HOUSE PRES. CIARA + BYRON SPENCER + DJ CRABBY + BONGMIST","start":"2024-05-31T16:00:00+00:00","end":"2024-05-31T00:00:00+00:00","is_allDay":false},{"id":3562,"url":"https:\/\/shellhouse.com.au\/events\/planet-trip-takeover-ft-mlir-sweden\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1280\" height=\"1280\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/MLiR-1280x1280.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Independent, local record label Planet Trip present a very special takeover in Sky Bar featuring Swedish artist MLiR (Studio Barnhus). The Swedish superduo of Einar Christoffersson and Marco Gegenheimer (MLiR&#8217;s DJ) broke through in 2016 via their EP &#8220;Swedish Lo-Life&#8221;, released on the eclectic Studio Barnhus label. Born from a love of heavily dug DJ sets, late night studio sessions and live organic elements; they channel a whole universe of stories. MLiR always have something to say through their sounds, constantly expanding their musical journey.<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Planet Trip Takeover ft. MLiR (Sweden)","start":"2024-06-01T17:00:00+00:00","end":"2024-06-01T00:00:00+00:00","is_allDay":false},{"id":3560,"url":"https:\/\/shellhouse.com.au\/events\/cinta-live\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1108\" height=\"1200\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/CINTA.jpeg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>A rich harmonic pallet and intriguing textures entwined, lyrically Cinta flows freely and philosophically seeking instead to refine her questions of the world rather than force insufficient or dogmatic answers. Hypnotic optimism pervades Cinta\u2019s songs, offering listeners an empathetic hand in which to hold as we navigate a world of ever-increasing loneliness.<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Cinta (Live)","start":"2024-05-30T17:00:00+00:00","end":"2024-05-30T00:00:00+00:00","is_allDay":false},{"id":3558,"url":"https:\/\/shellhouse.com.au\/events\/mikey-freedom-masterclass\/","url_new_window":"false","event-type":["Culture"],"event-type-ids":[13],"venue":["Clocktower"],"venue-ids":[5],"pretty-end-time":"","colorway":"","post_image":"<img width=\"600\" height=\"600\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/MIKEY-FREEDOM.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>This May and June, our artist-in-residence Mikey Freedom\u00a0takes us on a journey through the art of d\u00e9couper. Known for his rhythmic compositions of engaging colour, contorted figures and abstract shapes, Mikey&#8217;s art, his murals and cutouts are uniquely identifiable.<\/p>\n<p>In this masterclass, armed with paper, a pair of scissors and a UHU stick, Mikey will guide you through the creation of your very own miniature masterpieces to take home.<\/p>\n<p>$40 incl. glass of Perrier-Jou\u00ebt on arrival<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n<p><strong><a href=\"https:\/\/www.sevenrooms.com\/reservations\/clocktowerbar?default_date=2024-05-25&amp;default_time=2:00PM\">BOOK 25 MAY<\/a> <a href=\"https:\/\/www.sevenrooms.com\/reservations\/clocktowerbar?default_date=2024-06-29&amp;default_time=2:00PM\">BOOK 29 JUNE<\/a><\/strong><\/p>\n","title":"Mikey Freedom Masterclass","start":"2024-05-25T14:00:00+00:00","end":"2024-05-25T00:00:00+00:00","is_allDay":false},{"id":3554,"url":"https:\/\/shellhouse.com.au\/events\/classic-contemporary-no-7-david-bowie-by-the-shell-house-band-live\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1080\" height=\"1080\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/shs_ourhouse24_classic_bowie_socials_1_1080x1080_a.jpeg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>The highly anticipated eighth edition of our signature musical moment, Classic Contemporary, where we present live reinterpretations of some of the most beautiful records ever made.<\/p>\n<p>Join us as we delve into the catalogue of one of the most iconic artists of all time, David Bowie and present a selection of chart-topping albums played front to back, including the hits &#8220;Let&#8217;s Dance&#8221; and &#8220;Hunky Dory&#8221; and &#8220;The Rise and Fall of Ziggy Stardust and the Spiders from Mars&#8221; before the Shell House Band takes to the stage to perform their propulsive reinterpretations.<\/p>\n<p>$55 incl. glass of Perrier-Jou\u00ebt on arrival<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n<p><a href=\"https:\/\/www.sevenrooms.com\/xkGbEIJt\"><strong>TICKETS<\/strong><\/a><\/p>\n","title":"Classic Contemporary No.8 &#8211; David Bowie by The Shell House Band (Live)","start":"2024-05-29T18:00:00+00:00","end":"2024-05-29T00:00:00+00:00","is_allDay":false},{"id":3552,"url":"https:\/\/shellhouse.com.au\/events\/discoteca-tropical-takeover\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1200\" height=\"1202\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/Unknown-1.jpeg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>If you can&#8217;t afford a holiday to the Caribbean this is the next best thing!<\/p>\n<p>Lineup<\/p>\n<p>Sir Bolivar<br \/>\nFoxy Fuzz<br \/>\n+guests<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Discoteca Tropical Takeover","start":"2024-05-25T17:00:00+00:00","end":"2024-05-25T00:00:00+00:00","is_allDay":false},{"id":3550,"url":"https:\/\/shellhouse.com.au\/events\/primary-takeover\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"660\" height=\"660\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/Screen-Shot-2024-05-21-at-5.14.38-pm.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Adi Toohey has cultivated a reputation as one of the Australia&#8217;s most reliable party starters on the underground circuit. Her 360 degree approach takes in DJ sets, a long running radio show on FBi Radio, work behind the counter at The Record Store, and her own parties with the Rimbombo crew.<\/p>\n<p>She&#8217;s dedicated countless hours to honing her craft, and the results speak for themselves. Her unpretentious style, which has a strong foundation in &#8217;90s house, has found her being tapped for podcasts by Resident Advisor, Dekmantel and Bicep, setting her on an international trajectory that has seen her play as far afield as New York, Berlin and London.<\/p>\n<p>Lineup<\/p>\n<p>Adi Toohey<br \/>\nBria<br \/>\nKali<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Our House pres. Adi Toohey + Bria + Kali","start":"2024-05-24T16:00:00+00:00","end":"2024-05-24T00:00:00+00:00","is_allDay":false},{"id":3548,"url":"https:\/\/shellhouse.com.au\/events\/yasmina-sadiki-live\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"960\" height=\"960\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/yasmina.jpeg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Immerse yourself in a night of Jazz and Neo-Soul with Sydney-based performer Yasmina Sadiki. Pioneering a fresh perspective on soulful melodies, her captivating set reflects diverse influences and collaborations. Join us in Sky Bar for an unforgettable fusion of rhythm and emotion.<\/p>\n<p>Supported by DJs<\/p>\n<p>Setwun<br \/>\nMadami<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Yasmina Sadiki (Live)","start":"2024-05-23T17:00:00+00:00","end":"2024-05-23T00:00:00+00:00","is_allDay":false},{"id":3547,"url":"https:\/\/shellhouse.com.au\/events\/kirin-j-callinan-friends-3\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1280\" height=\"1280\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/KIRIN-1280x1280.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Known for his genre-defying music and bold stage presence, Kirin J Callinan has garnered critical acclaim for his fearless approach to music. With a unique blend of pop, rock, and experimental sounds, Callinan &amp; Friends deliver an electrifying night of improvised music as part of their Sky Bar weekly residency.<\/p>\n<p>&nbsp;<\/p>\n<p>Supported by DJs<\/p>\n<p>Kali<br \/>\nReenie<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Kirin J Callinan &#038; Friends","start":"2024-05-22T17:00:00+00:00","end":"2024-05-22T00:00:00+00:00","is_allDay":false},{"id":3544,"url":"https:\/\/shellhouse.com.au\/events\/kiko-vintage-takeover-fashion-week-closing-party\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1280\" height=\"1280\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/KIKO-VINTAGE-1280x1280.jpeg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Kiko Vintage founder and talented DJ, Ari Kiko makes a triumphant return to Sky Bar alongside the Cielo Studio crew on Saturday 18 May with a takeover party to close out Australian Fashion Week in style.<\/p>\n<p>Lineup<\/p>\n<p>Angie Osman<br \/>\nAri Kiko<br \/>\nFarazzled<br \/>\nFroggi<br \/>\nLina<br \/>\nPookie<\/p>\n<p>Hosted by Millie Sykes<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Kiko Vintage x Cielo Studio Takeover (Fashion Week Closing Party)","start":"2024-05-18T17:00:00+00:00","end":"2024-05-18T00:00:00+00:00","is_allDay":false},{"id":3541,"url":"https:\/\/shellhouse.com.au\/events\/cities-of-gold-pres-santamaria-brothers-all-night-long\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1178\" height=\"1178\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/SANTAMARIAS.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>The sound of the Andes, via Strathfield. Founders of Motorik recordings and tuff DJ&#8217;s themselves, the Santamaria Brothers are inbound to give Sky Bar a rhythm injection. In recent years, the Santamarias have turned their curatorial expertise towards their \u201cCities of Gold\u201d concept; a home for their patented, long-form DJ sets which range wildly from latin jazz, to acid house; encompassing all the rhythmic shades in-between.<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Cities of Gold pres. Santamaria Brothers (All Night Long)","start":"2024-05-17T16:00:00+00:00","end":"2024-05-17T00:00:00+00:00","is_allDay":false},{"id":3539,"url":"https:\/\/shellhouse.com.au\/events\/bypass-takeover\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1280\" height=\"1280\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/DEEPA-BYPASS-1280x1280.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Sydney\/Eora imprint Bypass is taking over Sky Bar during Aus Fashion Week for a night of simmering rhythms and c*nty grooves. The brainchild of DJ\/radio-host\/party aunty and dancefloor favourite, Deepa \u2014 expect the funk to get a little fruity. Whatever your flavour, we\u2019ve got 2 words for you and one of them is hubba. Come join us for a little party x<\/p>\n<p>Lineup<\/p>\n<p>Baschoe<br \/>\nDeepa<br \/>\nDJ Mistry<br \/>\nMaz<br \/>\nRydeen<br \/>\nSetwun<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Bypass Takeover","start":"2024-05-16T17:00:00+00:00","end":"2024-05-16T00:00:00+00:00","is_allDay":false},{"id":3538,"url":"https:\/\/shellhouse.com.au\/events\/kirin-j-callinan-friends-2\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1280\" height=\"1280\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/KIRIN-1280x1280.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Known for his genre-defying music and bold stage presence, Kirin J Callinan has garnered critical acclaim for his fearless approach to music. With a unique blend of pop, rock, and experimental sounds, Callinan &amp; Friends deliver an electrifying night of improvised music as part of their Sky Bar weekly residency.<\/p>\n<p>Supported by DJs<\/p>\n<p>Kali<br \/>\nReenie<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Kirin J Callinan &#038; Friends","start":"2024-05-15T17:00:00+00:00","end":"2024-05-15T00:00:00+00:00","is_allDay":false},{"id":3536,"url":"https:\/\/shellhouse.com.au\/events\/music-for-ears-takeover\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"828\" height=\"828\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/MUSIC-FOR-EARS.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Join us as Music For Ears, the brainchild of Sydney selector Prop Joe, take over Sky Bar. Existing as a mix series and a club promotion Music For Ears has a simple to follow motto &#8211; Prop Joe and counterparts pride themselves on traversing all physical and digital planes for something new to play week to week.<\/p>\n<p>Lineup<\/p>\n<p>Christian Kalcic<br \/>\nProp Joe &amp; Mirren<br \/>\nKuta<br \/>\nSIILA<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Music For Ears Takeover","start":"2024-05-10T16:00:00+00:00","end":"2024-05-10T00:00:00+00:00","is_allDay":false},{"id":3534,"url":"https:\/\/shellhouse.com.au\/events\/pamela-live\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1120\" height=\"1120\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/PAMELA.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Catch Pamela, the Sydney duo led by Josh Kempen and Sarah Ellen, at Sky Bar this Thursday 9 May. With a blend of Sarah&#8217;s soulful vocals and Josh&#8217;s leading guitar, they deliver catchy, dynamic pop-rock fusion. Dive into their authentic original songs and let their tight rhythm section draw you into their immersive performances.<\/p>\n<p>Supported by DJs<\/p>\n<p>DJ Crabby<br \/>\nPea Oh Ma<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Pamela (Live)","start":"2024-05-09T17:00:00+00:00","end":"2024-05-09T00:00:00+00:00","is_allDay":false},{"id":3530,"url":"https:\/\/shellhouse.com.au\/events\/kirin-j-callinan-friends\/","url_new_window":"false","event-type":["Music"],"event-type-ids":[12],"venue":["Sky Bar"],"venue-ids":[7],"pretty-end-time":"","colorway":"","post_image":"<img width=\"1280\" height=\"1280\" src=\"https:\/\/shellhouse.com.au\/site\/wp-content\/uploads\/2024\/05\/KIRIN-1280x1280.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" \/>","post_content":"<p>Known for his genre-defying music and bold stage presence, Kirin J Callinan has garnered critical acclaim for his fearless approach to music. With a unique blend of pop, rock, and experimental sounds, Callinan &amp; Friends promises to deliver an electrifying night of improvised, instrumental music in Sky Bar.<\/p>\n<p>Supported by DJs<\/p>\n<p>Ari Kiko<br \/>\nPeace<br \/>\nKali<\/p>\n<p>Reservations available, walk-ins welcome<br \/>\nPresented by Perrier-Jou\u00ebt<\/p>\n","title":"Kirin J Callinan &#038; Friends","start":"2024-05-08T17:00:00+00:00","end":"2024-05-08T00:00:00+00:00","is_allDay":false}],"events_date_range":{"min_date":"2023-07-01","max_date":"2024-09-30"},"events_date_range_navigation_type":"disabled_buttons"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="codemine-calendar-js-js-before">
+/* <![CDATA[ */
+function cmcal_fix_template(event, template, eventDateFormat, eventTimeFormat, cmcal_vars) {template =  template.split('[event_title]').join(event.title);template =  template.split('[event_start]').join((event.start != null ? cmcal_language_date(cmcal_vars, event.start, eventDateFormat) : ''));template =  template.split('[event_end]').join((event.end != null ? cmcal_language_date(cmcal_vars, event.end, eventDateFormat) : ''));template =  template.split('[event_start_time]').join((event.start != null ? moment.utc(event.start).locale(cmcal_vars['language_code']).format(eventTimeFormat) : ''));template =  template.split('[event_end_time]').join((event.end != null ? moment.utc(event.end).locale(cmcal_vars['language_code']).format(eventTimeFormat) : ''));template =  template.split('[post_image]').join(event.extendedProps['post_image']);template =  template.split('[post_content]').join(event.extendedProps['post_content']);template =  template.split('[event-type]').join((typeof(event.extendedProps['event-type']) != 'undefined' ? event.extendedProps['event-type'].join(', ') : ''));template =  template.split('[event-type-ids]').join(event.extendedProps['event-type-ids']);template =  template.split('[venue]').join((typeof(event.extendedProps['venue']) != 'undefined' ? event.extendedProps['venue'].join(', ') : ''));template =  template.split('[venue-ids]').join(event.extendedProps['venue-ids']);template =  template.split('[pretty-end-time]').join(event.extendedProps['pretty-end-time']);template =  template.split('[colorway]').join(event.extendedProps['colorway']);var regExp = /\[([^\]]+)\]/gmi;
+                while ((match = regExp.exec(template)) != null) {
+                    var event_val = event[match[1]];
+                    if (event_val != undefined)
+                        template = template.replace(match[0], event_val);
+                }
+
+                return template;
+            }var taxonomies_event_template_filter = ["event-type","venue",];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/js/codemine-calendar.js?ver=1" id="codemine-calendar-js-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/superagent/superagent.min.js?ver=6.5.5" id="superagent-min-js-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/moment/moment-with-locales.min.js?ver=6.5.5" id="moment-with-locales-min-js-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/fullcalendar/packages/daygrid/main.min.js?ver=6.5.5" id="fullcalendar-daygrid-min-js-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/fullcalendar/packages/timegrid/main.min.js?ver=6.5.5" id="fullcalendar-timegrid-min-js-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/fullcalendar/packages/list/main.min.js?ver=6.5.5" id="fullcalendar-list-min-js-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/fullcalendar/packages/moment/main.min.js?ver=6.5.5" id="fullcalendar-moment-min-js-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/fullcalendar/packages/interaction/main.min.js?ver=6.5.5" id="fullcalendar-interaction-js-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-content/plugins/calendar-anything/assets/select2/select2.full.min.js?ver=6.5.5" id="select2-js-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://shellhouse.com.au/site/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
+
+</body>
+</html>

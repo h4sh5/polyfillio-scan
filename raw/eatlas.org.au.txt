@@ -1,0 +1,433 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+		lang="en"
+		xml:lang="en"
+		version="XHTML+RDFa 1.0"
+		dir="ltr"
+		
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://eatlas.org.au/" />
+<link rel="shortlink" href="/node/251" />
+<link rel="shortcut icon" href="https://eatlas.org.au/sites/default/files/reefatlas_favicon.png" type="image/png" />
+	<title>Environmental research, maps and data for tropical Australia | eAtlas</title>
+
+	<!-- For mobile devices - also works on iPad -->
+	<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0" />
+
+	<!-- OpenLayers requirement for old environments like Internet Explorer and Android 4.x eAtlas subtheme-->
+        <!-- Polyfill.io removed because of supply chain injection 2024-06-29 Eric Lawrey -->
+        <!--
+	<script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL,Array.prototype.includes,String.prototype.padStart,String.prototype.startsWith,String.prototype.endsWith"></script>
+	-->
+	<!-- Google Analytics v4 for eAtlas -->
+	<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-00BMXQPTHG"></script>
+	<script type="text/javascript">
+		<!--//--><![CDATA[//><!--
+		window.dataLayer = window.dataLayer || [];
+		function gtag() {
+			dataLayer.push(arguments)
+		};
+		gtag("js", new Date());
+		gtag("config", "G-00BMXQPTHG", {
+			"groups": "default",
+			"linker": {
+				"domains": [
+					"eatlas.org.au",
+					"northwestatlas.org",
+					"ts.eatlas.org.au",
+					"seltmp.eatlas.org.au"
+				]
+			}
+		});
+		//--><!]]>
+	</script>
+
+	<link type="text/css" rel="stylesheet" href="https://eatlas.org.au/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://eatlas.org.au/sites/default/files/css/css_aspJexyZbSy-mMQCoq4YYgcmk8Ps3vDh_U10OuJIIhk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://eatlas.org.au/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://eatlas.org.au/sites/default/files/css/css_nfIcBLGQNncaQZzI_mfRWo52Qv_zVjGTlT5QLNrkEuE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://eatlas.org.au/sites/default/files/css/css_tctPSox_Ys7dkb9iP5OkVS-AjcLI1Nb_ssf07WHyANQ.css" media="print" />
+	<script type="text/javascript" src="https://eatlas.org.au/sites/default/files/js/js_YD9ro0PAqY25gGWrTki6TjRUG8TdokmmxjfqpNNfzVU.js"></script>
+<script type="text/javascript" src="https://eatlas.org.au/sites/default/files/js/js_knBiEmiAhpyiEjn4DQ2U6kTb9kwgdnFqedbNw310faM.js"></script>
+<script type="text/javascript" src="https://eatlas.org.au/sites/default/files/js/js_RdIS5u3ZrifesQHX_2tNE18ugP8AoV1NkUEw87PWO1Q.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"eatlas","theme_token":"8OwVQ3T1cayaejyu-8zZhILDksDLaCOmOY6d59hoG-g","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/eatlas\/eatlas_geonetwork3_aggregator\/js\/eatlas_geonetwork3_aggregator_map.js":1,"sites\/all\/modules\/eatlas\/eatlas_image_slider\/..\/..\/..\/libraries\/flexslider2\/jquery.flexslider-min.js":1,"sites\/all\/modules\/eatlas\/eatlas_image_slider\/js\/load_flexslider2.js":1,"sites\/all\/modules\/eatlas\/eatlas_media_frame_filter\/js\/CKEditor_media_tab.js":1,"sites\/all\/modules\/eatlas\/eatlas_media_frame_filter\/js\/wysiwyg-media-override.js":1,"sites\/all\/modules\/eatlas\/eatlas_media_frame_filter\/js\/eatlas_media_frame_filter_mediaframe_tile.js":1,"sites\/all\/modules\/eatlas\/eatlas_metadata_viewer\/js\/eatlas_metadata_viewer_map.js":1,"sites\/all\/modules\/eatlas\/eatlas_responsive_menus\/js\/eatlas_responsive_menus.js":1,"sites\/all\/modules\/eatlas\/eatlas_spatial_publisher\/js\/eAtlas_spatial_publisher_collapsible_list.js":1,"sites\/all\/modules\/eatlas\/eatlas_spatial_publisher\/js\/eAtlas_spatial_publisher_back_to_top_button.js":1,"sites\/all\/modules\/eatlas\/eatlas_spatial_publisher\/..\/..\/..\/libraries\/openlayers\/ol.js":1,"sites\/all\/modules\/eatlas\/eatlas_splash_screen\/js\/eatlas_splash_screen.js":1,"sites\/all\/themes\/eatlases\/js\/field_video_url_resize.js":1,"sites\/all\/themes\/eatlases\/subthemes\/eatlas\/js\/eatlases_search_overlay.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/eatlas\/eatlas_branding\/css\/eatlas_branding.css":1,"sites\/all\/modules\/eatlas\/eatlas_ckeditor_config\/css\/eatlas_ckeditor_config_drupal.css":1,"sites\/all\/modules\/eatlas\/eatlas_commons\/css\/eatlas_commons.css":1,"sites\/all\/modules\/eatlas\/eatlas_geonetwork3_aggregator\/css\/eatlas_geonetwork3_aggregator.css":1,"sites\/all\/modules\/eatlas\/eatlas_image_slider\/css\/eatlas_image_slider.css":1,"sites\/all\/modules\/eatlas\/eatlas_image_slider\/..\/..\/..\/libraries\/flexslider2\/flexslider.css":1,"sites\/all\/modules\/eatlas\/eatlas_media_frame_filter\/css\/eatlas_media_frame_filter_style.css":1,"sites\/all\/modules\/eatlas\/eatlas_media_gallery_fixes\/css\/eatlas_media_gallery_fixes.css":1,"sites\/all\/modules\/eatlas\/eatlas_metadata_viewer\/css\/eatlas_metadata_viewer.css":1,"sites\/all\/modules\/eatlas\/eatlas_ncanimate\/css\/eatlas_ncanimate.css":1,"sites\/all\/modules\/eatlas\/eatlas_ncanimate\/css\/eatlas_ncanimate_responsive.css":1,"sites\/all\/modules\/eatlas\/eatlas_ncanimate2\/css\/eatlas_ncanimate2.css":1,"sites\/all\/modules\/eatlas\/eatlas_ncanimate2\/css\/eatlas_ncanimate2_responsive.css":1,"sites\/all\/modules\/eatlas\/eatlas_responsive_menus\/css\/eatlas_responsive_menus.css":1,"sites\/all\/modules\/eatlas\/eatlas_search\/css\/eatlas_search_style.css":1,"sites\/all\/modules\/eatlas\/eatlas_spatial_publisher\/css\/eatlas_spatial_publisher.css":1,"sites\/all\/modules\/eatlas\/eatlas_spatial_publisher\/..\/..\/..\/libraries\/openlayers\/ol.css":1,"sites\/all\/modules\/eatlas\/eatlas_splash_screen\/css\/eatlas_splash_screen.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/eatlas\/eatlas_anti_spam\/css\/eatlas_anti_spam.css":1,"sites\/all\/modules\/eatlas\/eatlas_media_browser_plus_fixes\/css\/eatlas_media_browser_plus_fixes.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/eatlases\/css\/main.css":1,"sites\/all\/themes\/eatlases\/css\/column.css":1,"sites\/all\/themes\/eatlases\/css\/form.css":1,"sites\/all\/themes\/eatlases\/css\/responsive.css":1,"sites\/all\/themes\/eatlases\/subthemes\/eatlas\/css\/eatlas.css":1,"sites\/all\/themes\/eatlases\/subthemes\/eatlas\/css\/new_header.css":1,"sites\/all\/themes\/eatlases\/css\/print.css":1,"sites\/all\/themes\/eatlases\/subthemes\/eatlas\/css\/eatlas_print.css":1}},"eatlas_media_frame_filter":{"drupal_custom_image_styles":{"amps_header_image":"AMPS header image","amps_image_slider":"AMPS Image slider","eatlas_image_slider":"eAtlas image slider","eatlas_page_teaser":"eAtlas Page teaser","editor":"Editor","ereefs_member":"eReefs member","m_article_sq_crop":"Media Article square cropped (300x300)","m_icon":"Media icon (80x80)","m_logo":"Media logo (210x80)","m_preview":"Preview image (180x240)","m_preview_full":"Media Preview Full","m_preview_strip":"Media Preview strip (690x150)","m_small":"Media Small (210x210)","m_very_large":"Media Very large (900x900)"}},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-251 node-type-page" >
+	<div id="skip-link">
+		<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+	</div>
+		
+			<header>
+			<div class="header nocontent branding-background"> <!-- <div class="header nocontent" ... > -->
+								<div id="main-menus">
+					<div class="main-menus-content">
+						<div class="menu-left">
+							<div id="block-menu-menu-branding-menu-default" class="block block-menu eatlas-responsive-menu">
+
+    <h2>branding-menu-default</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf menu-image-item"><a href="/home" title="eAtlas" class="active"><img alt="eAtlas" src="/sites/all/themes/eatlases/img/eatlas-logo-small-grey.png" /></a></li>
+<li class="expanded active-trail"><a>Regions / Sites</a><ul class="menu"><li class="first leaf active-trail"><a href="/home" class="active-trail active">All regions - eAtlas</a></li>
+<li class="leaf"><a href="//ts.eatlas.org.au/ts">Torres Strait eAtlas</a></li>
+<li class="leaf"><a href="//northwestatlas.org/nwa" title="Atlas covering the reefs and shoals of north west Australia">North West Atlas</a></li>
+<li class="leaf"><a href="//seltmp.eatlas.org.au/seltmp" title="Social and Economic Long Term Monitoring Program">SELTMP site</a></li>
+<li class="leaf"><a href="http://maps.eatlas.org.au/wtma/" target="_blank">Wet Tropics Vegetation Interactive Maps</a></li>
+<li class="last leaf"><a href="https://ereefs.aims.gov.au" title="Animations and Reporting products generated from the eReefs model of the Great Barrier Reef" target="_blank">eReefs visualisation</a></li>
+</ul></li>
+<li class="expanded"><a>Projects</a><ul class="menu"><li class="first leaf"><a href="/nerp-te">NERP TE</a></li>
+<li class="leaf"><a href="/rrmmp">MMP</a></li>
+<li class="leaf"><a href="/nesp-twq-1">NESP TWQ Round 1</a></li>
+<li class="leaf"><a href="/nesp-twq-2">NESP TWQ Round 2</a></li>
+<li class="leaf"><a href="/nesp-twq-3">NESP TWQ Round 3</a></li>
+<li class="leaf"><a href="/nesp-twq-4">NESP TWQ Round 4</a></li>
+<li class="leaf"><a href="/nesp-twq-5">NESP TWQ Round 5</a></li>
+<li class="leaf"><a href="/nesp-mac-1">NESP MaC Round 1</a></li>
+<li class="last leaf"><a href="/nesp-mac-3">NESP MaC Round 3</a></li>
+</ul></li>
+<li class="leaf"><a href="/articles">Articles</a></li>
+<li class="expanded"><a>Maps</a><ul class="menu"><li class="first leaf"><a href="/map/gallery" title="Gallery of featured interactive maps from the eAtlas">Interactive Map Gallery</a></li>
+<li class="last leaf"><a href="http://maps.eatlas.org.au/" target="_blank">Interactive Map</a></li>
+</ul></li>
+<li class="expanded"><a>Datasets</a><ul class="menu"><li class="first leaf"><a href="https://eatlas.org.au/geonetwork/srv/eng/catalog.search#/search" target="_blank">Advanced metadata search</a></li>
+<li class="last leaf"><a href="/datasets">Repository Listing</a></li>
+</ul></li>
+<li class="expanded"><a>Photos</a><ul class="menu"><li class="first leaf"><a href="/ts/nerp-te/coral-photos" title="Galleries of corals species photos from Torres Strait">Coral species photos</a></li>
+<li class="last leaf"><a href="/ts/gallery/ts-scenery" title="Images of Torres Strait">Torres Strait scenic images</a></li>
+</ul></li>
+<li class="expanded"><a>About</a><ul class="menu"><li class="first leaf"><a href="/content/about-e-atlas">About eAtlas</a></li>
+<li class="leaf"><a href="/forms">Content submission forms</a></li>
+<li class="leaf"><a href="/presentations">Presentations</a></li>
+<li class="leaf"><a href="/contact">Contact us</a></li>
+<li class="last leaf"><a href="/video/using-eAtlas-to-find-research-data">Finding research data training video</a></li>
+</ul></li>
+<li class="last leaf menu-image-item"><a href="/rss.xml/73" title="RSS Feed"><img alt="RSS Feed" src="/sites/all/themes/eatlases/img/rss.png" /></a></li>
+</ul><div class="eatlas-responsive-menu-container"><div class="eatlas-responsive-menu-button"><div class="eatlas-responsive-menu-button-image" title="Menu"></div></div><ul class="accordion-menu"><li class="first leaf menu-image-item"><a href="/home" title="eAtlas" class="active"><img alt="eAtlas" src="/sites/all/themes/eatlases/img/eatlas-logo-small-grey.png" /></a></li>
+<li class="expanded active-trail"><a>Regions / Sites</a><ul><li class="first leaf active-trail"><a href="/home" class="active-trail active">All regions - eAtlas</a></li>
+<li class="leaf"><a href="//ts.eatlas.org.au/ts">Torres Strait eAtlas</a></li>
+<li class="leaf"><a href="//northwestatlas.org/nwa" title="Atlas covering the reefs and shoals of north west Australia">North West Atlas</a></li>
+<li class="leaf"><a href="//seltmp.eatlas.org.au/seltmp" title="Social and Economic Long Term Monitoring Program">SELTMP site</a></li>
+<li class="leaf"><a href="http://maps.eatlas.org.au/wtma/" target="_blank">Wet Tropics Vegetation Interactive Maps</a></li>
+<li class="last leaf"><a href="https://ereefs.aims.gov.au" title="Animations and Reporting products generated from the eReefs model of the Great Barrier Reef" target="_blank">eReefs visualisation</a></li>
+</ul></li>
+<li class="expanded"><a>Projects</a><ul><li class="first leaf"><a href="/nerp-te">NERP TE</a></li>
+<li class="leaf"><a href="/rrmmp">MMP</a></li>
+<li class="leaf"><a href="/nesp-twq-1">NESP TWQ Round 1</a></li>
+<li class="leaf"><a href="/nesp-twq-2">NESP TWQ Round 2</a></li>
+<li class="leaf"><a href="/nesp-twq-3">NESP TWQ Round 3</a></li>
+<li class="leaf"><a href="/nesp-twq-4">NESP TWQ Round 4</a></li>
+<li class="leaf"><a href="/nesp-twq-5">NESP TWQ Round 5</a></li>
+<li class="leaf"><a href="/nesp-mac-1">NESP MaC Round 1</a></li>
+<li class="last leaf"><a href="/nesp-mac-3">NESP MaC Round 3</a></li>
+</ul></li>
+<li class="leaf"><a href="/articles">Articles</a></li>
+<li class="expanded"><a>Maps</a><ul><li class="first leaf"><a href="/map/gallery" title="Gallery of featured interactive maps from the eAtlas">Interactive Map Gallery</a></li>
+<li class="last leaf"><a href="http://maps.eatlas.org.au/" target="_blank">Interactive Map</a></li>
+</ul></li>
+<li class="expanded"><a>Datasets</a><ul><li class="first leaf"><a href="https://eatlas.org.au/geonetwork/srv/eng/catalog.search#/search" target="_blank">Advanced metadata search</a></li>
+<li class="last leaf"><a href="/datasets">Repository Listing</a></li>
+</ul></li>
+<li class="expanded"><a>Photos</a><ul><li class="first leaf"><a href="/ts/nerp-te/coral-photos" title="Galleries of corals species photos from Torres Strait">Coral species photos</a></li>
+<li class="last leaf"><a href="/ts/gallery/ts-scenery" title="Images of Torres Strait">Torres Strait scenic images</a></li>
+</ul></li>
+<li class="expanded"><a>About</a><ul><li class="first leaf"><a href="/content/about-e-atlas">About eAtlas</a></li>
+<li class="leaf"><a href="/forms">Content submission forms</a></li>
+<li class="leaf"><a href="/presentations">Presentations</a></li>
+<li class="leaf"><a href="/contact">Contact us</a></li>
+<li class="last leaf"><a href="/video/using-eAtlas-to-find-research-data">Finding research data training video</a></li>
+</ul></li>
+<li class="last leaf menu-image-item"><a href="/rss.xml/73" title="RSS Feed"><img alt="RSS Feed" src="/sites/all/themes/eatlases/img/rss.png" /></a></li>
+</ul></div>  </div>
+</div>
+						</div>
+						<div class="menu-right">
+							<div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="search-block-minimised">
+<div class="show-search-overlay" title="Search"></div>
+</div>
+<div class="search-block-overlay">
+<div class="search-overlay"></div>
+<div class="search-overlay-content">
+<div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Search for articles, metadata, images, etc." placeholder="Articles, metadata, images, etc." style="font-size: 1em;" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-kO9cqHmSC1WEAzkKyn_O82XMGIUPpKX_GJCWqqR0Aso" />
+<input type="hidden" name="form_id" value="search_block_form" />
+
+<div class="close-search-overlay" title="Close search"></div>
+</div>
+</div></div>
+</div></form>  </div>
+</div>
+													</div>
+					</div>
+				</div>
+
+				  <div class="region region-header">
+    <div id="block-block-8" class="block block-block">
+
+    
+  <div class="content">
+      <div style="padding-top: 48px; position:relative;">
+	<div class="pagewidth header-tiles" style="height: 110px; background: #FFFFFF url('/sites/all/themes/eatlases/subthemes/eatlas/img/photo-tiles.png') no-repeat right bottom;"><a href="/home"><img alt="eAtlas logo" class="media-image" style="position: absolute; bottom: 0;  width: 341px; height: 143px; " typeof="foaf:Image" src="/sites/default/files/shared/Logos/eatlas-front-logo.png" width="341" height="143" /></a></div>
+</div>
+    </div>
+</div>
+  </div>
+				  <div class="region region-header-print">
+    <div id="block-block-35" class="block block-block">
+
+    
+  <div class="content">
+      <div style="border-bottom:1px solid #034581; padding-bottom:1em"><img alt="eAtlas logo" class="media-image" style=" width: 167px; height: 70px; " typeof="foaf:Image" src="/sites/default/files/resize/styles/editor/public/shared/Logos/eatlas-front-logo-167x70.png?itok=YIL0m1jj" width="167" height="70" /></div>
+    </div>
+</div>
+  </div>
+			</div>
+		</header>
+	
+
+	<section>
+		<!-- Banner (but only show in view mode, not in edit mode) -->
+		
+		<!-- Floating left -->
+				<!-- end Floating left -->
+
+		<div id="wrapper">
+			<div id="container">
+				
+				<a id="main-content"></a>
+									<div id="tabs-wrapper" class="clearfix">
+					</div>
+				
+																
+				
+				
+				<div id="page-content" class="page-content_full-width">
+																<h1 class="page-title">Environmental research, maps and data for tropical Australia</h1>
+										
+					  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-251" class="node node-page clearfix" about="/home" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Environmental research, maps and data for tropical Australia" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+      </div>
+
+  
+  
+</div>
+  </div>
+</div>
+<div id="block-views-recent-articles-block" class="block block-views left-column-wrapper">
+
+    <h2>Recent articles</h2>
+  
+  <div class="content">
+    <div class="view view-recent-articles view-id-recent_articles view-display-id-block left-column view-dom-id-482de82ed769576ebc3b85b4552ed162">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/nwa/threat-exposure-megafauna">Mapping exposure of marine megafauna to anthropogenic threats in the north-west marine region of Australia</a>
+</span>  </div>  
+  <div class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2022-05-26T00:00:00+10:00">26 May 2022</span></div>  </div>  
+  <div class="views-field views-field-field-preview">        <span class="field-content recent-article-preview"><div style="" class="wysiwyg-media-file-wrapper"><div class=" mediaframe_wikipedia wysiwyg-media-file noMetadata"><div class="image"><img alt="Montage" style="width: 180px; height: 178px; " typeof="foaf:Image" src="/sites/default/files/styles/m_preview/public/nwatlas/montage_1.jpg?itok=mRtY7e2w" /></div><div class="metadata" style="width: 180px; "></div></div></div></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content recent-article-body">  We used data from satellite telemetry tags attached to six species of threatened and migratory marine megafauna across three taxonomic groups (marine turtles, whales and sharks) off the coast of north-western Australia to map their areas of use. We then compiled spatial data from a range of threats and overlayed species and threat maps to assess the level of exposure of the species to threats. In doing so we can identify areas where there is high exposure of species to threats, where risk assessments can be best directed with resulting management actions if needed in order to protect these species.  </div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/nwa/threat-exposure-megafauna">read more</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/49000">How connected are deep and shallow Pearl Oysters in the Eighty Mile Beach area?</a>
+</span>  </div>  
+  <div class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2022-05-26T00:00:00+10:00">26 May 2022</span></div>  </div>  
+  <div class="views-field views-field-field-preview">        <span class="field-content recent-article-preview"><div style="" class="wysiwyg-media-file-wrapper"><div class=" mediaframe_wikipedia wysiwyg-media-file noMetadata"><div class="image"><img alt="Oyster on Albert reef" style="width: 180px; height: 149px; " typeof="foaf:Image" src="/sites/default/files/styles/m_preview/public/nwatlas/NWS2S/Albert-Reef_header.jpg?itok=MT9pbWgH" /></div><div class="metadata" style="width: 180px; "></div></div></div></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content recent-article-body">  We use genetics to estimate how far and wide oyster larvae can disperse to assist in setting biologically relevant spatial boundaries and harvest limits for oysters.  </div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/node/49000">read more</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/nwa/pygmy-blue-whales">Distribution and important areas for pygmy blue whales</a>
+</span>  </div>  
+  <div class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2022-05-26T00:00:00+10:00">26 May 2022</span></div>  </div>  
+  <div class="views-field views-field-field-preview">        <span class="field-content recent-article-preview"><div style="" class="wysiwyg-media-file-wrapper"><div class=" mediaframe_wikipedia wysiwyg-media-file noMetadata"><div class="image"><img alt="Pygmy blue whale" style="width: 180px; height: 101px; " typeof="foaf:Image" src="/sites/default/files/styles/m_preview/public/nwatlas/Pygmy%20blue%20whale%20satellite%20tracking_online%20resource_30062021%20FIGURE%201.jpg?itok=4skZ0IZE" /></div><div class="metadata" style="width: 180px; "></div></div></div></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content recent-article-body">  To assist in recovery of the population, spatial areas of importance to pygmy blue whales, known as Biologically Important Areas (BIA), have been identified by the Australian Government.  The AIMS team and collaborators Centre for Whale Research and Curtin University set out to reduce uncertainty in identifying where important foraging areas for this species and their migration pathways and distribution exist, and the extent to which they overlap with anthropogenic activities by deploying satellite tags.  </div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/nwa/pygmy-blue-whales">read more</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/nwa/nws2s-ac125-benthic-towed-video-stills-map">Discovering what lives on the sea floor at 125m depth</a>
+</span>  </div>  
+  <div class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2022-05-26T00:00:00+10:00">26 May 2022</span></div>  </div>  
+  <div class="views-field views-field-field-preview">        <span class="field-content recent-article-preview"><div style="" class="wysiwyg-media-file-wrapper"><div class=" mediaframe_wikipedia wysiwyg-media-file noMetadata"><div class="image"><img alt="NWS2S benthic habitat still Area 1 Tow 3 Photo 3" style="width: 180px; height: 135px; " typeof="foaf:Image" src="/sites/default/files/styles/m_preview/public/nwatlas/NWS2S/Area1_Tow3_3.JPG?itok=aZk1z0Gy" /></div><div class="metadata" style="width: 180px; "></div></div></div></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content recent-article-body">  Key Ecological Features (KEFs) are parts of the marine ecosystem considered to be of particular importance for either a region's biodiversity or its ecosystem function and integrity. 13 KEFs have been defined for Australia’s North-west Marine Region, including the ‘Ancient Coastline at 125m depth contour’ (AC125). The AC125 is thought to “provide areas of hard substrate and therefore may provide sites for higher diversity and enhanced species richness relative to surrounding areas of predominantly soft sediment.” Little is known about what habitats exist on the sea floor in the AC125. Part of the reason is that the AC125 is very deep, and thus difficult to observe. The North West Shoals to Shore Research Program took underwater photographs and video of the seafloor to better understand each AC125 Area within its local context.  </div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/nwa/nws2s-ac125-benthic-towed-video-stills-map">read more</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/gbr/nesp-twq-5-2-cumulative-impacts">Cumulative Impacts on the Great Barrier Reef</a>
+</span>  </div>  
+  <div class="views-field views-field-field-published-date">    <span class="views-label views-label-field-published-date">Published on</span>    <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-04-23T00:00:00+10:00">23 April 2021</span></div>  </div>  
+  <div class="views-field views-field-field-preview">        <span class="field-content recent-article-preview"><div style="" class="wysiwyg-media-file-wrapper"><div class=" mediaframe_wikipedia wysiwyg-media-file noMetadata"><div class="image"><img alt="Pressures on the Great Barrier Reef over time" style="width: 180px; height: 85px; " typeof="foaf:Image" src="/sites/default/files/styles/m_preview/public/nesp-twq-5/5-2/Pressures-on-GBR_V4.jpg?itok=2Jwc8Wyk" /></div><div class="metadata" style="width: 180px; "></div></div></div></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content recent-article-body">  This site provides an introduction to cumulative impacts on coral reefs and outlines some of the latest research into understanding the interactive effects of these impacts and which affect different coral types the most.     </div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/gbr/nesp-twq-5-2-cumulative-impacts">read more</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/articles">
+    more  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-views-recent-datasets-block" class="block block-views right-column-wrapper">
+
+    <h2>Recent datasets</h2>
+  
+  <div class="content">
+    <div class="view view-recent-datasets view-id-recent_datasets view-display-id-block right-column view-dom-id-2567f1d1dfaca69b6f023701e613807d">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/data/uuid/606e5d48-882e-4ee7-999c-de36a8d24259">National Scale Survey on landscape-scale restoration in marine and coastal ecosystems - November 2021 (NESP MaC 1.6, CSIRO)</a>
+</span>  </div>  
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Published on</span>    <span class="field-content">18 June 2024</span>  </div>  
+  <div class="views-field views-field-field-preview">        <div class="field-content"><div style="" class="wysiwyg-media-file-wrapper"><div class=" mediaframe_wikipedia wysiwyg-media-file noMetadata"><div class="image"><img style="width: 180px; height: 98px; " typeof="foaf:Image" src="/sites/default/files/styles/m_preview/public/metadata_preview_image/Future_research_needs_restoration.png?itok=VVBTsMw3" /></div><div class="metadata" style="width: 180px; "></div></div></div></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">  <p>This dataset consists of one data file (spreadsheet) of outcomes from a national scale survey of practitioners and researchers working in marine and coastal ecosystem restoration. For privacy reasons the data are aggregated and presented as summary data. Long form responses have been checked to ensure that respondents are not identifiable. The survey was open for response November 8th 2021 – November 29th 2021 and had 129 valid responses. </p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/data/uuid/606e5d48-882e-4ee7-999c-de36a8d24259">read more</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/data/uuid/99668409-1f69-4a48-8ec6-edfbd92849e4">Northern Australian Reef Mapping through Georeferenced Media - Virtual Fieldwork Toolkit (NESP MaC 3.17, AIMS)</a>
+</span>  </div>  
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Published on</span>    <span class="field-content">10 April 2024</span>  </div>  
+  <div class="views-field views-field-field-preview">        <div class="field-content"><div style="" class="wysiwyg-media-file-wrapper"><div class=" mediaframe_wikipedia wysiwyg-media-file noMetadata"><div class="image"><img style="width: 180px; height: 91px; " typeof="foaf:Image" src="/sites/default/files/styles/m_preview/public/metadata_preview_image/reef-map-geo-media-interactive-map_bigger.jpg?itok=e0RxmF3S" /></div><div class="metadata" style="width: 180px; "></div></div></div></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">  <p>This dataset compiles georeferenced media - including videos (480), articles (20), and datasets (6) - specifically curated to facilitate the understanding of reef habitats across northern Australia. It was designed as a research tool for virtual fieldwork with a particular focus on identifying sources of information that allow an understanding of both inshore and offshore reef environments. This dataset provides a record of the literature and media that was reviewed as part of mapping the reef boundaries from remote sensing as part of project NESP MaC 3.17. </p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/data/uuid/99668409-1f69-4a48-8ec6-edfbd92849e4">read more</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/data/uuid/0e5ff858-875e-40fc-a431-61d6ad100d28">Lidar mapping and Gully Assessment December 2023 (DCCEEW, Contract SON3352211, Griffith Uni)</a>
+</span>  </div>  
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Published on</span>    <span class="field-content">5 April 2024</span>  </div>  
+  <div class="views-field views-field-field-preview">        <div class="field-content"><div style="" class="wysiwyg-media-file-wrapper"><div class=" mediaframe_wikipedia wysiwyg-media-file noMetadata"><div class="image"><img style="width: 180px; height: 226px; " typeof="foaf:Image" src="/sites/default/files/styles/m_preview/public/metadata_preview_image/Figure_4_Heat_map_of_gullied_area_at_1_km_x_1_km_resolution_SON3352211_GU.jpg?itok=uNwGAk_H" /></div><div class="metadata" style="width: 180px; "></div></div></div></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">  <p>This dataset contains maps of alluvial and hillslope gullies across blocks of lidar covering portions of the Burdekin Catchment. This project is an expansion of the detailed gully mapping and assessment undertaken previously as part of NESP TWQ Project 5.10 (Daley et al., 2021), using newly available lidar as well as some older data not previously used.</p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/data/uuid/0e5ff858-875e-40fc-a431-61d6ad100d28">read more</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/data/uuid/9b26bf43-3368-41a5-922e-0bf94529d0d2">Coral Sea Oceanic Vegetation (NESP MaC 2.3, AIMS)</a>
+</span>  </div>  
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Published on</span>    <span class="field-content">14 March 2024</span>  </div>  
+  <div class="views-field views-field-field-preview">        <div class="field-content"><div style="" class="wysiwyg-media-file-wrapper"><div class=" mediaframe_wikipedia wysiwyg-media-file noMetadata"><div class="image"><img style="width: 180px; height: 174px; " typeof="foaf:Image" src="/sites/default/files/styles/m_preview/public/metadata_preview_image/CS_NESP-MaC-2-3_AIMS_Oceanic-veg_preview-map-4-reefs.png?itok=9rMC-df8" /></div><div class="metadata" style="width: 180px; "></div></div></div></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">  <p>This dataset is a vector shapefile mapping the deep submerged aquatic vegetation on the bottom of the coral atoll lagoons in the Coral Sea within the Australian EEZ. This mapped vegetation predominantly corresponds to erect macroalgae, erect calcifying algae and filamentous algae (Tol, et al., 2023), with an average algae benthic cover of approximately 30 - 40%. This corresponds to only vegetation occurring on the soft sediment of the lagoons. </p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/data/uuid/9b26bf43-3368-41a5-922e-0bf94529d0d2">read more</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/data/uuid/7c56c20a-2fa6-4fff-9530-65f6c5750e9f">Estimating benthic reflectance of deep coral atoll lagoons from satellite imagery and bathymetry - Analysis code and case studies (NESP MaC 2.3, AIMS)</a>
+</span>  </div>  
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Published on</span>    <span class="field-content">14 March 2024</span>  </div>  
+  <div class="views-field views-field-field-preview">        <div class="field-content"><div style="" class="wysiwyg-media-file-wrapper"><div class=" mediaframe_wikipedia wysiwyg-media-file noMetadata"><div class="image"><img style="width: 180px; height: 108px; " typeof="foaf:Image" src="/sites/default/files/styles/m_preview/public/metadata_preview_image/CS_NESP-MaC-2-3_AIMS_Benth-Reflect_Flinders-TrueColour-Benthic.jpeg?itok=DDVQdWEl" /></div><div class="metadata" style="width: 180px; "></div></div></div></div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">  <p>This code repository and dataset details a method for determining benthic reflectance from a combination of satellite imagery and bathymetry. Its key benefit is that it can map benthic reflectance up to 50 - 60 m in depth in clear waters, when using Sentinel 2 B2 channel combined with matching bathymetry data. Benthic reflectance is a measure of how much light the seafloor reflects and is useful for distinguishing areas that are sand (high reflectance) or vegetation such as seagrass, algae and coral (low reflectance). </p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/data/uuid/7c56c20a-2fa6-4fff-9530-65f6c5750e9f">read more</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/datasets">
+    more  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+					<div style="clear:both;"></div>
+				</div>
+				
+				
+				
+      </div> <!-- /#container -->
+    </div> <!-- /#wrapper -->
+    <footer>
+      <div id="footer" class="nocontent">
+        <div id="wrapper">
+          <div id="container">
+                          <div class="region region-footer">
+    <div id="block-block-1" class="block block-block">
+
+    <h2>eAtlas Partners</h2>
+  
+  <div class="content">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+	<div style="margin:1.5em;"><a href="https://www.aims.gov.au/" target="_blank"><img alt="" class="attr__typeof__foaf:Image img__fid__11 media-image img__view_mode__media_original" media_style="" src="https://eatlas.org.au/sites/default/files/shared/Logos/aims%20and%20aus%20gov%20logo%20191x48.png" style="height:48px; width:191px" width="191" height="48" /></a></div>
+
+	<div style="margin:1.5em;"><img alt="National Environmental Science Programme (NESP) logo" class="media-image" style=" width: 210px; height: 41px; " typeof="foaf:Image" src="/sites/default/files/resize/styles/editor/public/shared/Logos/NESP-logo-HR-210x41.png?itok=vzI7t0tI" width="210" height="41" /></div>
+
+	<div style="margin:1.5em;"><a href="http://www.tsra.gov.au/" target="_blank"><img alt="" class="attr__typeof__foaf:Image img__fid__300 media-image img__view_mode__media_original" media_style="" src="https://eatlas.org.au/sites/default/files/resize/shared/Logos/tsra_logo-210x40.png" style="width: 210px; height: 40px;" width="210" height="40" /></a></div>
+
+	<div style="margin:1.5em;"><a href="https://www.csiro.au/" target="_blank"><img alt="" class="attr__typeof__foaf:Image img__fid__19 media-image img__view_mode__media_original" media_style="" src="https://eatlas.org.au/sites/default/files/resize/shared/Logos/CSIRO-logo-80x80.jpg" style="height: 80px; width: 80px;" width="80" height="80" /></a></div>
+
+	<div style="margin:1.5em;"><a href="https://rrrc.org.au/" target="_blank"><img alt="" class="attr__typeof__foaf:Image img__fid__14 media-image img__view_mode__media_original" media_style="" src="https://eatlas.org.au/sites/default/files/resize/shared/Logos/rrrc_colour_stacked-88x56.png" style="height: 56px; width: 88px;" width="88" height="56" /></a></div>
+
+	<div style="margin:1.5em;"><a href="https://jcu.edu.au" target="_blank"><img alt="" class="attr__typeof__foaf:Image img__fid__785 media-image img__view_mode__media_original" media_style="" src="https://eatlas.org.au/sites/default/files/resize/shared/Logos/jcu_logo-180x77.png" style="width: 180px; height: 77px;" width="180" height="77" /></a></div>
+
+	<div style="margin:1.5em;"><img alt="" class="attr__typeof__foaf:Image img__fid__1063 media-image img__view_mode__media_original" media_style="" src="https://eatlas.org.au/sites/default/files/resize/shared/Logos/WTMA-LOGO-HOR-SPOT-MED-210x42.jpg" style="width: 210px; height: 42px;" width="210" height="42" /></div>
+
+	<div style="margin:1.5em;"><a href="https://www.griffith.edu.au/" target="_blank"><img alt="" class="attr__typeof__foaf:Image img__fid__20 media-image img__view_mode__media_original" media_style="" src="https://eatlas.org.au/sites/default/files/resize/shared/Logos/Griffith_University_logo-78x80.gif" style="height: 80px; width: 78px;" width="78" height="80" /></a></div>
+
+	<div style="margin:1.5em;"><a href="https://www.gbrmpa.gov.au/" target="_blank"><img alt="" class="attr__typeof__foaf:Image img__fid__13 media-image img__view_mode__media_original" media_style="" src="https://eatlas.org.au/sites/default/files/resize/shared/Logos/gbrmpa_logo-new-174x56.png" style="width: 174px; height: 56px;" width="174" height="56" /></a></div>
+
+	<div style="margin:1.5em;"><a href="https://portal.aodn.org.au/" target="_blank"><img alt="" class="attr__typeof__foaf:Image img__fid__10 media-image img__view_mode__media_original" media_style="" src="https://eatlas.org.au/sites/default/files/resize/shared/Logos/AODN_Logo-101x56.png" style="height: 56px; width: 101px;" width="101" height="56" /></a></div>
+
+	<div style="margin:1.5em;"><a href="https://data.qld.gov.au/" target="_blank"><img alt="" class="attr__typeof__foaf:Image img__fid__970 media-image img__view_mode__media_original" media_style="" src="https://eatlas.org.au/sites/default/files/resize/shared/Logos/qg-coa-210x37.png" style="width: 210px; height: 37px;" width="210" height="37" /></a></div>
+
+	<div style="margin:1.5em;"><a href="https://www.uq.edu.au/" target="_blank"><img alt="" class="attr__typeof__foaf:Image img__fid__5 media-image img__view_mode__media_original" media_style="" src="https://eatlas.org.au/sites/default/files/resize/shared/Logos/UQ_logo-72x80.jpg" style="height: 80px; width: 72px;" width="72" height="80" /></a></div>
+</div>
+
+<p style="text-align:center">This project is jointly funded through <a href="https://www.aims.gov.au">Australian Institute of Marine Science</a> and the Australian Government's National Environmental Science Program.</p>
+    </div>
+</div>
+<div id="block-eatlas-login-block-eatlas-login" class="block block-eatlas-login-block">
+
+    
+  <div class="content">
+    <div class="eatlas-login"><a href="/user/login?destination=home">Login</a></div>  </div>
+</div>
+  </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </section>
+	</body>
+</html>

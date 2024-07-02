@@ -1,0 +1,1508 @@
+                            <!DOCTYPE html>
+<html lang="en-GB" dir="ltr">
+        <head>
+    
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        
+
+        
+            
+         <meta charset="utf-8" />
+	<base href="https://crca.org.au/" />
+	<meta name="keywords" content="Christian Reformed Churches of Australia" />
+	<meta name="description" content="Christian Reformed Churches of Australia" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Christian Reformed Churches of Australia - Home</title>
+	<link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/media/com_jce/site/css/content.min.css?badb4208be409b1335b815dde676300e" rel="stylesheet" />
+	<link href="/media/gantry5/engines/nucleus/css-compiled/nucleus.css" rel="stylesheet" />
+	<link href="/templates/rt_manticore/custom/css-compiled/manticore_55.css" rel="stylesheet" />
+	<link href="/media/gantry5/assets/css/font-awesome5-pseudo.min.css" rel="stylesheet" />
+	<link href="/templates/rt_manticore/custom/css-compiled/manticore-joomla_55.css" rel="stylesheet" />
+	<link href="/templates/rt_manticore/custom/css-compiled/custom_55.css" rel="stylesheet" />
+	<link href="/templates/rt_manticore/css/swiper.min.css" rel="stylesheet" />
+	<script src="/media/jui/js/jquery.min.js?747f28cfabef7159acad936afc4b2332"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?747f28cfabef7159acad936afc4b2332"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?747f28cfabef7159acad936afc4b2332"></script>
+	<script src="/media/system/js/caption.js?747f28cfabef7159acad936afc4b2332"></script>
+	<script src="/media/jui/js/bootstrap.min.js?747f28cfabef7159acad936afc4b2332"></script>
+	<script src="/media/gantry5/assets/js/font-awesome5-all.min.js"></script>
+	<script src="/media/gantry5/assets/js/font-awesome5-shim.min.js"></script>
+	<script>
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+	<script type="text/javascript">
+	var WStyle1 = "width=800,height=500,scrollbars=1";
+	var WStyle2 = "width=400,height=200";
+	</script>
+
+    
+                
+</head>
+
+    <body class="gantry site com_content view-featured no-layout no-task dir-ltr itemid-1362 outline-55 g-offcanvas-left g-home-particles g-style-preset3">
+        
+                    
+
+        <div id="g-offcanvas"  data-g-offcanvas-swipe="0" data-g-offcanvas-css3="1">
+                        <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div id="mobile-menu-6989-particle" class="g-content g-particle">            <div id="g-mobilemenu-container" data-g-menu-breakpoint="51rem"></div>
+            </div>
+        </div>
+            </div>
+    </div>
+        <div id="g-page-surround">
+            <div class="g-offcanvas-hide g-offcanvas-toggle" role="navigation" data-offcanvas-toggle aria-controls="g-offcanvas" aria-expanded="false"><i class="fa fa-fw fa-bars"></i></div>                        
+
+                                            
+                <section id="g-top">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div class="g-system-messages">
+                                            <div id="system-message-container">
+    </div>
+
+            
+    </div>
+        </div>
+            </div>
+            
+    </section>
+                                        
+                <section id="g-navigation" class="fp-slideshow">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-25 nomargintop nopaddingtop nopaddingright">
+             <div id="logo-9841-particle" class="g-content g-particle">            <a href="/" class="g-logo g-logo-manticore" target="_self" title="" rel="home">
+    
+            <img src="/templates/rt_manticore/custom/images/CRCA%20full%20name%20logo%20landscape%20Wht_web.png" alt="" />
+    
+            </a>
+            </div>
+        </div>
+                    
+
+        <div class="g-block size-75 nopaddingleft nopaddingright">
+             <div id="menu-7574-particle" class="g-content g-particle">            <nav class="g-main-nav" data-g-hover-expand="true">
+        <ul class="g-toplevel">
+                                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-alias g-menu-item-102 g-parent g-standard g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/about-the-crca/beliefs">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">About the CRCA</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-1 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-103  ">
+                            <a class="g-menu-item-container" href="/about-the-crca/welcome">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Welcome</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-414  ">
+                            <a class="g-menu-item-container" href="/about-the-crca/find-a-church">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Find A Church</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-439  ">
+                            <a class="g-menu-item-container" href="/about-the-crca/mission">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Our Mission and Vision</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2872  ">
+                            <a class="g-menu-item-container" href="/about-the-crca/our-core-values">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Our Core Values</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2871  ">
+                            <a class="g-menu-item-container" href="/about-the-crca/our-fourfold-task">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Our Fourfold Task</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2873  ">
+                            <a class="g-menu-item-container" href="/about-the-crca/our-strategies">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Our Strategies</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-113 g-parent g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/about-the-crca/beliefs">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Our Beliefs</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-2 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-1526  ">
+                            <a class="g-menu-item-container" href="/about-the-crca/beliefs/the-heidelberg-catechism">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">The Heidelberg Catechism</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-1527  ">
+                            <a class="g-menu-item-container" href="/about-the-crca/beliefs/the-belgic-confession">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">The Belgic Confession</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-1528  ">
+                            <a class="g-menu-item-container" href="/about-the-crca/beliefs/the-canons-of-dort">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">The Canons of Dort</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-1529  ">
+                            <a class="g-menu-item-container" href="/about-the-crca/beliefs/the-westminster-confession">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">The Westminster Confession</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-431  ">
+                            <a class="g-menu-item-container" href="/about-the-crca/history">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Our History</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-alias g-menu-item-234 g-parent g-standard g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/our-ministries/train">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Our Ministries</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-1 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+                                                                                                                                
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-784  ">
+                            <a class="g-menu-item-container" href="http://ministryformation.com.au" target="_blank" rel="noopener&#x20;noreferrer">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Ministry Formation</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-441 g-parent g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/our-ministries/train">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">TRAIN</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-2 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-1597  ">
+                            <a class="g-menu-item-container" href="/our-ministries/train/candidacy-committee">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Candidacy Committee</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-1598  ">
+                            <a class="g-menu-item-container" href="http://www.rtc.edu.au/">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Reformed Theological College</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-2359  ">
+                            <a class="g-menu-item-container" href="https://ministryformation.com.au/resources/shift">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">SHIFT Coaching</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-657 g-parent g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/our-ministries/grow">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">GROW</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-2 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-1612  ">
+                            <a class="g-menu-item-container" href="/our-ministries/grow/church-planting-taskforce">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Church Planting Taskforce</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-2360  ">
+                            <a class="g-menu-item-container" href="https://ministryformation.com.au/resources/organic-outreach">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Local Church Outreach</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-1614  ">
+                            <a class="g-menu-item-container" href="/our-ministries/grow/solomon-islands-swim">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Solomon Islands - SWIM</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-1615  ">
+                            <a class="g-menu-item-container" href="/our-ministries/grow/world-transform">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">World Transform</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+                                                                                                                                
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-785  ">
+                            <a class="g-menu-item-container" href="http://www.cadets.crca.org.au/" target="_blank" rel="noopener&#x20;noreferrer">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Cadets</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-786  ">
+                            <a class="g-menu-item-container" href="http://www.gems.crca.org.au/">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">GEMS</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-1432  ">
+                            <a class="g-menu-item-container" href="/our-ministries/children-and-youth">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Children and Youth</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-787  ">
+                            <a class="g-menu-item-container" href="https://safechurchcrca.org.au">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Safe Church</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-788  ">
+                            <a class="g-menu-item-container" href="/our-ministries/pastor-church-relations">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Pastor &amp; Churches in Transition</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-789  ">
+                            <a class="g-menu-item-container" href="/our-ministries/ecumenical-relations">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Ecumenical Relations</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-alias g-menu-item-621 g-parent g-standard g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/?Itemid=443">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Get Involved/Events</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-1 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-791  ">
+                            <a class="g-menu-item-container" href="https://ministryformation.com.au/resources/raising-up-gospel-workers/47-blogs/514-raising-up-gospel-workers-prayer-points">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Prayer Support</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2934  ">
+                            <a class="g-menu-item-container" href="/get-involved/events">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Events</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-3012  ">
+                            <a class="g-menu-item-container" href="/get-involved/crca-youth-convention-2025-link">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">CRCA Youth Convention 2025 - Link</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-622 g-parent g-standard g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="#">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Resources</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-left">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-1 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-795  ">
+                            <a class="g-menu-item-container" href="/crca-resources/church-health-network">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Church Health Network</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-alias g-menu-item-796 g-parent g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/crca-resources/for-churches/creeds-and-confessions">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">For Churches</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-2 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-alias g-menu-item-797  ">
+                            <a class="g-menu-item-container" href="/about-the-crca/beliefs">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Creeds and Confessions</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-1044  ">
+                            <a class="g-menu-item-container" href="/crca-resources/for-churches/word-of-salvation-sermons">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Word of Salvation Sermons</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-1443  ">
+                            <a class="g-menu-item-container" href="/crca-resources/for-churches/code-of-best-practice-for-short-term-missions">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Code of Best Practice for Short Term Missions</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+                                                                                                                                
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-1914  ">
+                            <a class="g-menu-item-container" href="http://trowelandsword.crca.org.au" target="_blank" rel="noopener&#x20;noreferrer">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Trowel and Sword</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+                                                                                                                                
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2051  ">
+                            <a class="g-menu-item-container" href="/crca-resources/for-churches/shift-coaching" target="_blank" rel="noopener&#x20;noreferrer">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Shift Coaching</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2751  ">
+                            <a class="g-menu-item-container" href="/crca-resources/for-churches/raising-up-gospel-workers">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Raising Up Gospel Workers</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-802 g-parent g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/crca-resources/synod-resources">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Synod Resources</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-2 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-1555  ">
+                            <a class="g-menu-item-container" href="/crca-resources/synod-resources/statement-on-marriage">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Statement on Marriage</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2092  ">
+                            <a class="g-menu-item-container" href="/crca-resources/synod-resources/acts-of-synod-2018">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Acts of Synod 2018</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2091  ">
+                            <a class="g-menu-item-container" href="/crca-resources/synod-resources/church-order-2018">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Church Order 2018</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2093  ">
+                            <a class="g-menu-item-container" href="/crca-resources/synod-resources/church-visitation-questions">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Church Visitation Questions</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2827  ">
+                            <a class="g-menu-item-container" href="/crca-resources/synod-resources/synod-2023-short-minutes-photos-and-talks">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Synod 2022</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2706  ">
+                            <a class="g-menu-item-container" href="/crca-resources/2021-national-church-life-survey">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">2021 National Church Life Survey</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2932  ">
+                            <a class="g-menu-item-container" href="/crca-resources/regional-counsellors">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Regional Counsellors</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-2933  ">
+                            <a class="g-menu-item-container" href="/crca-resources/missional-explorations">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Missional Explorations</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-alias g-menu-item-619 g-parent g-standard g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/blog-posts/blogs">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Blog Posts</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-1 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-968  ">
+                            <a class="g-menu-item-container" href="/blog-posts/blogs">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Blogs</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-1590 g-standard  ">
+                            <a class="g-menu-item-container" href="/contact-us">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Contact Us</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+        </ul>
+    </nav>
+            </div>
+        </div>
+            </div>
+                            <div class="g-grid">                        
+
+        <div class="g-block size-100 nomarginall nopaddingall">
+             <div id="slideshow-4215-particle" class="g-content g-particle">            <div id="slideshow-4215" class="g-slideshow swiper-container " data-slideshow-id="slideshow-4215" data-slideshow-thumbnails="true" data-slideshow-effect="fade" data-slideshow-autoplay="true" data-slideshow-loop="false" data-slideshow-timeout="8000" data-slideshow-speed="800" data-slideshow-touchmove="false" >
+                    <div class="g-slideshow-slider swiper-wrapper" style="height: 70vh;">
+                                    <div class="swiper-slide overlay " style="background-image: url(/templates/rt_manticore/custom/images/DSC_0038.jpg); background-position: center bottom">
+                        <div class="slide">
+                                                            <h3 class="g-slideshow-top-title ">
+                                    A Church Reforming to Reach the Lost for Christ
+                                </h3>
+                                                                                        <h1 class="g-slideshow-main-title">
+                                                                      <a href="#" target="_self">Christian Reformed Churches of Australia</a>
+                                                                   </h1>
+                                                                                                            </div>
+                    </div>
+                                    <div class="swiper-slide overlay " style="background-image: url(/templates/rt_manticore/custom/images/hope_church.jpg); background-position: left top">
+                        <div class="slide">
+                                                            <h3 class="g-slideshow-top-title ">
+                                    Find your local CRCA church. Come join one of our services this Sunday!
+                                </h3>
+                                                                                        <h1 class="g-slideshow-main-title">
+                                                                      <a href="/about-the-crca/find-a-church" target="_self">Find A Church</a>
+                                                                   </h1>
+                                                                                                                    <a class="g-slideshow-author" href="/about-the-crca/find-a-church" target="_self">
+                                    Find your local CRC Church
+                                </a>
+                                                    </div>
+                    </div>
+                                    <div class="swiper-slide overlay " style="background-image: url(/templates/rt_manticore/custom/images/Beliefs.jpg); background-position: right bottom">
+                        <div class="slide">
+                                                            <h3 class="g-slideshow-top-title ">
+                                    Learn more about the CRCA, What We Believe, and our History
+                                </h3>
+                                                                                        <h1 class="g-slideshow-main-title">
+                                                                      <a href="/about-the-crca/welcome" target="_self">About the CRCA</a>
+                                                                   </h1>
+                                                                                                            </div>
+                    </div>
+                                    <div class="swiper-slide overlay " style="background-image: url(/templates/rt_manticore/custom/images/growing.jpg); background-position: center top">
+                        <div class="slide">
+                                                            <h3 class="g-slideshow-top-title ">
+                                    Learn how the CRCA is growing healthy churches and creating new disciples.
+                                </h3>
+                                                                                        <h1 class="g-slideshow-main-title">
+                                                                      <a href="/crca-resources/church-health-network" target="_self">Growing A Healthy Church</a>
+                                                                   </h1>
+                                                                                                            </div>
+                    </div>
+                            </div>
+
+                                        <div class="g-slideshow-thumbs swiper-container gallery-thumbs">
+                    <div class="swiper-wrapper">
+                                                    <div class="swiper-slide" style="background-image: url(/templates/rt_manticore/custom/images/DSC_0038.jpg);">
+                                <div class="g-slideshow-thumbs-title">
+                                    <span>Christian Reformed Churches of Australia</span>
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide" style="background-image: url(/templates/rt_manticore/custom/images/hope_church.jpg);">
+                                <div class="g-slideshow-thumbs-title">
+                                    <span>Find A Church</span>
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide" style="background-image: url(/templates/rt_manticore/custom/images/Beliefs.jpg);">
+                                <div class="g-slideshow-thumbs-title">
+                                    <span>About the CRCA</span>
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide" style="background-image: url(/templates/rt_manticore/custom/images/growing.jpg);">
+                                <div class="g-slideshow-thumbs-title">
+                                    <span>Growing A Healthy Church</span>
+                                </div>
+                            </div>
+                                            </div>
+                </div>
+                                    <div class="navigation">
+                            <div class="swiper-button-prev">
+                    <i class="fa fa-angle-up"></i>
+                </div>
+                                        <div class="swiper-pagination"></div>
+                                        <div class="swiper-button-next">
+                    <i class="fa fa-angle-down"></i>
+                </div>
+                    </div>
+    </div>
+            </div>
+        </div>
+            </div>
+            
+    </section>
+                                        
+                <header id="g-header">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-50 nomarginall nopaddingall">
+             <div id="logo-8286-particle" class="g-content g-particle">            <div class="g-logo">
+    
+            <img src="/templates/rt_manticore/custom/images/crca_worship.jpg" alt="" />
+    
+            </div>
+            </div>
+        </div>
+                    
+
+        <div class="g-block size-50">
+             <div id="simplecontent-9372-particle" class="g-content g-particle">            <div class="">
+        <div class="g-simplecontent">
+
+            
+                            <div class="g-simplecontent-item g-simplecontent-layout-header">
+                    
+                    
+                    
+                                                                    <div class="g-simplecontent-item-content-title">One Church, One Nation</div>
+                                                                                        
+                    
+                    <div class="g-simplecontent-item-leading-content">More than 50 locations around Australia</div>                    
+                                            <div class="g-simplecontent-item-readmore-container">
+                            <a target="_self" href="/about-the-crca/find-a-church" class="g-simplecontent-item-readmore button button-2">
+                                Find A Church
+                            </a>
+                        </div>
+                                    </div>
+            
+        </div>
+    </div>
+            </div>
+        </div>
+            </div>
+                            <div class="g-grid">                        
+
+        <div class="g-block size-50">
+             <div id="simplecontent-9418-particle" class="g-content g-particle">            <div class="">
+        <div class="g-simplecontent">
+
+            
+                            <div class="g-simplecontent-item g-simplecontent-layout-header">
+                    
+                    
+                    
+                                                                    <div class="g-simplecontent-item-content-title">Growing Healthy Churches</div>
+                                                                                        
+                    
+                    <div class="g-simplecontent-item-leading-content">Growing healthy churches and creating new disciples</div>                    
+                                            <div class="g-simplecontent-item-readmore-container">
+                            <a target="_self" href="/crca-resources/church-health-network" class="g-simplecontent-item-readmore button button-2">
+                                Find Out More
+                            </a>
+                        </div>
+                                    </div>
+            
+        </div>
+    </div>
+            </div>
+        </div>
+                    
+
+        <div class="g-block size-50 nomarginall nopaddingall">
+             <div id="logo-5084-particle" class="g-content g-particle">            <div class="g-logo">
+    
+            <img src="/templates/rt_manticore/custom/images/recharge.jpg" alt="" />
+    
+            </div>
+            </div>
+        </div>
+            </div>
+            
+    </header>
+                                        
+                <section id="g-showcase">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-50 nomarginall nopaddingall">
+             <div class="spacer"></div>
+        </div>
+                    
+
+        <div class="g-block size-50 box2 nomarginall">
+             <div id="custom-6815-particle" class="g-content g-particle">            <h2 class="g-title">Are you exploring the Christian faith or considering what steps God might want you to take to move ahead as you follow him? Check out the Discipleship Matrix</h2>
+<p><a href="/discipleship-matrix" class="button button-2">Read more about the Discipleship Matrix</a>&nbsp;<a href="/component/edocman/790-what-is-a-disciple/download" class="button">What is a Disciple?</a></p>
+            </div>
+        </div>
+            </div>
+            
+    </section>
+                                        
+                <section id="g-utility" class="section-horizontal-paddings">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div id="recentreviews-5030-particle" class="g-content g-particle">            <div class=" g-recentreviews" data-recentreviews-id="recentreviews-5030" data-recentreviews-accesstoken="">
+                
+
+    
+
+
+<div class="g-recentreviews-header">
+            <div class="g-recentreviews-title">
+                        Stories
+        </div>
+    
+    <div class="g-recentreviews-nav">
+        <div class="g-recentreviews-nav-container">
+            <i aria-hidden="true" class="fa fa-bars"></i>
+                                        <div class="g-recentreviews-nav-item " data-group="200">
+                    Stories
+                </div>
+                    </div>
+    </div>
+</div>
+
+<div class="g-recentreviews-grid ">
+    <div class="g-recentreviews-grid-sizer"></div>
+                                                                                            <div class="g-recentreviews-grid-item" data-groups='["200"]'>
+            <div class="g-recentreviews-grid-item-wrapper">
+
+                                    <div class="g-recentreviews-grid-item-image">
+                                                    <img src="/images/SWIM-hut.jpg" alt="Position Vacant - SWIM Base Manager"/>
+                                            </div>
+                
+                <div class="g-recentreviews-grid-item-content">
+                    <div class="g-recentreviews-grid-item-header">
+                        <div class="g-recentreviews-grid-item-category">
+                            <span>Stories</span>
+                        </div>
+                                                    <div class="g-recentreviews-grid-item-date">
+                                                                    June 27, 2024
+                                                            </div>
+                                            </div>
+                                            <div class="g-recentreviews-grid-item-title">
+                            <span>Position Vacant - SWIM Base Manager</span>
+                        </div>
+                    
+                                        <div class="g-recentreviews-grid-item-description">
+                                                    OVERSEAS MINISTRY OPPORTUNITY The Solomons Islands Workgroup (SIW) requires a practising Christian to be appointed as Base Manager to lead the staff and operations at the S.W.I.M Mission Base in Honiara, Solomon Islands Collaborative team leading and the ability to work sensitively cross-culturally are important skills for this role. A negotiable...
+                                            </div>
+
+                    
+                </div>
+
+                                    <a href="/stories/3688-swim-base-manager" target="_self" class="g-recentreviews-link-overlay"></a>
+                
+            </div>
+        </div>
+                                                                                            <div class="g-recentreviews-grid-item" data-groups='["200"]'>
+            <div class="g-recentreviews-grid-item-wrapper">
+
+                                    <div class="g-recentreviews-grid-item-image">
+                                                    <img src="/images/stories/diagnostictool.jpg" alt="GospeL Prayer Points October 2023"/>
+                                            </div>
+                
+                <div class="g-recentreviews-grid-item-content">
+                    <div class="g-recentreviews-grid-item-header">
+                        <div class="g-recentreviews-grid-item-category">
+                            <span>Stories</span>
+                        </div>
+                                                    <div class="g-recentreviews-grid-item-date">
+                                                                    October 16, 2023
+                                                            </div>
+                                            </div>
+                                            <div class="g-recentreviews-grid-item-title">
+                            <span>GospeL Prayer Points October 2023</span>
+                        </div>
+                    
+                                        <div class="g-recentreviews-grid-item-description">
+                                                    Our GOSPEL evangelists from the fields in Madhya Pradesh and Rajasthan thank our Lord for being able to share the good news in five outreach villages.Kindly pray for these new listeners of the good news will experience the love of God and salvation available in His son, Jesus Christ. We thank God for women’s meeting where 280 women from 4...
+                                            </div>
+
+                    
+                </div>
+
+                                    <a href="/stories/3360-gospel-prayer-points-october-2023" target="_self" class="g-recentreviews-link-overlay"></a>
+                
+            </div>
+        </div>
+                                                                                            <div class="g-recentreviews-grid-item" data-groups='["200"]'>
+            <div class="g-recentreviews-grid-item-wrapper">
+
+                                    <div class="g-recentreviews-grid-item-image">
+                                                    <img src="/images/Newsletter_September_2023.jpg" alt="SWIM Update"/>
+                                            </div>
+                
+                <div class="g-recentreviews-grid-item-content">
+                    <div class="g-recentreviews-grid-item-header">
+                        <div class="g-recentreviews-grid-item-category">
+                            <span>Stories</span>
+                        </div>
+                                                    <div class="g-recentreviews-grid-item-date">
+                                                                    October 02, 2023
+                                                            </div>
+                                            </div>
+                                            <div class="g-recentreviews-grid-item-title">
+                            <span>SWIM Update</span>
+                        </div>
+                    
+                                        <div class="g-recentreviews-grid-item-description">
+                                                    Catch up on all of the latest news from SWIM You can download their latest newsletter here
+                                            </div>
+
+                    
+                </div>
+
+                                    <a href="/stories/3347-swim-update" target="_self" class="g-recentreviews-link-overlay"></a>
+                
+            </div>
+        </div>
+                                                                                            <div class="g-recentreviews-grid-item" data-groups='["200"]'>
+            <div class="g-recentreviews-grid-item-wrapper">
+
+                                    <div class="g-recentreviews-grid-item-image">
+                                                    <img src="/images/icons/hands.png" alt="GOSPEL Prayer Points August 2023"/>
+                                            </div>
+                
+                <div class="g-recentreviews-grid-item-content">
+                    <div class="g-recentreviews-grid-item-header">
+                        <div class="g-recentreviews-grid-item-category">
+                            <span>Stories</span>
+                        </div>
+                                                    <div class="g-recentreviews-grid-item-date">
+                                                                    August 16, 2023
+                                                            </div>
+                                            </div>
+                                            <div class="g-recentreviews-grid-item-title">
+                            <span>GOSPEL Prayer Points August 2023</span>
+                        </div>
+                    
+                                        <div class="g-recentreviews-grid-item-description">
+                                                    Prayer and Praise Items for August ‘23. 1. 40 Believers came for a special time of prayer were held last month. 2. 35 women’s group leaders gathered for Bible study, training, prayer and fellowship. 3. One worker Dharam is thankful to the Lord for four families who have come to faith in his ministry field. God has given an “open door” for the...
+                                            </div>
+
+                    
+                </div>
+
+                                    <a href="/stories/3266-gospel-prayer-points-august-2023" target="_self" class="g-recentreviews-link-overlay"></a>
+                
+            </div>
+        </div>
+                                                                                            <div class="g-recentreviews-grid-item" data-groups='["200"]'>
+            <div class="g-recentreviews-grid-item-wrapper">
+
+                                    <div class="g-recentreviews-grid-item-image">
+                                                    <img src="/images/stories/churchplanter.jpg" alt="GOSPEL Prayer Points June 2023"/>
+                                            </div>
+                
+                <div class="g-recentreviews-grid-item-content">
+                    <div class="g-recentreviews-grid-item-header">
+                        <div class="g-recentreviews-grid-item-category">
+                            <span>Stories</span>
+                        </div>
+                                                    <div class="g-recentreviews-grid-item-date">
+                                                                    June 01, 2023
+                                                            </div>
+                                            </div>
+                                            <div class="g-recentreviews-grid-item-title">
+                            <span>GOSPEL Prayer Points June 2023</span>
+                        </div>
+                    
+                                        <div class="g-recentreviews-grid-item-description">
+                                                    This month’s theme is: GROWTH. Growing (maturing) together in faith; Growing church leaders; Growing leaders in homes; Growing in dependence on God for daily needs. Please pray for our growth! 1. We give thanks to God for adding 116 new believers in our mission field. Please continue to pray for these “babes” in Christ. May they grow in love of...
+                                            </div>
+
+                    
+                </div>
+
+                                    <a href="/stories/3138-gospel-prayer-points-june-2023" target="_self" class="g-recentreviews-link-overlay"></a>
+                
+            </div>
+        </div>
+    </div>
+
+    </div>
+            </div>
+        </div>
+            </div>
+            
+    </section>
+                                        
+                <footer id="g-footer">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-40">
+             <div id="copyright-1526-particle" class="g-content g-particle">            &copy;
+        2024
+    Christian Reformed Churches of Australia. All rights reserved.
+            </div>
+        </div>
+                    
+
+        <div class="g-block size-20 center">
+             <div id="logo-5389-particle" class="g-content g-particle">            <a href="/" class="g-logo" target="_self" title="MantiCore" rel="home">
+    
+            <img src="/templates/rt_manticore/custom/images/CRCA%20full%20name%20logo%20landscape%20Wht_web.png" alt="" />
+    
+            </a>
+            </div>
+        </div>
+                    
+
+        <div class="g-block size-40 align-right">
+             <div id="social-5446-particle" class="g-content g-particle">            <div class="g-social ">
+                <div class="g-social-items">
+                            <a target="_blank" href="https://www.facebook.com/MinistryFormation/" title="Facebook" aria-label="Facebook">
+                    <span class="fa fa-facebook"></span>                    <span class="g-social-text">Facebook</span>                </a>
+                            <a target="_blank" href="https://twitter.com/crcamtc" title="Twitter" aria-label="Twitter">
+                    <span class="fa fa-twitter"></span>                    <span class="g-social-text">Twitter</span>                </a>
+                            <a target="_blank" href="https://www.instagram.com/crcaministryformation" title="Instagram" aria-label="Instagram">
+                    <span class="fa fa-instagram"></span>                    <span class="g-social-text">Instagram</span>                </a>
+                    </div>
+    </div>
+            </div>
+        </div>
+            </div>
+            
+    </footer>
+                                
+                        
+
+        </div>
+                    
+
+                        <script type="text/javascript" src="/media/gantry5/assets/js/main.js"></script>
+    <script type="text/javascript" src="/templates/rt_manticore/js/swiper.min.js"></script>
+    <script type="text/javascript" src="/templates/rt_manticore/js/slideshow.init.js"></script>
+    <script type="text/javascript" src="//cdn.polyfill.io/v2/polyfill.min.js?features=default,fetch,Array.prototype.includes"></script>
+    <script type="text/javascript" src="/templates/rt_manticore/js/imagesloaded.pkgd.js"></script>
+    <script type="text/javascript" src="/templates/rt_manticore/js/shuffle.js"></script>
+    <script type="text/javascript" src="/templates/rt_manticore/js/recentreviews.init.js"></script>
+    
+
+    
+
+        
+    </body>
+</html>

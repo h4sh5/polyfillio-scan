@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <meta property="og:title" content="The Committee for Economic Development of Australia">
+    <meta property="og:description" content="Informed debate, policy influence and reach.">
+    <meta property="og:image" content="https://www.ceda.com.au:443/getattachment/96872c4f-eb86-4469-ae4b-ee9cabfc1a2a/CEDA-WEBSITE-Transparent.png?lang=en-US&amp;ext=.png">
+    <meta property="og:url" content="https://www.ceda.com.au:443/">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:site_name" content="CEDA">
+    <meta property="fb:app_id" content="your_app_id" />
+    <meta name="twitter:site" content="@ceda_news">
+
+    
+        <title>CEDA - Home</title>
+        <meta property="title" content="Home" />
+        <meta property="og:title" content="Home" />
+        <meta name="twitter:title" content="Home" />
+
+    <link href="/Content/bootstrap.css" rel="stylesheet" />
+    <link href="/Content/site.css" rel="stylesheet" />
+    <link href="/Content/cedaComponents.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/css/splide.min.css">
+    <link href="/Content/dist/dist.styles.css" rel="stylesheet" />
+    <link href="/Content/custom.admin.css" rel="stylesheet" />
+    <link href="/Content/custom.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/Content/CEDA/dev/src/assets/images/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/Content/CEDA/dev/src/assets/images/favicon-16x16.png" />
+    <link href="/_content/Kentico.Content.Web.Rcl/Content/Bundles/Public/systemPageComponents.min.css" rel="stylesheet" />
+
+    <script src='https://www.youtube.com/iframe_api'></script>
+    
+    <link href="/_content/Kentico.Content.Web.Rcl/Content/Bundles/Public/systemPageComponents.min.css" rel="stylesheet" />
+
+
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KWDFTGG');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Hotjar Tracking Code for https://www.ceda.com.au -->
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 2968016, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+
+    <script async="" id="infogram-async" src="https://e.infogram.com/js/dist/embed-loader-min.js"></script>
+</head>
+<body class="antialiased">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWDFTGG"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="l-app" id="app">
+        
+
+
+
+<header class="l-siteHeader l-siteHeader--dark">
+    <input id="SitePresentationURL" name="SitePresentationURL" type="hidden" value="https://www.ceda.com.au" />
+    <div class="l-container lg:relative flex justify-items-end content-center">
+        <a class="o-logo" href="/">
+            <img src="https://cedakenticomedia.blob.core.windows.net/cedamediacontainer/kentico/media/ceda2020/logo/ceda-logo.png?ext=.png"><span class="sr-only">CEDA</span>
+        </a>
+        <div class="c-nav-wrapper">
+            <nav class="c-nav c-nav--secondary pr-4" role="navigation">
+                <a class="c-nav__link c-nav__link--icon bg-green text-darkblue hidden lg:flex" href="/Membership">
+                    <svg class="lg:w-4 fill-current"><use xlink:href="/Content/dist/dist.icons.svg#i-ceda"></use></svg>Join CEDA
+                </a>
+                <a class="c-nav__link c-nav__link--icon" href="https://portal.ceda.com.au/SignIn?returnUrl=/">
+                    <svg class="w-12 h-12 lg:w-8 lg:h-auto"><use xlink:href="/Content/dist/dist.icons.svg#i-avatar"></use></svg><span class="hidden lg:block">Sign in</span>
+                </a>
+                <a class="c-nav__link c-nav__link--icon hidden lg:flex" href="https://portal.ceda.com.au/donations/">
+                    <svg class="lg:w-5"><use xlink:href="/Content/dist/dist.icons.svg#i-support"> </use></svg>Support us
+                </a>
+                <a class="c-nav__link c-nav__link--icon" href="/ContactUs">
+                    <svg class="w-12 h-12 lg:w-6 lg:h-auto"><use xlink:href="/Content/dist/dist.icons.svg#i-phone"></use></svg><span class="hidden lg:block">Contact</span>
+                </a>
+            </nav>
+                <nav class="c-nav c-nav--primary" role="navigation">
+                    <ul class="c-nav__items">
+                            <li class="c-nav__item">
+                                <a class="c-nav__link c-nav__link--lg" href="/research-and-policy">Research and policy</a>
+                                    <button class="c-nav__mobile-menu-toggle lg:hidden"></button>
+                                    <div class="c-nav__submenu">
+                                            <a href="/researchandpolicies/current-research-focus">Current research focus</a>
+                                            <a href="/researchandpolicies/research">Research</a>
+                                            <a href="/researchandpolicies/get-involved">Get involved</a>
+                                    </div>
+                            </li>
+                            <li class="c-nav__item">
+                                <a class="c-nav__link c-nav__link--lg" href="/learning">CEDA Learning</a>
+                                    <button class="c-nav__mobile-menu-toggle lg:hidden"></button>
+                                    <div class="c-nav__submenu">
+                                            <a href="/Learning/ESG-Community-of-Best-Practice">ESG Community OF Best Practices</a>
+                                            <a href="/learning/copland-leadership-program">Copland Leadership Program</a>
+                                            <a href="/learning/economics-for-non-economists">Economics for Non-Economists</a>
+                                            <a href="/learning/esg">ESG-Fundamentals</a>
+                                            <a href="/learning/public-policy-dynamics">Public Policy Dynamics </a>
+                                    </div>
+                            </li>
+                            <li class="c-nav__item">
+                                <a class="c-nav__link c-nav__link--lg" href="/membership">Membership</a>
+                            </li>
+                            <li class="c-nav__item">
+                                <a class="c-nav__link c-nav__link--lg" href="/eventsandprograms">Events and programs</a>
+                                    <button class="c-nav__mobile-menu-toggle lg:hidden"></button>
+                                    <div class="c-nav__submenu">
+                                            <a href="https://portal.ceda.com.au">Upcoming events</a>
+                                            <a href="https://portal.ceda.com.au">Past events</a>
+                                            <a href="/eventsandprograms/2024-state-of-the-nation">2024 State of the Nation</a>
+                                            <a href="/eventsandprograms/2024-ai-leadership-summit">2024 AI Leadership Summit</a>
+                                            <a href="/eventsandprograms/media-and-ceda-events">Media at CEDA events</a>
+                                    </div>
+                            </li>
+                            <li class="c-nav__item">
+                                <a class="c-nav__link c-nav__link--lg" href="/News-and-resources">News and resources</a>
+                                    <button class="c-nav__mobile-menu-toggle lg:hidden"></button>
+                                    <div class="c-nav__submenu">
+                                            <a href="/newsandresources/news">News</a>
+                                            <a href="/newsandresources/mediareleases">Media releases</a>
+                                            <a href="/News-and-resources/Opinion">Opinion articles</a>
+                                            <a href="/newsandresources/podcasts">Podcasts</a>
+                                            <a href="/News-and-resources/MediaMentions">Media mentions</a>
+                                            <a href="/News-and-resources/VideosAndPhotos">Videos and photos</a>
+                                    </div>
+                            </li>
+                            <li class="c-nav__item">
+                                <a class="c-nav__link c-nav__link--lg" href="/about">About</a>
+                                    <button class="c-nav__mobile-menu-toggle lg:hidden"></button>
+                                    <div class="c-nav__submenu">
+                                            <a href="/about/our-people">Our People</a>
+                                            <a href="/about/annual-reports">Annual reports</a>
+                                            <a href="/about/reconciliation">Reconciliation </a>
+                                    </div>
+                            </li>
+                    </ul>
+                </nav>
+
+            <div class="flex justify-center p-8 lg:p-0">
+                <div class="c-site-search-box hidden flex items-center relative">
+                    <svg class="w-6 h-6 fill-current">
+                        <use v-bind:xlink:href="'/Content/dist/dist.icons.svg#i-search'"></use>
+                    </svg>
+                    <input id="site_search_key" type="text" placeholder="type keywords here">
+                    <button class="c-site-search-close site-search-close">
+                        <svg class="w-4 h-4 fill-current cursor-pointer">
+                            <use v-bind:xlink:href="'/Content/dist/dist.icons.svg#i-close'"></use>
+                        </svg>
+                    </button>
+                    <div class="c-site-search-box-result w-full absolute bg-black opacity-80 text-white border border-black">
+                    </div>
+                </div>
+            </div>
+
+            <nav class="c-nav c-nav--mobile lg:hidden">
+                <a class="c-nav__link c-nav__link--icon bg-green text-darkblue flex text-sm font-semibold p-3" href="/Membership">
+                    <svg class="w-4 h-4 mr-1 fill-current"><use xlink:href="/Content/dist/dist.icons.svg#i-ceda"></use></svg>Join CEDA
+                </a>
+                <a class="c-nav__link c-nav__link--icon bg-white text-darkblue flex text-sm font-semibold p-3" href="https://portal.ceda.com.au/donations/">
+                    <svg class="w-5 h-4 mr-1 fill-current"><use xlink:href="/Content/dist/dist.icons.svg#i-support"> </use></svg>Support us
+                </a>
+            </nav>
+
+
+        </div>
+        <button class="c-site-search-link g-btn_icon site-search">
+            <svg class="w-5 h-5 lg:w-6 lg:h-6"><use xlink:href="/Content/dist/dist.icons.svg#i-search"></use></svg>
+        </button>
+        <button class="g-btn_icon g-mobile-menu-toggle ml-8 lg:hidden">
+            <svg class="w-5 h-5 open"><use xlink:href="/Content/dist/dist.icons.svg#i-menu"></use></svg>
+            <svg class="w-5 h-5 close"><use xlink:href="/Content/dist/dist.icons.svg#i-close"></use></svg>
+        </button>
+    </div>
+</header>
+
+<div class="LoadingOverlay"><img src="https://cedakenticomedia.blob.core.windows.net/cedamediacontainer/kentico/media/ceda-theme/loading.gif" class="loaderGif" alt="Loader" /></div>
+
+    <div id="site-announcement" class="c_announcement bg-orange text-white fill-current">
+        <div class="l-container relative">
+            <p class="b-heading-6 font-bold uppercase pt-5 pl-4 lg:px-20">Check out news and video highlights from State of the Nation 2024</p>
+            <p class="b-paragraph-small pb-5 pl-4 pr-20 lg:px-20"><a href="#"><a href="https://www.ceda.com.au/newsandresources/news/economy/state-of-the-nation-2024-news-and-highlights"> Read more
+</a> </a></p>
+            <button aria-label="close announcement" id="js-close-announement" class="g-btn-icon">
+                <svg>
+                    <use xlink:href="/Content/dist/dist.icons.svg#i-close"></use>
+                </svg>
+            </button>
+        </div>
+    </div>
+       
+        
+
+        
+
+
+
+<div class="c-home-template pt-14 pb-2 lg:pb-16 lg:pt-24">
+    <div class="l-container lg:pl-16 xl:pl-46">
+        <div class="c-home-template__desc relative">
+            <object class="cursor-pointer c-home-template__top-dot ani-svg" data="/Content/dist/images/dots_fade-left.svg" type="image/svg+xml"></object>
+            <div class="c-home-template__desc-box relative">
+                <div class="c-home-template__desc-box-box" data-depth="1.2"></div>
+                <svg class="cursor-pointer c-home-template__desc-box-box" fill="transparent" data-depth="2.4"><use xlink:href="/Content/dist/dist.icons.svg#i-box"></use></svg>
+                <svg class="cursor-pointer c-home-template__desc-box-box" fill="transparent" data-depth="3.6"><use xlink:href="/Content/dist/dist.icons.svg#i-box"></use></svg>
+                <object class="cursor-pointer c-home-template__desc-box-bottom-dot ani-svg" data="/Content/dist/images/dots-double-horizontal-white.svg" type="image/svg+xml"></object>
+            </div>
+            <div class="c-home-template__desc-content flex-1">
+                <span class="block text-red font-bold c-home-template__desc-content-leading">Committee for Economic Development of Australia</span>
+                <span class="mb-3 block text-3xl lg:text-7xl text-white font-bold c-home-template__desc-content-title uppercase">INDEPENDENCE</span>
+                <div class="flex lg:mb-32">
+                    <div class="c-home-template__desc-content-separator"></div>
+                    <div class="c-home-template__desc-content-sub">
+                        <h2> Informed debate, policy influence and reach.</h2>
+                    </div>
+                </div>
+                <div class="hidden lg:grid grid-cols-3 gap-14 lg:-ml-36 xl:ml-0" style="margin-top:151px;">
+
+                        <div class="c-home-template__desc-content-action">
+                            <a class="border-orange hover:bg-orange" href="/Research-and-policies">Research and policy</a>
+                        </div>
+                        <div class="c-home-template__desc-content-action">
+                            <a class="border-blue hover:bg-blue" href="/EventsAndPrograms">Events and programs</a>
+                        </div>
+                        <div class="c-home-template__desc-content-action">
+                            <a class="border-yellow hover:bg-yellow" href="/News-and-resources">News and resources</a>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="grid grid-cols-3 gap-2 lg:hidden px-2">
+
+                <div class="c-home-template__desc-action--small">
+                    <a class="block text-white text-center font-bold" href="/Research-and-policies">Research and policy</a>
+                    <div class="h-2 rounded-b-md bg-orange"></div>
+                </div>
+                <div class="c-home-template__desc-action--small">
+                    <a class="block text-white text-center font-bold" href="/EventsAndPrograms">Events and programs</a>
+                    <div class="h-2 rounded-b-md bg-blue"></div>
+                </div>
+                <div class="c-home-template__desc-action--small">
+                    <a class="block text-white text-center font-bold" href="/News-and-resources">News and resources</a>
+                    <div class="h-2 rounded-b-md bg-yellow"></div>
+                </div>
+        </div>
+    </div>
+</div>
+
+<div class="l-site-content">
+    
+    <div>
+        
+
+
+
+
+
+
+<div class="bg-red-white">
+    <div class="c-latest-activity l-container">
+        <div class="c-latest-activity__intro">
+            <div class="c-latest-activity__intro__heading">WHAT’S NEW WITH CEDA</div>
+            <h3 class="c-latest-activity__intro__title">LATEST ACTIVITY</h3>
+            <p class="c-latest-activity__intro__description">Check out what&#x2019;s new from CEDA&#x2019;s research, opinion articles, news, podcasts, videos and more.  </p>
+        </div>
+            <ul class="c-latest-activity__list">
+                        <li class="c-latest-activity__item normal" data-href="/newsandresources/news/economy/prime-minister-anthony-albanese-address-to-ceda-s-2024-state-of-the-nation">
+                            <div class="c-latest-activity__item__heading">News Article</div>
+                            <div class="c-latest-activity__item__date">June 27, 2024</div>
+                            <h4 class="c-latest-activity__item__title">Prime Minister Anthony Albanese&#x27;s address to CEDA&#x27;s 2024 State of the Nation</h4>
+                            <div class="c-latest-activity__item__action-outer-wrapper">
+                                <div class="c-latest-activity__item__action-wrapper">
+                                    <a class="g-btn g-btn--c_primary c-latest-activity__item__action" href="/newsandresources/news/economy/prime-minister-anthony-albanese-address-to-ceda-s-2024-state-of-the-nation">Read article</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="c-latest-activity__item normal" data-href="/newsandresources/opinion/workforce-skills/managing-psychosocial-hazards-to-protect-the-mental-health-of-australia&#x2019;s-construction-workers">
+                            <div class="c-latest-activity__item__heading">Opinion Article</div>
+                            <div class="c-latest-activity__item__date">July 2, 2024</div>
+                            <h4 class="c-latest-activity__item__title">Managing psychosocial hazards to protect the mental health of Australia&#x2019;s construction workers  </h4>
+                                <ul class="c-latest-activity__item__details">
+                                    <li class="c-latest-activity__item__detail">
+                                        <span class="c-latest-activity__item__detail__dot"></span>
+                                        <span class="c-latest-activity__item__detail__text">Carol Hon</span>
+                                    </li>
+                                </ul>
+                            <div class="c-latest-activity__item__action-outer-wrapper">
+                                <div class="c-latest-activity__item__action-wrapper">
+                                    <a class="g-btn g-btn--c_primary c-latest-activity__item__action" href="/newsandresources/opinion/workforce-skills/managing-psychosocial-hazards-to-protect-the-mental-health-of-australia&#x2019;s-construction-workers">Read article</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="c-latest-activity__item normal" data-href="/newsandresources/news/resources/minister-for-resources-madeleine-king-s-address-to-ceda-s-2024-state-of-the-nation">
+                            <div class="c-latest-activity__item__heading">News Article</div>
+                            <div class="c-latest-activity__item__date">June 27, 2024</div>
+                            <h4 class="c-latest-activity__item__title">Minister for Resources Madeleine King&#x27;s address to CEDA&#x27;s 2024 State of the Nation</h4>
+                            <div class="c-latest-activity__item__action-outer-wrapper">
+                                <div class="c-latest-activity__item__action-wrapper">
+                                    <a class="g-btn g-btn--c_primary c-latest-activity__item__action" href="/newsandresources/news/resources/minister-for-resources-madeleine-king-s-address-to-ceda-s-2024-state-of-the-nation">Read article</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="c-latest-activity__item normal" data-href="https://portal.ceda.com.au/event/event-overview?id=Northern_Queensland_Event1312428968">
+                            <div class="c-latest-activity__item__heading">Upcoming events</div>
+                            <h4 class="c-latest-activity__item__title">North QLD&#x27;s energy future</h4>
+                            <ul class="c-latest-activity__item__details">
+                                <li class="c-latest-activity__item__detail">
+                                    <svg class="c-latest-activity__item__detail__icon flex-none fill-current"><use xlink:href="/Content/dist/dist.icons.svg#i-calendar"></use></svg>
+                                    <span class="c-latest-activity__item__detail__text--variant">11/07/2024</span>
+                                </li>
+                                <li class="c-latest-activity__item__detail">
+                                    <svg class="c-latest-activity__item__detail__icon flex-none fill-current"><use xlink:href="/Content/dist/dist.icons.svg#i-location"></use></svg>
+                                    <span class="c-latest-activity__item__detail__text--variant">Townsville</span>
+                                </li>
+                                <li class="c-latest-activity__item__detail hidden lg:flex">
+                                    <svg class="c-latest-activity__item__detail__icon flex-none fill-current black"><use xlink:href="/Content/dist/dist.icons.svg#i-time"></use></svg>
+                                    <svg class="c-latest-activity__item__detail__icon flex-none fill-current white"><use xlink:href="/Content/dist/dist.icons.svg#i-time-white"></use></svg>
+                                    <span class="c-latest-activity__item__detail__text--variant">Hear from the Hon. Mick de Brenni on the ongoing energy transition and economic opportunities for North Queensland</span>
+                                </li>
+                            </ul>
+                            <div class="c-latest-activity__item__action-outer-wrapper">
+                                <div class="c-latest-activity__item__action-wrapper">
+                                    <a class="g-btn g-btn--c_primary c-latest-activity__item__action" href="https://portal.ceda.com.au/event/event-overview?id=Northern_Queensland_Event1312428968">Register</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="c-latest-activity__item normal" data-href="https://portal.ceda.com.au/event/event-overview?id=SA_State_of_the_State_focus_on_critical_services561453289">
+                            <div class="c-latest-activity__item__heading">Upcoming events</div>
+                            <h4 class="c-latest-activity__item__title">Critical service delivery in SA</h4>
+                            <ul class="c-latest-activity__item__details">
+                                <li class="c-latest-activity__item__detail">
+                                    <svg class="c-latest-activity__item__detail__icon flex-none fill-current"><use xlink:href="/Content/dist/dist.icons.svg#i-calendar"></use></svg>
+                                    <span class="c-latest-activity__item__detail__text--variant">24/07/2024</span>
+                                </li>
+                                <li class="c-latest-activity__item__detail">
+                                    <svg class="c-latest-activity__item__detail__icon flex-none fill-current"><use xlink:href="/Content/dist/dist.icons.svg#i-location"></use></svg>
+                                    <span class="c-latest-activity__item__detail__text--variant">Adelaide</span>
+                                </li>
+                                <li class="c-latest-activity__item__detail hidden lg:flex">
+                                    <svg class="c-latest-activity__item__detail__icon flex-none fill-current black"><use xlink:href="/Content/dist/dist.icons.svg#i-time"></use></svg>
+                                    <svg class="c-latest-activity__item__detail__icon flex-none fill-current white"><use xlink:href="/Content/dist/dist.icons.svg#i-time-white"></use></svg>
+                                    <span class="c-latest-activity__item__detail__text--variant">Hear from three State Ministers on the efforts  to provide relief in health and housing in South Australia.&#xD;&#xA;</span>
+                                </li>
+                            </ul>
+                            <div class="c-latest-activity__item__action-outer-wrapper">
+                                <div class="c-latest-activity__item__action-wrapper">
+                                    <a class="g-btn g-btn--c_primary c-latest-activity__item__action" href="https://portal.ceda.com.au/event/event-overview?id=SA_State_of_the_State_focus_on_critical_services561453289">Register</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="c-latest-activity__item normal" data-href="https://portal.ceda.com.au/event/event-overview?id=Super_Members_Council310427492">
+                            <div class="c-latest-activity__item__heading">Upcoming events</div>
+                            <h4 class="c-latest-activity__item__title">Securing Australia&#x27;s super-powered future</h4>
+                            <ul class="c-latest-activity__item__details">
+                                <li class="c-latest-activity__item__detail">
+                                    <svg class="c-latest-activity__item__detail__icon flex-none fill-current"><use xlink:href="/Content/dist/dist.icons.svg#i-calendar"></use></svg>
+                                    <span class="c-latest-activity__item__detail__text--variant">30/07/2024</span>
+                                </li>
+                                <li class="c-latest-activity__item__detail">
+                                    <svg class="c-latest-activity__item__detail__icon flex-none fill-current"><use xlink:href="/Content/dist/dist.icons.svg#i-location"></use></svg>
+                                    <span class="c-latest-activity__item__detail__text--variant">Melbourne</span>
+                                </li>
+                                <li class="c-latest-activity__item__detail hidden lg:flex">
+                                    <svg class="c-latest-activity__item__detail__icon flex-none fill-current black"><use xlink:href="/Content/dist/dist.icons.svg#i-time"></use></svg>
+                                    <svg class="c-latest-activity__item__detail__icon flex-none fill-current white"><use xlink:href="/Content/dist/dist.icons.svg#i-time-white"></use></svg>
+                                    <span class="c-latest-activity__item__detail__text--variant">Hear from new Super Members Council Chief Executive, Misha Schubert, and industry stakeholders on the future of super</span>
+                                </li>
+                            </ul>
+                            <div class="c-latest-activity__item__action-outer-wrapper">
+                                <div class="c-latest-activity__item__action-wrapper">
+                                    <a class="g-btn g-btn--c_primary c-latest-activity__item__action" href="https://portal.ceda.com.au/event/event-overview?id=Super_Members_Council310427492">Register</a>
+                                </div>
+                            </div>
+                        </li>
+              
+            </ul>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+<div class="l-container p-0 pl-4 lg:pl-12 my-4 lg:my-12">
+    <div class="c-text-banner bg-gradient-to-r from-gradient-bluestart to-gradient-bluestop bg-gradient-bluestop text-white">
+        <div class="flex flex-col md:flex-row">
+            <div class="c-text-banner__col">
+                <h2 class="b-heading-2 uppercase">Become a CEDA member</h2>
+            </div>
+            <div class="c-text-banner__col">
+<p id="isPasted">Operating for over 60 years, CEDA’s members are essential in delivering on our purpose of pursuing solutions that matter for the greater good. Increase your influence and contribute to our social and economic policy program.</p><p><br><br></p>               
+                    <a class="g-btn g-btn--c_white" href="/Membership">FIND OUT MORE</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+
+
+
+
+
+
+
+<div class="c-trending px-4 my-4 lg:my-12 lg:px-16">
+    <span class="c-trending__title mb-8 px-4 text-center block uppercase text-4xl lg:text-6xl text-black">TRENDING TOPICS</span>
+    <span class="block mb-6 lg:mb-12 text-darkblue text-center c-trending__desc">CEDA brings together the greatest minds from across Australia to share the latest insights and ideas. Here is what is trending right now</span>
+    <div class="c-trending__content l-container">
+            <div>
+                <span class="mb-4 c-trending__content-title block text-red font-bold uppercase text-lg">PRODUCTIVITY</span>
+                <div class="bg-red w-full h-1"></div>
+                    <div class="c-trending__article-item py-4 lg:py-6 flex items-center">
+                        <a class="flex-1 text-lg lg:text-xl c-trending__article-item-desc" href="/newsandresources/opinion/infrastructure/tackling-productivity-challenges-in-australia-s-infrastructure-industry">Tackling productivity challenges in Australia&#x27;s infrastructure industry</a>
+                        <svg class="w-6 h-6 ml-12 cursor-pointer fill-current mr-3"><use xlink:href="/Content/dist/dist.icons.svg#i-arrow-right"></use></svg>
+                    </div>
+                    <div class="c-trending__article-item py-4 lg:py-6 flex items-center">
+                        <a class="flex-1 text-lg lg:text-xl c-trending__article-item-desc" href="/newsandresources/opinion/built-environment-urban-planning-cities/cities-are-australia&#x2019;s-superpower">Cities are Australia&#x2019;s superpower</a>
+                        <svg class="w-6 h-6 ml-12 cursor-pointer fill-current mr-3"><use xlink:href="/Content/dist/dist.icons.svg#i-arrow-right"></use></svg>
+                    </div>
+                    <div class="c-trending__article-item py-4 lg:py-6 flex items-center">
+                        <a class="flex-1 text-lg lg:text-xl c-trending__article-item-desc" href="/newsandresources/mediamentions/economy/train-dynamic-managers-to-boost-australia-s-productivity-ceda">Train dynamic managers to boost Australia&#x27;s productivity: CEDA</a>
+                        <svg class="w-6 h-6 ml-12 cursor-pointer fill-current mr-3"><use xlink:href="/Content/dist/dist.icons.svg#i-arrow-right"></use></svg>
+                    </div>
+            </div>
+            <div>
+                <span class="mb-4 c-trending__content-title block text-red font-bold uppercase text-lg">INFRASTRUCTURE</span>
+                <div class="bg-red w-full h-1"></div>
+                    <div class="c-trending__article-item py-4 lg:py-6 flex items-center">
+                        <a class="flex-1 text-lg lg:text-xl c-trending__article-item-desc" href="/newsandresources/opinion/workforce-skills/women-in-rail-breaking-occupational-gender-segregation-in-the-industry">Women in rail: breaking occupational gender segregation in the industry</a>
+                        <svg class="w-6 h-6 ml-12 cursor-pointer fill-current mr-3"><use xlink:href="/Content/dist/dist.icons.svg#i-arrow-right"></use></svg>
+                    </div>
+                    <div class="c-trending__article-item py-4 lg:py-6 flex items-center">
+                        <a class="flex-1 text-lg lg:text-xl c-trending__article-item-desc" href="/newsandresources/opinion/infrastructure/smart-ev-charging-infrastructure-key-to-affordable-and-just-transition">Smart EV charging infrastructure key to affordable and just transition</a>
+                        <svg class="w-6 h-6 ml-12 cursor-pointer fill-current mr-3"><use xlink:href="/Content/dist/dist.icons.svg#i-arrow-right"></use></svg>
+                    </div>
+                    <div class="c-trending__article-item py-4 lg:py-6 flex items-center">
+                        <a class="flex-1 text-lg lg:text-xl c-trending__article-item-desc" href="/newsandresources/opinion/infrastructure/why-we-need-investment-in-social-infrastructure">Why we need investment in social infrastructure </a>
+                        <svg class="w-6 h-6 ml-12 cursor-pointer fill-current mr-3"><use xlink:href="/Content/dist/dist.icons.svg#i-arrow-right"></use></svg>
+                    </div>
+            </div>
+            <div>
+                <span class="mb-4 c-trending__content-title block text-red font-bold uppercase text-lg">THE CARE ECONOMY</span>
+                <div class="bg-red w-full h-1"></div>
+                    <div class="c-trending__article-item py-4 lg:py-6 flex items-center">
+                        <a class="flex-1 text-lg lg:text-xl c-trending__article-item-desc" href="/newsandresources/opinion/critical-services/ndis-review-changes-require-trust-between-governments-and-people-with-disability">NDIS review changes require trust between governments and people with disability</a>
+                        <svg class="w-6 h-6 ml-12 cursor-pointer fill-current mr-3"><use xlink:href="/Content/dist/dist.icons.svg#i-arrow-right"></use></svg>
+                    </div>
+                    <div class="c-trending__article-item py-4 lg:py-6 flex items-center">
+                        <a class="flex-1 text-lg lg:text-xl c-trending__article-item-desc" href="/newsandresources/opinion/population/how-to-rebalance-the-scales-amid-our-ageing-population">How to rebalance the scales amid our ageing population</a>
+                        <svg class="w-6 h-6 ml-12 cursor-pointer fill-current mr-3"><use xlink:href="/Content/dist/dist.icons.svg#i-arrow-right"></use></svg>
+                    </div>
+                    <div class="c-trending__article-item py-4 lg:py-6 flex items-center">
+                        <a class="flex-1 text-lg lg:text-xl c-trending__article-item-desc" href="/newsandresources/opinion/critical-services/navigating-the-complexity-of-disability-services-in-australia">Navigating the complexity of disability services in Australia</a>
+                        <svg class="w-6 h-6 ml-12 cursor-pointer fill-current mr-3"><use xlink:href="/Content/dist/dist.icons.svg#i-arrow-right"></use></svg>
+                    </div>
+            </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+<div class="l-container">
+    <div class="c-dots"></div>
+</div>
+    
+
+
+
+
+
+
+
+<div class="l-container my-4 lg:my-12 text-center">
+    <h2 class="b-heading-2 uppercase">KEY CONTRIBUTORS</h2>
+    <div class="c_contributors">
+            <a class="c_contributor" href="javascript:;"><img src="https://cedakenticomedia.blob.core.windows.net/cedamediacontainer/kentico/media/general/sponsors/nationalpremier logos/microsoft_210x100.jpg?ext=.jpg" /></a>
+            <a class="c_contributor" href="javascript:;"><img src="https://cedakenticomedia.blob.core.windows.net/cedamediacontainer/kentico/media/general/sponsors/westpac_w_210x100.jpg?ext=.jpg" /></a>
+            <a class="c_contributor" href="javascript:;"><img src="https://cedakenticomedia.blob.core.windows.net/cedamediacontainer/kentico/media/general/sponsors/siemens_ingenuity_210x110jpg.jpeg?ext=.jpeg" /></a>
+            <a class="c_contributor" href="javascript:;"><img src="https://cedakenticomedia.blob.core.windows.net/cedamediacontainer/kentico/media/general/sponsors/nationalpremier logos/arup-210x100.png?ext=.png" /></a>
+    </div>
+    <a class="g-btn g-btn--c_default" href="/Membership">View more</a>
+</div>
+
+    
+
+
+    </div>
+</div>
+
+
+        
+
+<footer class="l-siteFooter mt-4 lg:mt-12">
+    <div class="l-container mb-8 lg:mb-0 lg:p-16 lg:flex border-b border-white">
+        <p class="b-paragraph-quote mb-8 lg:w-2/3 lg:pr-16">We acknowledge the Traditional Owners of country throughout Australia and recognise their continuing connection to land, waters and culture. We pay our respects to their Elders past, present and emerging.</p>
+        <div class="lg:ml-48 lg:mr-16 lg:w-1/3">
+            <div class="cms-content-wrapper">
+                <p><strong>Telephone </strong><a href="#"> </a>+61 1800 161 236</p>
+
+<p><strong>Email </strong><a href="#"> <span class="font-light">info@ceda.com.au</span></a></p>
+
+            </div>
+            <nav class="c-nav c-nav--footer">
+                <strong><a href="/events-policy">Terms and Conditions</a><br />
+<a href="/events-policy">Events policy</a><br />
+<a href="/Careers">Careers</a><br />
+<a href="/ContactUs">Contact</a></strong>
+            </nav>
+        </div>
+    </div>
+    <div class="l-container mb-8 lg:flex lg:mb-0 lg:p-16">
+        <div class="mb-8 lg:mb-0 lg:w-2/3">
+            
+
+
+<form method="post" data-ajax="true" data-ajax-update="#SubscribeForm" data-ajax-mode="replace-with" data-ajax-complete="subscriberAdded" data-ajax-method="POST" id="SubscribeForm" action="/Site/Subscribe">
+    
+    <div class="c-subscribe">
+        <h4 class="b-heading-4 normal-case mb-4">Stay up to date</h4>
+        <p class="w-3/5" style="width:90%;">Subscribe to get the latest news and insights from our regular CEO updates and research releases. Subscribing will create an account and send you an email which you can use to sign in, update your preferences at any time and easily register for CEDA events.</p>
+
+        <div class="text-red pt-4">
+            
+        </div>
+        <div class="pt-4">
+            <div class="mb-4 md:flex md:mb-8">
+                <input class="w-full mb-4 md:mb-0 md:w-1/2" data-val="true" data-val-maxlength="Max length 200." data-val-maxlength-max="200" data-val-required="Required." id="FirstName" maxlength="200" name="FirstName" placeholder="First Name*" type="text" value="" />
+                <input class="w-full md:w-1/2 md:ml-12" data-val="true" data-val-maxlength="Max length 200." data-val-maxlength-max="200" data-val-required="Required." id="LastName" maxlength="200" name="LastName" placeholder="Last Name*" type="text" value="" />
+            </div>
+            <div>
+                <input class="w-full mb-4 md:mb-8" data-val="true" data-val-email="Incorrect email format." data-val-maxlength="Max length 200." data-val-maxlength-max="200" data-val-required="Required." id="Email" maxlength="200" name="Email" placeholder="Email*" type="email" value="" />
+                <input class="w-full mb-4 md:mb-8" data-val="true" data-val-maxlength="Max length 200." data-val-maxlength-max="200" id="Company" maxlength="200" name="Company" placeholder="Company" style="display:none;" type="text" value="" />
+            </div>
+            <div class="mb-4 md:flex md:mb-0">
+                <div class="mb-4 md:w-1/2">
+                    <div class="b-checkbox b-checkbox--disclaimer">
+                        <input data-val="true" data-val-required="Required." id="Agree" name="Agree" type="checkbox" value="true" />
+                        <label for="Agree">By subscribing you agree to CEDA&#39;s data and privacy policy.&nbsp;<a href="/privacy-and-data-collection">Learn how CEDA collects data and protects your privacy.</a></label>
+                    </div>
+                </div>
+                <div class="md:w-1/2 md:ml-12">
+                    <input class="hidden" type="submit" />
+                    <input class="g-btn g-btn--c_white recaptcha-form-btn" type="button" name="" value="Subscribe" />
+                    <input id="ReCaptchaToken" name="ReCaptchaToken" type="hidden" value="" />
+                </div>
+            </div>
+            <div class="c-comments__reCAPTCHA-tip">
+                This site is protected by reCAPTCHA and the Google
+                <a href="https://policies.google.com/privacy">Privacy Policy</a> and
+                <a href="https://policies.google.com/terms">Terms of Service</a> apply.
+            </div>
+        </div>
+    </div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8OpfvZL2NNtDputqWaaraL5bYM4H0FkPq-SJZZA0Zkbl3nfD2DqQsWlhZJEdikQQm69b7w0qwc6D1_RVq6L0gLrKOPxnlqlIX4GGwS-yosfpdMLLceh8O69R4oITTaq0D04oWmtBwxCsUYTxOrR_aZ0" /><input name="Agree" type="hidden" value="false" /></form>
+
+
+        </div>
+    </div>
+    <div class="l-container flex flex-col-reverse lg:flex-row lg:px-16 lg:py-8">
+        <p class="b-paragraph-small lg:w-2/3">
+            ABN 49 008 600 922 | &copy; 2022 CEDA | &nbsp;<a href="/events-policy">Privacy and data collection</a>
+        </p>
+        <div class="mb-4 lg:ml-48 lg:mr-16 lg:w-1/3 text-white flex">
+            
+        <a class="mr-4" href="https://www.facebook.com/ceda.com.au">
+            <svg class="w-6 h-6 fill-current">
+                <use xlink:href="/Content/dist/dist.icons.svg#i-facebook"></use>
+            </svg>
+        </a>
+
+
+
+
+            
+        <a class="mr-4" href="https://twitter.com/ceda_news">
+            <svg class="w-6 h-6 fill-current">
+                <use xlink:href="/Content/dist/dist.icons.svg#i-twitter"></use>
+            </svg>
+        </a>
+
+
+
+
+            
+        <a class="mr-4" href="https://www.linkedin.com/company/ceda---committee-for-economic-development-of-australia/">
+            <svg class="w-6 h-6 fill-current">
+                <use xlink:href="/Content/dist/dist.icons.svg#i-linkedin"></use>
+            </svg>
+        </a>
+
+
+
+
+            
+        <a class="mr-4" href="https://www.instagram.com/ceda_news/">
+            <svg class="w-6 h-6 fill-current">
+                <use xlink:href="/Content/dist/dist.icons.svg#i-instagram"></use>
+            </svg>
+        </a>
+
+
+
+
+            
+        <a class="" href="https://www.youtube.com/user/CEDA1960">
+            <svg class="w-6 h-6 fill-current">
+                <use xlink:href="/Content/dist/dist.icons.svg#i-youtube"></use>
+            </svg>
+        </a>
+
+
+
+
+        </div>
+    </div>
+</footer>
+    </div>
+    ;
+    
+    <script src="/_content/Kentico.Content.Web.Rcl/Scripts/jquery-3.5.1.js"></script>
+<script src="/_content/Kentico.Content.Web.Rcl/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="/_content/Kentico.Content.Web.Rcl/Content/Bundles/Public/systemFormComponents.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js" /></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css" />
+    <link href="/Content/dist/dist.styles.css" rel="stylesheet" />
+    <script src="/Scripts/TElements.js"></script>
+
+    <script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+    <script src="https://unpkg.com/vue@2.6.12/dist/vue.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.20/lodash.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/js/splide.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/shufflejs@5.2.3/dist/shuffle.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script src="https://www.google.com/recaptcha/api.js?render=6LfaKDIaAAAAAI7b6Yfa22UHOAagyD-GWxzzmxJ4"></script>
+    <script src="/_content/Kentico.Content.Web.Rcl/Scripts/jquery-3.5.1.js"></script>
+<script src="/_content/Kentico.Content.Web.Rcl/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="/_content/Kentico.Content.Web.Rcl/Content/Bundles/Public/systemFormComponents.min.js"></script>
+
+    <script src="https://cdn.staticfile.org/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    <script src="/Content/dist/dist.bundle.js"></script>
+    <script src="/Scripts/pagination.js"></script>
+    <script src="/Scripts/site.js"></script>
+    <script src="/Scripts/custom.js"></script>
+    <script src="/Scripts/cedaComponents.js"></script>
+    <script src="/Scripts/bootstrap.bundle.min.js"></script>
+    <script async="" id="infogram-async" src="https://e.infogram.com/js/dist/embed-loader-min.js"></script>
+    
+    <script>
+        initReCaptcha('6LfaKDIaAAAAAI7b6Yfa22UHOAagyD-GWxzzmxJ4', 'subscribe', "#ReCaptchaToken", "#SubscribeForm");
+    </script>
+    
+</body>
+</html>
+

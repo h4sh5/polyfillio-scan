@@ -1,0 +1,972 @@
+<!doctype html>
+<html lang="en-AU" prefix="og: https://ogp.me/ns#" class="no-js">
+    <head>
+<title>Canberra Lawyers | Solicitors in Canberra | MV Law</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+        
+		
+		<link rel="icon" type="image/png" href="https://www.mvlaw.com.au/favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="https://www.mvlaw.com.au/favicon-16x16.png" sizes="16x16" />
+		
+        <link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="stylesheet" type="text/css" media="all" href="https://www.mvlaw.com.au/wp-content/themes/mvlaw/style.css" />
+        <link rel="pingback" href="https://www.mvlaw.com.au/xmlrpc.php" />
+		<link rel="stylesheet" href="https://www.mvlaw.com.au/wp-content/themes/mvlaw/css/outdatedbrowser.min.css">
+        
+        
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<meta name="description" content="Experienced and highly competitive law firm in Canberra to represent your interests in court. Contact MV Law Canberra for quality legal services."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.mvlaw.com.au/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Canberra Lawyers | Solicitors in Canberra | MV Law" />
+<meta property="og:description" content="Experienced and highly competitive law firm in Canberra to represent your interests in court. Contact MV Law Canberra for quality legal services." />
+<meta property="og:url" content="https://www.mvlaw.com.au/" />
+<meta property="og:site_name" content="MV Law" />
+<meta property="og:updated_time" content="2024-06-03T09:03:22+10:00" />
+<meta property="og:image" content="https://www.mvlaw.com.au/wp-content/uploads/2023/11/Canberra-law-firm-canberra-lawyers.jpg" />
+<meta property="og:image:secure_url" content="https://www.mvlaw.com.au/wp-content/uploads/2023/11/Canberra-law-firm-canberra-lawyers.jpg" />
+<meta property="og:image:width" content="1300" />
+<meta property="og:image:height" content="867" />
+<meta property="og:image:alt" content="Canberra Lawyers - Canberra Law Firm" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Canberra Lawyers | Solicitors in Canberra | MV Law" />
+<meta name="twitter:description" content="Experienced and highly competitive law firm in Canberra to represent your interests in court. Contact MV Law Canberra for quality legal services." />
+<meta name="twitter:image" content="https://www.mvlaw.com.au/wp-content/uploads/2023/11/Canberra-law-firm-canberra-lawyers.jpg" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Coordinate" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="Less than a minute" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://www.mvlaw.com.au/#place","geo":{"@type":"GeoCoordinates","latitude":"-35.27717888874236","longitude":" 149.12604937672668"},"hasMap":"https://www.google.com/maps/search/?api=1&amp;query=-35.27717888874236, 149.12604937672668","address":{"@type":"PostalAddress","streetAddress":"Level 2/121 Marcus Clarke St","addressLocality":"Canberra","addressRegion":"ACT","postalCode":"2601","addressCountry":"Australia"}},{"@type":["LegalService","Organization"],"@id":"https://www.mvlaw.com.au/#organization","name":"MV Law","url":"https://www.mvlaw.com.au","email":"info@mvlaw.com.au","address":{"@type":"PostalAddress","streetAddress":"Level 2/121 Marcus Clarke St","addressLocality":"Canberra","addressRegion":"ACT","postalCode":"2601","addressCountry":"Australia"},"logo":{"@type":"ImageObject","@id":"https://www.mvlaw.com.au/#logo","url":"https://www.mvlaw.com.au/wp-content/uploads/2023/06/MV-Law-Canberra-Logo.png","contentUrl":"https://www.mvlaw.com.au/wp-content/uploads/2023/06/MV-Law-Canberra-Logo.png","caption":"MV Law","inLanguage":"en-AU","width":"333","height":"336"},"priceRange":"$$$","openingHours":["Monday,Tuesday,Wednesday,Thursday,Friday 08:30-17:00"],"location":{"@id":"https://www.mvlaw.com.au/#place"},"image":{"@id":"https://www.mvlaw.com.au/#logo"},"telephone":"(02) 6279 4444"},{"@type":"WebSite","@id":"https://www.mvlaw.com.au/#website","url":"https://www.mvlaw.com.au","name":"MV Law","alternateName":"MV Law Canberra","publisher":{"@id":"https://www.mvlaw.com.au/#organization"},"inLanguage":"en-AU","potentialAction":{"@type":"SearchAction","target":"https://www.mvlaw.com.au/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.mvlaw.com.au/wp-content/uploads/2023/11/Canberra-law-firm-canberra-lawyers.jpg","url":"https://www.mvlaw.com.au/wp-content/uploads/2023/11/Canberra-law-firm-canberra-lawyers.jpg","width":"1300","height":"867","caption":"Canberra Lawyers - Canberra Law Firm","inLanguage":"en-AU"},{"@type":"WebPage","@id":"https://www.mvlaw.com.au/#webpage","url":"https://www.mvlaw.com.au/","name":"Canberra Lawyers | Solicitors in Canberra | MV Law","datePublished":"2020-09-18T02:07:15+10:00","dateModified":"2024-06-03T09:03:22+10:00","about":{"@id":"https://www.mvlaw.com.au/#organization"},"isPartOf":{"@id":"https://www.mvlaw.com.au/#website"},"primaryImageOfPage":{"@id":"https://www.mvlaw.com.au/wp-content/uploads/2023/11/Canberra-law-firm-canberra-lawyers.jpg"},"inLanguage":"en-AU"}]}</script>
+<meta name="google-site-verification" content="HWMMuT5Hhp4IAM44r8NjgJFaHGp5Zq_iJX23yX79CzM" />
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//cdn.polyfill.io' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel="alternate" type="application/rss+xml" title="MV Law &raquo; Feed" href="https://www.mvlaw.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MV Law &raquo; Comments Feed" href="https://www.mvlaw.com.au/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.mvlaw.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.mvlaw.com.au/wp-includes/css/dist/block-library/style.min.css?ver=6.4.5' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='foundation-css' href='https://www.mvlaw.com.au/wp-content/themes/mvlaw/css/foundation.xy.css?ver=1' media='all' />
+<link rel='stylesheet' id='fonts-css' href='https://use.typekit.net/nbk8tvq.css?ver=1' media='all' />
+<link rel='stylesheet' id='app-css' href='https://www.mvlaw.com.au/wp-content/themes/mvlaw/css/app.css?ver=1.0.6' media='all' />
+<script src="https://www.mvlaw.com.au/wp-content/themes/mvlaw/js/vendor/jquery-3.6.1.min.js?ver=3.6.1" id="jquery-js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAmavXi5FuDFXst4AwLTbHspttwp7LmalU&amp;ver=1" id="google-js"></script>
+<link rel="https://api.w.org/" href="https://www.mvlaw.com.au/wp-json/" /><link rel="alternate" type="application/json" href="https://www.mvlaw.com.au/wp-json/wp/v2/pages/7" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mvlaw.com.au/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.mvlaw.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.mvlaw.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mvlaw.com.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.mvlaw.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mvlaw.com.au%2F&#038;format=xml" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TJVTL57');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '259768169828178'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" 
+src="https://www.facebook.com/tr?id=259768169828178&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code --><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "LegalService",
+  "name": "MV Law",
+  "description": "MV Law is a law firm in Canberra offering a wide range of legal services.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "EY Building, Level 2/121 Marcus Clarke St",
+    "addressLocality": "Canberra",
+    "addressRegion": "ACT",
+    "postalCode": "2601",
+    "addressCountry": "Australia"
+  },
+  "telephone": "(02) 6279 4444",
+  "openingHours": [
+    "Mo-Fr 08:30-17:00"
+  ],
+  "image": "https://www.mvlaw.com.au/wp-content/uploads/2023/11/JM-and-MDM-Canberra-Lawyers.png",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Canberra",
+      "sameAs": "https://en.wikipedia.org/wiki/Canberra"
+    },
+    {
+      "@type": "City",
+      "name": "Queanbeyan",
+      "sameAs": "https://en.wikipedia.org/wiki/Queanbeyan"
+    }
+  ],
+  "hasMap": "https://maps.app.goo.gl/ZF4Esuu2tbT8wmSw8",
+  "sameAs": [
+    "https://www.facebook.com/MVLawyers/",
+    "https://www.instagram.com/meyervandenberg/",
+    "https://www.linkedin.com/company/meyer-vandenberg-lawyers/"
+  ],
+  "serviceArea": "Canberra, ACT, Queanbeyan, NSW"
+}
+</script>
+        
+    </head>
+    
+    <body class="home page-template page-template-templates page-template-home-page page-template-templateshome-page-php page page-id-7">
+		
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJVTL57"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->		
+			
+    <header id="top-bar" class="top-bar outer-row">
+		<div class="grid-container">
+			<div class="grid-x grid-padding-x">
+				<div class="grid-x cell align-justify align-middle">
+					<h1 class="site-logo">
+						<a class="site-logo__link" href="https://www.mvlaw.com.au/" title="MV Law" rel="home"><svg xmlns="http://www.w3.org/2000/svg" width="230" height="73.323" viewBox="0 0 230 73.323">
+  <path data-name="Path 1" d="M148.614,127.913a2.041,2.041,0,1,1,2.042,2.048,2.048,2.048,0,0,1-2.042-2.048m2.042,8.661a2.276,2.276,0,1,0-2.268-2.276,2.274,2.274,0,0,0,2.268,2.276m6.36,25.728a2.46,2.46,0,1,0-2.452-2.46,2.459,2.459,0,0,0,2.452,2.46m-6.36-12.647a2.585,2.585,0,1,0-2.577-2.585,2.584,2.584,0,0,0,2.577,2.585m-12.721,15.733a.839.839,0,1,0,.835.839.839.839,0,0,0-.835-.839m12.721-9.166a2.766,2.766,0,1,0-2.757-2.766,2.766,2.766,0,0,0,2.757,2.766m-12.721,2.263a1.356,1.356,0,1,0,1.353,1.356,1.355,1.355,0,0,0-1.353-1.356m19.081-2.905a2.125,2.125,0,1,0-2.117-2.124,2.123,2.123,0,0,0,2.117,2.124m6.36,5.388a1.127,1.127,0,1,0-1.124-1.127,1.127,1.127,0,0,0,1.124,1.127m0-6.78a.732.732,0,1,0-.73-.732.732.732,0,0,0,.73.732m-6.36-5.32a1.8,1.8,0,1,0-1.793-1.8,1.8,1.8,0,0,0,1.793,1.8m6.36,18.837a1.477,1.477,0,1,0-1.472-1.477,1.477,1.477,0,0,0,1.472,1.477m-6.36-25.584a1.437,1.437,0,1,0-1.433-1.437,1.436,1.436,0,0,0,1.433,1.437m0-6.828a.995.995,0,1,0-.991-.995.994.994,0,0,0,.991.995m0-6.75a.631.631,0,1,0-.629-.63.63.63,0,0,0,.629.63m-6.36,14.553a2.412,2.412,0,1,0-2.4-2.412,2.41,2.41,0,0,0,2.4,2.412m-6.36-5.3a2.885,2.885,0,1,0,2.875,2.885A2.883,2.883,0,0,0,144.3,137.8m6.36,39.616A1.583,1.583,0,1,0,152.234,179a1.583,1.583,0,0,0-1.578-1.583m-6.36-33.089a2.743,2.743,0,1,0,2.734,2.743,2.741,2.741,0,0,0-2.734-2.743m6.36,25.891a2.4,2.4,0,1,0,2.388,2.4,2.394,2.394,0,0,0-2.388-2.4m-6.36-12.7a2.325,2.325,0,1,0,2.317,2.325,2.325,2.325,0,0,0-2.317-2.325m0,6.683a2.028,2.028,0,1,0,2.02,2.028,2.027,2.027,0,0,0-2.02-2.028m6.36-.743a2.771,2.771,0,1,0,2.763,2.771,2.77,2.77,0,0,0-2.763-2.771m-6.36-12.489a2.488,2.488,0,1,0,2.478,2.488,2.486,2.486,0,0,0-2.478-2.488m0,27.2a.831.831,0,1,0,.829.832.832.832,0,0,0-.829-.832m19.081-7.225a1.671,1.671,0,1,0,1.666,1.67,1.669,1.669,0,0,0-1.666-1.67m0,7.026A1.03,1.03,0,1,0,164.4,179a1.029,1.029,0,0,0-1.026-1.03M144.3,170.99a1.623,1.623,0,1,0,1.617,1.623,1.622,1.622,0,0,0-1.617-1.623m12.72-7.272a2.509,2.509,0,1,0,2.5,2.509,2.508,2.508,0,0,0-2.5-2.509M150.656,157a2.839,2.839,0,1,0,2.831,2.839A2.838,2.838,0,0,0,150.656,157m6.36,20.413A1.583,1.583,0,1,0,158.6,179a1.582,1.582,0,0,0-1.579-1.583m0-7.257a2.455,2.455,0,1,0,2.448,2.455,2.453,2.453,0,0,0-2.448-2.455M80.689,135.293a.995.995,0,1,0-.99-.995.995.995,0,0,0,.99.995m0-6.75a.631.631,0,1,0-.627-.63.631.631,0,0,0,.627.63m0,13.577a1.437,1.437,0,1,0-1.432-1.437,1.437,1.437,0,0,0,1.432,1.437m6.361,14.1a2.766,2.766,0,1,0-2.757-2.766,2.764,2.764,0,0,0,2.757,2.766m-6.361-7.354a1.8,1.8,0,1,0-1.792-1.8,1.8,1.8,0,0,0,1.792,1.8m6.361.787a2.585,2.585,0,1,0-2.578-2.585,2.583,2.583,0,0,0,2.578,2.585m0-13.081a2.276,2.276,0,1,0-2.269-2.276,2.274,2.274,0,0,0,2.269,2.276m0,6.522a2.412,2.412,0,1,0-2.4-2.412,2.411,2.411,0,0,0,2.4,2.412m0-13.135a2.048,2.048,0,1,0-2.042-2.048,2.047,2.047,0,0,0,2.042,2.048m6.36,34.238a2.028,2.028,0,1,0,2.022,2.028,2.027,2.027,0,0,0-2.022-2.028m0,6.79a1.623,1.623,0,1,0,1.617,1.623,1.622,1.622,0,0,0-1.617-1.623M87.051,157a2.839,2.839,0,1,0,2.83,2.839A2.837,2.837,0,0,0,87.051,157m6.36.514a2.325,2.325,0,1,0,2.317,2.325,2.324,2.324,0,0,0-2.317-2.325m0,20.651a.831.831,0,1,0,.829.832.831.831,0,0,0-.829-.832m0-27.2a2.488,2.488,0,1,0,2.48,2.488,2.487,2.487,0,0,0-2.48-2.488m6.361,14.421a.839.839,0,1,0,.836.839.839.839,0,0,0-.836-.839m0-6.9a1.356,1.356,0,1,0,1.352,1.356,1.356,1.356,0,0,0-1.352-1.356m-6.361-14.159a2.743,2.743,0,1,0,2.734,2.743,2.743,2.743,0,0,0-2.734-2.743m0-6.527a2.885,2.885,0,1,0,2.876,2.885,2.884,2.884,0,0,0-2.876-2.885M80.689,155.581a2.125,2.125,0,1,0-2.117-2.124,2.123,2.123,0,0,0,2.117,2.124m6.361,7.876a2.771,2.771,0,1,0,2.761,2.771,2.77,2.77,0,0,0-2.761-2.771m-12.722-2.488a1.127,1.127,0,1,0-1.122-1.127,1.127,1.127,0,0,0,1.122,1.127m0,6.736a1.477,1.477,0,1,0-1.471-1.477,1.476,1.476,0,0,0,1.471,1.477m6.36-5.4a2.46,2.46,0,1,0-2.452-2.46,2.459,2.459,0,0,0,2.452,2.46m-6.36,15.667A1.03,1.03,0,1,0,75.356,179a1.03,1.03,0,0,0-1.027-1.03m0-23.781a.732.732,0,1,0-.729-.732.732.732,0,0,0,.729.732m12.722,16.03a2.4,2.4,0,1,0,2.388,2.4,2.394,2.394,0,0,0-2.388-2.4m0,7.2A1.583,1.583,0,1,0,88.628,179a1.582,1.582,0,0,0-1.577-1.583m-6.361-13.7a2.509,2.509,0,1,0,2.5,2.509,2.508,2.508,0,0,0-2.5-2.509m0,13.7A1.583,1.583,0,1,0,82.268,179a1.583,1.583,0,0,0-1.578-1.583m-6.36-6.473a1.671,1.671,0,1,0,1.665,1.67,1.67,1.67,0,0,0-1.665-1.67m6.36-.784a2.455,2.455,0,1,0,2.447,2.455,2.453,2.453,0,0,0-2.447-2.455" transform="translate(-72.664 -107.373)" fill="#810059"/>
+  <path data-name="Path 2" d="M141.756,144.049a1.7,1.7,0,1,0,1.691,1.7,1.7,1.7,0,0,0-1.691-1.7m6.362.369a1.328,1.328,0,1,0,1.323,1.329,1.328,1.328,0,0,0-1.323-1.329m-6.362-7.654a2.6,2.6,0,1,0,2.589,2.6,2.6,2.6,0,0,0-2.589-2.6m6.362.442a2.155,2.155,0,1,0,2.147,2.155,2.155,2.155,0,0,0-2.147-2.155m-6.362-7.212a2.981,2.981,0,1,0,2.972,2.981,2.979,2.979,0,0,0-2.972-2.981m6.362.472a2.509,2.509,0,1,0,2.5,2.509,2.508,2.508,0,0,0-2.5-2.509m-6.362-6.858a2.981,2.981,0,1,0,2.972,2.981,2.979,2.979,0,0,0-2.972-2.981m6.362.238a2.743,2.743,0,1,0,2.734,2.743,2.743,2.743,0,0,0-2.734-2.743m-6.362-6.648a3.006,3.006,0,1,0,3,3.006,3,3,0,0,0-3-3.006m6.362.113A2.893,2.893,0,1,0,151,120.2a2.891,2.891,0,0,0-2.882-2.893m-6.362-.674a2.819,2.819,0,1,0-2.81-2.819,2.818,2.818,0,0,0,2.81,2.819m6.362,0a2.819,2.819,0,1,0-2.81-2.819,2.818,2.818,0,0,0,2.81,2.819m-6.362-6.717a2.488,2.488,0,1,0-2.48-2.488,2.486,2.486,0,0,0,2.48,2.488m6.362.258a2.746,2.746,0,1,0-2.739-2.746,2.744,2.744,0,0,0,2.739,2.746m-6.362-6.958a2.174,2.174,0,1,0-2.167-2.174,2.173,2.173,0,0,0,2.167,2.174m6.362.4a2.578,2.578,0,1,0-2.569-2.578,2.577,2.577,0,0,0,2.569,2.578m-12.723,40.794a1.328,1.328,0,1,0,1.325,1.329,1.328,1.328,0,0,0-1.325-1.329m-6.359-6.072a1.015,1.015,0,1,0,1.01,1.015,1.014,1.014,0,0,0-1.01-1.015m6.359-7.88a2.509,2.509,0,1,0,2.5,2.509,2.509,2.509,0,0,0-2.5-2.509m-6.359,1.08a1.43,1.43,0,1,0,1.425,1.429,1.429,1.429,0,0,0-1.425-1.429m6.359-7.7a2.743,2.743,0,1,0,2.734,2.743,2.741,2.741,0,0,0-2.734-2.743m-6.359.888a1.856,1.856,0,1,0,1.849,1.855,1.856,1.856,0,0,0-1.849-1.855m6.359-7.423a2.893,2.893,0,1,0,2.884,2.893,2.891,2.891,0,0,0-2.884-2.893m-6.359.643a2.249,2.249,0,1,0,2.242,2.25,2.248,2.248,0,0,0-2.242-2.25m6.359-1.318a2.819,2.819,0,1,0-2.808-2.819,2.817,2.817,0,0,0,2.808,2.819m-6.359-5.3a2.485,2.485,0,1,0,2.478,2.484,2.483,2.483,0,0,0-2.478-2.484m6.359-1.155a2.746,2.746,0,1,0-2.737-2.746,2.746,2.746,0,0,0,2.737,2.746m-6.359-5.492a2.746,2.746,0,1,0,2.738,2.746,2.746,2.746,0,0,0-2.738-2.746m-6.36.1a2.646,2.646,0,1,0,2.636,2.646,2.645,2.645,0,0,0-2.636-2.646m12.72-1.163a2.578,2.578,0,1,0-2.568-2.578,2.578,2.578,0,0,0,2.568,2.578m-6.359-5.465a2.888,2.888,0,1,0,2.877,2.888,2.886,2.886,0,0,0-2.877-2.888m-6.36-.092a2.98,2.98,0,1,0,2.97,2.979,2.979,2.979,0,0,0-2.97-2.979m0-6.386a2.98,2.98,0,1,0,2.97,2.98,2.98,2.98,0,0,0-2.97-2.98m-6.362.211a2.769,2.769,0,1,0,2.762,2.769,2.768,2.768,0,0,0-2.762-2.769m6.362-6.624a3.007,3.007,0,1,0,3,3.007,3.006,3.006,0,0,0-3-3.007M116.313,90.8a2.524,2.524,0,1,0-2.516-2.524,2.523,2.523,0,0,0,2.516,2.524m-6.36-4.18a1.656,1.656,0,1,0,1.651,1.656,1.656,1.656,0,0,0-1.651-1.656m6.36-2.583a2.147,2.147,0,1,0-2.138-2.147,2.145,2.145,0,0,0,2.138,2.147m-6.36-1a1.149,1.149,0,1,0-1.146-1.149,1.148,1.148,0,0,0,1.146,1.149m6.36-6.482a1.052,1.052,0,1,0-1.048-1.052,1.051,1.051,0,0,0,1.048,1.052m19.081,60.65a2.155,2.155,0,1,0,2.149,2.155,2.154,2.154,0,0,0-2.149-2.155m-6.359-45.525a2.98,2.98,0,1,0,2.97,2.98,2.979,2.979,0,0,0-2.97-2.98m0-.6a2.8,2.8,0,1,0-2.795-2.8,2.8,2.8,0,0,0,2.795,2.8m-6.36-6.763a2.427,2.427,0,1,0-2.42-2.427,2.425,2.425,0,0,0,2.42,2.427m0-7.43A1.383,1.383,0,1,0,121.3,75.5a1.382,1.382,0,0,0,1.378,1.383m31.8,61.46a1.015,1.015,0,1,0,1.011,1.015,1.014,1.014,0,0,0-1.011-1.015m0-6.8a1.43,1.43,0,1,0,1.424,1.429,1.429,1.429,0,0,0-1.424-1.429m0-6.812a1.856,1.856,0,1,0,1.85,1.855,1.855,1.855,0,0,0-1.85-1.855m0-6.78a2.249,2.249,0,1,0,2.244,2.25,2.248,2.248,0,0,0-2.244-2.25m6.36.519a1.73,1.73,0,1,0,1.726,1.731,1.729,1.729,0,0,0-1.726-1.731m-6.36-7.14a2.485,2.485,0,1,0,2.477,2.484,2.483,2.483,0,0,0-2.477-2.484m6.36.146a2.338,2.338,0,1,0,2.331,2.338,2.336,2.336,0,0,0-2.331-2.338m-6.36-6.794a2.746,2.746,0,1,0,2.738,2.746,2.745,2.745,0,0,0-2.738-2.746m6.36.1a2.646,2.646,0,1,0,2.637,2.646,2.645,2.645,0,0,0-2.637-2.646m-6.36-6.628a2.888,2.888,0,1,0,2.878,2.888,2.886,2.886,0,0,0-2.878-2.888m6.36-.092a2.98,2.98,0,1,0,2.971,2.979,2.979,2.979,0,0,0-2.971-2.979m6.362.236a2.743,2.743,0,1,0,2.734,2.743A2.741,2.741,0,0,0,167.2,98.3m-12.722-6.622a2.98,2.98,0,1,0,2.972,2.98,2.979,2.979,0,0,0-2.972-2.98m6.36,0a2.98,2.98,0,1,0,2.971,2.98,2.979,2.979,0,0,0-2.971-2.98m6.362.211a2.769,2.769,0,1,0,2.76,2.769,2.768,2.768,0,0,0-2.76-2.769m-12.722-.813a2.8,2.8,0,1,0-2.795-2.8,2.8,2.8,0,0,0,2.795,2.8m6.36-5.811a3.007,3.007,0,1,0,3,3.007,3.006,3.006,0,0,0-3-3.007M167.2,90.8a2.524,2.524,0,1,0-2.517-2.524A2.523,2.523,0,0,0,167.2,90.8m6.36-4.18a1.656,1.656,0,1,0,1.651,1.656,1.656,1.656,0,0,0-1.651-1.656m-12.722-2.3a2.427,2.427,0,1,0-2.419-2.427,2.426,2.426,0,0,0,2.419,2.427m6.362-.28a2.147,2.147,0,1,0-2.14-2.147,2.146,2.146,0,0,0,2.14,2.147m6.36-1a1.149,1.149,0,1,0-1.145-1.149,1.148,1.148,0,0,0,1.145,1.149m-6.36-6.482a1.052,1.052,0,1,0-1.049-1.052,1.053,1.053,0,0,0,1.049,1.052M116.313,98.3a2.743,2.743,0,1,0,2.734,2.743,2.742,2.742,0,0,0-2.734-2.743m6.362,20.17A1.73,1.73,0,1,0,124.4,120.2a1.73,1.73,0,0,0-1.725-1.731m0-6.994a2.338,2.338,0,1,0,2.33,2.338,2.337,2.337,0,0,0-2.33-2.338m38.162-34.593a1.383,1.383,0,1,0-1.378-1.383,1.382,1.382,0,0,0,1.378,1.383m-19.081,19.4a1.626,1.626,0,1,0-1.621-1.626,1.625,1.625,0,0,0,1.621,1.626m6.362.8a2.427,2.427,0,1,0-2.42-2.427,2.425,2.425,0,0,0,2.42,2.427m0-6.65a2.162,2.162,0,1,0-2.156-2.162,2.161,2.161,0,0,0,2.156,2.162m6.36-6.121a2.427,2.427,0,1,0-2.419-2.427,2.426,2.426,0,0,0,2.419,2.427M135.394,97.088a2.427,2.427,0,1,0-2.419-2.427,2.426,2.426,0,0,0,2.419,2.427m0-6.65a2.162,2.162,0,1,0-2.155-2.162,2.161,2.161,0,0,0,2.155,2.162m-6.359-6.121a2.427,2.427,0,1,0-2.419-2.427,2.425,2.425,0,0,0,2.419,2.427m12.721,5.067a1.108,1.108,0,1,0-1.1-1.108,1.108,1.108,0,0,0,1.1,1.108m0-6.909a.585.585,0,1,0-.583-.585.585.585,0,0,0,.583.585m6.362,1.155a1.74,1.74,0,1,0-1.735-1.74,1.739,1.739,0,0,0,1.735,1.74m0-7.337a.754.754,0,1,0-.753-.754.753.753,0,0,0,.753.754m6.36.426a1.215,1.215,0,1,0-1.212-1.215,1.215,1.215,0,0,0,1.212,1.215m-19.082,6.911a1.74,1.74,0,1,0-1.735-1.74,1.739,1.739,0,0,0,1.735,1.74m0-7.337a.754.754,0,1,0-.752-.754.753.753,0,0,0,.752.754m-7.572-.789a1.211,1.211,0,1,1,1.212,1.215,1.215,1.215,0,0,1-1.212-1.215" transform="translate(-95.566 -74.121)" fill="#e9003f"/>
+  <path class="logo-text" data-name="Path 3" d="M408.361,133.311q2.039,2.274,2.038,6.638V151.8h-4.24V139.949a5.551,5.551,0,0,0-1.148-3.795,3.925,3.925,0,0,0-3.092-1.293,4.174,4.174,0,0,0-3.32,1.582,6.547,6.547,0,0,0-1.334,4.353v11h-4.239V139.949a5.55,5.55,0,0,0-1.148-3.795,3.925,3.925,0,0,0-3.092-1.293,4.172,4.172,0,0,0-3.32,1.582,6.549,6.549,0,0,0-1.334,4.353v11h-4.24V131.47h4.24v2.11c.165-.194.4-.431.693-.713a8.511,8.511,0,0,1,1.861-1.127,6.551,6.551,0,0,1,2.947-.7,7.847,7.847,0,0,1,2.327.342,5.665,5.665,0,0,1,1.768.848,9.425,9.425,0,0,1,1.148,1.025,6,6,0,0,1,.693.847l.207.331a3.926,3.926,0,0,1,.279-.351c.13-.152.414-.428.848-.827a8.4,8.4,0,0,1,1.4-1.045,9.378,9.378,0,0,1,4.467-1.168,7.124,7.124,0,0,1,5.594,2.275M423.3,146.3l-5.935-14.829h-4.447l8.274,20.33h4.218l8.273-20.33h-4.447Zm13.719,5.5h4.218V122.142h-4.218ZM460.1,133.238a7.111,7.111,0,0,1,2.378,5.43V151.8h-4.24v-2.109c-.055.055-.148.145-.279.269a9.012,9.012,0,0,1-.786.61,9.376,9.376,0,0,1-1.272.765,8.913,8.913,0,0,1-1.717.61,8.254,8.254,0,0,1-2.088.269,7.518,7.518,0,0,1-5.15-1.8A5.365,5.365,0,0,1,444.9,146.3a5.921,5.921,0,0,1,1.582-4.2,7.36,7.36,0,0,1,4.332-2.151l7.425-1.282a3.537,3.537,0,0,0-1.189-2.709,4.322,4.322,0,0,0-3.05-1.1,6.323,6.323,0,0,0-2.926.673,5.082,5.082,0,0,0-1.81,1.354l-.559.724-2.751-2.751q.125-.165.342-.423a10.254,10.254,0,0,1,.972-.91,12.007,12.007,0,0,1,1.6-1.168,9.3,9.3,0,0,1,2.244-.921,10.35,10.35,0,0,1,2.885-.4,8.628,8.628,0,0,1,6.1,2.2m-1.862,8.821-6.576,1.055a3.313,3.313,0,0,0-1.84.931,2.5,2.5,0,0,0-.7,1.82,2.222,2.222,0,0,0,.982,1.779,4.177,4.177,0,0,0,2.637.765,5.3,5.3,0,0,0,4.043-1.541,6.147,6.147,0,0,0,1.458-4.395Zm33.667-10.589-4.674,13.981-4.653-13.981h-3.805l-4.653,13.981-4.674-13.981H465l6.99,20.33h4.033l4.654-13.547,4.654,13.547h4.033l6.99-20.33Zm7.389,16.217a2.675,2.675,0,0,0-4.548,1.873,2.534,2.534,0,0,0,.8,1.863,2.612,2.612,0,0,0,3.745,0,2.538,2.538,0,0,0,.8-1.863,2.571,2.571,0,0,0-.8-1.873" transform="translate(-270.099 -104.981)" fill="#fff"/>
+</svg>
+</a>
+					</h1>
+					<div class="grid-x grid-padding-x align-middle">
+												<div class="cell shrink">
+							<button type="button" class="menu-button menu-button--closed js-menu-trigger">
+								<span></span>
+								<span></span>
+								<span></span>
+							</button>
+						</div>
+						<div class="cell shrink">
+							<a class="arrow-link arrow-link--icon search-button search-button--closed js-search-trigger" href="#">
+								<span class="arrow-link__arrow">
+									<span class="arrow__start">
+										<i class="fal fa-search"></i>
+									</span>
+									<span class="arrow__end">
+										<i class="fal fa-search"></i>
+									</span>
+								</span>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </header>
+		
+	<div class="site-navigation top-bar-offset outer-row">
+    	<div class="grid-container content-area">
+			<div class="grid-x grid-padding-x align-justify">
+				<div class="cell large-6">
+					<nav class="site-navigation__navigation"><ul id="menu-primary-navigation" class="menu"><li id="menu-item-315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-315"><a href="https://www.mvlaw.com.au/services/">Services</a><a href='#' class='menu-arrow menu-arrow--closed js-menu-expand'><span class='menu-arrow__icon'><i class="fal fa-chevron-down"></i></span></a>
+
+<ul class="sub-menu">
+	<li id="menu-item-722" class="menu-item menu-item-type-post_type menu-item-object-mv_service menu-item-722"><a href="https://www.mvlaw.com.au/service/property/">Property Law</a></li>
+	<li id="menu-item-717" class="menu-item menu-item-type-post_type menu-item-object-mv_service menu-item-717"><a href="https://www.mvlaw.com.au/service/building-and-construction/">Building and Construction Lawyers</a></li>
+	<li id="menu-item-719" class="menu-item menu-item-type-post_type menu-item-object-mv_service menu-item-719"><a href="https://www.mvlaw.com.au/service/dispute-resolution/">Dispute Resolution</a></li>
+	<li id="menu-item-723" class="menu-item menu-item-type-post_type menu-item-object-mv_service menu-item-723"><a href="https://www.mvlaw.com.au/service/wills-and-estates/">Wills &#038; Estates</a></li>
+	<li id="menu-item-720" class="menu-item menu-item-type-post_type menu-item-object-mv_service menu-item-720"><a href="https://www.mvlaw.com.au/service/employment-industrial-relations-and-safety/">Employment</a></li>
+	<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-mv_service menu-item-718"><a href="https://www.mvlaw.com.au/service/business/">Business</a></li>
+	<li id="menu-item-721" class="menu-item menu-item-type-post_type menu-item-object-mv_service menu-item-721"><a href="https://www.mvlaw.com.au/service/government-and-administration/">Government and Administration</a></li>
+	<li id="menu-item-724" class="menu-item menu-item-type-post_type menu-item-object-mv_service menu-item-724"><a href="https://www.mvlaw.com.au/service/resourcing/">Resourcing</a></li>
+</ul>
+</li>
+<li id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a href="https://www.mvlaw.com.au/about/">About</a></li>
+<li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="https://www.mvlaw.com.au/team/">Our People</a></li>
+<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="https://www.mvlaw.com.au/news-events/">News &#038; Events</a></li>
+<li id="menu-item-317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317"><a href="https://www.mvlaw.com.au/contact/">Contact</a></li>
+</ul></nav>				</div>
+				<div class="cell large-4">
+					<nav class="site-navigation__functions"><ul id="menu-secondary-navigation" class="menu"><li id="menu-item-770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-770"><a target="_blank" rel="noopener" href="https://meyervandenberg.wills.settify.com.au/landing?referral=homepage">Wills Online</a></li>
+<li id="menu-item-771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-771"><a target="_blank" rel="noopener" href="https://meyervandenberg.probate.settify.com.au/landing?referral=homepage">Probate Online</a></li>
+<li id="menu-item-1594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1594"><a href="https://meyervandenberg.estates.settify.com.au/landing?referral=homepage">Estate Disputes Online</a></li>
+<li id="menu-item-772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-772"><a href="https://www.mvlaw.com.au/careers/">Careers</a></li>
+<li id="menu-item-769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-769"><a href="https://www.mvlaw.com.au/payment/">Payment</a></li>
+<li id="menu-item-773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-773"><a target="_blank" rel="noopener" href="https://affinityportal.mvlaw.com.au/CP">Client Portal</a></li>
+</ul></nav>					
+										<div class="padding-top">
+						<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+														<div class="cell shrink"> 
+								<a class="arrow-link arrow-link--icon" target="_blank" href="https://www.facebook.com/MVLawyers/">
+									<span class="arrow-link__arrow">
+										<span class="arrow__start">
+											<i class="fa fa-facebook"></i>
+										</span>
+										<span class="arrow__end">
+											<i class="fa fa-facebook"></i>
+										</span>
+									</span>
+								</a>
+							</div>
+																					<div class="cell shrink">
+								<a class="arrow-link arrow-link--icon" target="_blank" href="https://www.instagram.com/meyervandenberg/">
+									<span class="arrow-link__arrow">
+										<span class="arrow__start">
+											<i class="fa fa-instagram"></i>
+										</span>
+										<span class="arrow__end">
+											<i class="fa fa-instagram"></i>
+										</span>
+									</span>
+								</a>
+							</div>
+																												<div class="cell shrink">
+								<a class="arrow-link arrow-link--icon" target="_blank" href="https://www.linkedin.com/company/meyer-vandenberg-lawyers/">
+									<span class="arrow-link__arrow">
+										<span class="arrow__start">
+											<i class="fa fa-linkedin"></i>
+										</span>
+										<span class="arrow__end">
+											<i class="fa fa-linkedin"></i>
+										</span>
+									</span>
+								</a>
+							</div>
+													</div>
+					</div>
+									</div>
+			</div>
+		</div>
+    </div>
+		
+	<div class="site-search background-primary top-bar-offset outer-row">
+    	<div class="grid-container content-area">
+			<div class="grid-x grid-padding-x align-center">
+				<div class="cell large-8 xlarge-6">
+					<form class="search-form" method="get" action="https://www.mvlaw.com.au/">
+                        <input type="text" name="s" value="" placeholder="Search&hellip;">
+						<input type="hidden" name="post_type[]" value="post" />
+						<input type="hidden" name="post_type[]" value="page" />
+						<input type="hidden" name="post_type[]" value="mv_service" />
+						<input type="hidden" name="post_type[]" value="mv_team" />
+                        <div class="padding-top">
+                            <button class="btn gform_button">Search <span class="arrow-link__arrow"><span class="arrow__start"><i class="fal fa-chevron-right"></i></span><span class="arrow__end"><i class="fal fa-chevron-right"></i></span></span></button>
+                        </div>
+                    </form>
+				</div>
+			</div>
+		</div>
+    </div>
+    
+    <main>
+	
+		<article id="post-7" class="home post-7 page type-page status-publish hentry">
+				
+			<section class="banner-row background-primary text-white top-bar-offset position_relative outer-row height_100--vh">
+	<div class="grid-container height_100">
+		<div class="grid-x grid-padding-x height_100">
+			<div class="cell large-6 xlarge-5 height_100">
+				<div class="banner-row__content flexslider position_relative height_100" data-mvBanner>
+					<ul class="slides">
+												<li class="content-area">
+							<div class="content-area padding-bottom-x0">
+								<h1 class="h3 fix_line_height">Canberra Lawyers & Solicitor</h1><div class="grid-x"><div class="cell large-11 xlarge-12"><p class="text-h6">Whether you need help navigating your way through a rapidly changing employment landscape, are looking to make your mark in the property or commercial sector or simply want to plan for your future and an expert advice, our team of highly specialised lawyers will help you find innovative solutions that empower you to make your next move.</p>
+</div></div>								<div class="padding-top padding-top--x2">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																				<div class="cell">
+											<a class="arrow-link arrow-link--white" href="https://www.mvlaw.com.au/services/" target="_self">View our services<span class="arrow-link__arrow"><span class="arrow__start"><i class="fal fa-chevron-right"></i></span><span class="arrow__end"><i class="fal fa-chevron-right"></i></span></span></a>
+										</div>
+																			</div>
+								</div>
+															</div>
+						</li>
+												<li class="content-area">
+							<div class="content-area padding-bottom-x0">
+								<h2 class="h3 fix_line_height">Estate planning online</h2><div class="grid-x"><div class="cell large-11 xlarge-12"><p class="text-h6">If you’re looking to make or update a will, dispute a will, or need a grant of probate, you can save time and money with our easy online system. Just click on the relevant link below: </p>
+</div></div>								<div class="padding-top padding-top--x2">
+									<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																				<div class="cell">
+											<a class="arrow-link arrow-link--white" href="https://meyervandenberg.wills.settify.com.au/willslanding/d-wl-landing" target="_blank">Wills online<span class="arrow-link__arrow"><span class="arrow__start"><i class="fal fa-chevron-right"></i></span><span class="arrow__end"><i class="fal fa-chevron-right"></i></span></span></a>
+										</div>
+																				<div class="cell">
+											<a class="arrow-link arrow-link--white" href="https://meyervandenberg.probate.settify.com.au/landing?referral=homepage" target="_blank">Probate online<span class="arrow-link__arrow"><span class="arrow__start"><i class="fal fa-chevron-right"></i></span><span class="arrow__end"><i class="fal fa-chevron-right"></i></span></span></a>
+										</div>
+																				<div class="cell">
+											<a class="arrow-link arrow-link--white" href="https://meyervandenberg.estates.settify.com.au/landing?referral=homepage" target="_self">Estate disputes online<span class="arrow-link__arrow"><span class="arrow__start"><i class="fal fa-chevron-right"></i></span><span class="arrow__end"><i class="fal fa-chevron-right"></i></span></span></a>
+										</div>
+																			</div>
+								</div>
+															</div>
+						</li>
+											</ul>
+					<div class="banner-row__slider-controls content-area padding-top-x0"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="banner-row__images flexslider" data-controlNav="false" data-slideshow="true" data-pauseOnAction="true" data-pauseOnHover="false" data-directionNav="true" data-mvBannerVideos>
+		<ul class="slides">
+						<li class="background-image background-image--overlay" style="background-image:url(https://www.mvlaw.com.au/wp-content/uploads/2023/11/Canberra-law-firm-canberra-lawyers.jpg)">
+				<img src="https://www.mvlaw.com.au/wp-content/uploads/2023/11/Canberra-law-firm-canberra-lawyers.jpg" alt="Canberra Lawyers & Solicitor image">
+			</li>
+						<li class="background-image background-image--overlay" style="background-image:url(https://www.mvlaw.com.au/wp-content/uploads/2023/11/canberra-business-law-firm.jpg)">
+				<img src="https://www.mvlaw.com.au/wp-content/uploads/2023/11/canberra-business-law-firm.jpg" alt="Estate planning online image">
+			</li>
+					</ul>
+	</div>
+</section>
+<section id="empowering-the-now" class="content-area content-area--x2 outer-row background-white" data-row-type="content_row" data-row-index="row-2">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="cell">
+				<div class="grid-x grid-padding-x align-center grid-padding-y align-middle">
+					<div class="cell large-6">
+												<div class="grid-x">
+                            <div class="cell xlarge-11">
+																								<div class="flexslider  flexslider--hide-controls">
+									<ul class="slides">
+																				<li>
+											<div class="slide-content height_100">
+																								<figure>
+													<div class="set-size set-size--landscape large-set-size--portrait">
+														<div class="set-size__image" style="background-image:url(https://www.mvlaw.com.au/wp-content/uploads/2022/02/mvlaw-concept-of-empowerment-2.jpg)">
+															<img src="https://www.mvlaw.com.au/wp-content/uploads/2022/02/mvlaw-concept-of-empowerment-2.jpg" alt="Canberra sunset">
+														</div>
+													</div>
+																									</figure>
+																							</div>
+										</li>
+																			</ul>
+								</div>
+																							</div>
+						</div>
+					</div>
+					<div class="cell large-6">
+						<h2 class="h3">Empowering the now</h2><div><p>In a rapidly changing world that is constantly presenting new and unprecedented challenges, we are here to empower you with insightful, solutions-based and future-oriented legal advice.</p>
+<p>Our strength lies in our collective ability to think ahead: to understand and solve an issue, before it becomes a problem; and to turn every opportunity into an advantage.</p>
+<p>Regardless of your legal challenge, our specialised lawyers will help you find innovative solutions to the most complex issue, whilst delivering an exceptional personalised service.</p>
+</div>						<div class="padding-top padding-top--x2">
+							<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																<div class="cell shrink">
+									<a class="arrow-link" href="https://www.mvlaw.com.au/about/" target="_self">Read more<span class="arrow-link__arrow"><span class="arrow__start"><i class="fal fa-chevron-right"></i></span><span class="arrow__end"><i class="fal fa-chevron-right"></i></span></span></a>
+								</div>
+															</div>
+						</div>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="content-area content-area--x2 outer-row background-white--pattern" data-row-type="services_row" data-row-index="row-3">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="cell">
+				<div class="grid-x grid-padding-x grid-padding-y">
+					<div class="cell">
+												<a class="row-link" href="https://www.mvlaw.com.au/service/property/">
+							<span class="grid-x grid-padding-x grid-padding-y align-middle">
+								<span class="cell auto medium-12 large-6">
+									<span class="h4 row-link__title">Property Law</span>
+								</span>
+								<span class="cell medium-10 large-5 show-for-medium">As award-winning property law specialists, we provide advice on all commercial, retail, industrial and residential transactions.</span>
+								<span class="cell shrink push-right text-right">
+									<span class="arrow-link--icon position_relative">
+										<span class="arrow-link__arrow">
+											<span class="arrow__start"><i class="fal fa-chevron-right"></i></span>
+											<span class="arrow__end"><i class="fal fa-chevron-right"></i></span>
+										</span>
+									</span>
+								</span>
+							</span>
+						</a>
+												<a class="row-link" href="https://www.mvlaw.com.au/service/building-and-construction/">
+							<span class="grid-x grid-padding-x grid-padding-y align-middle">
+								<span class="cell auto medium-12 large-6">
+									<span class="h4 row-link__title">Building and Construction Lawyers</span>
+								</span>
+								<span class="cell medium-10 large-5 show-for-medium">As the largest property team in Canberra, we are specialists in providing tailored solutions for the building and construction industry.</span>
+								<span class="cell shrink push-right text-right">
+									<span class="arrow-link--icon position_relative">
+										<span class="arrow-link__arrow">
+											<span class="arrow__start"><i class="fal fa-chevron-right"></i></span>
+											<span class="arrow__end"><i class="fal fa-chevron-right"></i></span>
+										</span>
+									</span>
+								</span>
+							</span>
+						</a>
+												<a class="row-link" href="https://www.mvlaw.com.au/service/dispute-resolution/">
+							<span class="grid-x grid-padding-x grid-padding-y align-middle">
+								<span class="cell auto medium-12 large-6">
+									<span class="h4 row-link__title">Dispute Resolution</span>
+								</span>
+								<span class="cell medium-10 large-5 show-for-medium">Our litigation lawyers specialise in a broad range of areas including insolvency and debt recovery, intellectual property, defamation and business to business disputes.</span>
+								<span class="cell shrink push-right text-right">
+									<span class="arrow-link--icon position_relative">
+										<span class="arrow-link__arrow">
+											<span class="arrow__start"><i class="fal fa-chevron-right"></i></span>
+											<span class="arrow__end"><i class="fal fa-chevron-right"></i></span>
+										</span>
+									</span>
+								</span>
+							</span>
+						</a>
+												<a class="row-link" href="https://www.mvlaw.com.au/service/wills-and-estates/">
+							<span class="grid-x grid-padding-x grid-padding-y align-middle">
+								<span class="cell auto medium-12 large-6">
+									<span class="h4 row-link__title">Wills &#038; Estates</span>
+								</span>
+								<span class="cell medium-10 large-5 show-for-medium">From developing estate plans to handling disputes, our team offers a comprehensive range of estate planning services and expert advice.</span>
+								<span class="cell shrink push-right text-right">
+									<span class="arrow-link--icon position_relative">
+										<span class="arrow-link__arrow">
+											<span class="arrow__start"><i class="fal fa-chevron-right"></i></span>
+											<span class="arrow__end"><i class="fal fa-chevron-right"></i></span>
+										</span>
+									</span>
+								</span>
+							</span>
+						</a>
+												<a class="row-link" href="https://www.mvlaw.com.au/service/employment-industrial-relations-and-safety/">
+							<span class="grid-x grid-padding-x grid-padding-y align-middle">
+								<span class="cell auto medium-12 large-6">
+									<span class="h4 row-link__title">Employment Law</span>
+								</span>
+								<span class="cell medium-10 large-5 show-for-medium">Our expert team works across the spectrum of employment law from protecting businesses to helping defend the rights and entitlements of individuals.</span>
+								<span class="cell shrink push-right text-right">
+									<span class="arrow-link--icon position_relative">
+										<span class="arrow-link__arrow">
+											<span class="arrow__start"><i class="fal fa-chevron-right"></i></span>
+											<span class="arrow__end"><i class="fal fa-chevron-right"></i></span>
+										</span>
+									</span>
+								</span>
+							</span>
+						</a>
+												<a class="row-link" href="https://www.mvlaw.com.au/service/business/">
+							<span class="grid-x grid-padding-x grid-padding-y align-middle">
+								<span class="cell auto medium-12 large-6">
+									<span class="h4 row-link__title">Business</span>
+								</span>
+								<span class="cell medium-10 large-5 show-for-medium">Our highly experienced commercial lawyers offer expert advice and guidance across a broad range of business matters to help you make better decisions.</span>
+								<span class="cell shrink push-right text-right">
+									<span class="arrow-link--icon position_relative">
+										<span class="arrow-link__arrow">
+											<span class="arrow__start"><i class="fal fa-chevron-right"></i></span>
+											<span class="arrow__end"><i class="fal fa-chevron-right"></i></span>
+										</span>
+									</span>
+								</span>
+							</span>
+						</a>
+												<a class="row-link" href="https://www.mvlaw.com.au/service/government-and-administration/">
+							<span class="grid-x grid-padding-x grid-padding-y align-middle">
+								<span class="cell auto medium-12 large-6">
+									<span class="h4 row-link__title">Government and Administration</span>
+								</span>
+								<span class="cell medium-10 large-5 show-for-medium">We’ve been a trusted government adviser at the Commonwealth, State, Territory and Local levels for over 40 years with experience, capability and resources that are second to none. </span>
+								<span class="cell shrink push-right text-right">
+									<span class="arrow-link--icon position_relative">
+										<span class="arrow-link__arrow">
+											<span class="arrow__start"><i class="fal fa-chevron-right"></i></span>
+											<span class="arrow__end"><i class="fal fa-chevron-right"></i></span>
+										</span>
+									</span>
+								</span>
+							</span>
+						</a>
+												<a class="row-link" href="https://www.mvlaw.com.au/service/resourcing/">
+							<span class="grid-x grid-padding-x grid-padding-y align-middle">
+								<span class="cell auto medium-12 large-6">
+									<span class="h4 row-link__title">Resourcing</span>
+								</span>
+								<span class="cell medium-10 large-5 show-for-medium">Boost your in-house staffing capacity with our value for money, flexible solutions.</span>
+								<span class="cell shrink push-right text-right">
+									<span class="arrow-link--icon position_relative">
+										<span class="arrow-link__arrow">
+											<span class="arrow__start"><i class="fal fa-chevron-right"></i></span>
+											<span class="arrow__end"><i class="fal fa-chevron-right"></i></span>
+										</span>
+									</span>
+								</span>
+							</span>
+						</a>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section id="insights" class="content-area content-area--x2 outer-row background-white" data-row="row-4">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="cell">
+				
+				<div class="padding-bottom">
+					<div class="grid-x grid-padding-x grid-padding-y align-middle">
+						<div class="cell auto"><h2 class="h3 fix_line_height">insights</h2></div>						<div class="cell shrink">
+							<a class="arrow-link" href="https://www.mvlaw.com.au/news-events/">View all insights<span class="arrow-link__arrow"><span class="arrow__start"><i class="fal fa-chevron-right"></i></span><span class="arrow__end"><i class="fal fa-chevron-right"></i></span></span></a>
+						</div>
+					</div>
+				</div>
+				<div class="grid-x grid-padding-x medium-up-2 large-up-3 negative-top-margin negative-top-margin--x2">
+					<div class="cell padding-top padding-top--x2"><article id="post-2647" class="summary-dismissal height_100 post-2647 post type-post status-publish format-standard has-post-thumbnail hentry category-employment-law category-insights">
+	<a class="tile-link height_100" href="https://www.mvlaw.com.au/summary-dismissal/">
+		<span class="grid-x height_100 align-stretch flex-dir-column">
+						<span class="cell flex-child-shrink"> 
+				<figure>
+					<span class="tile-link__image-container set-size set-size--landscape">
+						<span class="set-size__image background-image" style="background-image:url('https://www.mvlaw.com.au/wp-content/uploads/2024/04/summary-dismissal-hdr.jpg');">
+							<img src="https://www.mvlaw.com.au/wp-content/uploads/2024/04/summary-dismissal-hdr.jpg" alt="summary dismissal - what is summary dismissal">
+						</span>
+					</span>
+				</figure>
+			</span>
+						<span class="cell flex-child-grow padding-top">
+				<span class="grid-x height_100">
+					<span class="cell">
+												<span class="text-h6 no-margin">Summary Dismissal</span>
+					</span>
+				</span>
+			</span>
+		</span>
+	</a>
+</article></div><div class="cell padding-top padding-top--x2 show-for-medium"><article id="post-2600" class="smart-tips-for-handling-your-commercial-or-retail-lease-renewal height_100 post-2600 post type-post status-publish format-standard has-post-thumbnail hentry category-insights category-property">
+	<a class="tile-link height_100" href="https://www.mvlaw.com.au/tips-commercial-lease-renewal/">
+		<span class="grid-x height_100 align-stretch flex-dir-column">
+						<span class="cell flex-child-shrink"> 
+				<figure>
+					<span class="tile-link__image-container set-size set-size--landscape">
+						<span class="set-size__image background-image" style="background-image:url('https://www.mvlaw.com.au/wp-content/uploads/2024/04/lease-renewal-hdr-1200x800.jpg');">
+							<img src="https://www.mvlaw.com.au/wp-content/uploads/2024/04/lease-renewal-hdr-1200x800.jpg" alt="lease renewal">
+						</span>
+					</span>
+				</figure>
+			</span>
+						<span class="cell flex-child-grow padding-top">
+				<span class="grid-x height_100">
+					<span class="cell">
+												<span class="text-h6 no-margin">Smart tips for handling your commercial or retail lease renewal</span>
+					</span>
+				</span>
+			</span>
+		</span>
+	</a>
+</article></div><div class="cell padding-top padding-top--x2 show-for-large"><article id="post-2508" class="how-to-get-out-of-a-commercial-lease-early height_100 post-2508 post type-post status-publish format-standard has-post-thumbnail hentry category-insights category-property">
+	<a class="tile-link height_100" href="https://www.mvlaw.com.au/how-to-get-out-of-a-commercial-lease-early/">
+		<span class="grid-x height_100 align-stretch flex-dir-column">
+						<span class="cell flex-child-shrink"> 
+				<figure>
+					<span class="tile-link__image-container set-size set-size--landscape">
+						<span class="set-size__image background-image" style="background-image:url('https://www.mvlaw.com.au/wp-content/uploads/2024/01/how-to-get-out-of-commercial-lease-early-hdr.jpg');">
+							<img src="https://www.mvlaw.com.au/wp-content/uploads/2024/01/how-to-get-out-of-commercial-lease-early-hdr.jpg" alt="person with a pen ready to sign a contract to get out of commercial lease early">
+						</span>
+					</span>
+				</figure>
+			</span>
+						<span class="cell flex-child-grow padding-top">
+				<span class="grid-x height_100">
+					<span class="cell">
+												<span class="text-h6 no-margin">How to get out of a commercial lease early?</span>
+					</span>
+				</span>
+			</span>
+		</span>
+	</a>
+</article></div>				</div>
+				
+			</div>
+		</div>
+	</div>
+</section>
+<section id="need-help-with-a-legal-matter" class="content-area content-area--x2 outer-row background-grey" data-row-type="call_to_action_row" data-row-index="row-5">
+	<div class="grid-container">
+		<div class="grid-x align-center">
+			<div class="cell">
+				<div class="grid-x grid-padding-x grid-padding-y">
+					<div class="cell">
+						<h2 class="h3">Need help with a legal matter?</h2><div class="grid-x grid-padding-x grid-padding-y"><div class="cell large-10 xlarge-8"><p>As one of Canberra’s largest independent law firms, we deliver a comprehensive range of specialised legal services, along with a down to earth and friendly approach.</p>
+</div></div>						<div class="padding-top padding-top--x2">
+							<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																<div class="cell shrink">
+									<a class="arrow-link" href="https://www.mvlaw.com.au/contact/" target="_self">Get in touch<span class="arrow-link__arrow"><span class="arrow__start"><i class="fal fa-chevron-right"></i></span><span class="arrow__end"><i class="fal fa-chevron-right"></i></span></span></a>
+								</div>
+															</div>
+						</div>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+			
+		</article>
+
+	
+	</main>
+	<footer class="bottom-bar background-primary">
+		<div class="outer-row">
+			<div class="grid-container content-area">
+				<div class="grid-x grid-padding-x grid-padding-y">
+					<div class="cell large-auto show-for-large">
+						<div class="grid-x grid-padding-x grid-padding-y">
+										<div class="cell medium-6 large-auto show-for-large">
+						<h6>Services</h6>
+						<nav class="bottom-bar__navigation">
+							<ul>
+																<li>
+									<a href="https://www.mvlaw.com.au/service/property/">Property Law</a>
+								</li>
+																<li>
+									<a href="https://www.mvlaw.com.au/service/building-and-construction/">Building and Construction Lawyers</a>
+								</li>
+																<li>
+									<a href="https://www.mvlaw.com.au/service/dispute-resolution/">Dispute Resolution</a>
+								</li>
+																<li>
+									<a href="https://www.mvlaw.com.au/service/wills-and-estates/">Wills &#038; Estates</a>
+								</li>
+																<li>
+									<a href="https://www.mvlaw.com.au/service/employment-industrial-relations-and-safety/">Employment Law</a>
+								</li>
+																<li>
+									<a href="https://www.mvlaw.com.au/service/business/">Business</a>
+								</li>
+																<li>
+									<a href="https://www.mvlaw.com.au/service/government-and-administration/">Government and Administration</a>
+								</li>
+																<li>
+									<a href="https://www.mvlaw.com.au/service/resourcing/">Resourcing</a>
+								</li>
+															</ul>
+						</nav>
+					</div>
+										<div class="cell medium-6 large-auto show-for-large">
+						<h6>Navigation</h6>
+						<div class="grid-x grid-padding-x grid-padding-y">
+							<div class="cell medium-6">
+								<nav class="bottom-bar__navigation"><ul id="menu-primary-navigation-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-315"><a href="https://www.mvlaw.com.au/services/">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a href="https://www.mvlaw.com.au/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="https://www.mvlaw.com.au/team/">Our People</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="https://www.mvlaw.com.au/news-events/">News &#038; Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317"><a href="https://www.mvlaw.com.au/contact/">Contact</a></li>
+</ul></nav>							</div>
+							<div class="cell medium-6">
+								<nav class="bottom-bar__navigation"><ul id="menu-header-navigation" class="menu"><li id="menu-item-1707" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1707"><a target="_blank" rel="noopener" href="https://meyervandenberg.wills.settify.com.au/willslanding/d-wl-landing">Wills online</a></li>
+<li id="menu-item-1708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1708"><a target="_blank" rel="noopener" href="https://meyervandenberg.probate.settify.com.au/landing?referral=homepage">Probate online</a></li>
+<li id="menu-item-1709" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1709"><a target="_blank" rel="noopener" href="https://meyervandenberg.estates.settify.com.au/landing?referral=homepage">Estate disputes online</a></li>
+</ul></nav>							</div>
+						</div>
+					</div>
+						</div>
+					</div>
+					<div class="cell large-shrink xlarge-5">
+						<div class="grid-x grid-padding-x grid-padding-y">
+										<div class="cell medium-6 large-shrink xlarge-auto show-for-medium">
+						<h6>Contact</h6>
+						<nav class="bottom-bar__navigation">
+							<ul>
+																<li>
+									<a href="tel:(02) 6279 4444">(02) 6279 4444</a>
+								</li>
+																								<li>
+									<a href="mailto:info@mvlaw.com.au">info@mvlaw.com.au</a>
+								</li>
+																								<li>
+									<address><a href="https://goo.gl/maps/KUTziisudctrj3xq8" target="_blank">EY Building<br>Level 2/121 Marcus Clarke St<br>Canberra ACT 2601</a></address>
+								</li>
+															</ul>
+						</nav>
+					</div>
+										<div class="cell medium-6 large-shrink xlarge-auto">
+						<h6>Keep up to date</h6>
+						<div class="grid-x">
+							<div class="cell">
+								<a class="arrow-link arrow-link--white js-popup-trigger" data-trigger="ebrief_popup" href="#">e-Brief Sign up<span class="arrow-link__arrow"><span class="arrow__start"><i class="fal fa-chevron-right" aria-hidden="true"></i></span><span class="arrow__end"><i class="fal fa-chevron-right" aria-hidden="true"></i></span></span></a>
+							</div>
+						</div>
+						<div class="padding-top">
+							<div class="cell">
+								<div class="grid-x grid-x--small grid-padding-x grid-padding-y">
+																		<div class="cell shrink"> 
+										<a class="arrow-link arrow-link--icon" target="_blank" href="https://www.facebook.com/MVLawyers/">
+											<span class="arrow-link__arrow">
+												<span class="arrow__start">
+													<i class="fa fa-facebook"></i>
+												</span>
+												<span class="arrow__end">
+													<i class="fa fa-facebook"></i>
+												</span>
+											</span>
+										</a>
+									</div>
+																											<div class="cell shrink">
+										<a class="arrow-link arrow-link--icon" target="_blank" href="https://www.instagram.com/meyervandenberg/">
+											<span class="arrow-link__arrow">
+												<span class="arrow__start">
+													<i class="fa fa-instagram"></i>
+												</span>
+												<span class="arrow__end">
+													<i class="fa fa-instagram"></i>
+												</span>
+											</span>
+										</a>
+									</div>
+																																				<div class="cell shrink">
+										<a class="arrow-link arrow-link--icon" target="_blank" href="https://www.linkedin.com/company/meyer-vandenberg-lawyers/">
+											<span class="arrow-link__arrow">
+												<span class="arrow__start">
+													<i class="fa fa-linkedin"></i>
+												</span>
+												<span class="arrow__end">
+													<i class="fa fa-linkedin"></i>
+												</span>
+											</span>
+										</a>
+									</div>
+																	</div>
+							</div>
+						</div>
+					</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="bottom-bar__legality outer-row">
+			<div class="grid-container">
+				<div class="grid-x grid-padding-x text-center">
+					<div class="cell large-6 large-text-left">
+						&copy; 2024 MV Law. All rights reserved. <a href="https://www.mvlaw.com.au/privacy-policy/">Privacy, Copyright and Content Disclaimer</a>. 					</div>
+					<div class="cell large-6 large-text-right">
+						Site by <a href="https://coordinate.com.au" target="_blank" rel="nofollow">Coordinate</a>.					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	
+	<section class="grid-x popup js-ajax-popup content-area outer-row">
+		<div class="grid-container medium-align-self-middle">
+			<div class="grid-x grid-padding-x align-center">
+				<div class="cell medium-10 large-8">
+					<article class="popup__content boxed-content boxed-content--sides-x2 content-area content-area--x2 background-white position_relative"> <a href="#" class="close-btn js-close-trigger"></a>
+						<div class="js-ajax-loader">
+							
+						</div>
+					</article>
+				</div>
+			</div>
+		</div>
+		<div class="popup__close js-close-trigger"></div>
+	</section>
+
+	<section data-target="ebrief_popup" class="popup grid-x js-popup content-area outer-row">
+		<div class="grid-container medium-align-self-middle">
+			<div class="grid-x grid-padding-x align-center">
+				<div class="cell medium-10 large-8">
+					<article class="popup__content boxed-content boxed-content--sides-x2 content-area content-area--x2 background-white position_relative"> <a href="#" class="close-btn js-close-trigger"></a>
+						<div class="padding-bottom">
+							<h3>e-Brief Sign up</h3>
+							<p>Stay empowered by keeping up with the latest new relevant to you. Just tick the box/es for the sector news that you want to subscribe to.</p>
+						</div>
+						<script type="text/javascript">var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});</script>
+                <div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_3' >
+                        <div class='gform_heading'>
+							<p class='gform_required_legend'>&quot;<span class="gfield_required gfield_required_asterisk">*</span>&quot; indicates required fields</p>
+                        </div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_3' id='gform_3'  action='/' data-formid='3' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_3' class='gform_fields top_label form_sublabel_below description_below validation_below'><fieldset id="field_3_1" class="gfield gfield--type-name gfield_contains_required field_sublabel_hidden_label gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_3_1" ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend><div class='ginput_complex ginput_container ginput_container--name no_prefix has_first_name no_middle_name has_last_name no_suffix gf_name_has_2 ginput_container_name gform-grid-row' id='input_3_1'>
+                            
+                            <span id='input_3_1_3_container' class='name_first gform-grid-col gform-grid-col--size-auto' >
+                                                    <input type='text' name='input_1.3' id='input_3_1_3' value=''   aria-required='true'   placeholder='First name *'  />
+                                                    <label for='input_3_1_3' class='gform-field-label gform-field-label--type-sub hidden_sub_label screen-reader-text'>First</label>
+                                                </span>
+                            
+                            <span id='input_3_1_6_container' class='name_last gform-grid-col gform-grid-col--size-auto' >
+                                                    <input type='text' name='input_1.6' id='input_3_1_6' value=''   aria-required='true'   placeholder='Last name *'  />
+                                                    <label for='input_3_1_6' class='gform-field-label gform-field-label--type-sub hidden_sub_label screen-reader-text'>Last</label>
+                                                </span>
+                            
+                        </div></fieldset><div id="field_3_2" class="gfield gfield--type-email gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_3_2" ><label class='gfield_label gform-field-label' for='input_3_2'>Email<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_2' id='input_3_2' type='email' value='' class='large'   placeholder='Email *' aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_3_3" class="gfield gfield--type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_3_3" ><label class='gfield_label gform-field-label' for='input_3_3'>Company<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_text'><input name='input_3' id='input_3_3' type='text' value='' class='large'    placeholder='Company *' aria-required="true" aria-invalid="false"   /> </div></div><fieldset id="field_3_4" class="gfield gfield--type-checkbox gfield--type-choice gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_3_4" ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Topic of interest<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></legend><div class='ginput_container ginput_container_checkbox'><div class='gfield_checkbox' id='input_3_4'><div class='gchoice gchoice_3_4_1'>
+								<input class='gfield-choice-input' name='input_4.1' type='checkbox'  value='Property'  id='choice_3_4_1'   />
+								<label for='choice_3_4_1' id='label_3_4_1' class='gform-field-label gform-field-label--type-inline'>Property</label>
+							</div><div class='gchoice gchoice_3_4_2'>
+								<input class='gfield-choice-input' name='input_4.2' type='checkbox'  value='Building &amp; Construction'  id='choice_3_4_2'   />
+								<label for='choice_3_4_2' id='label_3_4_2' class='gform-field-label gform-field-label--type-inline'>Building & Construction</label>
+							</div><div class='gchoice gchoice_3_4_3'>
+								<input class='gfield-choice-input' name='input_4.3' type='checkbox'  value='Dispute Resolution'  id='choice_3_4_3'   />
+								<label for='choice_3_4_3' id='label_3_4_3' class='gform-field-label gform-field-label--type-inline'>Dispute Resolution</label>
+							</div><div class='gchoice gchoice_3_4_4'>
+								<input class='gfield-choice-input' name='input_4.4' type='checkbox'  value='Wills &amp; Estates'  id='choice_3_4_4'   />
+								<label for='choice_3_4_4' id='label_3_4_4' class='gform-field-label gform-field-label--type-inline'>Wills & Estates</label>
+							</div><div class='gchoice gchoice_3_4_5'>
+								<input class='gfield-choice-input' name='input_4.5' type='checkbox'  value='Employment, Industrial Relations &amp; Safety'  id='choice_3_4_5'   />
+								<label for='choice_3_4_5' id='label_3_4_5' class='gform-field-label gform-field-label--type-inline'>Employment, Industrial Relations & Safety</label>
+							</div><div class='gchoice gchoice_3_4_6'>
+								<input class='gfield-choice-input' name='input_4.6' type='checkbox'  value='Business'  id='choice_3_4_6'   />
+								<label for='choice_3_4_6' id='label_3_4_6' class='gform-field-label gform-field-label--type-inline'>Business</label>
+							</div><div class='gchoice gchoice_3_4_7'>
+								<input class='gfield-choice-input' name='input_4.7' type='checkbox'  value='Government &amp; Administration'  id='choice_3_4_7'   />
+								<label for='choice_3_4_7' id='label_3_4_7' class='gform-field-label gform-field-label--type-inline'>Government & Administration</label>
+							</div><div class='gchoice gchoice_3_4_8'>
+								<input class='gfield-choice-input' name='input_4.8' type='checkbox'  value='Resourcing'  id='choice_3_4_8'   />
+								<label for='choice_3_4_8' id='label_3_4_8' class='gform-field-label gform-field-label--type-inline'>Resourcing</label>
+							</div></div></div></fieldset></div></div>
+        <div class='gform_footer top_label'> <button type="submit" id="gform_submit_button_3" class="gform_button button" onclick='if(window["gf_submitting_3"]){return false;}  if( !jQuery("#gform_3")[0].checkValidity || jQuery("#gform_3")[0].checkValidity()){window["gf_submitting_3"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_3"]){return false;} if( !jQuery("#gform_3")[0].checkValidity || jQuery("#gform_3")[0].checkValidity()){window["gf_submitting_3"]=true;}  jQuery("#gform_3").trigger("submit",[true]); }'>Submit<html><body><span class="arrow-link__arrow"><span class="arrow__start"><i class="fal fa-chevron-right"></i></span><span class="arrow__end"><i class="fal fa-chevron-right"></i></span></span></body></html></button> <input type='hidden' name='gform_ajax' value='form_id=3&amp;title=&amp;description=&amp;tabindex=50&amp;theme=gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='is_submit_3' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='3' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_3' value='WyJbXSIsImExM2QxNWFhZjBkOGVkOGU3OGFlMmMwN2Q0OTYxZTZhIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_3' id='gform_target_page_number_3' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_3' id='gform_source_page_number_3' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_3' id='gform_ajax_frame_3' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script>
+gform.initializeOnLoaded( function() {gformInitSpinner( 3, 'https://www.mvlaw.com.au/wp-content/themes/mvlaw/img/svg/gf-spinner.svg', true );jQuery('#gform_ajax_frame_3').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_3');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_3').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_3').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_3').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_3').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_3').val();gformInitSpinner( 3, 'https://www.mvlaw.com.au/wp-content/themes/mvlaw/img/svg/gf-spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [3, current_page]);window['gf_submitting_3'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_3').replaceWith(confirmation_content);jQuery(document).trigger('gform_confirmation_loaded', [3]);window['gf_submitting_3'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_3').text());}else{jQuery('#gform_3').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "3", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_3" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_3";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_3" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [3, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 3, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+					</article>
+				</div>
+			</div>
+		</div>
+		<div class="popup__close js-close-trigger"></div>
+	</section>
+
+	
+	    
+    <div id="outdated"></div>
+
+	<script src="https://www.mvlaw.com.au/wp-content/themes/mvlaw/js/outdatedbrowser.min.js"></script>
+
+	<script>		
+	//event listener: DOM ready
+	function addLoadEvent(func) {
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function') {
+			window.onload = func;
+		} else {
+			window.onload = function() {
+				if (oldonload) {
+					oldonload();
+				}
+				func();
+			}
+		}
+	}
+	//call plugin function after DOM ready
+	addLoadEvent(function(){
+		outdatedBrowser({
+			bgColor: '#f25648',
+			color: '#ffffff',
+			lowerThan: 'borderImage',
+			languagePath: 'https://www.mvlaw.com.au/wp-content/themes/mvlaw/js/lang/en.html'
+		})
+	});
+    </script>
+
+	<script src="https://www.mvlaw.com.au/wp-includes/js/comment-reply.min.js?ver=6.4.5" id="comment-reply-js" async data-wp-strategy="async"></script>
+<script src="https://www.mvlaw.com.au/wp-content/themes/mvlaw/js/vendor/jquery-migrate-3.0.1.min.js?ver=3.0.1" id="migrate-js"></script>
+<script src="https://kit.fontawesome.com/51f96badd0.js?ver=1" id="icons-js"></script>
+<script src="https://cdn.polyfill.io/v3/polyfill.min.js?ver=1" id="polyfill-js"></script>
+<script src="https://www.mvlaw.com.au/wp-content/themes/mvlaw/js/plugins.js?ver=1" id="plugins-js"></script>
+<script id="app-js-extra">
+var themeurl = {"templateUrl":"https:\/\/www.mvlaw.com.au\/wp-content\/themes\/mvlaw"};
+</script>
+<script src="https://www.mvlaw.com.au/wp-content/themes/mvlaw/js/app.js?ver=1.0.4" id="app-js"></script>
+<script src="https://www.mvlaw.com.au/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://www.mvlaw.com.au/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script src="https://www.mvlaw.com.au/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://www.mvlaw.com.au/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca" id="wp-dom-ready-js"></script>
+<script src="https://www.mvlaw.com.au/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script src="https://www.mvlaw.com.au/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="wp-a11y-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2024-01-28 12:21:57+0000","generator":"GlotPress\/4.0.0-beta.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_AU"},"Notifications":["Notifications"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+</script>
+<script src="https://www.mvlaw.com.au/wp-includes/js/dist/a11y.min.js?ver=7032343a947cfccf5608" id="wp-a11y-js"></script>
+<script defer='defer' src="https://www.mvlaw.com.au/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.8.13" id="gform_json-js"></script>
+<script id="gform_gravityforms-js-extra">
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/www.mvlaw.com.au\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"Australian Dollar","symbol_left":"$","symbol_right":"","symbol_padding":" ","thousand_separator":",","decimal_separator":".","decimals":2,"code":"AUD"},"base_url":"https:\/\/www.mvlaw.com.au\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.mvlaw.com.au\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"8bfed157326d27e6804c2f09a48b9aed","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+</script>
+<script defer='defer' src="https://www.mvlaw.com.au/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.8.13" id="gform_gravityforms-js"></script>
+<script defer='defer' src="https://www.mvlaw.com.au/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.8.13" id="gform_placeholder-js"></script>
+<script defer='defer' src="https://www.mvlaw.com.au/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=50c7bea9c2320e16728e44ae9fde5f26" id="gform_gravityforms_utils-js"></script>
+<script defer='defer' src="https://www.mvlaw.com.au/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=54e7080aa7a02c83aa61fae430b9d869" id="gform_gravityforms_theme_vendors-js"></script>
+<script id="gform_gravityforms_theme-js-extra">
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"8bfed157326d27e6804c2f09a48b9aed"}}},"hmr_dev":"","public_path":"https:\/\/www.mvlaw.com.au\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
+</script>
+<script defer='defer' src="https://www.mvlaw.com.au/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=bab19fd84843dabc070e73326d787910" id="gform_gravityforms_theme-js"></script>
+<script>
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 3) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script>
+gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "3", currentPage: "1", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_3" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_3";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_3" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [3, 1] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 3, currentPage: 1 } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );
+</script>
+    
+    <!--[if lt IE 9]>
+      <script src="https://www.mvlaw.com.au/wp-content/themes/mvlaw/js/html5shiv.js"></script>
+      <script src="https://www.mvlaw.com.au/wp-content/themes/mvlaw/js/respond.min.js"></script>
+    <![endif]-->
+    
+</body>
+</html>

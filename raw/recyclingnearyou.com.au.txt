@@ -1,0 +1,948 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+	<!-- Google Tag Manager  UA -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5MP25CP');</script>
+	
+
+	<!-- End Google Tag Manager -->
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+	
+	
+
+	
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="google-site-verification" content="RJrA8oFwVKbaiLKN17qEA2h84ARPSspDZAo_unMNEuk" />
+
+	
+	<meta name="cid" content="">
+		<link rel="schema.DC" href="https://purl.org/DC/elements/1.1/">
+		<link rel="start" href="https://recyclingnearyou.com.au/" title="Recycling Near You">
+		<link rel="section" href="https://recyclingnearyou.com.au/" title="Home">
+		<link rel="contents" href="https://recyclingnearyou.com.au/sitemap.cfm" title="Site map">
+		
+			<title>
+				Planet Ark  - Planet Ark Recycling Near You
+			</title>
+			<meta name="Description" content="Australia's largest recycling and reuse information hub with more than 20,000 recycling points.">
+			<meta name="DC.Title" lang="en" content="Planet Ark">
+			<meta name="DC.Description" lang="en" content="Australia's largest recycling and reuse information hub with more than 20,000 recycling points.">
+			<meta name="DC.Identifier" scheme="URI" content="https://recyclingnearyou.com.au/">
+			<link rel="canonical" href="https://recyclingnearyou.com.au/">
+			<meta name="date_modified" scheme="ISO8601" content="2018-10-16">
+			<meta name="DC.Date.modified" scheme="ISO8601" content="2018-10-16">
+			<meta name="DC.Rights" content="Copyright (c) RNY, 2018">
+			<meta name="DC.Creator" lang="en" content="Webboy.net WCMS">
+			<meta name="DC.Publisher" lang="en" content="Recycling Near You">
+			<meta name="DC.Contributor" lang="en" content="RNY">
+			<meta name="DC.Format" scheme="IMT" content="text/html">
+			<meta name="DC.Language" scheme="RFC3066" content="en-AU">
+			<meta name="DC.Coverage" content="Australia">
+		
+
+		<meta property="og:site_name" content="Recycling Near You" />
+
+		
+			<meta property="og:title" content="Planet Ark" />
+			<meta property="og:description" content="Australia's largest recycling and reuse information hub with more than 20,000 recycling points." />
+			<meta property="og:image" content="https://recyclingnearyou.com.au/images/rny_default_image.jpg" />
+			<meta property="og:type" content="website" />
+			<meta property="og:url" content="https://recyclingnearyou.com.au/" />
+		<meta name="robots" content="all, index, follow">
+		<meta name="distribution" content="global">
+	
+	<!--[if IE 6]><link rel="stylesheet" href="/stylesheets/ie.css" type="text/css" media="screen"><![endif]-->
+	<!--[if IE 5]><link rel="stylesheet" href="/stylesheets/ie.css" type="text/css" media="screen"><![endif]-->
+	<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+	<meta name="verify-v1" content="qxr9mk7JS4bIUsX72vVqOEDhLrlj8RZD/22h4mTVTkg=">
+	<link rel="alternate" type="application/rss+xml" title="RSS News Feed" href="https://recyclingnearyou.com.au/news.xml"> 
+		<script language="javascript" type="text/javascript"><!--
+			var ImageFileNames = new Array();
+			var ImageURLs = new Array(); 
+			var ImageAlt = new Array(); 
+			
+				ImageFileNames[0] = 'pr-109-bingo.jpg';
+				ImageURLs[0] = '/b/www.bingoindustries.com.au';
+				ImageAlt[0] = 'Bingo Sponsorship';
+			
+			
+			var DisInt = 7; // seconds 
+			var IsValidBrowser = false;
+			var BanAdSer = 0;
+			var BanAdImg = new Array(NumberOfImages);
+			var DisInt = DisInt * 1000;
+			var NumberOfImages = ImageFileNames.length;
+		
+			function InitAdRot() 
+			{
+				var BrowserType = navigator.appName;
+				var BrowserVersion = parseInt(navigator.appVersion);
+				
+				if (BrowserType == "Netscape" && (BrowserVersion >= 3)) 
+				{
+					IsValidBrowser = true;
+				}
+				
+				if (BrowserType == "Microsoft Internet Explorer" && (BrowserVersion >= 4)) 
+				{
+					IsValidBrowser = true;
+				}
+				
+				if (BrowserType == "Safari" && (BrowserVersion >= 2)) 
+				{
+					IsValidBrowser = true;
+				}
+				
+				if (IsValidBrowser) 
+				{
+					TimerObject = setTimeout("SwitchImg()", DisInt);
+					BanAdSer = 0;
+					
+					for (i = 0; i < NumberOfImages; i++) 
+					{
+						BanAdImg[i] = new Image();
+						BanAdImg[i].src = ' ' + 'http://planetark.org/\/common\/banners\/610\/' + ImageFileNames[i];
+						BanAdImg[i].alt = ' ' + ImageAlt[i];
+						BanAdImg[i].longDesc = ' ' + ImageURLs[i];
+					}
+					
+				}
+			}
+			
+			function SwitchImg() 
+			{
+				if (IsValidBrowser) 
+				{
+					BanAdSer = BanAdSer + 1;
+				
+					if (BanAdSer == NumberOfImages) 
+					{
+						BanAdSer = 0;
+					}
+					
+					window.document.bannerad.src = BanAdImg[BanAdSer].src;
+					window.document.bannerad.alt = BanAdImg[BanAdSer].alt;
+					document.getElementById("bannersad").href = BanAdImg[BanAdSer].longDesc;
+					TimerObject = setTimeout("SwitchImg()", DisInt);
+				}
+			}
+			
+		// --></script>
+		
+
+<!-- Bootstrap Core CSS -->
+<link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="/vendor/bootstrap-slider/bootstrap-slider.min.css" rel="stylesheet">
+<link href="/vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet" >
+
+
+<!-- Custom Fonts -->
+<link rel="stylesheet" href="https://use.typekit.net/tkf8cpi.css">
+<link href="/vendor/font-awesome/css/fontawesome-all.min.css" rel="stylesheet" type="text/css">
+
+<!-- Ionicons -->
+<link href="https://unpkg.com/ionicons@4.5.5/dist/css/ionicons.min.css" rel="stylesheet">
+
+<!-- Theme CSS -->
+<link href="/stylesheets/rny_v0010.css?v=2" rel="stylesheet">
+
+
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59ae41f4891b2217"></script>
+
+<!-- Animate -->
+<link rel="stylesheet"
+	  href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+
+<!-- Slick Slider -->
+<link rel="stylesheet" type="text/css" href="/vendor/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="/vendor/slick/slick-theme.css"/>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1672186616428024');
+
+fbq('track', 'PageView');
+</script>
+<noscript>
+	<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1672186616428024&ev=PageView&noscript=1"/>
+	
+</noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-9145246816678116",
+          enable_page_level_ads: true
+     });
+</script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBMAsj4ArXtwnPeJbq9d70_UnzXkayHsLQ&libraries=places"></script>
+</head>
+<body id="page-top" ng-app="rnyApp" ng-controller="appController">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5MP25CP"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
+
+<nav class="navbar navbar-expand-lg navbar-light bg-faded fixed-top navbar-shrink print-no" id="mainNav">
+    <a class="navbar-brand" href="/"><img src="/images/new/logo.png" width="150"></a>
+    
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav mr-auto text-uppercase">
+            <li class="nav-item">
+                
+                    <a id="link1" class="nav-link" href="/about">About Us</a>
+                
+            </li>
+            <li id="link2" class="nav-item">
+                
+                    <a class="nav-link" href="/materials">Materials</a>
+                
+            </li>
+            <li id="link3" class="nav-item">
+                
+                    <a class="nav-link" href="/councils">Councils</a>
+                
+            </li>
+            <li id="link4" class="nav-item">
+                
+                    <a class="nav-link" href="/education">Resources</a>
+                
+            </li>
+           <li id="link6" class="nav-item"> 
+                
+                    <a class="nav-link" href="/news">News</a>
+                
+            </li>  
+            <li id="link7" class="nav-item">
+                
+                    <a class="nav-link" href="/reuse-hub/">Reuse Hub</a>
+                
+            </li>
+            <li id="link9" class="nav-item">
+                
+                    <a class="nav-link" href="/events/">Events</a>
+                
+            </li>
+            <li id="link11" class="nav-item">
+                
+                    <a class="nav-link" href="/media/">Media</a>
+                    
+            </li>
+            <li class="nav-item dropdown">
+               
+                    <a class="nav-link dropdown-toggle" href="#" id="programsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programs</a>
+                
+                <div class="dropdown-menu" aria-labelledby="programsDropdown">
+                    <a class="dropdown-item" href="/nationalrecyclingweek/">National Recycling Week</a>
+                    <a class="dropdown-item" href="/arl/">Australasian Recycling Label</a>
+                    <a class="dropdown-item" href="/cartridges4planetark/">Cartridges 4 Planet Ark</a>
+		   <a class="dropdown-item" href="https://businessrecycling.com.au/batteries4planetark/">Batteries 4 Planet Ark</a>
+                    <a class="dropdown-item" href="/nationalrecyclingweek/at-school/">Schools Recycle Right</a>
+		   
+                </div>
+            </li>
+            <li id="link12" class="nav-item"><a class="nav-link" href="https://businessrecycling.com.au">Commercial</a></li>
+        </ul>
+        <ul class="navbar-nav ml-auto text-uppercase">
+            <li id="link12" class="nav-item">
+                <div class="nav-link"><a class="btn btn-green" target="_blank" href="https://planetark.org/donate?utm_source=recyclingnearyou&utm_medium=button&utm_campaign=rnydonations">DONATE</a></div>
+            </li>
+            <li id="link10" class="nav-item">
+                <a class="nav-link" target="_blank" href="https://planetark.org"><img
+                        class="pt-md-2" src="/images/masters/image-14015-pa-logo-no-tag-new.png" width="125"></a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+
+<header>
+    <div class="overlay"></div>
+    <div class="header-content">
+        <div class="header-content-inner">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-8">
+                        
+    <div class="d-none">
+        <p id="type"></p>
+    </div>
+
+    <div class="d-none">
+
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col">
+            <ul class="nav nav-tabs">
+                <li class="nav-item">
+                    <a href="#" class="nav-link active">Residential</a>
+                </li>
+                <li class="nav-item">
+                    <a href="https://businessrecycling.com.au" class="nav-link">Commercial</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+
+<div class="header-search-form print-no">
+    <h3 ><strong>FIND A RECYCLER</strong></h3>
+    <div class="input-group">
+        <input id="autocomplete" type="text" class="form-control"
+               placeholder="Search by Postcode or Region">
+        <span class="input-group-btn">
+            <button class="btn btn-blue h-100" type="button" ng-click="search()">
+                <span class="d-sm-flex d-none">Search</span> <i class="fa fa-search d-sm-none d-flex"></i>
+            </button>
+        </span>
+    </div>
+    
+        <div class="home-search-filters">
+            <div class="filter-option">
+                <div class="dropdown dropdown-material">
+                    <button class="btn btn-filter dropdown-toggle" type="button"
+                            id="filter_material" data-toggle="dropdown" aria-haspopup="true"
+                            aria-expanded="false">
+                        Select material
+                    </button>
+                    <div id="matDropdown" class="dropdown-menu" aria-labelledby="filter_material">
+                        <input type="text" placeholder="Search..." id="matInput" ng-keyup="filterList()" class="my-2 ml-4 w-75">
+                        <a class="dropdown-item">Aerosol Cans</a>
+                        <a class="dropdown-item">Aluminium Cans</a>
+                        <a class="dropdown-item">Asbestos</a>
+                        <a class="dropdown-item">Batteries</a>
+                        <a class="dropdown-item">Beverage Cartons</a>
+                        <a class="dropdown-item">Cars and Car Parts</a>
+                        <a class="dropdown-item">Car Batteries</a>
+                        <a class="dropdown-item">Chemicals</a>
+                        <a class="dropdown-item">Chemical Drums</a>
+                        <a class="dropdown-item">Clothing/Textiles</a>
+                        <a class="dropdown-item">Coffee Capsules</a>
+                        <a class="dropdown-item">Coffee Cups</a>
+                        <a class="dropdown-item">Computers and Accessories</a>
+                        <a class="dropdown-item">Construction and Demolition</a>
+                        <a class="dropdown-item">Corks</a>
+                        <a class="dropdown-item">E-readers</a>
+                        <a class="dropdown-item">Electrical Appliances</a>
+                        <a class="dropdown-item">Food Scraps</a>
+                        <a class="dropdown-item">Furniture</a>
+                        <a class="dropdown-item">Garden Cuttings</a>
+                        <a class="dropdown-item">Gas Cylinders</a>
+                        <a class="dropdown-item">Glass Bottles and Jars</a>
+                        <a class="dropdown-item">Glasses (sight & reading)</a>
+                        <a class="dropdown-item">Headphones</a>
+                        <a class="dropdown-item">Laptops</a>
+                        <a class="dropdown-item">Light Globes</a>
+                        <a class="dropdown-item">Mattresses</a>
+                        <a class="dropdown-item">Metals</a>
+                        <a class="dropdown-item">Mobile Phones</a>
+                        <a class="dropdown-item">Office Paper</a>
+                        <a class="dropdown-item">Oil - Cooking</a>
+                        <a class="dropdown-item">Oil - Used Motor</a>
+                        <a class="dropdown-item">Paint</a>
+                        <a class="dropdown-item">Paper, Cardboard & Phone Books</a>
+                        <a class="dropdown-item">Plastic Bottles and Containers</a>
+                        <a class="dropdown-item">Plastic Bags</a>
+                        <a class="dropdown-item">Polystyrene</a>
+                        <a class="dropdown-item">Printer Cartridges</a>
+                        <a class="dropdown-item">Soft Plastics</a>
+                        <a class="dropdown-item">Steel Cans</a>
+                        <a class="dropdown-item">Tablets</a>
+                        <a class="dropdown-item">Televisions</a>
+                        <a class="dropdown-item">Tyres</a>
+                        <a class="dropdown-item">White Goods</a>
+                        <a class="dropdown-item">X-Ray Films</a>
+                    </div>
+                </div>
+            </div>
+
+            
+        </div>
+    
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<div class="container">
+    <br>
+
+
+
+       <!--
+       
+       -->
+        <section id="campaign">
+            <div class="row">
+                <div class="tile default-tile col-12 col-md-8 mb-5 mb-md-0 p-3">
+                    <a href="/education/ ">
+                        <div class="tile-inner" style="background-image: url('/images/new/sorting.jpg');">
+                            <div class="tile-header">
+                                <h3>Info Portal</h3>
+                            </div>
+                            <div class="tile-body">
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="tile home-paper-tile col-12 col-md-4 p-3">
+                    <a href="https://recyclingnearyou.com.au/resources/single-use-plastic-ban" target="_blank" onclick="trackLink('https://recyclingnearyou.com.au/resources/single-use-plastic-ban')">
+                        <div class="tile-inner" style="background-image: url('/images/masters/image-37314-beach-and-straw.jpg')">
+                            <div class="tile-header">
+                                <h3>Single-use plastic bans</h3>
+                            </div>
+                            <div class="tile-body">
+
+                            </div>
+                        </div>
+                    </a>
+                </div> 
+            </div>
+            <div class="row mt-4">
+                <div class="tile default-tile col-12 col-md-6 mb-5 mb-md-0 p-3">
+                    <a href="/education/recycledproducts">
+                        <div class="tile-inner" style="background-image: url('/images/masters/image-10289-recycled-products-tile-cropped.jpeg')">
+                            <div class="tile-header">
+                                <h3>Recycled Products Directory</h3>
+                            </div>
+                            <div class="tile-body">
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="tile home-paper-tile col-12 col-md-6 p-3">
+                    <a href="https://businessrecycling.com.au" target="_blank" onclick="trackLink('businessrecycling.com.au')">
+                        <div class="tile-inner" style="background-image: url('/images/new/flemish-flavours.jpg')">
+                            <div class="tile-header">
+                                <h3>Recycle At Work</h3>
+                            </div>
+                            <div class="tile-body">
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <section id="materials">
+            <div class="row">
+                <div class="tile col-xs-12 col-md-12 p-3">
+                    <div class="tile-inner home-carousel-tile">
+                        <div class="tile-header">
+                            <h3>Materials</h3>
+                        </div>
+                        <div class="tile-body">
+                            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                                <div class="carousel-inner" role="listbox">
+                                    <div class="carousel-item active">
+                                        <div class="row">
+                                            <div class="col-md-6 col-xs-12 pb-4">
+                                                <h2>Mobile Phones</h2>
+                                                <p>MobileMuster recovers over 99% of the materials in a mobile phone for reuse. There are various ways to recycle your old mobile including simply dropping them off at over 3,500 locations.</p>
+                                                <a class="btn btn-primary btn-neutral" href="/phones/">
+                                                    Find Out More
+                                                </a>
+                                            </div>
+                                            <div class="col-md-6 col-xs-12">
+                                                <img class="d-block img-fluid" src="/images/masters/image-7862-mobile-muster.jpg"
+                                                     alt="First slide">
+                                                <a class="carousel-control-prev" href="#carouselExampleControls"
+                                                   role="button"
+                                                   data-slide="prev">
+                                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                    <span class="sr-only">Previous</span>
+                                                </a>
+                                                <a class="carousel-control-next" href="#carouselExampleControls"
+                                                   role="button"
+                                                   data-slide="next">
+                                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                                    <span class="sr-only">Next</span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <div class="row">
+                                            <div class="col-md-6 col-xs-12 pb-4">
+                                                <h2>Paint</h2>
+                                                
+                                                <p> Australians have safely disposed of over 36 million kilograms of paint and paint packaging through Paintback. That's enough for 1200 coats of paint on the Sydney Harbour Bridge! </p>
+                                                <p> Find your closest drop off point and learn more about responsible paint disposal. </p>
+                                                <a class="btn btn-primary btn-neutral" href="/paint/">
+                                                    Find Out More
+                                                </a>
+                                            </div>
+                                            <div class="col-md-6 col-xs-12">
+                                                <img class="d-block img-fluid" src="/images/new/Sponsors/paintback/paintback-moonee-valley.jpg"
+                                                     alt="First slide">
+                                                <a class="carousel-control-prev" href="#carouselExampleControls"
+                                                   role="button"
+                                                   data-slide="prev">
+                                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                    <span class="sr-only">Previous</span>
+                                                </a>
+                                                <a class="carousel-control-next" href="#carouselExampleControls"
+                                                   role="button"
+                                                   data-slide="next">
+                                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                                    <span class="sr-only">Next</span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <div class="row">
+                                            <div class="col-md-6 col-xs-12 pb-4">
+                                                <h2>Container Deposit Scheme</h2>
+                                                <p>The container deposit scheme (CDS) is one of the first pieces of environmental legislation to focus on the 'polluter pays' principle, where beverage suppliers are responsible for funding a refund for returned drink containers. If someone discards an empty container they forfeit the right to the refund and someone else would benefit by picking it up and collecting that refund.</p>
+                                                <a class="btn btn-primary btn-neutral" href="/containerdeposit/">
+                                                    Find Out More
+                                                </a>
+                                            </div>
+                                            <div class="col-md-6 col-xs-12">
+                                                <img class="d-block img-fluid" src="/images/new/milk.jpg"
+                                                     alt="First slide">
+                                                <a class="carousel-control-prev" href="#carouselExampleControls"
+                                                   role="button"
+                                                   data-slide="prev">
+                                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                    <span class="sr-only">Previous</span>
+                                                </a>
+                                                <a class="carousel-control-next" href="#carouselExampleControls"
+                                                   role="button"
+                                                   data-slide="next">
+                                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                                    <span class="sr-only">Next</span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <div class="row">
+                                            <div class="col-md-6 col-xs-12 pb-4">
+                                                <h2>Construction & Infrastructure</h2>
+                                                <p>Waste from the construction and demolition industry represents over one
+                                                    third
+                                                    of all waste going to landfill. Over 75% of this is clean, excavated
+                                                    material, such as concrete, bricks and timber which can often be
+                                                    recycled
+                                                    (Sustainability Victoria).</p>
+                                                <a class="btn btn-primary btn-neutral" href="/pages/demolition.cfm">
+                                                    Read More
+                                                </a>
+                                            </div>
+                                            <div class="col-md-6 col-xs-12">
+                                                <img class="d-block img-fluid" src="/images/new/construction.jpeg"
+                                                     alt="First slide">
+                                                <a class="carousel-control-prev" href="#carouselExampleControls"
+                                                   role="button"
+                                                   data-slide="prev">
+                                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                    <span class="sr-only">Previous</span>
+                                                </a>
+                                                <a class="carousel-control-next" href="#carouselExampleControls"
+                                                   role="button"
+                                                   data-slide="next">
+                                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                                    <span class="sr-only">Next</span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <div class="row">
+                                            <div class="col-md-6 col-xs-12 pb-4">
+                                                <h2>Computers & Accessories</h2>
+                                                <p>Computers and accessories that are in working order can often be
+                                                    refurbished
+                                                    with new software and some replacement parts. These repackaged computers
+                                                    are
+                                                    generally made available to low-income communities, individuals and
+                                                    community organisations</p>
+                                                <a class="btn btn-primary btn-neutral" href="/pages/computers.cfm">
+                                                    Read More
+                                                </a>
+                                            </div>
+                                            <div class="col-md-6 col-xs-12">
+                                                <img class="d-block img-fluid" src="/images/new/computers.jpg"
+                                                     alt="First slide">
+                                                <a class="carousel-control-prev" href="#carouselExampleControls"
+                                                   role="button"
+                                                   data-slide="prev">
+                                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                    <span class="sr-only">Previous</span>
+                                                </a>
+                                                <a class="carousel-control-next" href="#carouselExampleControls"
+                                                   role="button"
+                                                   data-slide="next">
+                                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                                    <span class="sr-only">Next</span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+      
+</div>
+<section id="footer">
+    <div class="container-fluid no-padding">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-7">
+                        <div class="footer-connect">
+                            <h3>Stay Connected</h3>
+                            <p>Enter your email address and to stay up to date with us!</p>
+                            <form id="subForm" class="js-cm-form"
+                                  action="https://www.createsend.com/t/subscribeerror?description=" method="post"
+                                  data-id="92D4C54F0FEC16E5ADC2B1904DE9ED1AF0C36248CCB580686448BAE439D7DDD82EA6B5C83C7F9AE1BA106D916C92BD2AFD30FE38AD4F7D5251C5FE6702F00368">
+
+                                <div class="input-group">
+                                  <input id="fieldName" type="text" class="form-control" name="cm-name"
+                                         placeholder="Your Name">
+                                  <input id="fieldEmail" type="email" class="form-control js-cm-email-input"
+                                         name="cm-uidid-uidid" placeholder="Email address" required>
+                                   <fieldset class="d-none">
+                                     <div>
+                                        <input id="79032" name="cm-fo-huuyh" type="checkbox" value="79032" checked>
+                                        <label for="79032">Planet Ark News</label>
+                                     </div>
+                                     <div>
+                                        <input id="174411" name="cm-fo-huuyh" type="checkbox" value="174411">
+                                        <label for="174411">GreenSchools</label>
+                                     </div>
+                                     <div>
+                                       <input id="123381" name="cm-fo-huuyh" type="checkbox" value="123381">
+                                       <label for="123381">GreenWorks</label>
+                                     </div>
+                                     <div>
+                                       <input id="123382" name="cm-fo-huuyh" type="checkbox" value="123382">
+                                       <label for="123382">The Wood</label>
+                                     </div>
+                                     <div>
+                                       <input id="1396087" name="cm-fo-huuyh" type="checkbox" value="1396087" checked>
+                                       <label for="1396087">Positive Environment News</label>
+                                     </div>
+                                     <div>
+                                       <input id="261877" name="cm-fo-huuyh" type="checkbox" value="261877">
+                                       <label for="261877">All</label>
+                                     </div>
+                                   </fieldset>
+                                    <span>
+                                            <button class="btn btn-green js-cm-submit-button"
+                                                    type="submit">Subscribe</button>
+                                        </span>
+                                </div>
+                            </form>
+                            <script type="text/javascript"
+                                    src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
+                        </div>
+                        <div class="footer-social">
+                           <!-- <div class="addthis_inline_follow_toolbox"></div>-->
+                           
+                           
+                               <div class="sharethis-inline-follow-buttons"></div>
+
+                             
+                        </div>
+                        <div class="footer-logos">
+                            <div class="d-inline-block pr-2">
+                                <div style="height: 50px;">
+                                    <a href="/"><img src="/images/new/logo.png" height="100%"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-1 text-center">
+                        <div class="footer-divider"></div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="footer-navigate">
+                            <h3>Navigate</h3>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <ul class="list-group">
+                                        <li class="list-group-item"><a href="/about">About</a></li>
+                                        <li class="list-group-item"><a href="/materials">Materials</a></li>
+                                        <li class="list-group-item"><a href="/councils">Councils</a></li>
+                                        <li class="list-group-item"><a href="/education">Education</a></li>
+                                        <li class="list-group-item"><a href="/news">News</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-group">
+                                        <li class="list-group-item"><a href="/reuse-hub">Reuse Hub</a></li>
+                                        <li class="list-group-item"><a href="/events">Events</a></li>
+                                        <li class="list-group-item"><a href="/media">Media</a></li>
+                                        <li class="list-group-item"><a href="/nationalrecyclingweek">National Recycling Week</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-8 text-center">
+                        <span class="pr-2 pl-2">Copyright &copy; 2023, Planet Ark</span>
+                        |
+                        <span class="pr-2 pl-2"><a href="/sitemap.cfm">Sitemap</a></span>
+                        |
+                        <span class="pr-2 pl-2"><a href="/privacy.cfm">Privacy Policy</a></span>
+                        |
+                        <span class="pr-2 pl-2"><a href="/disclaimer.cfm">Disclaimer</a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+	<div class="modal fade" id="councilSelectionModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+		<div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="exampleModalLongTitle">Select Your Council</h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body" style="overflow: scroll; max-height: 400px;">
+					<h6 class="tertiary">Please select your council from the list below:</h6>
+					<p class="m-0" ng-repeat="council in councils | orderBy : 'council_name'">
+						<a href ng-click="councilSelected(council)">{{ council.council_name }}</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+		<!-- jQuery -->
+		<script src="/vendor/jquery/jquery.min.js"></script>
+		<script src="/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+		<!-- Angular -->
+		<script type="text/javascript" src="/vendor/angular/angular.min.js"></script>
+		<script type="text/javascript" src="/vendor/angular/ui-bootstrap-tpls-2.5.0.min.js"></script>
+
+		<!-- Bootstrap Core JavaScript -->
+		<script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+		<script type='text/javascript' src="/vendor/bootstrap-slider/bootstrap-slider.min.js"></script>
+		<script type='text/javascript' src="/vendor/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
+
+		<!-- Custom JavaScript -->
+
+		<script src="/js/rny_v0041.js"></script>
+		
+
+			<!-- Social Media Icons -->
+		<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=64cc6d6f195399001219e9a0&product=inline-share-buttons' async='async'></script>
+
+		<!-- Ionicons -->
+        <script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js"></script>
+
+		<!-- Google Maps -->
+		
+
+        <script src='https://cdn.printfriendly.com/printfriendly.js' type='text/javascript'></script>
+
+		<!-- Polyfill -->
+		<script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+
+		<!-- Slick Slider -->
+		<script type="text/javascript" src="/vendor/slick/slick.min.js"></script>
+
+		<script type="application/ld+json">
+			{
+			  "@context": "https://schema.org",
+			  "@type": "Organization",
+			  "url": "https://recyclingnearyou.com.au",
+			  "name": "Planet Ark's Recycling Near You",
+			"logo": "https://recyclingnearyou.com.au/images/new/logo.jpg",
+				"sameAs": [
+				"https://www.facebook.com/planetark",
+				"https://instagram.com/planetark",
+				"https://au.linkedin.com/company/planet-ark-environmental-foundation"
+			]
+			}
+		</script>
+
+		
+			<!-- Start of planetark Zendesk Widget script -->
+			<script>/*<![CDATA[*/
+			window.zEmbed || function (e, t) {
+				var n, o, d, i, s, a = [], r = document.createElement("iframe");
+				window.zEmbed = function () {
+					a.push(arguments)
+				}, window.zE = window.zE || window.zEmbed, r.src = "javascript:false", r.title = "", r.role = "presentation", (r.frameElement || r).style.cssText = "display: none", d = document.getElementsByTagName("script"), d = d[d.length - 1], d.parentNode.insertBefore(r, d), i = r.contentWindow, s = i.document;
+				try {
+					o = s
+				} catch (e) {
+					n = document.domain, r.src = 'javascript:var d=document.open();d.domain="' + n + '";void(0);', o = s
+				}
+				o.open()._l = function () {
+					var e = this.createElement("script");
+					n && (this.domain = n), e.id = "js-iframe-async", e.src = "https://assets.zendesk.com/embeddable_framework/main.js", this.t = +new Date, this.zendeskHost = "planetark.zendesk.com", this.zEQueue = a, this.body.appendChild(e)
+				}, o.write('<body onload="document._l();">'), o.close()
+			}();
+			/*]]>*/</script>
+			<!-- End of planetark Zendesk Widget script -->
+			<script type="text/JavaScript">
+				window.zESettings = {
+					webWidget: {
+						contactForm: {
+							attachments: false
+						},
+						launcher: {
+							label: {
+								'*': "Contact Planet Ark"
+							}
+						},
+						color: {
+						    launcher: "#00BC70",
+							launcherText: "#fff"
+						}
+					}
+				};
+			</script>
+			<!-- End of planetark Zendesk Widget script -->
+		
+
+		
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<!-- Global site tag (gtag.js) - Google Analytics UA -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8687721-3"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-8687721-3');
+	</script>
+
+	<!--  Global site tag (gtag.js) - Google Analytics - GA4-->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZVBKMSX58K"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-ZVBKMSX58K');
+	</script>
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5MP25CP');</script>
+	<!-- End Google Tag Manager -->
+
+	
+
+	<script>
+		window.twttr = (function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0],
+			t = window.twttr || {};
+		  if (d.getElementById(id)) return t;
+		  js = d.createElement(s);
+		  js.id = id;
+		  js.src = "https://platform.twitter.com/widgets.js";
+		  fjs.parentNode.insertBefore(js, fjs);
+
+		  t._e = [];
+		  t.ready = function(f) {
+			t._e.push(f);
+		  };
+
+		  return t;
+		}(document, "script", "twitter-wjs"));
+	</script>
+
+	<div id="fb-root"></div>
+	<script>
+		(function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2';
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+
+	<!-- GetSiteControl widgets -->
+	<script>
+  (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
+    t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
+  })(window, document, '_gscq','script','//widgets.getsitecontrol.com/193483/script.js');
+</script>
+
+<script type="text/javascript">
+_linkedin_partner_id = "2648634";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2648634&fmt=gif" />
+</noscript>
+
+
+</body>
+</html>

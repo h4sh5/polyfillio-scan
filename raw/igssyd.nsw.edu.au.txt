@@ -1,0 +1,805 @@
+<!doctype html>
+<html class="igs" lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>Quality learning from Preschool to Year 12 | International Grammar School Sydney</title>
+
+<!-- The SEO Framework by Sybre Waaijer -->
+<meta name="description" content="Situated within moments of Sydney&#8217;s CBD, International Grammar School is a unique independent, coeducational, secular school offering quality teaching for early learning, primary and high school students through to Year 12." />
+<meta property="og:image" content="https://s3.ap-southeast-2.amazonaws.com/igssyd.nsw.edu.au--wpoffload/app/uploads/2021/02/09094006/cropped-header-img-01.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Quality learning from Preschool to Year 12 | International Grammar School Sydney" />
+<meta property="og:description" content="Situated within moments of Sydney&#8217;s CBD, International Grammar School is a unique independent, coeducational, secular school offering quality teaching for early learning, primary and high school students through to Year 12." />
+<meta property="og:url" content="https://www.igssyd.nsw.edu.au/" />
+<meta property="og:site_name" content="International Grammar School Sydney" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Quality learning from Preschool to Year 12 | International Grammar School Sydney" />
+<meta name="twitter:description" content="Situated within moments of Sydney&#8217;s CBD, International Grammar School is a unique independent, coeducational, secular school offering quality teaching for early learning, primary and high school students through to Year 12." />
+<meta name="twitter:image" content="https://s3.ap-southeast-2.amazonaws.com/igssyd.nsw.edu.au--wpoffload/app/uploads/2021/02/09094006/cropped-header-img-01.jpg" />
+<link rel="canonical" href="https://www.igssyd.nsw.edu.au/" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","url":"https://www.igssyd.nsw.edu.au/","name":"International Grammar School Sydney","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.igssyd.nsw.edu.au/search/{search_term_string}/"},"query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.igssyd.nsw.edu.au/","name":"International Grammar School Sydney","logo":"/app/uploads/s3apsoutheast2://www.igssyd.nsw.edu.au--wpoffload/app/uploads/2019/01/03115723/cropped-35-Years-Logo-RGB-IGS-scaled.jpg"}</script>
+<!-- / The SEO Framework by Sybre Waaijer | 1.46ms meta | 0.20ms boot -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="stylesheet" href="/wp/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3">
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" href="/app/plugins/popup-maker/assets/css/pum-site.min.css?ver=1.18.2">
+<style id='popup-maker-site-inline-css' type='text/css'>
+/* Popup Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Montserrat:100');
+
+/* Popup Theme 18181: Floating Bar - Soft Blue */
+.pum-theme-18181, .pum-theme-floating-bar { background-color: rgba( 255, 255, 255, 0.00 ) } 
+.pum-theme-18181 .pum-container, .pum-theme-floating-bar .pum-container { padding: 8px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 238, 246, 252, 1.00 ) } 
+.pum-theme-18181 .pum-title, .pum-theme-floating-bar .pum-title { color: #505050; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-18181 .pum-content, .pum-theme-floating-bar .pum-content { color: #505050; font-family: inherit; font-weight: 400 } 
+.pum-theme-18181 .pum-content + .pum-close, .pum-theme-floating-bar .pum-content + .pum-close { position: absolute; height: 18px; width: 18px; left: auto; right: 5px; bottom: auto; top: 50%; padding: 0px; color: #505050; font-family: Sans-Serif; font-weight: 700; font-size: 15px; line-height: 18px; border: 1px solid #505050; border-radius: 15px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.00 ); background-color: rgba( 255, 255, 255, 0.00 ); transform: translate(0, -50%) } 
+
+/* Popup Theme 18182: Content Only - For use with page builders or block editor */
+.pum-theme-18182, .pum-theme-content-only { background-color: rgba( 0, 0, 0, 0.70 ) } 
+.pum-theme-18182 .pum-container, .pum-theme-content-only .pum-container { padding: 0px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ) } 
+.pum-theme-18182 .pum-title, .pum-theme-content-only .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-18182 .pum-content, .pum-theme-content-only .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400 } 
+.pum-theme-18182 .pum-content + .pum-close, .pum-theme-content-only .pum-content + .pum-close { position: absolute; height: 18px; width: 18px; left: auto; right: 7px; bottom: auto; top: 7px; padding: 0px; color: #000000; font-family: inherit; font-weight: 700; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 15px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.00 ); background-color: rgba( 255, 255, 255, 0.00 ) } 
+
+/* Popup Theme 16242: Custom Theme */
+.pum-theme-16242, .pum-theme-custom-theme { background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-16242 .pum-container, .pum-theme-custom-theme .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 255, 187, 35, 0.85 ) } 
+.pum-theme-16242 .pum-title, .pum-theme-custom-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 45px } 
+.pum-theme-16242 .pum-content, .pum-theme-custom-theme .pum-content { color: #222222; font-family: inherit; font-weight: 400 } 
+.pum-theme-16242 .pum-content + .pum-close, .pum-theme-custom-theme .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: 6px; bottom: auto; top: 50%; padding: 8px; color: #222222; font-family: inherit; font-weight: 400; font-size: 23px; line-height: 36px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.00 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 0.00 ); transform: translate(0, -50%) } 
+
+/* Popup Theme 16236: Default Theme */
+.pum-theme-16236, .pum-theme-default-theme { background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-16236 .pum-container, .pum-theme-default-theme .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-16236 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; font-style: normal; line-height: 36px } 
+.pum-theme-16236 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400; font-style: inherit } 
+.pum-theme-16236 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: 400; font-size: 12px; font-style: inherit; line-height: 36px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1.00 ) } 
+
+/* Popup Theme 16237: Light Box */
+.pum-theme-16237, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.60 ) } 
+.pum-theme-16237 .pum-container, .pum-theme-lightbox .pum-container { padding: 18px; border-radius: 3px; border: 8px solid #000000; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-16237 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-16237 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit; font-weight: 100 } 
+.pum-theme-16237 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { position: absolute; height: 26px; width: 26px; left: auto; right: -13px; bottom: auto; top: -13px; padding: 0px; color: #ffffff; font-family: Arial; font-weight: 100; font-size: 24px; line-height: 24px; border: 2px solid #ffffff; border-radius: 26px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1.00 ) } 
+
+/* Popup Theme 16238: Enterprise Blue */
+.pum-theme-16238, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.70 ) } 
+.pum-theme-16238 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-16238 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 34px; line-height: 36px } 
+.pum-theme-16238 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit; font-weight: 100 } 
+.pum-theme-16238 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { position: absolute; height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: Times New Roman; font-weight: 100; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1.00 ) } 
+
+/* Popup Theme 16239: Hello Box */
+.pum-theme-16239, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } 
+.pum-theme-16239 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #81d742; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-16239 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-16239 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit; font-weight: 100 } 
+.pum-theme-16239 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: Times New Roman; font-weight: 100; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+
+/* Popup Theme 16240: Cutting Edge */
+.pum-theme-16240, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.50 ) } 
+.pum-theme-16240 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 30, 115, 190, 1.00 ) } 
+.pum-theme-16240 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-weight: 100; font-size: 26px; line-height: 28px } 
+.pum-theme-16240 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit; font-weight: 100 } 
+.pum-theme-16240 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { position: absolute; height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: Times New Roman; font-weight: 100; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.10 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.10 ); background-color: rgba( 238, 238, 34, 1.00 ) } 
+
+/* Popup Theme 16241: Framed Border */
+.pum-theme-16241, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.50 ) } 
+.pum-theme-16241 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1.00 ) } 
+.pum-theme-16241 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-16241 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit; font-weight: 100 } 
+.pum-theme-16241 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { position: absolute; height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Tahoma; font-weight: 700; font-size: 16px; line-height: 18px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } 
+
+#pum-38451 {z-index: 1999999999}
+#pum-36144 {z-index: 1999999999}
+#pum-19831 {z-index: 1999999999}
+#pum-28634 {z-index: 1999999999}
+#pum-16243 {z-index: 1999999999}
+
+</style>
+<link rel="stylesheet" href="/app/themes/igs/dist/styles/main.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<script type="text/javascript" src="/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<meta name="facebook-domain-verification" content="gwbc2nln3jy8bznkxki1gbg20za1t3" />
+<!-- Google tag (gtag.js) -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F6FK890WS7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F6FK890WS7');
+</script>  <link rel="icon" type="image/x-icon" href="/app/themes/igs/dist/images/favicon.ico", sizes="any">
+  <link rel="icon" type="image/svg+xml" href="/app/themes/igs/dist/images/favicon.svg", sizes="any">
+  		<style type="text/css" id="wp-custom-css">
+			.page-id-31942 .section.blockquote .col-lg-8 {
+	margin-left: 16.67%;
+}
+
+.page-id-31942 table.table-striped.tableFixed thead {
+	transform: none !important;
+}
+
+.page-id-31942 .three-columns .bg-wrapper {
+	display: none;
+}
+.page-id-31942 .three-columns .left-column, 
+.page-id-31942 .three-columns .right-column {
+	    flex: 0 0 50%;
+    	max-width: 50%;
+}
+
+@media screen and (max-width: 768px) {
+ .page-id-31942 .three-columns .left-column, 
+.page-id-31942 .three-columns .right-column {
+	    flex: 0 0 100%;
+    	max-width: 100%;
+}
+}
+
+.page-id-31942 .section.content-area.page-content-area {
+		padding-top: 0;
+	}
+
+.page-id-31942 .section.blockquote {
+		padding-top: 0;
+	}
+
+@media screen and (min-width: 1280px) {
+	.page-id-31942 .section.three-columns {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+}		</style>
+		</head><body class="home page page-parent">
+                <!-- Google Tag Manager -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MDBW9V5" height="0" width="0"
+                    style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <script defer>(function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+                var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-MDBW9V5');</script><!-- End Google Tag Manager -->
+        <!--[if IE]>
+<div class="alert alert-warning">
+    You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your
+    browser</a> to improve your experience.
+</div>
+<![endif]-->
+<header class="main-header">
+  <div class="main-header_wrapper">
+    <div class="logo">
+      <a href="https://www.igssyd.nsw.edu.au/" title="International Grammar School Sydney">
+        <svg class="igs-logo" width="120" height="120" viewBox="0 0 600 602" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path class="mark" d="M165.16 406.06H208.45V190.27H165.16V406.06ZM335.08 292.03H284.04V325.95H295.67V336.61C295.67 359.55 292.12 370.21 282.75 370.21C271.12 370.21 267.24 346.63 267.24 301.08C267.24 252.62 271.12 226.13 282.42 226.13C293.72 226.13 293.73 245.19 293.4 264.25L333.78 257.47C333.78 217.09 318.92 188.34 283.39 188.34C243.98 188.34 222.66 227.43 222.66 301.08C222.66 366.98 239.46 408.01 273.05 408.01C288.23 408.01 297.6 398.64 302.12 385.07L306 406.07H335.07V292.04L335.08 292.03ZM388.38 240.02C388.38 229.68 392.9 222.58 401.3 222.58C412.61 222.58 415.51 238.09 414.54 257.15L450.72 250.04C452.01 212.24 434.57 188.34 400.97 188.34C367.37 188.34 347.02 212.57 347.02 244.55C347.02 298.17 410.34 320.14 410.34 355.35C410.34 366.01 406.46 373.12 397.1 373.12C385.47 373.12 379.98 357.61 382.24 333.71L345.41 341.14C342.5 383.14 364.79 408.01 398.07 408.01C431.35 408.01 452.02 384.43 452.02 351.15C452.02 295.59 388.38 270.71 388.38 240.02Z" fill="#360050"/>
+          <path class="text" d="M137.75 105.41L108.93 69.18L117.71 62.19L146.53 98.42L137.75 105.41ZM172.06 81.18L156.98 52.86L154.62 49.38L157.38 51.72L187.96 72.71L199.15 66.75L177.39 25.9L167.99 30.91L182.42 57.99L184.58 61.51L181.85 59.08L152.66 39.07L140.85 45.36L162.61 86.21L172.07 81.17L172.06 81.18ZM219.31 21.29L228.85 56.87L239.51 54.01L229.97 18.43L243.38 14.83L240.93 5.69999L203.39 15.77L205.84 24.9L219.31 21.29ZM305.9 46.2L305.44 36.83L280.62 38.05L280.13 28.17L298.93 27.24L298.53 19.2L279.72 20.13L279.25 10.57L303.75 9.35999L303.29 -0.0100098L268.03 1.72999L270.31 47.95L305.89 46.2H305.9ZM333.75 48.9L322.86 47.12L330.31 1.44999L352.4 5.04999C363.29 6.82999 368.18 13.02 366.88 21.03C365.86 27.29 360.86 31.54 352.66 31.81C354.75 32.41 356.35 33.18 357.52 34.27C359.94 36.4 360.88 39.64 361.59 45.15L362.65 53.61L350.83 51.68L349.94 43.38C349.24 36.26 348 34.78 341.25 33.68L336.37 32.88L333.76 48.9H333.75ZM337.58 25.44L345.65 26.76C351.53 27.72 355.02 25.59 355.7 21.46C356.36 17.39 354.05 14.64 347.92 13.64L339.72 12.3L337.58 25.44ZM399.44 32.26L400.62 28.22L400.57 31.83L403.9 68.78L415.63 73.6L433.23 30.78L423.38 26.73L411.71 55.12L410.38 59.03L410.51 55.38L407.31 20.12L394.93 15.03L377.33 57.85L387.24 61.92L399.44 32.24V32.26ZM429.38 80.87L470.55 53.52L480.57 60.76L467.67 108.52L458.42 101.84L460.88 93.45L445.77 82.54L438.63 87.55L429.38 80.87ZM452.45 77.83L463.19 85.59L467.95 69.25L469.29 65.76L466.35 68.1L452.44 77.84L452.45 77.83ZM490.31 132.45L517.36 107.44L526.79 117.64L533.73 111.23L507.34 82.69L500.4 89.1L509.87 99.34L482.82 124.35L490.31 132.45ZM516.04 167.03L554.83 141.78L548.71 132.38L509.92 157.63L516.04 167.03ZM547.45 173.74C559.4 168.8 572.64 172.46 578.23 186C584.13 200.3 577.19 211.4 565.06 216.4C552.93 221.41 540.06 218.15 534.21 203.97C528.28 189.61 535.26 178.77 547.45 173.74ZM551.83 184.35C543.92 187.62 540.11 193.17 543.11 200.44C546.09 207.65 552.63 209.2 560.71 205.86C568.86 202.5 572.37 196.72 569.44 189.63C566.63 182.83 559.8 181.06 551.83 184.35ZM549.69 252.99L581.42 248.25L585.49 247.19L582.36 249L552.34 270.79L554.21 283.33L599.99 276.49L598.42 265.96L568.07 270.49L564.03 271.35L567.23 269.59L595.86 248.77L593.88 235.54L548.1 242.38L549.68 252.98L549.69 252.99ZM555.04 300.15L599.57 321.59L598.47 333.9L550.82 347.18L551.84 335.82L560.31 333.65L561.98 315.09L554.03 311.51L555.05 300.15H555.04ZM568.25 331.63L584.73 327.38L588.42 326.76L584.91 325.43L569.44 318.44L568.25 331.64V331.63ZM536.76 394.42L546.49 397.5L553.25 376.17L587.63 387.07L591.02 376.37L546.91 362.39L536.76 394.42ZM528.96 456.26C519.66 448.71 507.57 446.9 499.06 457.39C494.15 463.45 494.24 470.38 498.51 476.79L489.84 469.76L483.25 477.88L503.19 494.06L518.3 475.45L512.44 470.7L504.21 480.84C499.91 475.88 500.21 470.57 503.93 465.99C508.69 460.13 515.49 460.1 522.43 465.73C529.57 471.52 530.46 478.78 525.87 484.44C522.11 489.07 517.98 490.04 512.61 488.71L510.65 500.68C518.88 501.4 526.21 499.42 533.08 490.95C542.67 479.13 540.15 465.33 528.98 456.26H528.96ZM468.57 491.48L496.6 528.3L478.8 541.85C470.03 548.53 462.16 547.83 457.24 541.37C453.4 536.33 453.75 529.77 459.19 523.63C457.32 524.73 455.65 525.37 454.06 525.47C450.85 525.76 447.85 524.22 443.36 520.95L436.49 515.9L446.02 508.64L452.66 513.7C458.31 518.08 460.24 518.21 465.68 514.06L469.61 511.06L459.78 498.15L468.56 491.47L468.57 491.48ZM474.19 517.07L467.68 522.02C462.94 525.63 462.08 529.63 464.62 532.96C467.12 536.24 470.7 536.45 475.65 532.69L482.26 527.66L474.2 517.07H474.19ZM425.79 522.53L428.95 571.87L417.68 576.95L382.72 541.92L393.13 537.24L399.17 543.56L416.17 535.91L415.39 527.22L425.8 522.54L425.79 522.53ZM418.97 564.68L418.41 560.97L416.91 544.05L404.83 549.49L416.62 561.77L418.97 564.68ZM357.59 548.47L362.84 579.99L364.11 585.69L361.74 579.98L346.77 550.28L337.58 551.81L333.06 584.83L332.64 591.2L331.95 585.14L326.7 553.62L316.19 555.37L323.79 601.02L338.79 598.46L343.56 562.64L343.61 560.25L344.44 562.55L360.37 594.92L375.75 592.36L368.15 546.71L357.58 548.47H357.59ZM282.7 586.37L282.35 592.2L281.65 586.06L275.45 553.38L266.19 552.32L252.73 582.81L250.57 588.82L251.58 582.81L255.23 551.07L244.65 549.86L239.37 595.84L254.49 597.51L268.95 564.39L269.66 562.11L269.83 564.55L276.22 600.06L291.71 601.84L296.99 555.86L286.35 554.64L282.7 586.38V586.37ZM219.19 541.66L229.82 545.81L196.81 582.6L185.3 578.1L185.83 528.63L196.46 532.78L196.18 541.52L213.54 548.3L219.19 541.66ZM208.24 554.53L195.9 549.71L195.38 566.73L194.95 570.44L197.21 567.44L208.24 554.53ZM163.17 514.59L172.28 520.82L146.13 559.02L127.66 546.38C118.55 540.15 116.75 532.46 121.33 525.76C124.91 520.53 131.25 518.79 138.79 522.03C137.15 520.6 136.03 519.22 135.43 517.73C134.15 514.78 134.66 511.44 136.36 506.15L138.99 498.04L148.88 504.81L146.16 512.71C143.77 519.45 144.26 521.32 149.91 525.19L153.99 527.98L163.16 514.58L163.17 514.59ZM149.74 534.21L142.99 529.59C138.07 526.22 134 526.67 131.64 530.12C129.31 533.52 130.24 537 135.37 540.51L142.23 545.2L149.75 534.21H149.74ZM68.41 435.71C60.97 440.78 62.57 447.98 66.72 456.89C69.72 463.44 71.24 467.01 68.2 469.08C66.05 470.54 62.97 469.96 60.32 466.08C57 461.21 56.91 456.9 58.78 452.09L47.86 448.56C45.43 456.82 46.99 463.73 51.74 470.7C58.24 480.24 67.1 481.88 73.49 477.52C80.88 472.49 79.32 465.57 75.47 457.22C72.4 450.57 70.58 446.43 73.73 444.29C76.09 442.68 79.1 443.39 81.67 447.17C85.17 452.31 85.28 456.76 83.61 462.19L94.81 465.23C96.82 458.26 96.04 450.81 90.22 442.27C84.08 433.26 75.49 430.89 68.42 435.71H68.41ZM64.08 392.63C59.18 380.18 49.21 376.34 38.21 378.5L40.69 389.99C47.07 388.36 52.57 389.53 55.22 396.26C58.17 403.75 54.17 409 46.21 412.14C38.19 415.3 31.46 413.45 28.7 406.43C26.26 400.24 28.8 395.96 34.15 392.77L27.25 383.22C18.83 388.99 15.12 398.09 19.72 409.76C25.23 423.74 38.38 427.56 50.42 422.81C62.45 418.07 70.22 408.2 64.08 392.62V392.63ZM49.86 344.67L30.64 347.32L28.13 329.11L47.35 326.46L45.85 315.53L0 321.84L1.5 332.77L20.15 330.2L22.66 348.41L4.01 350.98L5.51 361.91L51.36 355.6L49.86 344.67ZM0.85 270.15C2.4 254.76 13.76 248.26 26.82 249.58C39.88 250.9 49.68 259.85 48.14 275.11C46.58 290.56 35.31 296.82 22.19 295.49C9.32 294.19 -0.62 284.72 0.85 270.14V270.15ZM23.34 284.08C31.86 284.94 37.84 281.85 38.63 274.03C39.41 266.27 34.38 261.81 25.68 260.94C16.91 260.06 11.09 263.48 10.32 271.11C9.58 278.43 14.77 283.22 23.35 284.08H23.34ZM17.37 197.79C22.66 183.25 35.27 179.74 47.61 184.23C59.94 188.72 67.25 199.81 62 214.23C56.69 228.83 44.22 232.12 31.83 227.61C19.67 223.19 12.37 211.56 17.37 197.79ZM35.75 216.82C43.79 219.75 50.36 218.22 53.04 210.83C55.71 203.5 51.93 197.94 43.7 194.95C35.42 191.94 28.93 193.83 26.3 201.04C23.79 207.95 27.64 213.87 35.74 216.82H35.75ZM75.56 161.55L45.24 141.99L39.16 151.42L78.06 176.51L96.28 148.27L87.7 142.74L75.57 161.55H75.56Z" fill="#360050"/>
+        </svg>
+      </a>
+    </div>
+
+
+    <div class="header-menu">
+            <script class="menu-data" type="application/json">{"primary_nav":[{"ID":37551,"title":"About","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/","menu_item_parent":"0","active":false,"alternate_label":""},{"ID":37570,"title":"About IGS","url":"#","menu_item_parent":"37551","active":false,"alternate_label":""},{"ID":37745,"title":"About Us","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/","menu_item_parent":"37570","active":false,"alternate_label":""},{"ID":37554,"title":"Principal\u2019s Welcome","url":"https:\/\/www.igssyd.nsw.edu.au\/home\/principals-welcome\/","menu_item_parent":"37570","active":false,"alternate_label":""},{"ID":37555,"title":"Vision &#038; Values","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/vision-values\/","menu_item_parent":"37570","active":false,"alternate_label":""},{"ID":37556,"title":"Amenities","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/amenities\/","menu_item_parent":"37570","active":false,"alternate_label":""},{"ID":37557,"title":"History","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/history\/","menu_item_parent":"37570","active":false,"alternate_label":""},{"ID":37610,"title":"Contact","url":"https:\/\/www.igssyd.nsw.edu.au\/contact\/","menu_item_parent":"37570","active":false,"alternate_label":""},{"ID":37571,"title":"Governance","url":"#","menu_item_parent":"37551","active":false,"alternate_label":""},{"ID":37560,"title":"The School Board","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/governance-policies\/the-school-board\/","menu_item_parent":"37571","active":false,"alternate_label":""},{"ID":37561,"title":"Governance &#038; Policies","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/governance-policies\/","menu_item_parent":"37571","active":false,"alternate_label":""},{"ID":38039,"title":"Strategic Plan","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/strategic-plan\/","menu_item_parent":"37571","active":false,"alternate_label":""},{"ID":37562,"title":"Learning","url":"https:\/\/www.igssyd.nsw.edu.au\/learning\/","menu_item_parent":"0","active":false,"alternate_label":""},{"ID":37572,"title":"Learning","url":"#","menu_item_parent":"37562","active":false,"alternate_label":""},{"ID":37564,"title":"Overview","url":"https:\/\/www.igssyd.nsw.edu.au\/learning\/","menu_item_parent":"37572","active":false,"alternate_label":""},{"ID":37565,"title":"Early Learning","url":"https:\/\/www.igssyd.nsw.edu.au\/learning\/early-learning\/","menu_item_parent":"37572","active":false,"alternate_label":""},{"ID":37566,"title":"Primary School","url":"https:\/\/www.igssyd.nsw.edu.au\/learning\/primary-school\/","menu_item_parent":"37572","active":false,"alternate_label":""},{"ID":37567,"title":"High School","url":"https:\/\/www.igssyd.nsw.edu.au\/learning\/high-school\/","menu_item_parent":"37572","active":false,"alternate_label":""},{"ID":37569,"title":"Focus Areas","url":"#","menu_item_parent":"37562","active":false,"alternate_label":""},{"ID":37574,"title":"Languages","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/the-igs-advantage\/languages\/","menu_item_parent":"37569","active":false,"alternate_label":""},{"ID":37577,"title":"Music","url":"https:\/\/www.igssyd.nsw.edu.au\/learning\/co-extra-curricular-activities\/music\/","menu_item_parent":"37569","active":false,"alternate_label":""},{"ID":37579,"title":"Sage","url":"https:\/\/www.igssyd.nsw.edu.au\/learning\/sage\/","menu_item_parent":"37569","active":false,"alternate_label":""},{"ID":37580,"title":"STEAM","url":"https:\/\/www.igssyd.nsw.edu.au\/learning\/steam\/","menu_item_parent":"37569","active":false,"alternate_label":""},{"ID":37581,"title":"Activities","url":"#","menu_item_parent":"37562","active":false,"alternate_label":""},{"ID":37582,"title":"Co &#038; Extra Curricular Activities","url":"https:\/\/www.igssyd.nsw.edu.au\/learning\/co-extra-curricular-activities\/","menu_item_parent":"37581","active":false,"alternate_label":""},{"ID":37583,"title":"Clubs","url":"https:\/\/www.igssyd.nsw.edu.au\/learning\/co-extra-curricular-activities\/clubs\/","menu_item_parent":"37581","active":false,"alternate_label":""},{"ID":37584,"title":"Creative &#038; Performing Arts","url":"https:\/\/www.igssyd.nsw.edu.au\/learning\/high-school\/creative-performing-arts\/","menu_item_parent":"37581","active":false,"alternate_label":""},{"ID":37585,"title":"Creative Arts","url":"https:\/\/www.igssyd.nsw.edu.au\/learning\/co-extra-curricular-activities\/creative-arts\/","menu_item_parent":"37581","active":false,"alternate_label":""},{"ID":37586,"title":"Sport and Outdoor Education","url":"https:\/\/www.igssyd.nsw.edu.au\/learning\/co-extra-curricular-activities\/sport-and-outdoor-education\/","menu_item_parent":"37581","active":false,"alternate_label":""},{"ID":39964,"title":"OSHC","url":"https:\/\/parents.igssyd.nsw.edu.au\/hubs\/extra-curricular-activities","menu_item_parent":"37581","active":false,"alternate_label":""},{"ID":37587,"title":"Community","url":"https:\/\/www.igssyd.nsw.edu.au\/community-3\/","menu_item_parent":"0","active":false,"alternate_label":""},{"ID":37589,"title":"Community","url":"#","menu_item_parent":"37587","active":false,"alternate_label":""},{"ID":37997,"title":"First Nations","url":"https:\/\/www.igssyd.nsw.edu.au\/community-3\/first-nations\/","menu_item_parent":"37589","active":false,"alternate_label":""},{"ID":37592,"title":"Alums","url":"https:\/\/www.igssyd.nsw.edu.au\/community-3\/alums\/","menu_item_parent":"37589","active":false,"alternate_label":""},{"ID":37591,"title":"IGS PTF","url":"https:\/\/www.igssyd.nsw.edu.au\/community-3\/parents-caregivers\/","menu_item_parent":"37589","active":false,"alternate_label":""},{"ID":37998,"title":"Sustainability","url":"https:\/\/www.igssyd.nsw.edu.au\/community-3\/sustainability\/","menu_item_parent":"37589","active":false,"alternate_label":""},{"ID":37590,"title":"News","url":"https:\/\/www.igssyd.nsw.edu.au\/news\/","menu_item_parent":"37589","active":false,"alternate_label":""},{"ID":37593,"title":"Documents","url":"#","menu_item_parent":"37587","active":false,"alternate_label":""},{"ID":37717,"title":"IGS Song and Anthem","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/history\/igs-song-and-anthem\/","menu_item_parent":"37593","active":false,"alternate_label":""},{"ID":37594,"title":"Enrolment","url":"https:\/\/www.igssyd.nsw.edu.au\/enrolment\/","menu_item_parent":"0","active":false,"alternate_label":""},{"ID":37596,"title":"Enrolments","url":"#","menu_item_parent":"37594","active":false,"alternate_label":""},{"ID":37595,"title":"Overview","url":"https:\/\/www.igssyd.nsw.edu.au\/enrolment\/","menu_item_parent":"37596","active":false,"alternate_label":""},{"ID":37597,"title":"Apply Now","url":"https:\/\/www.igssyd.nsw.edu.au\/enrolment\/apply\/","menu_item_parent":"37596","active":false,"alternate_label":""},{"ID":37598,"title":"Scholarships","url":"https:\/\/www.igssyd.nsw.edu.au\/enrolment\/scholarships\/","menu_item_parent":"37596","active":false,"alternate_label":""},{"ID":38019,"title":"Fees","url":"https:\/\/www.igssyd.nsw.edu.au\/enrolment\/fees\/","menu_item_parent":"37596","active":false,"alternate_label":""},{"ID":37599,"title":"Book a Tour","url":"https:\/\/www.igssyd.nsw.edu.au\/book-a-tour\/","menu_item_parent":"37596","active":false,"alternate_label":""},{"ID":37558,"title":"Take a Virtual Tour","url":"https:\/\/igss.youtour.com.au\/","menu_item_parent":"37596","active":false,"alternate_label":""},{"ID":39593,"title":"Term Dates","url":"https:\/\/www.igssyd.nsw.edu.au\/enrolment\/term-dates\/","menu_item_parent":"37596","active":false,"alternate_label":""},{"ID":37606,"title":"Employment","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/employment\/","menu_item_parent":"0","active":false,"alternate_label":""},{"ID":37602,"title":"Careers","url":"#","menu_item_parent":"37606","active":false,"alternate_label":""},{"ID":37605,"title":"Overview","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/employment\/","menu_item_parent":"37602","active":false,"alternate_label":""},{"ID":37601,"title":"Working at IGS","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/employment\/working-at-igs\/","menu_item_parent":"37602","active":false,"alternate_label":""},{"ID":37604,"title":"Current Positions","url":"https:\/\/internationalgrammar.connxcareers.com\/","menu_item_parent":"37602","active":false,"alternate_label":""},{"ID":37603,"title":"Job Alerts","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/employment\/job-alerts\/","menu_item_parent":"37602","active":false,"alternate_label":""},{"ID":37607,"title":"Employment Information","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/employment\/employment-information\/","menu_item_parent":"37602","active":false,"alternate_label":""}],"secondary_nav":[{"ID":39,"title":"Employment","url":"https:\/\/www.igssyd.nsw.edu.au\/about-us\/employment\/","menu_item_parent":"0","target":""},{"ID":40,"title":"Enrol","url":"https:\/\/www.igssyd.nsw.edu.au\/enrolment\/","menu_item_parent":"0","target":""},{"ID":2338,"title":"Parent Lounge","url":"https:\/\/parents.igssyd.nsw.edu.au\/","menu_item_parent":"0","target":"_blank"},{"ID":13772,"title":"Staff","url":"http:\/\/staff.igssyd.nsw.edu.au\/","menu_item_parent":"0","target":""},{"ID":33990,"title":"Alums","url":"https:\/\/www.igssyd.nsw.edu.au\/community-3\/alums\/","menu_item_parent":"0","target":""}],"background_images":[{"ID":27257,"url":"https:\/\/igssyd-wp-01.s3.ap-southeast-2.amazonaws.com\/production\/2022\/04\/16225522\/IGSPhotoShoot2022-215-1600x1067.jpg"}]}</script>
+      <div id="menu"></div>
+    </div>
+
+    <div class="header-secondary">
+                <a href="https://parents.igssyd.nsw.edu.au/" class="button small lilac">
+            <span>Parents/Carers</span>
+          </a>
+      
+                <a href="https://www.igssyd.nsw.edu.au/enrolment/apply/" class="button small purple">
+            <span>Apply</span>
+          </a>
+      
+      <div id="searchMenu"></div>
+    </div>
+  </div>
+</header>
+<div class="wrap" role="document">
+    <main class="main">
+                                  <div class="long-video-container">
+        <div class="long-video-wrapper">
+            <button id="close_long_video_btn" class="button small yellow">Close</button>
+            <video src="" type="" controls></video>
+            <iframe src="" frameborder="0" allow="autoplay" allowfullscreen allowtransparency></iframe>
+        </div>
+    </div>
+
+    <div class="section home-banner">
+        <div class="slick-wrapper">
+                          <div class="slide">
+                
+                                                                                    <iframe
+                                                                                                                        src="https://player.vimeo.com/video/907291439?autoplay=1&loop=1&autopause=0&muted=1&controls=0"
+                                                        class="bg animated center"
+                            frameborder="0"
+                            allow="autoplay"
+                            allowfullscreen
+                            allowtransparency>
+                        </iframe>
+                    
+                                    
+                <div class="container content-wrapper">
+                    <div class="content">
+                        
+                                                
+                                                                                    <div class="video_button_wrapper">
+                                  <button
+                                      class="button purple open-long-video-btn"
+                                                                                longVideoSrc=https://igssyd-wp-01.s3.ap-southeast-2.amazonaws.com/production/2022/06/16224742/Find-yourself-at-IGS_with-logo-1.mp4
+                                          longVideoType=video/mp4
+                                      
+                                                                                                                                                                        videoUrl=907291439
+                                              videoSrc="vimeo"
+                                                                                                                  >
+                                      Watch the Film
+                                  </button>
+                              </div>
+                                                                        </div>
+                </div>
+              </div>
+                    </div>
+
+            </div>
+                                                          <div class="section introduction theme-purple">
+          <span class="binding-fabric" aria-hidden></span>
+        <div class="container">
+        <div class="row">
+            <div class="col-12 intro-content">
+                <div class="row intro-title">
+                                                                <div class="col-12">
+                            <h2 class="title">
+                                                              <span class="multi-language-title" data-titles="[{&quot;title&quot;:&quot;A warm welcome!&quot;},{&quot;title&quot;:&quot; Un caldo benvenuto!&quot;},{&quot;title&quot;:&quot;Herzlich wilkommen!&quot;}]">
+                                  A warm welcome!
+                                </span>
+                                                          </h2>
+                        </div>
+                    
+                                            <div class="col-12">
+                            <p class="heading">
+                                Situated within moments of Sydney&#039;s CBD, International Grammar School is a unique independent, coeducational, secular school offering quality teaching for early learning, primary and high school students through to Year 12.
+                            </p>
+                        </div>
+                                    </div>
+
+                
+                
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="section feature-carousel theme-lilac">
+      <span class="binding-fabric" aria-hidden></span>
+    <div class="container">
+            <h2 class="heading">
+                      <span class="multi-language-title" data-titles="[{&quot;title&quot;:&quot;In Other News&quot;},{&quot;title&quot;:&quot; In altre notizie&quot;},{&quot;title&quot;:&quot;\u5176\u4ed6\u65b0\u95fb&quot;}]">
+              In Other News
+            </span>
+                  </h2>
+    
+    
+          <div class="slick-wrapper">
+                      <div class="slide">
+              <div class="feature">
+                <div class="inner-content">
+                  <h3 class="title">Renaissance Centre Opens to Acclaim</h3>
+                                      <p>A formal opening evening was attended by members of the IGS Community and special guests, including Manuela Bachmann.</p>
+                  
+                                      <a href="https://www.igssyd.nsw.edu.au/blog/renaissance-centre-opens-to-acclaim/" target="" class="link-more">
+                      Discover More
+                    </a>
+                                  </div>
+
+                                <div class="image-wrapper">
+                  <div class="image-inner">
+                    <div class="bg animated opacity lazyload" data-bg="/app/uploads/2024/04/IGS-RENAISSANCE-CENTER-OPENING-2024-187-1600x1067.jpg"></div>
+                  </div>
+                </div>
+                              </div>
+            </div>
+                      <div class="slide">
+              <div class="feature">
+                <div class="inner-content">
+                  <h3 class="title">The Ultimo Series</h3>
+                                      <p>We invite our IGS community to attend our second lecture in The Ultimo Series. 
+
+‘The State of the Climate’ to be held at 6pm on Thursday 06 June in the newly opened IGS Renaissance Centre. 
+
+Proceeds of all ticket sales will support the IGS Sharing Program including our Indigenous Scholarship Fund and Building Fund. </p>
+                  
+                                      <a href="https://events.humanitix.com/the-ultimo-series" target="_blank" class="link-more">
+                      Discover More
+                    </a>
+                                  </div>
+
+                                <div class="image-wrapper">
+                  <div class="image-inner">
+                    <div class="bg animated opacity lazyload" data-bg="https://igssyd-wp-01.s3.ap-southeast-2.amazonaws.com/production/2024/03/27162217/IMG_2186.jpeg"></div>
+                  </div>
+                </div>
+                              </div>
+            </div>
+                      <div class="slide">
+              <div class="feature">
+                <div class="inner-content">
+                  <h3 class="title">40 years young!</h3>
+                                      <p>Celebrating bilingual learning and unity through diversity since 1984!
+Upon one single dream, a thousand beautiful traditions have been built.
+View our Anniversary calendar to find out more.</p>
+                  
+                                      <a href="https://vimeo.com/911364018" target="" class="link-more">
+                      Discover More
+                    </a>
+                                  </div>
+
+                                <div class="image-wrapper">
+                  <div class="image-inner">
+                    <div class="bg animated opacity lazyload" data-bg="https://igssyd-wp-01.s3.ap-southeast-2.amazonaws.com/production/2024/02/12115446/Learning_Journeys_book-1-1600x1144.jpg"></div>
+                  </div>
+                </div>
+                              </div>
+            </div>
+                      <div class="slide">
+              <div class="feature">
+                <div class="inner-content">
+                  <h3 class="title">Strategic plan</h3>
+                                      <p>The School’s Strategic Plan 2022–2026 Into the World outlines a vision for our School, a clear and compelling direction, and eight areas of action.</p>
+                  
+                                      <a href="https://igssyd.nsw.edu.au/about-us/strategic-plan/" target="" class="link-more">
+                      Discover More
+                    </a>
+                                  </div>
+
+                                <div class="image-wrapper">
+                  <div class="image-inner">
+                    <div class="bg animated opacity lazyload" data-bg="https://igssyd-wp-01.s3.ap-southeast-2.amazonaws.com/production/2024/01/29113600/Page-9.2-1600x1067.jpg"></div>
+                  </div>
+                </div>
+                              </div>
+            </div>
+                </div>
+      <div class="slick-nav"></div>
+      </div>
+</div>
+<div class="section gateway-link theme-transparent image-left">
+    <div class="section-wrapper wrapper container">
+                <div class="row gateway-link__row">
+                            <div class="col-12 col-md-6 gateway-link__image-wrap  link-images">
+                                            <div class="images slick-wrapper">
+                                                            <div class="slide">
+                                  <div class="image-inner image-crop-none">
+                                      <img data-lazy="https://igssyd-wp-01.s3.ap-southeast-2.amazonaws.com/production/2024/01/29032806/KidssmilingComputer.png" hidden>
+                                      <div class="bg animated opacity bg-fill" style="background-color: ;"></div>
+                                  </div>
+                                </div>
+                                                    </div>
+                                    </div>
+                        <div class="col-12 col-md-6  link-content">
+                <div class="content container">
+                    
+                                            <h2 class="title">
+                                                      <span class="multi-language-title" data-titles="[{&quot;title&quot;:&quot;Enrolment&quot;},{&quot;title&quot;:&quot;Iscrizione&quot;},{&quot;title&quot;:&quot;\u6ce8\u518c&quot;},{&quot;title&quot;:&quot;Anmeldung&quot;},{&quot;title&quot;:&quot;Inscription&quot;}]">
+                              Enrolment
+                            </span>
+                                                  </h2>
+                    
+                                          <div class="inner-content">
+                                                    <p>Our unique bilingual education reaps multiple benefits for girls and boys from their earliest years. Articulate, curious and well-informed, IGS students enjoy fresh perspectives and diverse experiences.</p>
+
+                        
+                                                    <a href="https://www.igssyd.nsw.edu.au/enrolment/" target="" class="link-more">
+                                Find out more
+                            </a>
+                        
+                                              </div>
+                    
+                </div>
+
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="section gateway-link theme-orange image-right">
+    <div class="section-wrapper wrapper container">
+                  <span class="binding-fabric" aria-hidden></span>
+                <div class="row gateway-link__row">
+                            <div class="col-12 col-md-6 gateway-link__image-wrap push-md-6 link-images">
+                                            <div class="images slick-wrapper">
+                                                            <div class="slide">
+                                  <div class="image-inner image-crop-circle">
+                                      <img data-lazy="https://igssyd-wp-01.s3.ap-southeast-2.amazonaws.com/production/2017/11/16231818/igs-indigenous-students-diversity-1-1600x1068.jpg" hidden>
+                                      <div class="bg animated opacity bg-fill" style="background-color: ;"></div>
+                                  </div>
+                                </div>
+                                                    </div>
+                                    </div>
+                        <div class="col-12 col-md-6 pull-md-6 link-content">
+                <div class="content container">
+                    
+                                            <h2 class="title">
+                                                      Scholarships 
+                                                  </h2>
+                    
+                                          <div class="inner-content">
+                                                    <p>In keeping with our values of diversity, personal achievement, connectedness, vibrancy and authenticity, the School has a long and proud tradition of educating young people through our scholarship programs.</p>
+
+                        
+                                                    <a href="https://www.igssyd.nsw.edu.au/enrolment/scholarships/" target="" class="link-more">
+                                Find out more
+                            </a>
+                        
+                                              </div>
+                    
+                </div>
+
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="section gateway-link theme-transparent image-left">
+    <div class="section-wrapper wrapper container">
+                  <span class="binding-fabric" aria-hidden></span>
+                <div class="row gateway-link__row">
+                            <div class="col-12 col-md-6 gateway-link__image-wrap  link-images">
+                                            <div class="images slick-wrapper">
+                                                            <div class="slide">
+                                  <div class="image-inner image-crop-circle">
+                                      <img data-lazy="https://igssyd-wp-01.s3.ap-southeast-2.amazonaws.com/production/2020/03/16231339/ShaunaColnanALP2017-23-e1626393140216-1600x1452.jpg" hidden>
+                                      <div class="bg animated opacity bg-fill" style="background-color: ;"></div>
+                                  </div>
+                                </div>
+                                                    </div>
+                                    </div>
+                        <div class="col-12 col-md-6  link-content">
+                <div class="content container">
+                    
+                                            <h2 class="title">
+                                                      A message from our Principal
+                                                  </h2>
+                    
+                                          <div class="inner-content">
+                                                    <p><strong>International Grammar School (IGS)</strong> opened its doors in 1984 with a unique vision to provide its students with a globally-focused bilingual education, rich in the study of music and the arts.</p>
+<p>Today, this pioneering spirit continues.</p>
+
+                        
+                                                    <a href="https://www.igssyd.nsw.edu.au/home/principals-welcome" target="" class="link-more">
+                                Read more from Shauna Colnan
+                            </a>
+                        
+                                              </div>
+                    
+                </div>
+
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="section featured-news theme-white">
+  <div class="container">
+    <div class="row">
+              <div class="col-12 featured-news-heading">
+          <h3 class="heading">
+                          News
+                      </h3>
+          <a href="https://www.igssyd.nsw.edu.au/news" class="button purple small">View all</a>
+        </div>
+      
+              <div class="col-12">
+          <div class="row">
+                            <div class="article-item col-12 col-md-4">
+                    <a href="https://www.igssyd.nsw.edu.au/blog/vive-la-revolution-gallery/">
+                        <div class="bg-wrapper">
+                          <div class="bg animated lazyload opacity" data-bg="https://igssyd-wp-01.s3.ap-southeast-2.amazonaws.com/production/2024/07/01101009/IGS-VIVE-LA-REVOLUTION-54-scaled.jpg"></div>
+                        </div>
+                        <div class="inner-content">
+                            <h4 class="title">Vive La Révolution! Gallery</h4>
+                            <p class="date">1.07.24 </p>
+                        </div>
+                    </a>
+                </div>
+                            <div class="article-item col-12 col-md-4">
+                    <a href="https://www.igssyd.nsw.edu.au/blog/igs-2023-annual-report-shared/">
+                        <div class="bg-wrapper">
+                          <div class="bg animated lazyload opacity" data-bg=""></div>
+                        </div>
+                        <div class="inner-content">
+                            <h4 class="title">2023 Annual Report</h4>
+                            <p class="date">27.06.24 </p>
+                        </div>
+                    </a>
+                </div>
+                            <div class="article-item col-12 col-md-4">
+                    <a href="https://www.igssyd.nsw.edu.au/blog/aboriginal-studies-showcase-enraptures/">
+                        <div class="bg-wrapper">
+                          <div class="bg animated lazyload opacity" data-bg="https://igssyd-wp-01.s3.ap-southeast-2.amazonaws.com/production/2024/06/21123824/DSC06591-scaled.jpg"></div>
+                        </div>
+                        <div class="inner-content">
+                            <h4 class="title">Aboriginal Studies Showcase Enraptures</h4>
+                            <p class="date">21.06.24 </p>
+                        </div>
+                    </a>
+                </div>
+                      </div>
+        </div>
+          </div>
+  </div>
+</div>
+<div class="section gateway-link theme-orange_pastel image-right">
+    <div class="section-wrapper wrapper container">
+                  <span class="binding-fabric" aria-hidden></span>
+                <div class="row gateway-link__row">
+                            <div class="col-12 col-md-6 gateway-link__image-wrap push-md-6 link-images">
+                                            <div class="images slick-wrapper">
+                                                            <div class="slide">
+                                  <div class="image-inner image-crop-none">
+                                      <img data-lazy="/app/uploads/2024/04/SCRIBBLE_IGS_LANGUAGE_PRIMARY_73591-1-1600x1067.jpg" hidden>
+                                      <div class="bg animated opacity bg-fill" style="background-color: ;"></div>
+                                  </div>
+                                </div>
+                                                    </div>
+                                    </div>
+                        <div class="col-12 col-md-6 pull-md-6 link-content">
+                <div class="content container">
+                    
+                                            <h2 class="title">
+                                                      Virtual Tour
+                                                  </h2>
+                    
+                                          <div class="inner-content">
+                                                    <p>Take a Virtual Tour of different parts of our School.</p>
+
+                        
+                                                    <a href="https://igss.youtour.com.au/#" target="_blank" class="link-more">
+                                Take Virtual Tour
+                            </a>
+                        
+                                              </div>
+                    
+                </div>
+
+                            </div>
+        </div>
+    </div>
+</div>
+                    
+                                </main>
+    </div>
+<section class="section directory">
+  <div class="container">
+    <h2 class="heading">
+              <span class="multi-language-title" data-titles="[{&quot;title&quot;:&quot;Directory&quot;},{&quot;title&quot;:&quot;Annuaire&quot;},{&quot;title&quot;:&quot;\u30c7\u30a3\u30ec\u30af\u30c8\u30ea&quot;},{&quot;title&quot;:&quot;Direttorio&quot;},{&quot;title&quot;:&quot;\u76ee\u5f55&quot;},{&quot;title&quot;:&quot;Verzeichnis&quot;}]">
+          Directory
+        </span>
+          </h2>
+    <nav role="navigation" aria-label="Site Directory">
+        <ul id="menu-directory" class="menu"><li class="menu-item menu-item-has-children menu-enrolment"><a href="#">Enrolment</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-book-a-tour"><a href="https://www.igssyd.nsw.edu.au/book-a-tour/">Book a Tour</a></li>
+	<li class="menu-item menu-apply-now"><a href="https://www.igssyd.nsw.edu.au/enrolment/apply/">Apply Now</a></li>
+	<li class="menu-item menu-scholarships"><a href="https://www.igssyd.nsw.edu.au/enrolment/scholarships/">Scholarships</a></li>
+	<li class="menu-item menu-fees"><a href="https://www.igssyd.nsw.edu.au/enrolment/fees/">Fees</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-has-children menu-parents"><a href="#">Parents</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-term-dates"><a href="https://www.igssyd.nsw.edu.au/enrolment/term-dates/">Term Dates</a></li>
+	<li class="menu-item menu-canteen"><a href="https://parents.igssyd.nsw.edu.au/amenities/canteen">Canteen</a></li>
+	<li class="menu-item menu-uniform-shop"><a href="https://parents.igssyd.nsw.edu.au/amenities/uniforms">Uniform Shop</a></li>
+	<li class="menu-item menu-payments"><a href="https://quickweb.westpac.com.au/OnlinePaymentServlet2?communityCode=ISQWEB&#038;currencyCode=AUD&#038;supplierBusinessCode=IGSS">Payments</a></li>
+	<li class="menu-item menu-operoo"><a href="https://groups.operoo.com/users/sign_in">Operoo</a></li>
+	<li class="menu-item menu-engage"><a href="https://igssydneyportal.engagehosted.com/Login.aspx?ReturnUrl=%2fdefault.aspx">Engage</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-has-children menu-community"><a href="#">Community</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-alums"><a href="https://www.igssyd.nsw.edu.au/community-3/alums/">Alums</a></li>
+	<li class="menu-item menu-news"><a href="https://www.igssyd.nsw.edu.au/news/">News</a></li>
+	<li class="menu-item menu-first-nations"><a href="https://www.igssyd.nsw.edu.au/community-3/first-nations/">First Nations</a></li>
+	<li class="menu-item menu-sharing"><a href="https://www.igssyd.nsw.edu.au/community-3/sharing/">Sharing</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-has-children menu-careers"><a href="#">Careers</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-positions"><a href="https://internationalgrammar.connxcareers.com/">Positions</a></li>
+	<li class="menu-item menu-job-alerts"><a href="https://www.igssyd.nsw.edu.au/about-us/employment/job-alerts/">Job Alerts</a></li>
+	<li class="menu-item menu-staff-login"><a href="https://www.igssyd.nsw.edu.au/login/">Staff Login</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-has-children menu-governance"><a href="#">Governance</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-privacy"><a href="https://www.igssyd.nsw.edu.au/privacy/">Privacy</a></li>
+	<li class="menu-item menu-the-school-board"><a href="https://www.igssyd.nsw.edu.au/about-us/governance-policies/the-school-board/">The School Board</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-has-children menu-contact-us"><a href="#">Contact Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-directions"><a href="https://www.igssyd.nsw.edu.au/contact/">Directions</a></li>
+</ul>
+</li>
+</ul>
+    </nav>
+  </div>
+</section>
+
+<footer class="main-footer">
+    <div class="footer-stripes" aria-hidden>
+      <span class="binding-fabric" ></span>
+      <span class="stripe"></span>
+      <span class="stripe lg"></span>
+    </div>
+    <div class="container">
+        <div class="footer-primary">
+          <div>
+                              <p>
+                                        <strong>Gadigal Land</strong>
+                                    <a href="https://www.google.com/maps/search/?api=1&query=4-8+Kelly+Street+Ultimo+NSW+2007+Australia" class="address" target="_blank">
+                      <span><p>4-8 Kelly Street,<br />
+Ultimo NSW 2007</p>
+</span>
+                  </a>
+                </p>
+              
+                                <p class="footer-phone">
+                    Phone
+                    <a href="tel:+61 2 9219 6700">
+                      +61 2 9219 6700
+                    </a>
+                  </p>
+                        </div>
+          <div class="footer-social-links">
+                                <ul>
+                                                <li>
+                              <a class="social-link" href="https://www.facebook.com/igssyd/?rf=715658808455369" target="_blank" rel="noopener">
+                                  Facebook
+                              </a>
+                          </li>
+                                                <li>
+                              <a class="social-link" href="https://www.threads.net/@igssyd" target="_blank" rel="noopener">
+                                  Threads
+                              </a>
+                          </li>
+                                                <li>
+                              <a class="social-link" href="https://www.linkedin.com/company/3033757/" target="_blank" rel="noopener">
+                                  LinkedIn
+                              </a>
+                          </li>
+                                                <li>
+                              <a class="social-link" href="https://www.instagram.com/igssyd/?hl=en" target="_blank" rel="noopener">
+                                  Instagram
+                              </a>
+                          </li>
+                                                <li>
+                              <a class="social-link" href="https://www.youtube.com/channel/UCi1ps2G2k1dyirJ_za6dUsw/featured" target="_blank" rel="noopener">
+                                  YouTube
+                              </a>
+                          </li>
+                                        </ul>
+                        </div>
+          <div class="footer-logo">
+             <a href="https://www.igssyd.nsw.edu.au/" title="International Grammar School Sydney">
+                <svg class="igs-logo" width="160" height="160" viewBox="0 0 600 602" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path class="mark" d="M165.16 406.06H208.45V190.27H165.16V406.06ZM335.08 292.03H284.04V325.95H295.67V336.61C295.67 359.55 292.12 370.21 282.75 370.21C271.12 370.21 267.24 346.63 267.24 301.08C267.24 252.62 271.12 226.13 282.42 226.13C293.72 226.13 293.73 245.19 293.4 264.25L333.78 257.47C333.78 217.09 318.92 188.34 283.39 188.34C243.98 188.34 222.66 227.43 222.66 301.08C222.66 366.98 239.46 408.01 273.05 408.01C288.23 408.01 297.6 398.64 302.12 385.07L306 406.07H335.07V292.04L335.08 292.03ZM388.38 240.02C388.38 229.68 392.9 222.58 401.3 222.58C412.61 222.58 415.51 238.09 414.54 257.15L450.72 250.04C452.01 212.24 434.57 188.34 400.97 188.34C367.37 188.34 347.02 212.57 347.02 244.55C347.02 298.17 410.34 320.14 410.34 355.35C410.34 366.01 406.46 373.12 397.1 373.12C385.47 373.12 379.98 357.61 382.24 333.71L345.41 341.14C342.5 383.14 364.79 408.01 398.07 408.01C431.35 408.01 452.02 384.43 452.02 351.15C452.02 295.59 388.38 270.71 388.38 240.02Z" fill="#ffffff"/>
+                  <path class="text" d="M137.75 105.41L108.93 69.18L117.71 62.19L146.53 98.42L137.75 105.41ZM172.06 81.18L156.98 52.86L154.62 49.38L157.38 51.72L187.96 72.71L199.15 66.75L177.39 25.9L167.99 30.91L182.42 57.99L184.58 61.51L181.85 59.08L152.66 39.07L140.85 45.36L162.61 86.21L172.07 81.17L172.06 81.18ZM219.31 21.29L228.85 56.87L239.51 54.01L229.97 18.43L243.38 14.83L240.93 5.69999L203.39 15.77L205.84 24.9L219.31 21.29ZM305.9 46.2L305.44 36.83L280.62 38.05L280.13 28.17L298.93 27.24L298.53 19.2L279.72 20.13L279.25 10.57L303.75 9.35999L303.29 -0.0100098L268.03 1.72999L270.31 47.95L305.89 46.2H305.9ZM333.75 48.9L322.86 47.12L330.31 1.44999L352.4 5.04999C363.29 6.82999 368.18 13.02 366.88 21.03C365.86 27.29 360.86 31.54 352.66 31.81C354.75 32.41 356.35 33.18 357.52 34.27C359.94 36.4 360.88 39.64 361.59 45.15L362.65 53.61L350.83 51.68L349.94 43.38C349.24 36.26 348 34.78 341.25 33.68L336.37 32.88L333.76 48.9H333.75ZM337.58 25.44L345.65 26.76C351.53 27.72 355.02 25.59 355.7 21.46C356.36 17.39 354.05 14.64 347.92 13.64L339.72 12.3L337.58 25.44ZM399.44 32.26L400.62 28.22L400.57 31.83L403.9 68.78L415.63 73.6L433.23 30.78L423.38 26.73L411.71 55.12L410.38 59.03L410.51 55.38L407.31 20.12L394.93 15.03L377.33 57.85L387.24 61.92L399.44 32.24V32.26ZM429.38 80.87L470.55 53.52L480.57 60.76L467.67 108.52L458.42 101.84L460.88 93.45L445.77 82.54L438.63 87.55L429.38 80.87ZM452.45 77.83L463.19 85.59L467.95 69.25L469.29 65.76L466.35 68.1L452.44 77.84L452.45 77.83ZM490.31 132.45L517.36 107.44L526.79 117.64L533.73 111.23L507.34 82.69L500.4 89.1L509.87 99.34L482.82 124.35L490.31 132.45ZM516.04 167.03L554.83 141.78L548.71 132.38L509.92 157.63L516.04 167.03ZM547.45 173.74C559.4 168.8 572.64 172.46 578.23 186C584.13 200.3 577.19 211.4 565.06 216.4C552.93 221.41 540.06 218.15 534.21 203.97C528.28 189.61 535.26 178.77 547.45 173.74ZM551.83 184.35C543.92 187.62 540.11 193.17 543.11 200.44C546.09 207.65 552.63 209.2 560.71 205.86C568.86 202.5 572.37 196.72 569.44 189.63C566.63 182.83 559.8 181.06 551.83 184.35ZM549.69 252.99L581.42 248.25L585.49 247.19L582.36 249L552.34 270.79L554.21 283.33L599.99 276.49L598.42 265.96L568.07 270.49L564.03 271.35L567.23 269.59L595.86 248.77L593.88 235.54L548.1 242.38L549.68 252.98L549.69 252.99ZM555.04 300.15L599.57 321.59L598.47 333.9L550.82 347.18L551.84 335.82L560.31 333.65L561.98 315.09L554.03 311.51L555.05 300.15H555.04ZM568.25 331.63L584.73 327.38L588.42 326.76L584.91 325.43L569.44 318.44L568.25 331.64V331.63ZM536.76 394.42L546.49 397.5L553.25 376.17L587.63 387.07L591.02 376.37L546.91 362.39L536.76 394.42ZM528.96 456.26C519.66 448.71 507.57 446.9 499.06 457.39C494.15 463.45 494.24 470.38 498.51 476.79L489.84 469.76L483.25 477.88L503.19 494.06L518.3 475.45L512.44 470.7L504.21 480.84C499.91 475.88 500.21 470.57 503.93 465.99C508.69 460.13 515.49 460.1 522.43 465.73C529.57 471.52 530.46 478.78 525.87 484.44C522.11 489.07 517.98 490.04 512.61 488.71L510.65 500.68C518.88 501.4 526.21 499.42 533.08 490.95C542.67 479.13 540.15 465.33 528.98 456.26H528.96ZM468.57 491.48L496.6 528.3L478.8 541.85C470.03 548.53 462.16 547.83 457.24 541.37C453.4 536.33 453.75 529.77 459.19 523.63C457.32 524.73 455.65 525.37 454.06 525.47C450.85 525.76 447.85 524.22 443.36 520.95L436.49 515.9L446.02 508.64L452.66 513.7C458.31 518.08 460.24 518.21 465.68 514.06L469.61 511.06L459.78 498.15L468.56 491.47L468.57 491.48ZM474.19 517.07L467.68 522.02C462.94 525.63 462.08 529.63 464.62 532.96C467.12 536.24 470.7 536.45 475.65 532.69L482.26 527.66L474.2 517.07H474.19ZM425.79 522.53L428.95 571.87L417.68 576.95L382.72 541.92L393.13 537.24L399.17 543.56L416.17 535.91L415.39 527.22L425.8 522.54L425.79 522.53ZM418.97 564.68L418.41 560.97L416.91 544.05L404.83 549.49L416.62 561.77L418.97 564.68ZM357.59 548.47L362.84 579.99L364.11 585.69L361.74 579.98L346.77 550.28L337.58 551.81L333.06 584.83L332.64 591.2L331.95 585.14L326.7 553.62L316.19 555.37L323.79 601.02L338.79 598.46L343.56 562.64L343.61 560.25L344.44 562.55L360.37 594.92L375.75 592.36L368.15 546.71L357.58 548.47H357.59ZM282.7 586.37L282.35 592.2L281.65 586.06L275.45 553.38L266.19 552.32L252.73 582.81L250.57 588.82L251.58 582.81L255.23 551.07L244.65 549.86L239.37 595.84L254.49 597.51L268.95 564.39L269.66 562.11L269.83 564.55L276.22 600.06L291.71 601.84L296.99 555.86L286.35 554.64L282.7 586.38V586.37ZM219.19 541.66L229.82 545.81L196.81 582.6L185.3 578.1L185.83 528.63L196.46 532.78L196.18 541.52L213.54 548.3L219.19 541.66ZM208.24 554.53L195.9 549.71L195.38 566.73L194.95 570.44L197.21 567.44L208.24 554.53ZM163.17 514.59L172.28 520.82L146.13 559.02L127.66 546.38C118.55 540.15 116.75 532.46 121.33 525.76C124.91 520.53 131.25 518.79 138.79 522.03C137.15 520.6 136.03 519.22 135.43 517.73C134.15 514.78 134.66 511.44 136.36 506.15L138.99 498.04L148.88 504.81L146.16 512.71C143.77 519.45 144.26 521.32 149.91 525.19L153.99 527.98L163.16 514.58L163.17 514.59ZM149.74 534.21L142.99 529.59C138.07 526.22 134 526.67 131.64 530.12C129.31 533.52 130.24 537 135.37 540.51L142.23 545.2L149.75 534.21H149.74ZM68.41 435.71C60.97 440.78 62.57 447.98 66.72 456.89C69.72 463.44 71.24 467.01 68.2 469.08C66.05 470.54 62.97 469.96 60.32 466.08C57 461.21 56.91 456.9 58.78 452.09L47.86 448.56C45.43 456.82 46.99 463.73 51.74 470.7C58.24 480.24 67.1 481.88 73.49 477.52C80.88 472.49 79.32 465.57 75.47 457.22C72.4 450.57 70.58 446.43 73.73 444.29C76.09 442.68 79.1 443.39 81.67 447.17C85.17 452.31 85.28 456.76 83.61 462.19L94.81 465.23C96.82 458.26 96.04 450.81 90.22 442.27C84.08 433.26 75.49 430.89 68.42 435.71H68.41ZM64.08 392.63C59.18 380.18 49.21 376.34 38.21 378.5L40.69 389.99C47.07 388.36 52.57 389.53 55.22 396.26C58.17 403.75 54.17 409 46.21 412.14C38.19 415.3 31.46 413.45 28.7 406.43C26.26 400.24 28.8 395.96 34.15 392.77L27.25 383.22C18.83 388.99 15.12 398.09 19.72 409.76C25.23 423.74 38.38 427.56 50.42 422.81C62.45 418.07 70.22 408.2 64.08 392.62V392.63ZM49.86 344.67L30.64 347.32L28.13 329.11L47.35 326.46L45.85 315.53L0 321.84L1.5 332.77L20.15 330.2L22.66 348.41L4.01 350.98L5.51 361.91L51.36 355.6L49.86 344.67ZM0.85 270.15C2.4 254.76 13.76 248.26 26.82 249.58C39.88 250.9 49.68 259.85 48.14 275.11C46.58 290.56 35.31 296.82 22.19 295.49C9.32 294.19 -0.62 284.72 0.85 270.14V270.15ZM23.34 284.08C31.86 284.94 37.84 281.85 38.63 274.03C39.41 266.27 34.38 261.81 25.68 260.94C16.91 260.06 11.09 263.48 10.32 271.11C9.58 278.43 14.77 283.22 23.35 284.08H23.34ZM17.37 197.79C22.66 183.25 35.27 179.74 47.61 184.23C59.94 188.72 67.25 199.81 62 214.23C56.69 228.83 44.22 232.12 31.83 227.61C19.67 223.19 12.37 211.56 17.37 197.79ZM35.75 216.82C43.79 219.75 50.36 218.22 53.04 210.83C55.71 203.5 51.93 197.94 43.7 194.95C35.42 191.94 28.93 193.83 26.3 201.04C23.79 207.95 27.64 213.87 35.74 216.82H35.75ZM75.56 161.55L45.24 141.99L39.16 151.42L78.06 176.51L96.28 148.27L87.7 142.74L75.57 161.55H75.56Z" fill="#fff"/>
+                </svg>
+              </a>
+          </div>
+        </div>
+
+        <div class="footer-secondary">
+                          <!-- TODO: lang switcher -->
+              <p class="footer-acknowledgement">
+                <span class="multi-language-title" data-titles="[{&quot;title&quot;:&quot;Baranyin yagu barribu Aboriginal bimalgu.&quot;},{&quot;title&quot;:&quot;Yesterday, today, and tomorrow, this is Aboriginal land.&quot;}]">
+                  Baranyin yagu barribu Aboriginal bimalgu.
+                </span>
+              </p>
+                    </div>
+
+        <div class="footer-secondary">
+                        <p class="footer-slogan">Unity Through Diversity</p>
+                    <div class="footer-copyright">
+            <p>
+                              <span class="copyright_text">&copy; 2024 International Grammar School</span>
+              
+                                                <span aria-hidden> | </span>
+                  <a class="footer-link" href="https://www.igssyd.nsw.edu.au/contact/">
+                      Contact us
+                  </a>
+                                  <span aria-hidden> | </span>
+                  <a class="footer-link" href="https://www.igssyd.nsw.edu.au/accessibility/">
+                      Accessibility
+                  </a>
+                                          </p>
+          </div>
+        </div>
+    </div>
+</footer>
+<div id="pum-38451" class="pum pum-overlay pum-theme-16236 pum-theme-default-theme popmake-overlay pum-overlay-disabled click_open" data-popmake="{&quot;id&quot;:38451,&quot;slug&quot;:&quot;ultimo-series&quot;,&quot;theme_id&quot;:16236,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-38451&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;path&quot;:&quot;1&quot;,&quot;time&quot;:&quot;1 month&quot;}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:&quot;1&quot;,&quot;overlay_disabled&quot;:&quot;1&quot;,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;custom&quot;,&quot;responsive_min_width&quot;:&quot;0px&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;100%&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:&quot;1&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;0&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:&quot;1&quot;,&quot;animation_type&quot;:&quot;fadeAndSlide&quot;,&quot;animation_speed&quot;:&quot;300&quot;,&quot;animation_origin&quot;:&quot;top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false"
+								   >
+
+	<div id="popmake-38451" class="pum-container popmake theme-16236 size-custom pum-position-fixed">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content" tabindex="0">
+			<p>Join us to hear Professor Ian Hickie speak on &#8216;Navigating Youth Mental Health in the Post-Covid World&#8217; &#8211; Wednesday 20 March at 5.45pm &#8211; tickets at https://events.humanitix.com/the-ultimo-series <a class="popup-link link" href="https://events.humanitix.com/the-ultimo-series" target="_self" rel="noopener"></a></p>
+		</div>
+
+
+				
+
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			CLOSE			</button>
+		
+	</div>
+
+</div>
+<script type="text/javascript" src="/wp/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="popup-maker-site-js-extra">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.18.2","pm_dir_url":"https:\/\/www.igssyd.nsw.edu.au\/app\/plugins\/popup-maker\/","ajaxurl":"https:\/\/www.igssyd.nsw.edu.au\/wp\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.igssyd.nsw.edu.au\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"16236","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"cookie_domain":"","analytics_route":"analytics","analytics_api":"https:\/\/www.igssyd.nsw.edu.au\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.igssyd.nsw.edu.au\/wp\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-38451":{"triggers":[],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-38451","key":"","session":false,"path":"1","time":"1 month"}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"16236","size":"custom","responsive_min_width":"0px","responsive_max_width":"100px","custom_width":"100%","custom_height_auto":true,"custom_height":"380px","scrollable_content":false,"animation_type":"fadeAndSlide","animation_speed":"300","animation_origin":"top","open_sound":"none","custom_sound":"","location":"center top","position_top":"0","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":true,"overlay_disabled":true,"stackable":true,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"default-theme","id":38451,"slug":"ultimo-series"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/app/plugins/popup-maker/assets/js/site.min.js?defer&amp;ver=1.18.2" id="popup-maker-site-js"></script>
+<script type="text/javascript" src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,fetch" id="polyfill-js"></script>
+<script type="text/javascript" src="/app/themes/igs/dist/vendor/node-static.js" id="sage/node-static.js-js"></script>
+<script type="text/javascript" id="sage/main.js-js-extra">
+/* <![CDATA[ */
+var jsParams = {"ajaxUrl":"https:\/\/www.igssyd.nsw.edu.au\/wp\/wp-admin\/admin-ajax.php","restUrl":"https:\/\/www.igssyd.nsw.edu.au\/wp-json\/","maxFileSize":"128"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/app/themes/igs/dist/scripts/main.js" id="sage/main.js-js"></script>
+                <!-- FullStory Tracking Code -->
+        <script>
+          window['_fs_debug'] = false;
+          window['_fs_host'] = 'fullstory.com';
+          window['_fs_org'] = 'E4EHS';
+          window['_fs_namespace'] = 'FS';
+          (function(m,n,e,t,l,o,g,y){
+            if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
+            g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
+            o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
+            y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+            g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){g(l,v)};g.event=function(i,v){g('event',{n:i,p:v})};
+            g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
+            g.consent=function(a){g("consent",!arguments.length||a)};
+            g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+            g.clearUserCookie=function(){};
+          })(window,document,window['_fs_namespace'],'script','user');
+        </script>
+    </body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 523/827 objects using Disk
+Page Caching using Disk: Enhanced 
+Database Caching using Disk (Request-wide modification query)
+
+Served from: www.igssyd.nsw.edu.au @ 2024-07-02 20:56:10 by W3 Total Cache
+-->

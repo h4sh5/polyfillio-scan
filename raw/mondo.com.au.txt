@@ -1,0 +1,649 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+    <link rel="alternate" href="https://mondo.com.au" hreflang="en" />
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+<script type="text/javascript">
+/* <![CDATA[ */
+ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}}); 
+/* ]]> */
+</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="turbolinks-cache-control" content="no-cache">
+        <title>Mondo | Looking forward to a bright future</title>
+<!--⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Developed by:
+============
+
+    IgniteOnline 🚀
+    🌍: https://igniteonline.com.au
+    📨: hello@igniteonline.com.au
+    📍: https://goo.gl/maps/bDHjoMW9ddS2
+
+
+-->
+<!-- The SEO Framework by Sybre Waaijer -->
+<meta name="description" content="We help businesses and communities make sense of what’s possible, then plan and deliver solutions to keep everyone ahead of the rapidly changing landscape." />
+<meta property="og:image" content="https://mondo.com.au/app/uploads/2018/11/Mondo_Power_Looking_forward_to_a_bright_futurev2.jpg" />
+<meta property="og:image:width" content="3900" />
+<meta property="og:image:height" content="2138" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Mondo | Looking forward to a bright future" />
+<meta property="og:description" content="We help businesses and communities make sense of what’s possible, then plan and deliver solutions to keep everyone ahead of the rapidly changing landscape." />
+<meta property="og:url" content="https://mondo.com.au/" />
+<meta property="og:site_name" content="Mondo" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Mondo | Looking forward to a bright future" />
+<meta name="twitter:description" content="We help businesses and communities make sense of what’s possible, then plan and deliver solutions to keep everyone ahead of the rapidly changing landscape." />
+<meta name="twitter:image" content="https://mondo.com.au/app/uploads/2018/11/Mondo_Power_Looking_forward_to_a_bright_futurev2.jpg" />
+<link rel="canonical" href="https://mondo.com.au/" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","url":"https://mondo.com.au/","name":"Mondo","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mondo.com.au/search/{search_term_string}"},"query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://mondo.com.au/","name":"Mondo"}</script>
+<!-- / The SEO Framework by Sybre Waaijer | 8.95ms meta | 33.56ms boot -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//stackpath.bootstrapcdn.com' />
+<link rel="stylesheet" href="/wp/wp-includes/css/dist/block-library/style.min.css?ver=6.5.3">
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" href="/app/plugins/contact-form-7/includes/css/styles.css?ver=5.9.5">
+<link rel="stylesheet" href="/app/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=1.1">
+<link rel="stylesheet" href="/app/themes/mondo/dist/styles/main_8bd51e5d.css">
+<link rel="stylesheet" href="//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.5.3">
+<script type="text/javascript" src="/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" defer src="/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,fetch,Promise,es6,Array.prototype.includes,CustomEvent,Object.entries,Object.values,URL" id="polyfill-js"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5Z54GBJ');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 850785434 -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=AW-850785434"></script> -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-850785434');
+</script>
+
+<meta name="facebook-domain-verification" content="n965bcs4kogp73logv5sv1ep2wqliy" />
+<meta name="google-site-verification" content="1nLKZ1f-Z9XFYS3F5SI-oMmM2mnBT3GrwcYUGc1wejA" /></head><body class="home page">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5Z54GBJ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <script type="text/javascript"> const google = undefined;</script>
+<!--[if IE]>
+<div class="alert alert-warning">
+    You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your
+    browser</a> to improve your experience.</div>
+<![endif]-->
+
+<header class="main-header">
+            <nav class="hidden-xs-up">
+        <ul id="primary_nav" class="nav"><li class="menu-item menu-terms-conditions"><a href="https://mondo.com.au/energy-services/terms-conditions">Terms &#038; Conditions</a></li>
+<li class="menu-item menu-privacy-policy"><a href="https://mondo.com.au/community-energy/privacy-policy">Privacy Policy</a></li>
+<li class="menu-item menu-careers"><a target="_blank" rel="noopener" href="https://jobs.ausnetservices.com.au/">Careers</a></li>
+<li class="menu-item menu-contact"><a href="https://mondo.com.au/contact">Contact</a></li>
+</ul>    </nav>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="header-logo home">
+                <a class="scroll brand home"
+                   href="https://mondo.com.au/" alt="Mondo">
+                    <span>Mondo</span>
+                    <?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 306 86" fill="none">
+<path d="M272.905 39.9044C267.175 39.9044 262.625 41.5744 257.255 46.1044C257.195 46.1444 238.865 62.0444 238.865 62.0444L251.685 4.8044C252.165 2.6744 250.825 0.564398 248.695 0.0943976C246.575 -0.375602 244.455 0.954397 243.985 3.0844L233.665 49.1544C229.505 43.5444 222.835 39.9044 215.335 39.9044C208.915 39.9044 203.895 41.8744 198.865 46.9044C198.835 46.9344 195.635 50.1944 195.605 50.2244L178.115 68.6944L179.515 62.4444C181.735 52.5244 175.475 42.6544 165.555 40.4244C160.765 39.3544 155.835 40.2144 151.665 42.8544C150.615 43.5244 149.665 44.2944 148.755 45.0844L128.635 62.5944C128.565 50.0644 118.365 39.8944 105.825 39.8944C99.5751 39.8944 94.3451 42.2144 87.3651 48.9344C85.4951 50.8044 67.2651 69.1044 67.2651 69.1044L72.8951 44.3744C73.2851 42.6444 72.4851 40.8744 70.9251 40.0244C69.3651 39.1844 67.4451 39.4744 66.2051 40.7444L39.2751 68.5844L45.3651 44.4844C45.8051 42.7544 45.0251 40.9544 43.4751 40.0744C41.9251 39.2044 39.9751 39.4744 38.7251 40.7444L1.13511 78.8744C-0.394891 80.4244 -0.37489 82.9244 1.17511 84.4544C2.72511 85.9844 5.22511 85.9644 6.75511 84.4144L34.1451 56.6244L28.2151 80.6744C27.7751 82.4044 28.5551 84.2144 30.1251 85.0844C30.7251 85.4244 31.3851 85.5844 32.0451 85.5844C33.0851 85.5844 34.1151 85.1744 34.8851 84.3844L62.0751 56.3844L56.5251 80.7644C56.1351 82.4844 56.9251 84.2444 58.4651 85.0944C60.0051 85.9444 61.9251 85.6744 63.0951 84.4944L83.0051 64.4944C83.9451 76.2144 93.8151 85.5444 105.825 85.5444C112.065 85.5444 117.725 83.0244 121.845 78.9544C121.855 78.9444 121.855 78.9444 121.865 78.9344L141.945 61.5044L137.625 80.7744C137.145 82.9044 138.485 85.0144 140.615 85.4844C142.745 85.9644 144.855 84.6244 145.325 82.4944L151.245 56.1044C151.695 54.0944 152.715 52.3044 154.165 50.8844L154.175 50.8744C154.205 50.8544 154.225 50.8244 154.245 50.7944C154.745 50.3244 155.295 49.8944 155.895 49.5144C158.285 48.0044 161.105 47.5044 163.835 48.1144C169.505 49.3844 173.085 55.0344 171.815 60.7044L167.375 80.7644C166.895 82.8944 168.235 85.0044 170.365 85.4744C170.655 85.5344 170.945 85.5744 171.235 85.5744C172.425 85.5744 173.525 85.0244 174.265 84.1344L192.635 64.9044C193.745 76.4644 203.505 85.5244 215.345 85.5244C221.455 85.5244 226.125 83.4844 231.115 79.1744C236.105 74.8544 250.095 62.7544 250.095 62.7544C250.115 75.3144 260.345 85.5344 272.915 85.5344C285.495 85.5344 295.735 75.2944 295.735 62.7144C295.725 50.1444 285.495 39.9044 272.905 39.9044ZM90.9051 62.7244C90.9051 54.4944 97.5951 47.8044 105.825 47.8044C114.055 47.8044 120.745 54.4944 120.745 62.7244C120.745 70.9544 114.055 77.6444 105.825 77.6444C97.6051 77.6544 90.9051 70.9544 90.9051 62.7244ZM200.415 62.7244C200.415 54.4944 207.105 47.8044 215.335 47.8044C223.565 47.8044 230.255 54.4944 230.255 62.7244C230.255 63.7444 230.155 64.7344 229.955 65.6944L229.925 65.8144C228.505 72.5644 222.495 77.6544 215.325 77.6544C207.115 77.6544 200.415 70.9544 200.415 62.7244ZM272.905 77.6544C264.675 77.6544 257.985 70.9644 257.985 62.7344C257.985 54.5044 264.675 47.8144 272.905 47.8144C281.135 47.8144 287.825 54.5044 287.825 62.7344C287.835 70.9544 281.135 77.6544 272.905 77.6544ZM295.725 46.6244C295.725 45.9144 295.865 45.2544 296.135 44.6344C296.405 44.0144 296.775 43.4744 297.235 43.0144C297.695 42.5544 298.245 42.1844 298.855 41.9144C299.475 41.6444 300.135 41.5044 300.845 41.5044C301.555 41.5044 302.215 41.6444 302.835 41.9144C303.455 42.1844 303.995 42.5544 304.455 43.0144C304.915 43.4744 305.285 44.0244 305.555 44.6344C305.825 45.2544 305.965 45.9144 305.965 46.6244C305.965 47.3344 305.825 47.9944 305.555 48.6144C305.285 49.2344 304.915 49.7744 304.455 50.2344C303.995 50.6944 303.445 51.0644 302.835 51.3344C302.215 51.6044 301.555 51.7444 300.845 51.7444C300.135 51.7444 299.475 51.6044 298.855 51.3344C298.235 51.0644 297.695 50.6944 297.235 50.2344C296.775 49.7744 296.405 49.2244 296.135 48.6144C295.865 47.9944 295.725 47.3244 295.725 46.6244ZM297.135 46.6244C297.135 47.1544 297.235 47.6544 297.425 48.1344C297.615 48.6044 297.885 49.0144 298.225 49.3644C298.565 49.7144 298.955 49.9944 299.405 50.1944C299.855 50.4044 300.335 50.5044 300.855 50.5044C301.375 50.5044 301.855 50.4044 302.305 50.1944C302.755 49.9844 303.145 49.7144 303.485 49.3644C303.825 49.0144 304.095 48.6044 304.285 48.1344C304.475 47.6644 304.575 47.1544 304.575 46.6244C304.575 46.0944 304.475 45.5944 304.285 45.1144C304.095 44.6444 303.825 44.2344 303.485 43.8844C303.145 43.5344 302.755 43.2544 302.305 43.0544C301.855 42.8444 301.375 42.7444 300.855 42.7444C300.335 42.7444 299.855 42.8444 299.405 43.0544C298.955 43.2644 298.565 43.5344 298.225 43.8844C297.885 44.2344 297.615 44.6444 297.425 45.1144C297.225 45.5844 297.135 46.0844 297.135 46.6244ZM298.885 43.8844H300.785C300.935 43.8844 301.135 43.8944 301.395 43.9144C301.655 43.9344 301.905 43.9944 302.155 44.1044C302.405 44.2144 302.615 44.3844 302.805 44.6244C302.985 44.8544 303.085 45.1944 303.085 45.6244C303.085 45.9044 303.045 46.1244 302.975 46.3044C302.905 46.4844 302.805 46.6344 302.695 46.7444C302.585 46.8644 302.445 46.9444 302.295 47.0044C302.145 47.0644 301.985 47.1044 301.835 47.1244L303.215 49.2544H301.765L300.525 47.1844H300.295V49.2544H298.895V43.8844H298.885ZM300.275 46.1144H300.835C300.915 46.1144 301.005 46.1144 301.105 46.1044C301.205 46.0944 301.295 46.0744 301.375 46.0344C301.455 45.9944 301.525 45.9444 301.585 45.8644C301.645 45.7844 301.665 45.6744 301.665 45.5444C301.665 45.4044 301.635 45.2944 301.585 45.2244C301.535 45.1444 301.465 45.0844 301.375 45.0544C301.295 45.0144 301.205 44.9944 301.105 44.9844C301.005 44.9744 300.915 44.9744 300.835 44.9744H300.275V46.1144Z" fill="#FF6700"/>
+</svg>
+                </a>
+            </div>
+            <div class="row" style="z-index: 100">
+
+                <div class="menu-tools desktop">
+                                          
+                      <button class="menu-tool btn orange-gradient" onclick="window.open('https://quickweb.westpac.com.au/OnlinePaymentServlet3?communityCode=AUSNET&supplierBusinessCode=SELECTSOLUTIONSGROUP', '_self')" type="button">
+                        <span class="menu-title" >Pay a Bill</span>
+                      </button>
+                                          
+                      <button class="menu-tool btn orange-gradient" onclick="window.open('http://mondo.com.au/log-in', '_self')" type="button">
+                        <span class="menu-title" >Login</span>
+                      </button>
+                                          
+                      <button class="menu-tool btn orange-gradient" onclick="window.open('http://mondo.com.au/contact', '_self')" type="button">
+                        <span class="menu-title" >Contact Us</span>
+                      </button>
+                                    </div>
+
+                <!-- <div class="nav-contact">
+                  <a href="tel:1300417416">
+                    <img src="https://mondo.com.au/app/themes/mondo/dist/images/phone-icon_f211bfa9.svg" alt="phone icon">
+                  </a>
+                </div> -->
+
+            </div>
+            <div class="header-buttons">
+                <!-- Site 1 Menu -->
+
+                <span id='section-togglers'>
+                  
+                          <button class="menu-toggler section-toggler btn energy-services" data-section="7189" data-url="https://mondo.com.au/energy-services" type="button">
+                            <span class="menu-title">Energy Services</span>
+                            <!-- Menu title goes here if applicable -->
+                          </button>
+                          
+                          <button class="menu-toggler section-toggler btn community-energy" data-section="7188" data-url="https://mondo.com.au/community-energy/mini-grids" type="button">
+                            <span class="menu-title">Community Energy</span>
+                            <!-- Menu title goes here if applicable -->
+                          </button>
+                          
+                          <button class="menu-toggler section-toggler btn projects" data-section="6893" data-url="https://mondo.com.au/projects" type="button">
+                            <span class="menu-title">Projects</span>
+                            <!-- Menu title goes here if applicable -->
+                          </button>
+                          
+                          <button class="menu-toggler section-toggler news" data-section="5556" data-url="https://mondo.com.au/news" type="button">
+                            <span class="menu-title">News</span>
+                            <!-- Menu title goes here if applicable -->
+                          </button>
+                                          </span>
+
+                <button class="menu-toggler hamburger hamburger--spin btn menu-on" id="menu-button">
+                  <div class="header-menu-bg"></div>
+                  <span class="hamburger-box">
+                      <span class="hamburger-inner"></span>
+                  </span>
+                    <!-- <span class="menu-title" >Menu</span> Menu title goes here if applicable -->
+                </button>
+
+                <button class="search-menu-toggler btn search-on" id="search-menu-button">
+                  <div class="header-menu-bg"></div>
+                  <div class="search-icon">
+                    <span class="search-icon-image inactive-search"></span>
+                  </div>
+                </button>
+            </div>
+
+            <!-- Menu Tools (Location, Search, etc) -->
+            <div class="header-navigator">
+                <div class="section options">
+                    <div class="option option-visit">
+                                                    </div>
+                      <div class="option option-back">
+                            <a href="#" target=""><button class=" btn btn-arrow has-arrow orange orange-gradient no-label"><span class="btn-arrow-arrow"></span></button></a>                            <span>Back</span>
+                    </div>
+                </div>
+            </div>
+            <div class="header-menu">
+                                
+                <script type="application/json" class="menu-data">{"first":[{"ID":7189,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2024-03-19 02:46:36","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"7189","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.ignitestaging.com.au\/?p=7189","menu_order":1,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":7189,"menu_item_parent":"0","object_id":"7171","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/energy-services","title":"Energy Services","target":"","attr_title":"","description":"<h2>Infrastructure<\/h2>\n<p>Trusted by industry<\/p>\n","classes":[""],"xfn":"","active":false,"background":"\/app\/uploads\/2018\/11\/1007-683x1024.jpg","hasChildren":true,"isHome":false,"isMenuTools":false},{"ID":7188,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2024-03-19 02:46:36","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"7188","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.ignitestaging.com.au\/?p=7188","menu_order":11,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":7188,"menu_item_parent":"0","object_id":"7173","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/community-energy","title":"Community Energy","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":true,"isHome":false,"isMenuTools":false},{"ID":6893,"post_author":"3","post_date":"2024-03-28 15:18:32","post_date_gmt":"2023-02-20 03:49:54","post_content":"","post_title":"Projects","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"projects","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.com.au\/?p=6893","menu_order":17,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":6893,"menu_item_parent":"0","object_id":"6893","object":"custom","type":"custom","type_label":"Custom Link","title":"Projects","url":"https:\/\/mondo.com.au\/projects","target":"","attr_title":"","description":"<h2>Projects<\/h2>\n<p>Working with communities<\/p>\n","classes":[""],"xfn":"","active":false,"background":"\/app\/uploads\/2021\/12\/EDGE-community-energy-1024x617.jpg","hasChildren":true,"isHome":false,"isMenuTools":false},{"ID":5556,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2019-05-31 07:19:37","post_content":"News","post_title":"News","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"news-2","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"http:\/\/mondo.com.au\/?p=5556","menu_order":28,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":5556,"menu_item_parent":"0","object_id":"-69","object":"news","type":"post_type_archive","title":"News","type_label":"Post Type Archive","url":"https:\/\/mondo.com.au\/news","target":"","attr_title":"","description":"News","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":5435,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2018-11-29 23:05:39","post_content":"","post_title":"Contact Us","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"5435","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"http:\/\/mondo.com.au\/?p=5435","menu_order":29,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":5435,"menu_item_parent":"0","object_id":"5011","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/contact","title":"Contact Us","target":"","attr_title":"","description":"<h2>Contact<\/h2>\n<p>Get in touch<\/p>\n","classes":[""],"xfn":"","active":false,"background":"\/app\/uploads\/2018\/10\/CES-infrastructure-1024x686.jpg","hasChildren":false,"isHome":false,"isMenuTools":false}],"second":[{"ID":7232,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2024-03-28 04:18:32","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"7232","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.com.au\/?p=7232","menu_order":2,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":7232,"menu_item_parent":"7189","object_id":"7171","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/energy-services","title":"Energy Services","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":7194,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2024-03-19 02:46:36","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"7194","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":4269,"guid":"https:\/\/mondo.ignitestaging.com.au\/?p=7194","menu_order":3,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":7194,"menu_item_parent":"7189","object_id":"4273","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/business\/metering","title":"Metering","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":7190,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2024-03-19 02:46:36","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"7190","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":7171,"guid":"https:\/\/mondo.ignitestaging.com.au\/?p=7190","menu_order":4,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":7190,"menu_item_parent":"7189","object_id":"6830","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/energy-services\/stand-alone-power-systems","title":"Stand-Alone Power Systems","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":7204,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2024-03-26 05:26:04","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"7204","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.ignitestaging.com.au\/?p=7204","menu_order":5,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":7204,"menu_item_parent":"7189","object_id":"7111","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/prospecta","title":"Mondo x Prospecta Utilities","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":7196,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2024-03-19 02:46:36","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"7196","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.ignitestaging.com.au\/?p=7196","menu_order":6,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":7196,"menu_item_parent":"7189","object_id":"5903","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/schoolppa","title":"School Solar Program","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":7192,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2024-03-19 02:46:36","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"7192","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":7171,"guid":"https:\/\/mondo.ignitestaging.com.au\/?p=7192","menu_order":7,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":7192,"menu_item_parent":"7189","object_id":"5942","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/energy-services\/solar-power-purchase-agreements","title":"Solar Power Purchase Agreements","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":7195,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2024-03-19 02:46:36","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"7195","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":4269,"guid":"https:\/\/mondo.ignitestaging.com.au\/?p=7195","menu_order":8,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":7195,"menu_item_parent":"7189","object_id":"6497","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/business\/high-voltage-electricity-metering","title":"High Voltage Electricity Metering","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":5911,"post_author":"4","post_date":"2024-03-28 15:18:32","post_date_gmt":"2020-01-16 02:59:14","post_content":"","post_title":"Schools","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"schools-2","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.com.au\/?p=5911","menu_order":9,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":5911,"menu_item_parent":"7189","object_id":"5903","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/schoolppa","title":"Schools","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":7191,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2024-03-19 02:46:36","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"7191","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":7171,"guid":"https:\/\/mondo.ignitestaging.com.au\/?p=7191","menu_order":10,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":7191,"menu_item_parent":"7189","object_id":"5117","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/energy-services\/terms-conditions","title":"Terms &#038; Conditions","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":4992,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2018-11-13 00:38:27","post_content":"","post_title":"Overview","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"overview-3","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":7173,"guid":"http:\/\/mondo.com.au\/?p=4992","menu_order":12,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":4992,"menu_item_parent":"7188","object_id":"4277","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/community-energy\/mini-grids","title":"Overview","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":4297,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2018-10-07 22:30:02","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"4297","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":7173,"guid":"http:\/\/mondo-mvp.test\/?p=4297","menu_order":13,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":4297,"menu_item_parent":"7188","object_id":"4277","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/community-energy\/mini-grids","title":"Mini-grids","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":4990,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2018-11-13 00:37:46","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"4990","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":7173,"guid":"http:\/\/mondo.com.au\/?p=4990","menu_order":14,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":4990,"menu_item_parent":"7188","object_id":"4971","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/community-energy\/ubi","title":"Ubi\u2122 Energy Management Platform","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":7198,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2024-03-21 00:09:10","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"7198","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.ignitestaging.com.au\/?p=7198","menu_order":15,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":7198,"menu_item_parent":"7188","object_id":"5465","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/ubi-portal-quick-start-guide","title":"Ubi portal quick start guide","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":7197,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2024-03-21 00:09:10","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"7197","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":7173,"guid":"https:\/\/mondo.ignitestaging.com.au\/?p=7197","menu_order":16,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":7197,"menu_item_parent":"7188","object_id":"5119","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/community-energy\/privacy-policy","title":"Privacy Policy","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":6900,"post_author":"3","post_date":"2024-03-28 15:18:32","post_date_gmt":"2023-02-20 05:43:23","post_content":"","post_title":"All projects","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"all-projects","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.com.au\/?p=6900","menu_order":18,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":6900,"menu_item_parent":"6893","object_id":"6900","object":"custom","type":"custom","type_label":"Custom Link","title":"All projects","url":"https:\/\/mondo.com.au\/projects","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":7202,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2024-03-26 05:07:48","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"7202","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.ignitestaging.com.au\/?p=7202","menu_order":19,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":7202,"menu_item_parent":"6893","object_id":"7137","object":"project","type":"post_type","type_label":"Project","url":"https:\/\/mondo.com.au\/projects\/lifestyle-meridian","title":"Lifestyle Meridian","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":4987,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2018-11-13 00:37:46","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"4987","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":4278,"guid":"http:\/\/mondo.com.au\/?p=4987","menu_order":20,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":4987,"menu_item_parent":"6893","object_id":"4975","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/community-energy\/energy-hubs-and-projects\/deakin-microgrid","title":"Deakin Microgrid","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":6894,"post_author":"3","post_date":"2024-03-28 15:18:32","post_date_gmt":"2023-02-20 05:41:41","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"6894","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.com.au\/?p=6894","menu_order":21,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":6894,"menu_item_parent":"6893","object_id":"6745","object":"project","type":"post_type","type_label":"Project","url":"https:\/\/mondo.com.au\/?post_type=project&p=6745","title":"Phillip Island Battery","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":4298,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2018-10-07 22:30:02","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"4298","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":7173,"guid":"http:\/\/mondo-mvp.test\/?p=4298","menu_order":22,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":4298,"menu_item_parent":"6893","object_id":"4278","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/community-energy\/energy-hubs-and-projects","title":"Energy Hubs and Projects","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":5009,"post_author":"1","post_date":"2024-03-28 15:18:32","post_date_gmt":"2018-11-13 01:44:16","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"5009","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":4278,"guid":"http:\/\/mondo.com.au\/?p=5009","menu_order":23,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":5009,"menu_item_parent":"6893","object_id":"5007","object":"page","type":"post_type","type_label":"Page","url":"https:\/\/mondo.com.au\/community-energy\/energy-hubs-and-projects\/yackandandah","title":"Yackandandah","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":6896,"post_author":"3","post_date":"2024-03-28 15:18:32","post_date_gmt":"2023-02-20 05:41:41","post_content":"","post_title":"Mallacoota\u2019s Community Microgrids and Sustainable Energy Program","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"mallacootas-community-microgrids-and-sustainable-energy-program","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.com.au\/?p=6896","menu_order":24,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":6896,"menu_item_parent":"6893","object_id":"6748","object":"project","type":"post_type","type_label":"Project","url":"https:\/\/mondo.com.au\/?post_type=project&p=6748","title":"Mallacoota\u2019s Community Microgrids and Sustainable Energy Program","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":6897,"post_author":"3","post_date":"2024-03-28 15:18:32","post_date_gmt":"2023-02-20 05:41:41","post_content":"","post_title":"Corryong\u2019s Community Microgrids and Sustainable Energy Program","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"corryongs-community-microgrids-and-sustainable-energy-program","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.com.au\/?p=6897","menu_order":25,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":6897,"menu_item_parent":"6893","object_id":"6747","object":"project","type":"post_type","type_label":"Project","url":"https:\/\/mondo.com.au\/?post_type=project&p=6747","title":"Corryong\u2019s Community Microgrids and Sustainable Energy Program","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":6895,"post_author":"3","post_date":"2024-03-28 15:18:32","post_date_gmt":"2023-02-20 05:41:41","post_content":"","post_title":"Omeo\u2019s Community Microgrids and Sustainable Energy Program","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"omeos-community-microgrids-and-sustainable-energy-program","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.com.au\/?p=6895","menu_order":26,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":6895,"menu_item_parent":"6893","object_id":"6749","object":"project","type":"post_type","type_label":"Project","url":"https:\/\/mondo.com.au\/?post_type=project&p=6749","title":"Omeo\u2019s Community Microgrids and Sustainable Energy Program","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false},{"ID":6898,"post_author":"3","post_date":"2024-03-28 15:18:32","post_date_gmt":"2023-02-20 05:41:41","post_content":" ","post_title":"","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"6898","to_ping":"","pinged":"","post_modified":"2024-03-28 15:18:32","post_modified_gmt":"2024-03-28 04:18:32","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.com.au\/?p=6898","menu_order":27,"post_type":"nav_menu_item","post_mime_type":"","comment_count":"0","filter":"raw","db_id":6898,"menu_item_parent":"6893","object_id":"6742","object":"project","type":"post_type","type_label":"Project","url":"https:\/\/mondo.com.au\/projects\/yackandandah-mini-grid","title":"Yackandandah Mini-Grid","target":"","attr_title":"","description":"","classes":[""],"xfn":"","active":false,"hasChildren":false,"isHome":false,"isMenuTools":false}],"third":[],"news":[{"ID":7210,"post_author":"1","post_date":"2024-03-28 10:43:24","post_date_gmt":"2024-03-27 23:43:24","post_content":"<p><img class=\"alignnone size-full wp-image-7211\" src=\"\/app\/uploads\/2024\/03\/202403027_SDP-0104-1024x683-1.jpg\" alt=\"\" width=\"1024\" height=\"683\" \/><\/p>\r\n<p><span style=\"color: #ff6600;\"><strong>Mondo is proud to announce our collaboration with Lifestyle Communities in bringing solar, battery and Ubi microgrid technology to Lifestyle Meridian in Clyde North on Wednesday 27 March. This initiative marks the largest of its kind residential microgrid in Australia, providing new standards in sustainable shared living.<\/strong><\/span><\/p>\r\n<p>Our partnership with Lifestyle Communities has both businesses commitment to providing innovative solutions for clean and affordable energy across multiple sites. By utilising solar power and advanced battery storage systems, we are transforming residential communities into eco-friendly hubs that reduce emissions and energy costs.<\/p>\r\n<p><strong><span style=\"color: #000000;\">The Honourable Lily D\u2019Ambrosio, Minister for Energy and Resources, commended this initiative for its significant impact on promoting sustainability and reducing carbon footprints at Wednesdays announcement.<\/span><\/strong> <br \/>\r\n<br \/>\r\n<strong><span style=\"color: #ff6600;\">\u201cMondo has designed a unique solution for this community, including rooftop solar systems and a community battery, which will provide homeowners with clean and affordable energy. We worked closely with Lifestyle Communities to craft a sustainable and innovative renewable energy solution, advancing a shared commitment to a greener and more sustainable future.\u201d Mondo General Manager Distributed Energy Dhammika Adihetty<\/span><\/strong><\/p>\r\n<p>Residents of Lifestyle Meridian can now monitor the performance of this state-of-the-art microgrid in real time, ensuring transparency and empowerment in their energy usage through Mondo\u2019s Ubi portal that is installed within their villages central shared facility. This level of engagement reflects our mutual dedication to enhancing community involvement in sustainable practices.<br \/>\r\n<br \/>\r\nTogether with Lifestyle Communities, we are taking a bold step towards a greener and more sustainable future. Our focus on Distributed Energy Resources (DER) is important to our shared vision of creating environmentally conscious communities that prioritise renewable energy sources.<\/p>","post_title":"Introducing Sustainable Power Solutions by Mondo","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"introducing-sustainable-power-solutions-by-mondo","to_ping":"","pinged":"","post_modified":"2024-03-28 10:43:24","post_modified_gmt":"2024-03-27 23:43:24","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.ignitestaging.com.au\/?post_type=news&#038;p=7210","menu_order":0,"post_type":"news","post_mime_type":"","comment_count":"0","filter":"raw","url":"https:\/\/mondo.com.au\/news\/introducing-sustainable-power-solutions-by-mondo"},{"ID":7142,"post_author":"8","post_date":"2024-03-13 14:39:52","post_date_gmt":"2024-03-13 03:39:52","post_content":"<p>Mondo is pleased to announce its role in delivery for the Victorian Government\u2019s Neighbourhood Batteries Program in supporting greater energy resilience for the Phillip Island region. <br \/>\r\n<br \/>\r\nYesterday, the Minister for Energy and Resources, Minister for Climate Action, and Minister for the State Electricity Commission, Lily D\u2019Ambrosio, announced the project and its significant funding for the island with Mondo\u2019s Chief Development Officer, Jon D\u2019Sylva.<br \/>\r\n<br \/>\r\nMondo, with delivery partners, the Bass Coast Shire, Western Water, Nature Parks, and Totally Renewable Phillip Island (TRPI), will add 100kW\/250kWh totalling 1.75MWh across seven batteries on the island. <br \/>\r\n<br \/>\r\nThe neighbourhood-scale batteries locations will be chosen strategically around the islands community hubs to help improve energy reliability and provide energy storage capacity for locally generated solar power.<\/p>\r\n<p>This funding from the State\u2019s new initiative adds further community benefits to island. The additional batteries will work alongside Mondo\u2019s PICESS (Phillip Island Community Energy Storage System) to provide the community much needed network services, particularly during peak holiday periods.<\/p>\r\n<p><strong><em><span style=\"color: #ff6600;\">\u201cPhillip Island has been an integral part of Mondo\u2019s community energy focus over the past few years. Since 2021 we have invested more than $10 million to install and energise a 5WM\/10MWh distribution battery here on Phillip Island\u201d Jon D\u2019Sylva<\/span><\/em><\/strong><br \/>\r\n<br \/>\r\nMondo is looking forward to continuing to support the Phillip Island community achieve their renewable energy goals.<br \/>\r\n<br \/>\r\n<br \/>\r\n<img class=\"wp-image-7144 aligncenter\" src=\"\/app\/uploads\/2024\/03\/IMG_1390-1024x768.jpg\" alt=\"\" width=\"813\" height=\"586\" data-wp-editing=\"1\" \/><\/p>\r\n<p><br \/>\r\n<br \/>\r\n<em>For more information on the State's initiative <a href=\"https:\/\/www.premier.vic.gov.au\/neighbourhood-batteries-helping-drive-down-bills\">Neighbourhood Batteries Helping To Drive Down Bills | Premier of Victoria<\/a><\/em><\/p>","post_title":"Batteries building Phillip Island's energy future","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"phillip-island-nb-announcement","to_ping":"","pinged":"","post_modified":"2024-03-14 12:08:56","post_modified_gmt":"2024-03-14 01:08:56","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.com.au\/?post_type=news&#038;p=7142","menu_order":0,"post_type":"news","post_mime_type":"","comment_count":"0","filter":"raw","url":"https:\/\/mondo.com.au\/news\/phillip-island-nb-announcement"},{"ID":7134,"post_author":"8","post_date":"2024-03-06 13:44:08","post_date_gmt":"2024-03-06 02:44:08","post_content":"<p><strong><span style=\"color: #ff6600;\">MEDIA RELEASE\u00a0<\/span><\/strong><\/p>\r\n<p><strong>6 March 2024<\/strong><\/p>\r\n<p><strong>Mondo and Prospecta Utilities have partnered to deliver an Australian-first renewable energy technical solution for the land lease sector that will reduce energy costs and improve energy reliability.<\/strong><\/p>\r\n<p>Mondo Business and Market Development Manager, Max Kamali, said the growing cost of living pressures are also impacting the land lease sector, which is looking at ways to make its energy cheaper and more reliable.<br \/>\r\n<br \/>\r\nData shows there are 130,000 senior Australians living in land lease estates, where they own their physical home and lease the land<strong>. <\/strong>\u201cA third of Australia\u2019s population will be over 55 in the next decade, so delivering renewable energy solutions to this market will help a significant percentage of our population access a sustainable solution that reduces their carbon footprint and cost of living,\u201d said Mr Kamali.<br \/>\r\n<br \/>\r\n<strong><span style=\"color: #ff6600;\">This partnership brings Mondo\u2019s Ubi Distributed Energy platform and Prospecta Utilities\u2019 wireless enterprise network technology together with Virtual Power Plants (VPPs) to provide a fully integrated renewable energy generation system. This new technology will enable operators to sustainably power their land lease communities, reducing their energy bills, while also monetising their investment by integrating with the energy grid.<\/span><\/strong><br \/>\r\n<br \/>\r\n<span style=\"color: #000000;\"><strong>\u201cThe VPPs are capable of networking rooftop solar across homes and community facilities to commercial-grade battery storage, optimising how energy is deployed both behind and in front of the meter.\u201d Mr Kamali said a dedicated team had spent a decade working on Mondo\u2019s technology, which, coupled with Prospecta Utilities know-how in the land lease space, positioned the partnership to become the market leader in the sector.<br \/>\r\n<\/strong><\/span><br \/>\r\n<span style=\"color: #000000;\"><strong>\u201cThis innovative solution helps land lease communities meet environmental, social and governance ESG goals, sometimes referred to as responsible investing,\u201d said Mr Kamali.<\/strong><\/span><br \/>\r\n<br \/>\r\n<strong>In the first six-month testing period, residents from GemLife reported an average power bill of just $8, prompting GemLife to commit to a $75 million investment that will see more than 10,000 homes connected to Virtual Power Plants over the next six years. <br \/>\r\n<br \/>\r\n<span style=\"color: #ff6600;\">\u201cThe dual benefit for operators is they can deliver value and reliability to homeowners while monetising their investment by accessing to the two-way marketplace, allowing excess energy to be distributed back into the electricity grid,\u201d he said.<\/span><\/strong><br \/>\r\n<br \/>\r\nProspecta Utilities Chief Executive Officer Mark Langdon said land lease operators were uniquely positioned to harness the end-to-end technology, which could be deployed across new greenfield or existing projects nationally.<br \/>\r\n\u201cThe nature of land lease communities means all parties, the operator and the residents, benefit,\u201d said Mr Langdon.<br \/>\r\n<br \/>\r\n\u201cWe\u2019ve seen the GemLife resorts connected to VPPs achieve up to 90 per cent energy independence, with most of the energy generated on site. This has reduced reliance on the national energy grid, protecting residents from rising energy costs. There are a lot of happy homeowners,\u201d he said.<br \/>\r\n<br \/>\r\nMr Langdon said the VPPs would be further enhanced with the overlay of new pioneering wireless enterprise network technology, which allowed for in-depth monitoring, measuring and controlling of power to optimise battery storage. \u201cThere is no one else in Australia offering this type of technology solution, it is totally unique,\u201d said Mr Langdon.<br \/>\r\n<br \/>\r\n<em><span style=\"font-size: 12pt;\">Mondo was established over a decade ago by Victorian network operator AusNet to better connect communities to renewable energy solutions and has $1.6 billion of renewable energy assets under management.<\/span><\/em><br \/>\r\n<br \/>\r\n<em><span style=\"font-size: 12pt;\">Prospecta Utilities was established by the Puljich family, which owns the GemLife land lease portfolio, to connect Virtual Power Plants to 700 homes in South-East Queensland.<\/span><\/em><\/p>","post_title":"Australian-First Energy Solution for Land Lease Sector","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"australian-first-energy-solution-land-lease-sector","to_ping":"","pinged":"","post_modified":"2024-03-06 16:26:21","post_modified_gmt":"2024-03-06 05:26:21","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.com.au\/?post_type=news&#038;p=7134","menu_order":0,"post_type":"news","post_mime_type":"","comment_count":"0","filter":"raw","url":"https:\/\/mondo.com.au\/news\/australian-first-energy-solution-land-lease-sector"},{"ID":7064,"post_author":"10","post_date":"2023-10-25 13:20:58","post_date_gmt":"2023-10-25 02:20:58","post_content":"<p><img class=\"alignnone wp-image-6080 size-full\" src=\"https:\/\/mondo.com.au\/app\/uploads\/2020\/04\/Laptop-monitoring.jpg\" alt=\"\" width=\"1600\" height=\"965\" \/>Australia leads the world in rooftop solar energy adoption, however the capacity of our local distribution networks is limited when trying to safely accommodate rooftop solar. To support the growth of solar and clean energy resources, distribution networks are shifting toward adopting Dynamic Operating Envelopes.<\/p>\r\n<p>The objective of Dynamic Operating Envelopes is to calculate exactly how much energy can be safely imported from and exported to the grid at all times, and to communicate these dynamic boundaries to clean energy resources. This ensures the safe integration and operation of renewables connected to the grid.<\/p>\r\n<p>Currently, networks apply static export limits, which define a fixed maximum amount of solar power that a customer can send to the grid based on conservative long-term modelling. Dynamic Operating Envelopes, however, aim to allow more solar to be exported at times where the network can safely accommodate it. Rather than static limits, Dynamic Operating Envelopes change over time based on dynamic real-world conditions such as weather and customer loads. They can be thought of as traffic lights, which allow more renewable power to be exported at certain times, while restricting exports at other times when there is too much solar for the grid to handle.<\/p>\r\n<p>One of the key challenges in energy management is enforcing Dynamic Operating Envelopes while also coordinating Solar, Batteries, Electric Vehicles, and flexible loads to all work together, which is where Mondo\u2019s Ubi Platform can help. The <a href=\"https:\/\/mondo.com.au\/community\/mini-grids\/ubi\">Mondo Ubi Platform<\/a> uses advanced forecasting and modelling capabilities to optimise return for customers, ensuring batteries are charged when there are cheap renewables available in the grid and then discharged when the grid needs that power, while enforcing Dynamic Operating Envelopes. This ensures our customers maximise their renewable energy, save on their energy bill and earn more from their renewable energy that is sold back to the grid.\u00a0<\/p>","post_title":"Optimising Renewables Imports and Exports with Dynamic Operating Envelopes","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"optimising-renewables-imports-and-exports-with-dynamic-operating-envelopes","to_ping":"","pinged":"","post_modified":"2023-10-25 15:58:12","post_modified_gmt":"2023-10-25 04:58:12","post_content_filtered":"","post_parent":0,"guid":"https:\/\/mondo.com.au\/?post_type=news&#038;p=7064","menu_order":0,"post_type":"news","post_mime_type":"","comment_count":"0","filter":"raw","url":"https:\/\/mondo.com.au\/news\/optimising-renewables-imports-and-exports-with-dynamic-operating-envelopes"}],"newsArchive":{"title":"View All News","url":"\/news"},"socialIcons":{"linkedin":{"url":"https:\/\/www.linkedin.com\/company\/mondo-power\/","icon":"fa fa-linkedin"},"facebook":{"url":"https:\/\/www.facebook.com\/mondoAU\/","icon":"fa fa-facebook"},"twitter":{"url":"https:\/\/twitter.com\/PoweredByMondo?lang=en-au","icon":"fa fa-twitter"}}}</script>
+                <div id="menu-container"></div>
+
+            </div>
+
+            <div class="header-search">
+                <div class="search-wrapper container container-sm">
+                    <div class="search-content">
+                        <form method="get" class="search-form" action="https://mondo.com.au/">
+    <label>
+        <span class="screen-reader-text">Search for:</span>
+        <input type="search" class="search-field" placeholder="Search"
+               value="" name="s"
+               title="Search for:" autocomplete="off" />
+    </label>
+    <input type="submit" class="search-submit" value="Search"/>
+
+
+</form>
+
+                        <div id="social-links">
+                            <!-- Vue Component -->
+                        </div>
+                        <script id="social-links-data">{"linkedin":{"url":"https:\/\/www.linkedin.com\/company\/mondo-power\/","icon":"fa fa-linkedin"},"facebook":{"url":"https:\/\/www.facebook.com\/mondoAU\/","icon":"fa fa-facebook"},"twitter":{"url":"https:\/\/twitter.com\/PoweredByMondo?lang=en-au","icon":"fa fa-twitter"}}</script>
+                    </div>
+                </div>
+            </div>
+                            <div class="header-social hidden-lg-up">
+                    <div class="container-fluid wrapper">
+                        <div class="social-content">
+                                                                                        <div class="social-icons">
+                                    <ul>
+                                                                                    <li>
+                                                <a href="https://www.linkedin.com/company/mondo-power/" target="_blank">
+                                                    <i class="fa fa-linkedin"></i>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.facebook.com/mondoAU/" target="_blank">
+                                                    <i class="fa fa-facebook"></i>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://twitter.com/PoweredByMondo?lang=en-au" target="_blank">
+                                                    <i class="fa fa-twitter"></i>
+                                                </a>
+                                            </li>
+                                                                            </ul>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+            
+            <!-- Menu tools for desktop -->
+            <!-- TODO: this is duplicated code this should be made into a function -->
+            <div class="menu-tools mobile">
+                                  
+                  <button class="menu-tool btn orange-gradient " onclick="window.open('https://quickweb.westpac.com.au/OnlinePaymentServlet3?communityCode=AUSNET&supplierBusinessCode=SELECTSOLUTIONSGROUP', '_self')" type="button">
+                    <span class="menu-title" >Pay a Bill</span>
+                  </button>
+                                  
+                  <button class="menu-tool btn orange-gradient " onclick="window.open('http://mondo.com.au/log-in', '_self')" type="button">
+                    <span class="menu-title" >Login</span>
+                  </button>
+                                  
+                  <button class="menu-tool btn orange-gradient " onclick="window.open('http://mondo.com.au/contact', '_self')" type="button">
+                    <span class="menu-title" >Contact Us</span>
+                  </button>
+                            </div>
+            <!-- End of TODO -->
+
+
+
+        </div>
+    </div>
+</header>
+<div class="modal fade" id="video-modal" tabindex="-1" role="dialog" aria-labelledby="video-modal" aria-hidden="true"
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <button
+        type="button" data-dismiss="modal" aria-hidden="true"
+        class="modal-close btn btn-default is-active orange-gradient"
+      >
+        <!-- <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span> -->
+        <span class="menu-title">close</span>
+    </button>
+
+      <div class="modal-body">
+          <div class="video-wrapper">
+                <div class="video-wrap">
+                    <div class="plyr-header-video-popup">
+                      <div class="plyr__video-embed" id="player">
+                        <iframe
+                            src=""
+                            allowfullscreen
+                            allowtransparency
+                            allow="autoplay"
+                            data-type="vimeo"
+                            data-video-id=""
+                        ></iframe>
+                      </div>
+                    </div>
+                </div>
+            </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrap container-fluid" role="document">
+    <div class="content row">
+        <main class="main">
+            
+
+<div class="section content-area bg-light " data-aos="fade-up" >
+    <div class="container container-sm">
+        <p style="text-align: center;"><span style="color: #ff6600;"><strong>WORKING WITH YOU TO BUILD A BRIGHT FUTURE</strong></span></p>
+<h1 style="text-align: center;">Engineering a sustainable future for Australia.</h1>
+<p> </p>
+    </div>
+</div>
+    <div class="section tri-block tri-block-horizontal" >
+        <div class="container container-lg">
+            <div class="row use-flex">
+                                    <div class="col col-xs-12 col-md-4 blue">
+                        <h2 class="test"><a href="https://mondo.com.au/energy-services">Energy Services</a></h2><div class="content"><p>Supporting Australian businesses with a range of innovative renewable energy solutions with end-to-end design, operate and delivery </p>
+</div><a href="https://mondo.com.au/energy-services" target="_self"><button class=" btn btn-arrow has-arrow no-label"><span class="btn-arrow-arrow"></span></button></a>                    </div>
+                                    <div class="col col-xs-12 col-md-4 teal">
+                        <h2 class="test"><a href="https://mondo.com.au/community-energy/mini-grids">Community Energy </a></h2><div class="content"><p>A new energy market providing customers with Ubi energy technologies through Virtual Power Plants, Microgrid and Minigrids.</p>
+</div><a href="https://mondo.com.au/community-energy/mini-grids" target="_self"><button class=" btn btn-arrow has-arrow no-label"><span class="btn-arrow-arrow"></span></button></a>                    </div>
+                                    <div class="col col-xs-12 col-md-4 green">
+                        <h2 class="test"><a href="https://mondo.com.au/projects">Projects </a></h2><div class="content"><p>Pioneering community mini-grids and regional energy hubs that empower homes and businesses to generate, manage, store and share energy.</p>
+</div><a href="https://mondo.com.au/projects" target="_self"><button class=" btn btn-arrow has-arrow no-label"><span class="btn-arrow-arrow"></span></button></a>                    </div>
+                            </div>
+        </div>
+    </div>
+    <div class="section image-and-text orange bg-light " >
+        <div class="container">
+            <div class="row use-flex">
+                <div class="col col-xs-12 col-md-6 image-and-text-img">
+                                      <div style="background-image: url('/app/uploads/2021/10/A_young_Fairy_Penguin-768x533.jpg');"></div>
+                                  </div>
+              <div class="col col-xs-12 col-md-6 image-and-text-text"><h5>PHILLIP ISLAND BATTERY</h5><h2>Phillip Island Community Energy Storage System (PICESS)</h2><p>We&#8217;re supporting peak demand and helping minimise carbon emissions for Phillip Island.</p>
+<a href="https://mondo.com.au/community-energy/energy-hubs-and-projects/phillip-island-battery-2" target="_self"><button class=" btn btn-arrow no-arrow orange orange-gradient has-label"><span class="btn-arrow-label">Learn More</span><span class="btn-arrow-arrow"></span></button></a></div>
+                          </div>
+        </div>
+    </div>
+    <div class="section image-and-text orange bg-light " >
+        <div class="container">
+            <div class="row use-flex first-on-right">
+                <div class="col col-xs-12 col-md-6 image-and-text-img">
+                                      <div style="background-image: url('/app/uploads/2021/11/MicrosoftTeams-image-43-768x549.jpg');"></div>
+                                  </div>
+              <div class="col col-xs-12 col-md-6 image-and-text-text"><h5>PROJECT EDGE</h5><h2>Solar, battery and community energy</h2><p>We&#8217;re supporting businesses and communities in the Hume region to create a cleaner, more sustainable ecosystem for decades to come. </p>
+<a href="https://mondo.com.au/energy-services/edge" target="_self"><button class=" btn btn-arrow no-arrow orange orange-gradient has-label"><span class="btn-arrow-label">Learn More</span><span class="btn-arrow-arrow"></span></button></a></div>
+                          </div>
+        </div>
+    </div>
+    <div class="section image-and-text orange bg-light " >
+        <div class="container">
+            <div class="row use-flex">
+                <div class="col col-xs-12 col-md-6 image-and-text-img">
+                                      <div style="background-image: url('/app/uploads/2021/11/energy-management-768x419.png');"></div>
+                                  </div>
+              <div class="col col-xs-12 col-md-6 image-and-text-text"><h5>ENERGY MANAGEMENT SYSTEM</h5><h2>Intelligent software to maximise asset value</h2><p>Whether you have solar, a battery or you just draw your electricity from a grid, the Ubi™ Energy Management Platform will help you monitor and manage your energy.</p>
+<a href="https://mondo.com.au/ubi" target="_self"><button class=" btn btn-arrow no-arrow orange orange-gradient has-label"><span class="btn-arrow-label">Learn more</span><span class="btn-arrow-arrow"></span></button></a></div>
+                          </div>
+        </div>
+    </div>
+    <div class="section image-and-text orange bg-light " >
+        <div class="container">
+            <div class="row use-flex first-on-right">
+                <div class="col col-xs-12 col-md-6 image-and-text-img">
+                                      <div style="background-image: url('/app/uploads/2020/04/Yack-Health-Aerial-768x432.jpg');"></div>
+                                  </div>
+              <div class="col col-xs-12 col-md-6 image-and-text-text"><h5>Power Purchase Agreements for Businesses</h5><h2>Start saving from day 1 for $0 upfront</h2><p>Buy fixed, low-cost solar energy during the day from a Mondo-owned solar or solar and battery system installed at your site.</p>
+<a href="https://mondo.com.au/energy-services/solar-power-purchase-agreements" target="_self"><button class=" btn btn-arrow no-arrow orange orange-gradient has-label"><span class="btn-arrow-label">Learn more</span><span class="btn-arrow-arrow"></span></button></a></div>
+                          </div>
+        </div>
+    </div>
+    <div class="section image-and-text orange bg-light " >
+        <div class="container">
+            <div class="row use-flex">
+                <div class="col col-xs-12 col-md-6 image-and-text-img">
+                                      <div style="background-image: url('/app/uploads/2023/04/Seymour-ZEB-2-768x576.jpg');"></div>
+                                  </div>
+              <div class="col col-xs-12 col-md-6 image-and-text-text"><h5>NEWS</h5><h2>A full fleet of Zero Emission Buses on the horizon for Seymour</h2><p>Mondo are pleased to announce our involvement in the pioneering electrification of Seymour Passenger Services’ bus fleet, with Seymour on track to be the first regional Victorian town to run a full fleet of electric public buses.</p>
+<a href="https://mondo.com.au/news/a-full-fleet-of-zero-emission-buses-on-the-horizon-for-seymour-passenger-services" target="_self"><button class=" btn btn-arrow no-arrow orange orange-gradient has-label"><span class="btn-arrow-label">Learn More</span><span class="btn-arrow-arrow"></span></button></a></div>
+                          </div>
+        </div>
+    </div>
+
+
+<div class="section content-area bg-light " data-aos="fade-up" >
+    <div class="container container-sm">
+        <h5>About us</h5>
+<h2>At Mondo, we see a bright future</h2>
+<h4>There have never been more options for how we use electricity, water, gas and transport.</h4>
+<p>We help businesses and communities make sense of what’s possible, then plan and deliver solutions to keep everyone ahead of the rapidly changing landscape.</p>
+<p>From connecting Australia’s largest wind farms to the grid, to helping maintain water and gas networks or assisting regional communities to achieve their energy goals, we improve the way things flow today, then seek ways to do this even better tomorrow.</p>
+<p>Because when we can help make sense of what’s possible, we think you’ll get excited about the future too.</p>
+<h3>Mondo. Bright future.</h3>
+    </div>
+</div>
+    <div class="section cta orange">
+        <div class="container">
+            <div class="text-surround">
+                <div class="text-inner">
+                    <h2>Safety is a way of life at Mondo</h2>
+                    <div class="cta-text">
+                        <p>At Mondo, safety is a way of life. Everyone is responsible for leading safety.<br />
+Our leading value is &#8216;We work safely&#8217;. We never compromise on safety and we genuinely care for the well being of people and our communities.</p>
+                    </div>
+                    <a href="https://mondo.com.au/?page_id=5422" target="_self"><button class=" btn btn-arrow has-arrow white white-gradient no-label"><span class="btn-arrow-arrow"></span></button></a>                </div>
+            </div>
+            <div class="image-surround">
+                <div class="image" style="background-image: url('/app/uploads/2018/11/Operate-Maintain-mondo-field-0098V2-1600x900.jpg');"></div>
+            </div>
+        </div>
+    </div>
+    <div
+            class="section subscription-cta"
+        >
+        <div class="container">
+            <div class="row use-flex">
+                <div class="col col-md-12 col-lg-10 col-xl-8">
+                    <h2>Stay up to date</h2>
+                    <div class="subscription-cta-text">
+                        <p>Select your areas of interest to stay informed with our latest news and insights.</p>
+                    </div>
+                    <div class="form-surround">
+                        <div class="row use-flex subscription-newsletters">
+                        <script type="text/javascript"></script>
+                <div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_29' ><div id='gf_29' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+                            <p class='gform_description'></p>
+                        </div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_29' id='gform_29'  action='/#gf_29' data-formid='29' novalidate><div class='gf_invisible ginput_recaptchav3' data-sitekey='6LdifpoUAAAAAPS_vPfijTTxCWVYTiLu-FWCgHec' data-tabindex='0'><input id="input_5f145c9368f03e933fc473f075ae646c" class="gfield_recaptcha_response" type="hidden" name="input_5f145c9368f03e933fc473f075ae646c" value=""/></div>
+                        <div class='gform-body gform_body'><div id='gform_fields_29' class='gform_fields top_label form_sublabel_below description_below validation_below'><fieldset id="field_29_2" class="gfield gfield--type-checkbox gfield--type-choice gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_29_2" ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Area of interest<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></legend><div class='ginput_container ginput_container_checkbox'><div class='gfield_checkbox' id='input_29_2'><div class='gchoice gchoice_29_2_1'>
+								<input class='gfield-choice-input' name='input_2.1' type='checkbox'  value='Infrastructure' checked='checked' id='choice_29_2_1'   />
+								<label for='choice_29_2_1' id='label_29_2_1' class='gform-field-label gform-field-label--type-inline'>Infrastructure</label>
+							</div><div class='gchoice gchoice_29_2_2'>
+								<input class='gfield-choice-input' name='input_2.2' type='checkbox'  value='Business' checked='checked' id='choice_29_2_2'   />
+								<label for='choice_29_2_2' id='label_29_2_2' class='gform-field-label gform-field-label--type-inline'>Business</label>
+							</div><div class='gchoice gchoice_29_2_3'>
+								<input class='gfield-choice-input' name='input_2.3' type='checkbox'  value='Community' checked='checked' id='choice_29_2_3'   />
+								<label for='choice_29_2_3' id='label_29_2_3' class='gform-field-label gform-field-label--type-inline'>Community</label>
+							</div></div></div></fieldset><div id="field_29_3" class="gfield gfield--type-email gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_29_3" ><label class='gfield_label gform-field-label' for='input_29_3'>Email<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_3' id='input_29_3' type='email' value='' class='large'   placeholder='Email Address' aria-required="true" aria-invalid="false"  />
+                        </div></div></div></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_29' class='gform_button button' value='Subscribe'  onclick='if(window["gf_submitting_29"]){return false;}  if( !jQuery("#gform_29")[0].checkValidity || jQuery("#gform_29")[0].checkValidity()){window["gf_submitting_29"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_29"]){return false;} if( !jQuery("#gform_29")[0].checkValidity || jQuery("#gform_29")[0].checkValidity()){window["gf_submitting_29"]=true;}  jQuery("#gform_29").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=29&amp;title=&amp;description=1&amp;tabindex=0&amp;theme=gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='is_submit_29' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='29' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_29' value='WyJbXSIsImEyMGQyYjA2OWZlMjBlNjI3ZjMwMjJiNDliYTZiZDExIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_29' id='gform_target_page_number_29' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_29' id='gform_source_page_number_29' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_29' id='gform_ajax_frame_29' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 29, 'https://mondo.com.au/app/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_29').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_29');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_29').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_29').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_29').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_29').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_29').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_29').val();gformInitSpinner( 29, 'https://mondo.com.au/app/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [29, current_page]);window['gf_submitting_29'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_29').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_29').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [29]);window['gf_submitting_29'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_29').text());}else{jQuery('#gform_29').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "29", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_29" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_29";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_29" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [29, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 29, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); 
+/* ]]> */
+</script>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+            </main><!-- /.main -->
+            </div><!-- /.content -->
+</div><!-- /.wrap -->
+<footer class="footer">
+    <div class="footer-group">
+
+        <!-- footer Curve SVG -->
+        <svg viewBox="0 0 1430 86" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0 43C210.617 15.6427 454.736 0 715 0C975.264 0 1219.38 15.6426 1430 43V86H0V43Z" fill="url(#paint0_linear)"/>
+            <defs>
+              <linearGradient id="paint0_linear" x1="0" y1="43" x2="1430" y2="42.9994" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#FF6700"/>
+                <stop offset="1" stop-color="#FFE619"/>
+              </linearGradient>
+            </defs>
+          </svg>
+
+        <div class="footer-wrapper container-fluid orange-gradient">
+            <div class="container clear">
+                <div class="row">
+                    <div class="footer-left">
+                        <div class="footer-menu" data-aos="fade-up" data-aos-offset="0">
+                            <ul id="menu-footer-menu" class="nav"><li class="menu-item menu-terms-conditions"><a href="https://mondo.com.au/energy-services/terms-conditions">Terms &#038; Conditions</a></li>
+<li class="menu-item menu-privacy-policy"><a href="https://mondo.com.au/community-energy/privacy-policy">Privacy Policy</a></li>
+<li class="menu-item menu-careers"><a target="_blank" rel="noopener" href="https://jobs.ausnetservices.com.au/">Careers</a></li>
+<li class="menu-item menu-contact"><a href="https://mondo.com.au/contact">Contact</a></li>
+</ul>                        </div>
+                        <div class='footer-social' data-aos='fade-up' data-aos-offset='0'><a href=https://www.linkedin.com/company/mondo-power/ target="_blank"><i class="fa fa-linkedin"></i></a><a href=https://www.facebook.com/mondoAU/ target="_blank"><i class="fa fa-facebook"></i></a><a href=https://twitter.com/PoweredByMondo?lang=en-au target="_blank"><i class="fa fa-twitter"></i></a></div> <!-- Only displayed on mobile -->
+                        <div class="footer-content-copyright">
+                            <div class="copyright">
+                                <span>Website by                                    <a href="https://igniteonline.com.au"
+                                                                            target="_blank">Ignite Online                                    </a>
+                                </span>
+                            </div>
+                            <div class="footer-content" data-aos="fade-up" data-aos-offset="0">
+                                                                <span>Mondo Power 2024</span>
+                                                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-right"> <!-- Only displayed on desktop -->
+                        <div class='footer-social' data-aos='fade-up' data-aos-offset='0'><a href=https://www.linkedin.com/company/mondo-power/ target="_blank"><i class="fa fa-linkedin"></i></a><a href=https://www.facebook.com/mondoAU/ target="_blank"><i class="fa fa-facebook"></i></a><a href=https://twitter.com/PoweredByMondo?lang=en-au target="_blank"><i class="fa fa-twitter"></i></a></div>                    </div>
+                <!-- </div> -->
+                <!-- <div class="row"> -->
+
+                </div>
+            </div>
+            <div class="container clear">
+                <div class="grecaptcha-note">
+                    This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.
+                </div>
+            <style>.grecaptcha-note { opacity: 0.5; } .grecaptcha-note a { color: inherit; } .grecaptcha-badge { visibility: hidden; } </style>
+            </div>
+        </div>
+        <!-- <button class="scrollUp"><em class="ion-ios-arrow-up"></em></button> -->
+    </div>
+</footer>
+<script type="text/javascript">
+_linkedin_partner_id = "708604";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=708604&fmt=gif" />
+</noscript>    <script type="text/javascript">
+      document.addEventListener('wpcf7mailsent', function (event) {
+        var eventName = '';
+        if ('5188' == event.detail.contactFormId) {
+          eventName = 'InfrastructureFormSubmit';
+        }
+        if ('5162' == event.detail.contactFormId) {
+          eventName = 'BusinessFormSubmit';
+        }
+        if ('5160' == event.detail.contactFormId) {
+          eventName = 'CommunityFormSubmit';
+        }
+        if ('5486' == event.detail.contactFormId) {
+          eventName = 'SubscriptionCTASubmission';
+        }
+        if (eventName !== '')
+          dataLayer.push({'event': eventName});
+      }, false);
+    </script>
+    <link rel="stylesheet" href="/app/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.8.11">
+<link rel="stylesheet" href="/app/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.8.11">
+<link rel="stylesheet" href="/app/plugins/gravityforms/assets/css/dist/theme-ie11.min.css?ver=2.8.11">
+<link rel="stylesheet" href="/app/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.8.11">
+<script type="text/javascript" defer src="/app/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.5" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/mondo.com.au\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="/app/plugins/contact-form-7/includes/js/index.js?ver=5.9.5" id="contact-form-7-js"></script>
+<script type="text/javascript" id="wpcf7-redirect-script-js-extra">
+/* <![CDATA[ */
+var wpcf7r = {"ajax_url":"https:\/\/mondo.com.au\/wp\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="/app/plugins/wpcf7-redirect/build/js/wpcf7r-fe.js?ver=1.1" id="wpcf7-redirect-script-js"></script>
+<script type="text/javascript" id="gforms_recaptcha_recaptcha-js-extra">
+/* <![CDATA[ */
+var gforms_recaptcha_recaptcha_strings = {"site_key":"6LdifpoUAAAAAPS_vPfijTTxCWVYTiLu-FWCgHec","ajaxurl":"https:\/\/mondo.com.au\/wp\/wp-admin\/admin-ajax.php","nonce":"f15199fecf"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://www.google.com/recaptcha/api.js?render=6LdifpoUAAAAAPS_vPfijTTxCWVYTiLu-FWCgHec&amp;ver=1.5.0" id="gforms_recaptcha_recaptcha-js"></script>
+<script type="text/javascript" id="gforms_recaptcha_recaptcha-js-after">
+/* <![CDATA[ */
+(function($){grecaptcha.ready(function(){$(".grecaptcha-badge").css("visibility","hidden");});})(jQuery);
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="/app/themes/mondo/dist/vendor/node-static-8bd51e5d.js" id="sage/vendor.js-js"></script>
+<script type="text/javascript" id="sage/main.js-js-extra">
+/* <![CDATA[ */
+var jsParams = {"news":"84","ajaxUrl":"https:\/\/mondo.com.au\/wp\/wp-admin\/admin-ajax.php","selectedCategory":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="/app/themes/mondo/dist/scripts/main_8bd51e5d.js" id="sage/main.js-js"></script>
+<script type="text/javascript" defer src="/wp/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" defer src="/wp/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" defer src="/wp/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" defer src="/wp/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" defer src="/wp/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="text/javascript" defer src="/wp/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { "text direction\u0004ltr": [ "ltr" ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="/wp/wp-includes/js/dist/a11y.min.js?ver=d90eebea464f6c09bfd5" id="wp-a11y-js"></script>
+<script type="text/javascript" defer src="/app/plugins/gravityforms/js/jquery.json.min.js?ver=2.8.11" id="gform_json-js"></script>
+<script type="text/javascript" id="gform_gravityforms-js-extra">
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/mondo.com.au\/app\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"Australian Dollar","symbol_left":"$","symbol_right":"","symbol_padding":" ","thousand_separator":",","decimal_separator":".","decimals":2,"code":"AUD"},"base_url":"https:\/\/mondo.com.au\/app\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/mondo.com.au\/app\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"6368df88987a892e099a2ad4e59a6d23","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="/app/plugins/gravityforms/js/gravityforms.min.js?ver=2.8.11" id="gform_gravityforms-js"></script>
+<script type="text/javascript" defer src="/app/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.8.11" id="gform_placeholder-js"></script>
+<script type="text/javascript" defer src="/app/plugins/gravityforms/assets/js/dist/utils.min.js?ver=2d19baeb93e2a0395e435793e50c082b" id="gform_gravityforms_utils-js"></script>
+<script type="text/javascript" defer src="/app/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=54e7080aa7a02c83aa61fae430b9d869" id="gform_gravityforms_theme_vendors-js"></script>
+<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"6368df88987a892e099a2ad4e59a6d23"}}},"hmr_dev":"","public_path":"https:\/\/mondo.com.au\/app\/plugins\/gravityforms\/assets\/js\/dist\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="/app/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=bab19fd84843dabc070e73326d787910" id="gform_gravityforms_theme-js"></script>
+<script type="text/javascript" defer src="/app/plugins/gravityformsrecaptcha/js/frontend.min.js?ver=1.5.0" id="gforms_recaptcha_frontend-js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 29) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }jQuery( "#gform_29" ).on( 'submit', function( event ) {
+	jQuery( '<input>' )
+		.attr( 'type', 'hidden' )
+		.attr( 'name', 'gf_zero_spam_key' )
+		.attr( 'value', 'KqPH7F6AUzTRbRz40iwrkgRtIgeqagslftreTZfxdLqdEPNMB7n5xBnR26SSfTya' )
+		.attr( 'autocomplete', 'new-password' )
+		.appendTo( jQuery( this ) );
+} );} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "29", currentPage: "1", abort: function() { this.preventDefault(); } }]);                if (event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_29" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_29";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_29" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [29, 1] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 29, currentPage: 1 } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } ); 
+/* ]]> */
+</script>
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 6.2.0.1 on 2024-07-02 21:06:28 -->

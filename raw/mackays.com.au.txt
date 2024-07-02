@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html>
+
+<head><meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="" name="csrf-token">
+<meta content="authenticity_token" name="csrf-param">
+<meta name="description" content="Stanley Mackay planted his first banana crop in North Queensland in 1945 beginning family tradition that has lasted 65 years. Stanley Mackay pioneered the banana industry in Northern Australia and was awarded Australia's highest honour the 'Medal of the Order of Australia’ in 1985.">
+
+<link rel="shortcut icon" href="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/favicon.ico?updated=1588819804">
+
+<script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?flags=gated&features=Promise%2CElement.prototype.closest"></script>
+<link rel="stylesheet" href="https://uploads.prod01.sydney.platformos.com/instances/179/assets/styles/bootstrap.min.css?updated=1632701254">
+<link rel="stylesheet" href="https://uploads.prod01.sydney.platformos.com/instances/179/assets/styles/main.min.css?updated=1632701260">
+<link rel="stylesheet" href="https://uploads.prod01.sydney.platformos.com/instances/179/assets/styles/custom.css?updated=1632701256">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+<title>Mackays | Bananas | Reblos | Mackays Farms</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body class="pad-top"><header>
+
+    <div class="container utility-wrapper">
+
+        <div class=" row-mr align-items-center justify-content-between ">
+            <div>
+                <a class="nav-link" href="tel:0740887800" title="Call Mackays">Call us: 07 4088 7800</a>
+            </div>
+            <div>
+                <a class="nav-link" href="/account-login" title="My Mackays Account">My Account</a>
+                </div>
+        </div>
+    </div>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <div class="container">
+            <a href="/" title="Mackays Home" class="branding">
+                <img src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/logo-white.png?updated=1588819807">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/contact">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a target="_blank" class="nav-link" href="https://aus232.dayforcehcm.com/CandidatePortal/en-AU/mfg/SITE/CANDIDATEPORTAL">Join Mackays Group</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header><div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100 img-fluid" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/img-banner-1.jpg?updated=1588819806" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 img-fluid" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/img-banner-2.jpg?updated=1588819804" alt="Fourth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 img-fluid" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/img-banner-3.jpg?updated=1588819807" alt="Seventh slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 img-fluid" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/img-banner-4.jpg?updated=1588819805" alt="Ninth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 img-fluid" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/img-banner-5.jpg?updated=1588819807" alt="Twelth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 img-fluid" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/img-banner-6.jpg?updated=1588819806" alt="Twelth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 img-fluid" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/img-banner-7.jpg?updated=1588819805" alt="Twelth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 img-fluid" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/img-banner-8.jpg?updated=1588819807" alt="Twelth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 img-fluid" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/img-banner-9.jpg?updated=1588819807" alt="Twelth slide">
+    </div>
+  
+  </div>
+  
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+
+ 
+  
+</div>
+<div class="container mt-68">
+    <div class="row-banner row"> <span class="message-banner span-banner "> From one man, one paddock, to the fourth
+        generation - Australia's Leading Banana Grower </span>
+    <h1 class="h1-banner text-white">75 Years of Family Farming</h1>
+    </div>
+</div><section class="about-section">
+		<div class="container">
+			<h2 class=" heading">Our Story</h2>
+<img class="img-fluid pb-3" alt="all boys 18" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/all-boys-18.jpg?updated=1588819805">
+<p class="p-tag-lh-2rem">
+  When canecutter Stan Mackay planted his first crop of bananas in 1945, on virgin scrub that he had cleared by hand in
+  his spare time, he could not have foreseen that, one day, his own great-grandchildren would serve their time in the
+  packing sheds of Australia’s leading banana grower – Mackays.
+</p>
+<p class="p-tag-lh-2rem">
+  That lease in Mission Beach became a full-time project two years later, and by 1953, had expanded fourfold along the
+  southern side of the Tully River. Today, those 6.5 hectares have grown to some 3600 hectares, incorporating sugar
+  cane, red papaya, avocados and cattle as well as its backbone crop, bananas, and cover three distinct rural areas. But
+  the basic tenets of Stan’s philosophy have remained the same, and are at the heart of Mackays’ success.
+</p>
+<p class="p-tag-lh-2rem">
+  From the beginning, it has been a family affair. Stan’s wife, Agnes, laboured alongside him making the cumbersome
+  wooden crates, packing in the single bananas; and sons John and Robert left school early to share the load and expand
+  the enterprise. When the 1956 cyclone obliterated the farm, the boys worked at the local sawmill, pooling their money
+  with their parents’, and thereby firmly establishing a modus operandi that drives the business today – work hard, work
+  as a team, family first.
+</p>
+<p class="p-tag-lh-2rem">
+  The combined finances secured the purchase of prime land, and a state-of-the-art packing and storage shed. Innovation
+  streamlined production - rollers to unload fruit onto the railway wagons; the introduction of clean seed plant. Stan’s
+  new packing machine saved on time and labour; cardboard cartons inspired him to switch to cardboard cartons inspired 
+  him to switch to hands instead of the painstaking single banana layers. S J Mackay & Sons became a familiar, constant presence at Australian Fruit
+  Markets. Expansion and acquisition continued into the seventies, and the company became one of the district’s major
+  employers.
+</p>
+<p class="p-tag-lh-2rem">
+  In the eighties, Robert’s eldest son Stephen, along with Gavin and Barrie, John’s sons, joined the business. They were
+  followed by Cameron and Daniel, Robert’s youngest sons, in the nineties. These five men are the pillars of the third
+  generation, steering Mackays into the thriving, sustainable and forward-looking enterprise it is now.
+</p>
+<p class="p-tag-lh-2rem">
+  Stan Mackay was recognised for his pioneering role in the Australian Banana Industry in 1985 with an Order of
+  Australia Medal. His great grandchildren, the fourth generation, today honour his legacy with their own dedication to the company.
+</p>
+		</div>
+	</section>
+	<section class="our-farm-section">
+		<div class="container ">
+			<h2 class=" heading">Growing Regions</h2>
+			
+				<div class="row">
+					<div class="col-md-6 col-sm-12 col-xm-12"  data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+						<img class="img-fluid" alt="map of farms" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/Map-of-Farms.jpg?updated=1588819807">
+					</div>
+					<div class="col-md-6 col-sm-12 col-xm-12" data-aos="flip-right" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+						<p class="p-tag-lh fz">
+							The land around the small town of Tully, famed for its astronomical rainfall, white water
+							rafting and World Heritage rainforest, has proved an ideal locale for our major crop,
+							bananas,
+							as well as the sugar cane and cattle that we branched out into in the early ‘70s and ‘90s
+							respectively. Rich soils, heat and humidity are excellent growing conditions for our five
+							farming properties in this region, covering over 3100 hectares. Red papayas, a more recent
+							addition, also flourish. Further to the north, at Lakeland Downs, our bananas there mitigate
+							the
+							biosecurity risks and extreme weather events to which the coastal tropics are sometimes
+							prone.
+							To that end, we have established a third growing region to the south, near Bundaberg. Both
+							of
+							these properties also cultivate avocados.
+						</p>
+					</div>
+				</div>
+		
+		</div>
+	</section>
+	<section class="our-people-section">
+		<div class="container">
+			<h2 class=" heading">Our People</h2>
+
+			<img class="img-fluid" alt="our people" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/our-people.jpg?updated=1588819806">
+
+			<p class="p-tag-lh-2rem pt-3">
+				Mackays is foremost a family business, embracing its diverse workforce with the care and respect that
+				they deserve as the most fundamental element of our success. We strongly believe in investing in those
+				who work with us, and pride ourselves on maintaining a safe, ethical and supportive working environment.
+				Our culture promotes the wellbeing and health of all of our employees, where opportunities for
+				professional development and promotion are readily available.
+			</p>
+			<p class="p-tag-lh-2rem">
+				Third generation family members, brothers Gavin and Barrie, and Stephen, Cameron and their brother
+				Daniel, are active Directors on the Board, each with his own areas of responsibility, guided by an
+				independent team of professionals to ensure integrity and strategic expertise at the highest level.
+			</p>
+			<p class="p-tag-lh-2rem">
+				Among our team of over 550 staff, you will find the young women and men of the fourth generation, who bring twenty-first century skills along with their commitment to the values of our company.
+			</p>
+		</div>
+	</section><section class="our-crop-section">
+	<div class="container h-100">
+		<h2 class="heading">Our Produce</h2>
+		<p class="text-justify p-custom" data-aos="flip-up" data-aos-offset="250" data-aos-easing="ease-in-sine"> We are
+			utterly committed to sustainable farming practices, working with nature whenever possible to protect the
+			environment, optimising nutrition and plant health. Waste is minimised by freezing, with a brand new
+			facility poised to utilize the latest IQF techniques. Cutting-edge biosecurity measures are strictly
+			enforced on all our farms to prevent the spread of pests and diseases. </p>
+		<!-- Banana Row -->
+		<div class="row">
+			<div class="col">
+				<h2 class="text-center border-b">Bananas</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6 col-sm-12 col-xm-12" data-aos="fade-right" data-aos-offset="250" data-aos-easing="ease-in-sine">
+				<div class="col mx-auto">
+					<p class="text-justify p-custom"> Mackays are indisputably the largest producer of bananas in
+						Australia. We pride ourselves on delivering a consistently high quality product and service year
+						round, to both local retailers and customers as well as major supermarkets throughout Australia.
+						Alert to consumer preferences, we have developed the Smart Banana, which has an optimum
+						sweetness and size, ripening in individual packaging and with a smaller footprint than that of
+						other suppliers. </p>
+				</div>
+			</div>
+			<!--End of left col -->
+			<div class="col-md-6 col-sm-12 col-xm-12" data-aos="fade-left" data-aos-offset="250" data-aos-easing="ease-in-sine">
+				<div class="col mx-auto"> <img class="img-fluid box-sd" alt="banana" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/banana.jpg?updated=1588819806"> </div>
+			</div>
+		</div> <!-- End of Banana Row -->
+		<!-- Sugar Row -->
+		<div class="row pt-3">
+			<div class="col">
+				<h2 class="text-center border-b">Sugar Cane</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6 col-sm-12 col-xm-12" data-aos="fade-up-right" data-aos-offset="250" data-aos-easing="ease-in-sine">
+				<div class="col mx-auto"> <img class="img-fluid box-sd" alt="sugar cane" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/sugar-cane.jpg?updated=1588819805"> </div>
+			</div>
+			<!--End of left col -->
+			<div class="col-md-6 col-sm-12 col-xm-12" data-aos="fade-up-left" data-aos-offset="250" data-aos-easing="ease-in-sine">
+				<div class="col mx-auto">
+					<p class="text-justify p-custom"> This is another crop that thrives in the hot, humid conditions of
+						our region. From the first harvest in the mid-eighties, fifty years after canecutter Stan Mackay
+						arrived in Tully, we are now one of the largest suppliers of sugar cane to the Tully Mill, while
+						our southern cane is assigned to the Bundaberg mill. Crop rotation techniques and varietal
+						strains throughout our 1000 plus hectares have enabled us to develop this solid branch of our
+						business. </p>
+				</div>
+			</div>
+		</div> <!-- End of sugar Row -->
+		<!-- Red Papaya Row -->
+		<div class="row pt-3">
+			<div class="col">
+				<h2 class="text-center border-b">Red Papaya</h2>
+			</div>
+		</div>
+		<div class="row pt-3">
+			<div class="col-md-6 col-sm-12 col-xm-12" data-aos="fade-down-right" data-aos-offset="250" data-aos-easing="ease-in-sine">
+				<div class="col mx-auto">
+					<p class="text-justify p-custom"> Sweet, creamy, with a reddish flesh that signals its high vitamin
+						and anti-oxidant content, our Ruby Rise and Red Hill papayas are proving increasingly popular
+						with consumers throughout Australia. Taste the Supergoodness is not just a tagline – we believe
+						that our papaya, grown on our exclusive plantations in the lush Tully Valley and delivered farm
+						fresh to our customers, are a superior eating experience as well as a source of good health.
+					</p>
+				</div>
+			</div>
+			<!--End of left col -->
+			<div class="col-md-6 col-sm-12 col-xm-12" data-aos="fade-down-left" data-aos-offset="250" data-aos-easing="ease-in-sine">
+				<div class="col mx-auto"> <img class="img-fluid box-sd" alt="red papaya" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/red-papaya.jpg?updated=1588819806"> </div>
+			</div>
+		</div> <!-- End of red papaya Row -->
+		<!-- Avocados Row -->
+		<div class="row pt-3">
+			<div class="col">
+				<h2 class="text-center border-b">Avocados</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col"> 
+					<div class="col-6 col-sm-12 mx-auto"> <img class="img-fluid box-sd" alt="avocados" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/avocado.jpg?updated=1588819804"> </div>
+			</div> 
+			<!--End of left col -->
+			<!-- <div class="col"> -->
+			<div class="col mx-auto" data-aos="zoom-out-up" data-aos-offset="250" data-aos-easing="ease-in-sine">
+				<p class="text-justify p-custom"> Another recent diversification has been our establishment of avocado
+					orchards at Lakeland Downs and Bundaberg, where the deep red soils and warm temperatures promote
+					fast growth and abundant harvests. Our main varieties are the smooth-skinned Shepherd and the
+					larger, dark purple Maluma. </p>
+			</div>
+			<!-- </div> -->
+		</div> <!-- End of Avocados Row -->
+		<!-- Cattle Row -->
+		<div class="row pt-3">
+			<div class="col">
+				<h2 class="text-center border-b">Cattle</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6 col-sm-12 col-xm-12" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1500">
+				<div class="col mx-auto">
+					<p class="text-justify p-custom"> With the purchase of prime grazing land in the Tully Valley in
+						1991, what began as a semi-commercial hobby of some family members has evolved into a strong
+						entity, spanning an area of 400 hectares with an industry recognised herd of approximately 800
+						selectively bred beef cattle. They are grass fed for first class flavour and managed in a
+						stress-free environment, so the end product has both the singular taste and exceptional
+						tenderness that consumers look for. </p>
+				</div>
+			</div>
+			<!--End of left col -->
+			<div class="col-md-6 col-sm-12 col-xm-12" data-aos="flip-right" data-aos-easing="ease-out-cubic" data-aos-duration="1500">
+				<div class="col mx-auto"> <img class="img-fluid box-sd" alt="cattle" src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/cattle.jpg?updated=1588819805"> </div>
+			</div>
+		</div> <!-- End of Cattle Row -->
+	</div>
+</section><footer>
+  <div class="container">
+    <a
+      class="logo"
+      href="/"
+      title="Mackays Home"><img src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/images/logo-white.png?updated=1588819807"></a>
+    <div class="row">
+      <div class="col-md-4">
+        <h4>Farming Office</h4>
+        <p>
+          <strong>Address:</strong>
+          PO Box 513 Tully QLD 4854<br>
+          <strong>Phone:</strong>
+          <a href="tel:0740887800" title="Call Mackays Farming Office">07 4088 7800</a><br>
+          <strong>Fax:</strong>
+          07 4088 7888<br>
+          <strong>Email:</strong>
+          info@mackays.com.au</p>
+
+
+      </div>
+      <div class="col-md-4">
+        <h4>About Mackays</h4>
+        <div style="position:relative; padding-top:56.25%; margin-bottom:10px;">
+          <iframe
+            id="vid_frame"
+            width="100%"
+            height="100%"
+            src="https://www.youtube.com/embed/Y0IjCI2RPtM"
+            frameborder="0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+            style="border:0; position:absolute; top:0;"></iframe>
+        </div>
+        <div class="row">
+          <div class="col-4">
+            <a class="vid-item" onclick="document.getElementById('vid_frame').src='https://youtube.com/embed/GXON3TJ3wdw'">
+              <img src="https://img.youtube.com/vi/GXON3TJ3wdw/0.jpg">
+            </a>
+          </div>
+          <div class="col-4">
+            <a class="vid-item" onclick="document.getElementById('vid_frame').src='https://youtube.com/embed/MnP0N6KG0RQ'">
+              <img src="https://img.youtube.com/vi/MnP0N6KG0RQ/0.jpg">
+            </a>
+          </div>
+          <div class="col-4">
+            <a class="vid-item" onclick="document.getElementById('vid_frame').src='https://youtube.com/embed/Y0IjCI2RPtM'">
+              <img src="https://img.youtube.com/vi/Y0IjCI2RPtM/0.jpg">
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <h4>Staff Login</h4>
+        <form class="simple_form form" enctype="multipart/form-data" action="/api/sessions" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" autocomplete="off" /><input type="hidden" name="authenticity_token" value="teFn_1noIcgIrkDlo7uJuSGfYf9vl4rTwT-Z166GygvXlXqkkw1UzqHYC0izMk0716av0rHcb8raRfhCP9tvWA" autocomplete="off" /><input type="hidden" name="form_id" value="5875" autocomplete="off" />
+<input type="hidden" name="page_id" value="12857" autocomplete="off" />
+<input type="hidden" name="slug" autocomplete="off" />
+<input type="hidden" name="slug2" autocomplete="off" />
+<input type="hidden" name="slug3" autocomplete="off" />
+<input type="hidden" name="slugs" autocomplete="off" />
+<input type="hidden" name="resource_id" value="new" autocomplete="off" />
+<input type="hidden" name="parent_resource_id" autocomplete="off" />
+<input type="hidden" name="parent_resource_class" autocomplete="off" />
+<label for="email">Email Address</label>
+	<input type="email" class="form-control" name="form[email]">
+	
+	<label for="password">Password</label>
+	<input type="password" class="form-control" name="form[password]">
+	
+	<input class="login-submit btn" type="submit" value="Log In">
+</form></div>
+    </div>
+  </div>
+</footer>
+<script src="https://unpkg.com/aos@2.3.0/dist/aos.js"></script>
+<script src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/scripts/app.js?updated=1632701274"></script><script src="https://cdn.polyfill.io/v3/polyfill.min.js"></script>
+<script src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/scripts/vendor.js?updated=1588820318"></script>
+<script src="https://uploads.prod01.sydney.platformos.com/instances/179/assets/scripts/app.js?updated=1632701274"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script></body>
+
+</html>

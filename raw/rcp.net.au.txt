@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++ooooooo+++++++++++++oooo+++++++++++++oo+++++++oooooooo++++++++++++++++++++++++++++++
++++++++++++++++smmmmmmmdhso+++++oshdmmmmdyo++++++oyddmmmdhso++dmmmmmmmdyo++ohh++++++++++++++++++++++
++++++++++++++++sMNyyyyyhmMNyo+ohNMmhyyyhdNMdo++sdMNdhyyhdNMmy+mMdyyyyydNMmssMM++++++++++++++++++++++
++++++++++++++++sMN+++++++smMmomMmo+++++++ohMNsyMMyo+++++++sNMdmMy+++++++yMMhMM++++++++++++++++++++++
++++++++++++++++sMN+++++++++mMNMm+++++++++++yMNMMs++++++++++oNMMMy++++++++sMMMM+++++oo+++++++++++++++
++++++++++++++++sMN+++++++++hMMMh+++++++++++oMMMN++++++++++++dMMMy+++++++++MMMM++++++ys++++++++++++++
++++++++++++++++sMN++++++++omMNMm+++++++++++hMNMMs++++++++++oNMMMy++++++++sMMMMo++++++dh+++++++++++++
++++++++++++++++sMN+++++++smMdomMms+++++++ohMNsyMNy++++++++smMdmMy++++++ohMMyhMNs++++++mmo+++++++++++
++++++++++++++++sMNyyyyyhmMNy+++yNMmhyyyhmNNdo++smMNdyyyyhmMNy+mMdyyyyhdNMdo++yNMdysoo+oNNy++++++++++
++++++++++++++++smmmmmmmdhso+++++oshdmmmdhyo++++++oydmmmmdhso++hmmmmmmddyo+++++oydmNNs++shyo+++++++++
+++++++++++++++++ooooooo+++++++++++++ooo+++++++++++++oooo++++++ooooooo++++++++++++ooo++osso++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++sso+++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++so+++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++oo++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++o+++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Website by DOODL – www.doodl.co.nz -->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0">
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<meta name="description" content="<p>One of Australia’s largest independent project management consultancies serving the property development, construction, resources and infrastructure industries.</p>
+">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Home &ndash; RCP Australia</title>
+	<meta name="description" content="One of Australia’s largest independent project management consultancies serving the property development, construction, resources and infrastructure industries." />
+	<link rel="canonical" href="https://www.rcp.net.au/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home &ndash; RCP Australia" />
+	<meta property="og:description" content="One of Australia’s largest independent project management consultancies serving the property development, construction, resources and infrastructure industries." />
+	<meta property="og:url" content="https://www.rcp.net.au/" />
+	<meta property="og:site_name" content="RCP Australia" />
+	<meta property="article:modified_time" content="2024-03-01T06:45:25+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.rcp.net.au/","url":"https://www.rcp.net.au/","name":"Home &ndash; RCP Australia","isPartOf":{"@id":"https://www.rcp.net.au/#website"},"about":{"@id":"https://www.rcp.net.au/#organization"},"datePublished":"2019-03-07T03:46:03+00:00","dateModified":"2024-03-01T06:45:25+00:00","description":"One of Australia’s largest independent project management consultancies serving the property development, construction, resources and infrastructure industries.","breadcrumb":{"@id":"https://www.rcp.net.au/#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://www.rcp.net.au/"]}]},{"@type":"BreadcrumbList","@id":"https://www.rcp.net.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.rcp.net.au/#website","url":"https://www.rcp.net.au/","name":"RCP Australia","description":"","publisher":{"@id":"https://www.rcp.net.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.rcp.net.au/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-AU"},{"@type":"Organization","@id":"https://www.rcp.net.au/#organization","name":"Resource Co-ordination Partnership Pty Ltd","url":"https://www.rcp.net.au/","logo":{"@type":"ImageObject","inLanguage":"en-AU","@id":"https://www.rcp.net.au/#/schema/logo/image/","url":"https://www.rcp.net.au/rcp19/wp-content/uploads/2019/04/rcp_australia_logo.png","contentUrl":"https://www.rcp.net.au/rcp19/wp-content/uploads/2019/04/rcp_australia_logo.png","width":393,"height":128,"caption":"Resource Co-ordination Partnership Pty Ltd"},"image":{"@id":"https://www.rcp.net.au/#/schema/logo/image/"},"sameAs":["https://www.instagram.com/rcp_aus/","https://www.linkedin.com/company/rcpaus/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.polyfill.io' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.rcp.net.au\/rcp19\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.7"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.rcp.net.au/rcp19/wp-includes/css/dist/block-library/style.min.css?ver=6.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.rcp.net.au/rcp19/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='awsm-jobs-general-css' href='https://www.rcp.net.au/rcp19/wp-content/plugins/wp-job-openings/assets/css/general.min.css?ver=3.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-jobs-style-css' href='https://www.rcp.net.au/rcp19/wp-content/plugins/wp-job-openings/assets/css/style.min.css?ver=3.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rcp-style-css' href='https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/css/style.min.css?v=2.1&#038;ver=6.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-job-pro-country-select-css' href='https://www.rcp.net.au/rcp19/wp-content/plugins/pro-pack-for-wp-job-openings/assets/css/intlTelInput.min.css?ver=17.0.16' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-job-pro-style-css' href='https://www.rcp.net.au/rcp19/wp-content/plugins/pro-pack-for-wp-job-openings/assets/css/style.min.css?ver=3.2.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.rcp.net.au/rcp19/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.rcp.net.au/rcp19/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://cdn.polyfill.io/v2/polyfill.min.js?ver=6.1.7' id='polyfill-io-js'></script>
+<script type='text/javascript' src='https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/js/thirdparty/modernizr_rcp.js?ver=6.1.7' id='rcp-modernizr-js'></script>
+<script type='text/javascript' src='https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/js/thirdparty/domready.js?ver=6.1.7' id='dom-ready-js'></script>
+<script type='text/javascript' src='https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/js/thirdparty/rellax.min.js?ver=6.1.7' id='rellax-js'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js?ver=6.1.7' id='web-font-loader-js'></script>
+<script type='text/javascript' src='https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/js/thirdparty/dropkick.js?ver=6.1.7' id='dropkick-js-js'></script>
+<script type='text/javascript' id='theme-js-js-extra'>
+/* <![CDATA[ */
+var rcpvars = {"theme_file_uri":"https:\/\/www.rcp.net.au\/rcp19\/wp-content\/themes\/RCP"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/js/main.js?v=3.0&#038;ver=6.1.7' id='theme-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.rcp.net.au/wp-json/" /><link rel="alternate" type="application/json" href="https://www.rcp.net.au/wp-json/wp/v2/pages/9" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.rcp.net.au/rcp19/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.rcp.net.au/rcp19/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.7" />
+<link rel='shortlink' href='https://www.rcp.net.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.rcp.net.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rcp.net.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.rcp.net.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rcp.net.au%2F&#038;format=xml" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/images/favicons/manifest.json">
+	<link rel="mask-icon" href="https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/images/favicons/favicon.ico">
+	<meta name="msapplication-config" content="https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5XF76BC');</script>
+	<!-- End Google Tag Manager -->
+</head>
+<body class="home page-template-default page page-id-9">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XF76BC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<nav id="nav-main">
+		<div class="nav-container flex flex-middle contrast">
+			<a class="logo" href="https://www.rcp.net.au"><img class="standard" src="https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/images/rcp_logo.svg"><img class="contrast" src="https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/images/rcp_logo_contrast.svg"></a>
+			<!-- <a class="search"><i class="fa fa-search"></i></a> -->
+			<a id="nav-hamburger">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</a>
+		</div>
+	</nav>
+	<div class="nav-overlay">
+		<div class="container center">
+			<div class="menu-items">
+				<ul id="menu-main-menu" class="menu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35"><a href="https://www.rcp.net.au/our-approach/"><div class="sub">Who we are</div>Our Approach</a>
+<ul class="sub-menu">
+	<li id="menu-item-257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-257"><a href="https://www.rcp.net.au/our-approach/vision-values/">Vision &#038; Values</a>
+	<li id="menu-item-256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256"><a href="https://www.rcp.net.au/our-approach/sustainable-solutions/">Sustainable Solutions</a>
+	<li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="https://www.rcp.net.au/our-approach/quality-risk-management/">Quality &#038; Risk Management</a>
+	<li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="https://www.rcp.net.au/our-approach/health-safety/">Health &#038; Safety</a>
+	<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="https://www.rcp.net.au/our-approach/awards-testimonials/">Awards &#038; Testimonials</a>
+</ul>
+
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://www.rcp.net.au/our-people/"><div class="sub">Meet the team</div>Our People</a>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-37"><a href="https://www.rcp.net.au/our-services/"><div class="sub">Our focus</div>Our Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261"><a href="https://www.rcp.net.au/our-services/project-management/">Project Management</a>
+	<li id="menu-item-260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260"><a href="https://www.rcp.net.au/our-services/project-programming/">Project Programming</a>
+	<li id="menu-item-259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://www.rcp.net.au/our-services/development-management/">Development Management</a>
+	<li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="https://www.rcp.net.au/our-services/delay-claim-advisory/">Delay Claim Advisory</a>
+</ul>
+
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://www.rcp.net.au/our-projects/"><div class="sub">What we do</div>Our Projects</a>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://www.rcp.net.au/careers/"><div class="sub">Work with us</div>Careers</a>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-39"><a href="https://www.rcp.net.au/contact/"><div class="sub">Get in touch</div>Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://www.rcp.net.au/contact/">Locations</a>
+</ul>
+
+<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-42"><a href="https://www.rcp.net.au/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a href="https://www.rcp.net.au/news/articles/">Latest News</a>
+	<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="https://www.rcp.net.au/news/newsletters/">Newsletters</a>
+	<li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="https://www.rcp.net.au/news/downloads/">Downloads</a>
+</ul>
+
+</ul>				<form role="search" method="get" class="search-form" action="https://www.rcp.net.au/">
+    <label>
+        <span class="screen-reader-text">Search for:</span>
+        <input type="search" class="search-field"
+            placeholder="Search …" name="s"
+            title="Search for:" />
+    </label>
+    <input type="submit" class="search-submit"
+        value="Search" />
+</form>			</div>
+		</div>
+	</div>					<header class="full-screen">
+			<div class="homepage-slider">
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/02/gpo-hero.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>GPO Exchange</h1>
+							<p class="sub">Adelaide, SA</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/05/BVSC-Stage-6-Lanik-Roof.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>Burnside Village Stage 6 Development </h1>
+							<p class="sub">Adelaide, SA </p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2019/03/RCP-Hero-3_NQS_Artist-impression-only.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>North Queensland Stadium</h1>
+							<p class="sub">Townsville, Qld</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2019/03/RCP_CBUS_443-Queen-St_Slider.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>443 Queen Street</h1>
+							<p class="sub">Brisbane, Qld</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/02/gc-expansion-hero.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>Gold Coast Airport Redevelopment</h1>
+							<p class="sub">Gold Coast, Qld</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2019/03/Oxford-Central-1.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>Oxford Central</h1>
+							<p class="sub">Sydney, NSW</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/03/ripleyschool-z7a4143-hr-jpg.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>Ripley Valley Primary School & High School</h1>
+							<p class="sub">Ipswich, Qld</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2020/01/FINAL-EDIT-2020-HEROSlider_StAndrews-V20078.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>St Andrew's Hospital Eastern Clinic Development</h1>
+							<p class="sub">Adelaide, SA</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2019/03/RCP_Westfield_Coomera_slider.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>Coomera Town Centre</h1>
+							<p class="sub">Gold Coast, Qld</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2019/03/Port-of-Townsville_heroslider.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>Port of Townsville</h1>
+							<p class="sub">Townsville, North Qld</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2019/03/RCP-Hero-4_Gold-Coast-Private-Hospital.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>Gold Coast Private Hospital</h1>
+							<p class="sub">Gold Coast, Qld</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2020/01/2020-Brisbane-Private-FINAL_N3.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>Brisbane Private Hospital</h1>
+							<p class="sub">Brisbane, Qld</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2020/03/Hero-Image-front-page-wedsite.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>Artisan Residences and Culinary House </h1>
+							<p class="sub">Melbourne, Vic </p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2024/03/CHHL0100_360Queen_E03_Podium_DAY-copy-2-2000x10000-1.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>360 Queen Street </h1>
+							<p class="sub">Brisbane, Qld</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2020/08/Home-page-For-website-2000.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>David Jones</h1>
+							<p class="sub">Sydney, NSW </p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2024/03/m3370b_0707_©Trevor-Mein-2022-2000x1000-1.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>83 Pirie Street</h1>
+							<p class="sub">Adelaide, SA</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2024/03/InterContinental_website_200x1000_1226.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>InterContinental Sydney Redevelopment</h1>
+							<p class="sub">Sydney, NSW</p>
+						</div>
+					</div>
+									<div class="slider-el">
+						<div class="img-frame">
+							<img src="data:," data-src="https://www.rcp.net.au/rcp19/wp-content/uploads/2024/03/60-KWS-182-2000x1000-1.jpg">
+						</div>
+						<div class="typography">
+							<!-- <div class="nav-links non-blocking">
+								<a class="nav-link nav-link-prev"></a>
+								<a class="nav-link nav-link-next"></a>
+							</div> -->
+							<h1>60 King William Street </h1>
+							<p class="sub">Adelaide, SA</p>
+						</div>
+					</div>
+							</div>
+		</header>
+					<main class="sectioned features home">
+												<div class="linked-page container centre padding-h scrollspy">
+									<img width="889" height="500" src="https://www.rcp.net.au/rcp19/wp-content/uploads/2020/06/CHH1619_360QueenSt_S020_EXT_StreetView_Final-2000-889x500.jpg" class="featured-image wp-post-image" alt="360 Queen Street" decoding="async" />									<div class="featured-letter rellax">O</div>
+									<div class="callout scrollspy rellaxup">
+										<h2>Our Approach</h2>										<p>For over 40 years, we have delivered developments for our clients across a wide range of sectors including aged care, aviation, commercial, education, health, hotels &#038; resorts, industrial, infrastructure, office fit-outs, public buildings, recreation, residential, resources, retail, sporting facilities and urban renewal.</p>
+										<a class="button animate scrollspy" href="https://www.rcp.net.au/our-approach/">Learn More</a>
+									</div>
+								</div>
+																<div class="linked-page container centre padding-h multiple-features">
+																													<img class="featured-image hidden" src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/08/VTA_website_889x500.jpg" data-belongs="0">
+																				<div class="featured-letter rellax hidden" data-belongs="0">V</div>
+										<div class="callout scrollspy hidden rellaxup has-nav" data-title="Latest PROJECTS" data-belongs="0">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>Victoria Tower Adelaide</h2>											<p>RCP has been engaged by Auta Group to provide project management, superintendent, and programming services for the mixed-use Victoria Tower Adelaide development.</p>
+											<a class="button animate scrollspy" href="https://www.rcp.net.au/projects/victoria-tower-adelaide-vta/">Learn More</a>
+										</div>
+																													<img class="featured-image hidden" src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/05/Hollywood-Plaza_website_889x500_2.jpg" data-belongs="1">
+																				<div class="featured-letter rellax hidden" data-belongs="1">H</div>
+										<div class="callout scrollspy hidden rellaxup has-nav" data-title="Latest PROJECTS" data-belongs="1">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>Hollywood Plaza Refurbishment</h2>											<p>The Hollywood Plaza shopping centre in Salisbury Downs, Adelaide is receiving a major upgrade.</p>
+											<a class="button animate scrollspy" href="https://www.rcp.net.au/projects/hollywood-plaza-refurbishment/">Learn More</a>
+										</div>
+																													<img class="featured-image hidden" src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/04/GCLR3-mermaid_website_889x500.jpg" data-belongs="2">
+																				<div class="featured-letter rellax hidden" data-belongs="2">G</div>
+										<div class="callout scrollspy hidden rellaxup has-nav" data-title="Latest PROJECTS" data-belongs="2">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>Gold Coast Light Rail Stage 3</h2>											<p>The project is being delivered in stages and RCP has been appointed by Keolis Downer to provide programming services for Stage 3.</p>
+											<a class="button animate scrollspy" href="https://www.rcp.net.au/projects/gold-coast-light-rail-stage-3/">Learn More</a>
+										</div>
+																													<img class="featured-image hidden" src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/03/Francis_2_WEB_889x500.jpg" data-belongs="3">
+																				<div class="featured-letter rellax hidden" data-belongs="3">N</div>
+										<div class="callout scrollspy hidden rellaxup has-nav" data-title="Latest PROJECTS" data-belongs="3">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>New Theatre and Live Room, The Star Sydney</h2>											<p>Client: Foundation Theatres Pty Limited Value: $90 million Project Timeframe: 2022 – 2025 Services Provided: Project Management, Programming Features: Broadway-style theatre that can change in size to accommodate smaller audiences. Comedy and live entertainment theatre with flexibility to accommodate immersive and interactive theatrical works. Demolition and construction will be undertaken in a complex live environment. [&hellip;]</p>
+											<a class="button animate scrollspy" href="https://www.rcp.net.au/projects/new-theatre-and-live-room-the-star-sydney/">Learn More</a>
+										</div>
+																													<img class="featured-image hidden" src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/03/albert-street_3.jpg" data-belongs="4">
+																				<div class="featured-letter rellax hidden" data-belongs="4">1</div>
+										<div class="callout scrollspy hidden rellaxup has-nav" data-title="Latest PROJECTS" data-belongs="4">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>101 Albert Street, Brisbane</h2>											<p>Client: QIC Real Estate Value: $750 million Project Timeframe: 2022 – 2027 Services Provided: Project Management, Programming Features: Targeting 6-Star Green Star and 5.5 Star NABERS Energy ratings 45,000 sqm (31-storeys) of prime office space Retail and dining within the vertical village 4,000 sqm of outdoor space including expansive rooftop garden and subtropical vertical garden [&hellip;]</p>
+											<a class="button animate scrollspy" href="https://www.rcp.net.au/projects/101-albert-street-brisbane/">Learn More</a>
+										</div>
+																</div>
+															<div class="linked-page container centre padding-h multiple-features">
+																													<img class="featured-image hidden" src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/09/AIB-National-Award_889x500_5.jpg" data-belongs="0">
+																				<div class="featured-letter rellax hidden" data-belongs="0">R</div>
+										<div class="callout scrollspy hidden rellaxup has-nav" data-title="Latest NEWS" data-belongs="0">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>RCP wins National AIB Award for Project Management</h2>											<p>RCP is thrilled to announce it was the recipient of the national Professional Excellence Award for project management! RCP’s Senior Project Manager, John Manahan, won the award for his leadership of the InterContinental Sydney Redevelopment. Attended by the AIB Chief Executive, national council representatives, AIB members and industry peers the awards evening celebrating Australian building [&hellip;]</p>
+											<a class="button animate scrollspy" href="https://www.rcp.net.au/2023/09/21/rcp-wins-national-aib-award-for-project-management/">Learn More</a>
+										</div>
+																													<img class="featured-image hidden" src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/08/IKEA-NZ_website_889x500.jpg" data-belongs="1">
+																				<div class="featured-letter rellax hidden" data-belongs="1">C</div>
+										<div class="callout scrollspy hidden rellaxup has-nav" data-title="Latest NEWS" data-belongs="1">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>Construction commences on NZ’s first IKEA store</h2>											<p>On 6 June 2023 RCP NZ, joined client IKEA in marking the commencement of construction of the first IKEA store in New Zealand with a groundbreaking ceremony, site blessing followed by a Fika traditional Swedish Fika. RCP was initially engaged to provide property and infrastructure due diligence advice and associated reporting to IKEA to inform decision-making on [&hellip;]</p>
+											<a class="button animate scrollspy" href="https://www.rcp.net.au/2023/08/17/construction-commences-on-nzs-first-ikea-store/">Learn More</a>
+										</div>
+																													<img class="featured-image hidden" src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/08/External-hero-889x500.jpg" data-belongs="2">
+																				<div class="featured-letter rellax hidden" data-belongs="2">V</div>
+										<div class="callout scrollspy hidden rellaxup has-nav" data-title="Latest NEWS" data-belongs="2">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>Victoria Tower Adelaide update</h2>											<p>The construction of Victoria Tower Adelaide (VTA) has officially kicked off, with VTA set to be Adelaide’s fourth tallest building at 120.21m high on completion in 2025.  Piling works have been completed, using the second largest piling rig in Australia and the largest piles in South Australia at 1.5m diameter and 18m deep. RCP has [&hellip;]</p>
+											<a class="button animate scrollspy" href="https://www.rcp.net.au/2023/08/17/victoria-tower-adelaide-update/">Learn More</a>
+										</div>
+																													<img class="featured-image hidden" src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/08/Intercontinental_website_889x500.jpg" data-belongs="3">
+																				<div class="featured-letter rellax hidden" data-belongs="3">R</div>
+										<div class="callout scrollspy hidden rellaxup has-nav" data-title="Latest NEWS" data-belongs="3">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>RCP wins AIPM and AIB NSW Awards 2023 &#8211; InterContinental Sydney Redevelopment</h2>											<p>AIPM PMAA Construction/Engineering &#8211; NSW Winner! 22 August: In addition to our recent AIB wins (below) the Intercontinental Sydney Redevelopment has won the prestigious Australia Institute of Project Management PMAA Construction/Engineering category NSW. We are thrilled as the project was up against a very high-calibre field of competitors and projects. Congratulations John, Mark and the [&hellip;]</p>
+											<a class="button animate scrollspy" href="https://www.rcp.net.au/2023/08/08/more-success-for-rcp-at-the-aib-professional-excellence-in-building-awards-2023-intercontinental-sydney-redevelopment/">Learn More</a>
+										</div>
+																													<img class="featured-image hidden" src="https://www.rcp.net.au/rcp19/wp-content/uploads/2023/07/staff-promos_889x500.jpeg" data-belongs="4">
+																				<div class="featured-letter rellax hidden" data-belongs="4">R</div>
+										<div class="callout scrollspy hidden rellaxup has-nav" data-title="Latest NEWS" data-belongs="4">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>RCP Announces Staff Promotions</h2>											<p>RCP Australia is pleased to announce five recent promotions across the company! James Cornish has been promoted to Gold Coast Manager. James has up stepped, taking over responsibility for RCP’s projects on the Gold Coast and further developing RCP’s business in the area. This is a befitting progression given his experience, knowledge of, and connections [&hellip;]</p>
+											<a class="button animate scrollspy" href="https://www.rcp.net.au/2023/07/16/rcp-announces-staff-promotions/">Learn More</a>
+										</div>
+																</div>
+															<div class="linked-page container centre padding-h multiple-features insta">
+																			<image class="featured-image hidden" src="https://scontent-syd2-1.cdninstagram.com/v/t51.29350-15/449090877_25666868949627811_7545993637690273620_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=QzUd3Yt6VecQ7kNvgHxsSQ7&_nc_ht=scontent-syd2-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYBPPEmsFgkLqOB57j1COj3Gg7GXTdyKzXOu9zgDsSaOWA&oe=6689B0A5" data-belongs="0">
+										<div class="featured-letter rellax hidden" data-belongs="0">I</div>
+										<div class="callout flex-layout hidden rellaxup has-nav" data-title="SOCIAL MEDIA" data-belongs="0">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>INSTAGRAM</h2>
+											<div class="instagram--caption-wrapper">
+												<p class="instagram--caption">RCP Australia’s director Ian Kerr, is sailing off into the sunset… literally. 
+On 28 June, Ian is retiring from RCP to enjoy the laid-back lifestyle of the Noosa Shire Hinterland, with a big shed and a modest sailboat to explore the Noosa everglades. 
+
+Ian would have liked to have gone with minimal fanfare, which he has managed to so far, but we couldn’t let him go without making it ‘LinkedIn official.’
+
+With 48 years in the property and construction industries and more than half his working life at RCP, Ian has been a favourite amongst staff, clients, contractors, and his industry peers.
+
+Ian… we will miss your cheery disposition, surprise Weiss Bar and Cherry Ripe treats, your informative ‘historic Brisbane’ emails and your proclamation of “wizardry!” on discovering new marvels of modern invention. Go well Ian!</p>
+											</div>
+											<div class="button--flex-wrapper">
+												<a class="button animate scrollspy" target="_blank" title="View and follow our full Instagram profile" href="https://www.instagram.com/rcp_aus">Follow Us</a>
+											</div>
+										</div>
+																			<image class="featured-image hidden" src="https://scontent-syd2-1.cdninstagram.com/v/t51.29350-15/449017879_488984366861285_6998515845492769037_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=A2ovGjtcYfYQ7kNvgGvGzLs&_nc_ht=scontent-syd2-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYAUyrrfBPxNQJPTVL239lZqD9MzxBb_X0ddkQCAZUISJw&oe=6689BAEC" data-belongs="1">
+										<div class="featured-letter rellax hidden" data-belongs="1">I</div>
+										<div class="callout flex-layout hidden rellaxup has-nav" data-title="SOCIAL MEDIA" data-belongs="1">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>INSTAGRAM</h2>
+											<div class="instagram--caption-wrapper">
+												<p class="instagram--caption">Last week RCP Australia’s Brisbane-based clients, consultants and industry friends gathered to celebrate the past, present and future of RCP.
+
+Held at Customs House, the occasion welcomed Greg Atkinson as incoming Managing Director as of 1 July 2024 and acknowledged the stellar careers of outgoing Managing Director Russell Martoo and Director Ian Kerr who are retiring from the business. 
+
+Thank you to everyone who joined us – your attendance made it a night to remember!</p>
+											</div>
+											<div class="button--flex-wrapper">
+												<a class="button animate scrollspy" target="_blank" title="View and follow our full Instagram profile" href="https://www.instagram.com/rcp_aus">Follow Us</a>
+											</div>
+										</div>
+																			<image class="featured-image hidden" src="https://scontent-syd2-1.cdninstagram.com/v/t51.29350-15/448453708_767035075501323_2676318128475097617_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=uqXWjT4l-JYQ7kNvgETl4zi&_nc_ht=scontent-syd2-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYAoh8B6lg6B_bzw09LVzzuUvpJIQqK8boeY3yARFJL-wA&oe=6689AD25" data-belongs="2">
+										<div class="featured-letter rellax hidden" data-belongs="2">I</div>
+										<div class="callout flex-layout hidden rellaxup has-nav" data-title="SOCIAL MEDIA" data-belongs="2">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>INSTAGRAM</h2>
+											<div class="instagram--caption-wrapper">
+												<p class="instagram--caption">🏆 AIB QLD AWARDS: GOLD COAST AIRPORT REDEVELOPMENT
+
+Congratulations to James Cornish who recently collected the Australian Institute of Building Qld Chapter High Commendation for Project Management for the Gold Coast Airport redevelopment project.
+
+RCP Australia worked with Queensland Airports Limited on the $300M Gold Coast Airport redevelopment through COVID-19 and numerous other challenges to deliver this complex project. 
+
+RCP Director, Greg Atkinson said, “This project has truly been a team effort from RCP’s perspective. It is fantastic for James and the entire RCP team involved in this project over the last five years to be recognised with this award.”
+
+Congratulations to James and the current and past employees of RCP who were involved in the project!
+
+📷: AIB/MD Photography</p>
+											</div>
+											<div class="button--flex-wrapper">
+												<a class="button animate scrollspy" target="_blank" title="View and follow our full Instagram profile" href="https://www.instagram.com/rcp_aus">Follow Us</a>
+											</div>
+										</div>
+																			<image class="featured-image hidden" src="https://scontent-syd2-1.cdninstagram.com/v/t51.29350-15/448078146_341632879032957_5376007902450988255_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=0wmcgt8oiEkQ7kNvgHX8ZI1&_nc_ht=scontent-syd2-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYBCvyk2EgDDfocvCt44TtXafnnFRT8zSaNuq5FLJwUPJA&oe=668997ED" data-belongs="3">
+										<div class="featured-letter rellax hidden" data-belongs="3">I</div>
+										<div class="callout flex-layout hidden rellaxup has-nav" data-title="SOCIAL MEDIA" data-belongs="3">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>INSTAGRAM</h2>
+											<div class="instagram--caption-wrapper">
+												<p class="instagram--caption">RCP Australia’s Director Greg Atkinson and Gold Coast Manager James Cornish had the pleasure of attending the Property Council Australia Queensland Gold Coast Lunch - A conversation with Mayor Tom Tate, last Friday.
+
+Gold Coast Mayor Tom Tate joined PCA's Jess Caire in a discussion about the current issues concerning the coast. Topics included the City of Gold Coast 2024-2025 budget, light rail, density bonuses, waste, housing were just some of the matters covered in the lively chat.
+
+RCP Director, Greg Atkinson said, “The clear take away that came from the conversation was that there are many opportunities ahead for collaboration between industry and council to achieve positive outcomes for the Gold Coast.”
+
+RCP Australia is proud to be the PCA Gold Coast corporate partner.
+
+#trustedadvisor #goldcoastproperty</p>
+											</div>
+											<div class="button--flex-wrapper">
+												<a class="button animate scrollspy" target="_blank" title="View and follow our full Instagram profile" href="https://www.instagram.com/rcp_aus">Follow Us</a>
+											</div>
+										</div>
+																			<image class="featured-image hidden" src="https://scontent-syd2-1.cdninstagram.com/v/t51.29350-15/448206332_816395810554286_2107031885569191022_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=TspLOwQ60YYQ7kNvgE3MTPw&_nc_ht=scontent-syd2-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AYCAmb1iDi8KzZHb9GkRvVaRtnGokKEjz-oy7afEbh5WYg&oe=6689B78F" data-belongs="4">
+										<div class="featured-letter rellax hidden" data-belongs="4">I</div>
+										<div class="callout flex-layout hidden rellaxup has-nav" data-title="SOCIAL MEDIA" data-belongs="4">
+											<div class="nav-links non-blocking">
+												<a class="nav-link nav-link-prev"></a>
+												<a class="nav-link nav-link-next"></a>
+											</div>
+											<h2>INSTAGRAM</h2>
+											<div class="instagram--caption-wrapper">
+												<p class="instagram--caption">📢 PROJECT COMMENCEMENT: Peninsula Private Hospital Expansion Breaks Ground
+
+RCP Australia’s Sam Davidson recently had the pleasure of attending the groundbreaking ceremony for the Peninsula Private Hospital Redevelopment project.
+
+The event was attended by local representative Yvette D'Ath (State Member for Redcliffe, Attorney General and Minister for the Prevention of Domestic and Family Violence) as well as representatives from Healthscope, Peninsula Private Hospital, construction partner Buildcorp and members of the local community. A traditional owner smoking ceremony was also held as part of the proceedings.
+
+This exciting expansion project will bring much needed improvements to the hospital. Patients will benefit from:
+•	 Four new state-of-the-art operating theatres
+•	 A dedicated high dependency unit 
+•	 Upgraded wards with single ensuite rooms
+•	 New CSSD and recovery area
+•	New Consulting suites
+
+#trustedadvisor #projectmanagement #healthscope</p>
+											</div>
+											<div class="button--flex-wrapper">
+												<a class="button animate scrollspy" target="_blank" title="View and follow our full Instagram profile" href="https://www.instagram.com/rcp_aus">Follow Us</a>
+											</div>
+										</div>
+																	</div>
+											</main>
+				<footer>
+		<div class="footer-links container centre padding grid grid-width-1-1 grid-width-medium-1-3">
+			<a href="https://www.rcp.net.au/our-projects/"><div class="sub">What we do</div>Our Projects</a>
+<a href="https://www.rcp.net.au/our-people/"><div class="sub">Meet the team</div>Our People</a>
+<a href="https://www.rcp.net.au/careers/"><div class="sub">Work with us</div>Careers</a>
+<a href="https://www.rcp.net.au/contact/"><div class="sub">Get in touch</div>Contact</a>
+		</div>
+		<div class="social-copyright container centre padding">
+			<div class="icons"><a href="https://www.instagram.com/rcp_aus/" title="View the latest from RCP Australia on Instagram"><i class="fa fa-instagram"></i></a><a href="https://www.linkedin.com/company/rcpaus/" title="Follow RCP Australia on LinkedIn"><i class="fa fa-linkedin"></i></a></div>
+			<div class="menu-footer-meta-menu-container"><ul id="menu-footer-meta-menu" class="menu"><li id="menu-item-1177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1177"><a href="https://www.rcp.net.au/terms-of-use-privacy/">Terms of Use &#038; Privacy</a></li>
+<li id="menu-item-6201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6201"><a href="https://www.rcp.net.au/terms-of-use-privacy/cp-003-supplier-code-of-conduct/">Supplier Code of Conduct</a></li>
+</ul></div>			<p>&copy; 2024 RCP.  All rights reserved.</p>
+		</div>
+		<img class="rcp-half-icon" src="https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/images/rcp_half_icon.svg" />
+	</footer>
+	<script type='text/javascript' id='awsm-job-scripts-js-extra'>
+/* <![CDATA[ */
+var awsmJobsPublic = {"ajaxurl":"https:\/\/www.rcp.net.au\/rcp19\/wp-admin\/admin-ajax.php","is_tax_archive":"","is_search":"","job_id":"0","wp_max_upload_size":"2097152","deep_linking":{"search":true,"spec":true,"pagination":true},"i18n":{"loading_text":"Loading...","form_error_msg":{"general":"Error in submitting your application. Please try again later!","file_validation":"The file you have selected is too large."}},"vendors":{"selectric":true,"jquery_validation":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rcp.net.au/rcp19/wp-content/plugins/wp-job-openings/assets/js/script.min.js?ver=3.3.2' id='awsm-job-scripts-js'></script>
+<script type='text/javascript' src='https://www.rcp.net.au/rcp19/wp-content/themes/RCP/assets/thirdparty/myfonts/fontloader.js?ver=6.1.7' id='myfonts-loader-js'></script>
+<script type='text/javascript' src='https://www.rcp.net.au/rcp19/wp-content/plugins/pro-pack-for-wp-job-openings/assets/js/intlTelInput.min.js?ver=17.0.16' id='awsm-job-pro-country-select-js'></script>
+<script type='text/javascript' id='awsm-job-pro-scripts-js-extra'>
+/* <![CDATA[ */
+var awsmProJobsPublic = {"iti":{"show_country_code":false,"utils_url":"https:\/\/www.rcp.net.au\/rcp19\/wp-content\/plugins\/pro-pack-for-wp-job-openings\/assets\/js\/intlTelInput-utils.min.js"},"i18n":{"repeater":{"add_more":"Add More","edit":"Edit","update":"Update","remove":"Delete"},"file_upload":{"uploading":"Uploading....","cancel_upload":"Cancel","upload_canceled":"Upload canceled.","cancel_upload_confirmation":"Are you sure you want to cancel this upload?","remove_file":"Remove","max_files":"You are not allowed to upload more than the file limit: {{maxFiles}}.","invalid_file_type":"You can't upload files of this type.","file_size":"File is too big ({{filesize}}MiB). Maximum allowed file size is {{maxFilesize}}MiB."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rcp.net.au/rcp19/wp-content/plugins/pro-pack-for-wp-job-openings/assets/js/script.min.js?ver=3.2.4' id='awsm-job-pro-scripts-js'></script>
+</body>
+</html>
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: www.rcp.net.au @ 2024-07-02 10:32:39 by W3 Total Cache
+-->

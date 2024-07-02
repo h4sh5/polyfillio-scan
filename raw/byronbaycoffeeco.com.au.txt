@@ -1,0 +1,980 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+<script type="text/javascript">
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+
+	<link rel="alternate" type="application/rss+xml" title="Byron Bay Coffee Company RSS" href="https://byronbaycoffeeco.com.au/feed/">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0" />
+	
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.8.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Byron Bay Coffee Company</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Open%20Sans%3A400%2C400i%2C600%2C700%2C800&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans%3A400%2C400i%2C600%2C700%2C800&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans%3A400%2C400i%2C600%2C700%2C800&#038;display=swap" /></noscript>
+	<meta name="description" content="Welcome to Byron Bay Coffee Company. We are a family owned &amp; operated business specialising in roasting and blending gourmet coffee." />
+	<link rel="canonical" href="https://byronbaycoffeeco.com.au/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Byron Bay Coffee Company" />
+	<meta property="og:description" content="Welcome to Byron Bay Coffee Company. We are a family owned &amp; operated business specialising in roasting and blending gourmet coffee." />
+	<meta property="og:url" content="https://byronbaycoffeeco.com.au/" />
+	<meta property="og:site_name" content="Byron Bay Coffee Company" />
+	<meta property="article:modified_time" content="2020-09-17T03:56:38+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://byronbaycoffeeco.com.au/","url":"https://byronbaycoffeeco.com.au/","name":"Byron Bay Coffee Company","isPartOf":{"@id":"https://byronbaycoffeeco.com.au/#website"},"datePublished":"2019-12-02T03:37:03+00:00","dateModified":"2020-09-17T03:56:38+00:00","description":"Welcome to Byron Bay Coffee Company. We are a family owned & operated business specialising in roasting and blending gourmet coffee.","breadcrumb":{"@id":"https://byronbaycoffeeco.com.au/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://byronbaycoffeeco.com.au/"]}]},{"@type":"BreadcrumbList","@id":"https://byronbaycoffeeco.com.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://byronbaycoffeeco.com.au/#website","url":"https://byronbaycoffeeco.com.au/","name":"Byron Bay Coffee Company","description":"Over three decades mastering the art of coffee","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://byronbaycoffeeco.com.au/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//cdn.polyfill.io' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wc-blocks-integration-css' href='https://byronbaycoffeeco.com.au/wp-content/plugins/woocommerce-subscriptions/vendor/woocommerce/subscriptions-core/build/index.css?ver=7.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smart-coupons-available-coupons-block-css' href='https://byronbaycoffeeco.com.au/wp-content/plugins/woocommerce-smart-coupons/blocks/build/style-woocommerce-smart-coupons-available-coupons-block.css?ver=9.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css' href='https://byronbaycoffeeco.com.au/wp-includes/css/dist/components/style.min.css?ver=6.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smart-coupons-send-coupon-form-block-css' href='https://byronbaycoffeeco.com.au/wp-content/plugins/woocommerce-smart-coupons/blocks/build/style-woocommerce-smart-coupons-send-coupon-form-block.css?ver=9.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sbi_styles-css' href='https://byronbaycoffeeco.com.au/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://byronbaycoffeeco.com.au/wp-includes/css/dist/block-library/style.min.css?ver=6.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='enr-blocks-integration-css' href='https://byronbaycoffeeco.com.au/wp-content/plugins/enhancer-for-woocommerce-subscriptions/assets/blocks/frontend/index.css?ver=4.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://byronbaycoffeeco.com.au/wp-includes/css/classic-themes.min.css?ver=6.2.6' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='data-sync-x-woocommerce-css' href='https://byronbaycoffeeco.com.au/wp-content/plugins/data-sync-x-by-wbsync/public/css/data-sync-x-woocommerce-public.css?ver=1.0.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wpsl-styles-css' href='https://byronbaycoffeeco.com.au/wp-content/plugins/wp-store-locator/css/styles.min.css?ver=2.2.241' type='text/css' media='all' />
+<link rel='stylesheet' id='smart-coupon-css' href='https://byronbaycoffeeco.com.au/wp-content/plugins/woocommerce-smart-coupons/assets/css/smart-coupon.min.css?ver=9.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='smart-coupon-designs-css' href='https://byronbaycoffeeco.com.au/wp-content/plugins/woocommerce-smart-coupons/assets/css/smart-coupon-designs.css?ver=9.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wcsatt-css-css' href='https://byronbaycoffeeco.com.au/wp-content/plugins/woocommerce-all-products-for-subscriptions/assets/css/frontend/woocommerce.css?ver=5.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://use.fontawesome.com/c81fe3ea32.css?ver=6.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='style-main-css' href='https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/dist/app.min.css?ver=1600313862' type='text/css' media='all' />
+<link rel='stylesheet' id='css_overrides-css' href='https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/overrides/overrides.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='overrides-css' href='https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/overrides/overrides.css?ver=1695704443' type='text/css' media='all' />
+<link rel='stylesheet' id='enr-frontend-css' href='https://byronbaycoffeeco.com.au/wp-content/plugins/enhancer-for-woocommerce-subscriptions/assets/css/frontend.css?ver=4.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-nyp-css' href='https://byronbaycoffeeco.com.au/wp-content/plugins/woocommerce-name-your-price/assets/css/frontend/name-your-price.min.css?ver=3.5.13' type='text/css' media='all' />
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://stats.wp.com/w.js?ver=202427' id='woo-tracks-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-content/plugins/data-sync-x-by-wbsync/public/js/data-sync-x-woocommerce-public.js?ver=1.0.0' id='data-sync-x-woocommerce-js'></script>
+<script type='text/javascript' id='enr-frontend-js-extra'>
+/* <![CDATA[ */
+var enr_frontend_params = {"ajax_url":"https:\/\/byronbaycoffeeco.com.au\/wp-admin\/admin-ajax.php","is_switch_request":"","subscribe_now_nonce":"0f1e60d69a","subscribe_now_button_text":"Sign up now","single_add_to_cart_text":"Add to cart","hide_variable_limited_notice":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-content/plugins/enhancer-for-woocommerce-subscriptions/assets/js/frontend.js?ver=4.5.0' id='enr-frontend-js'></script>
+<link rel="https://api.w.org/" href="https://byronbaycoffeeco.com.au/wp-json/" /><link rel="alternate" type="application/json" href="https://byronbaycoffeeco.com.au/wp-json/wp/v2/pages/13" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://byronbaycoffeeco.com.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://byronbaycoffeeco.com.au/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.6" />
+<meta name="generator" content="WooCommerce 8.2.2" />
+<link rel='shortlink' href='https://byronbaycoffeeco.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://byronbaycoffeeco.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbyronbaycoffeeco.com.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://byronbaycoffeeco.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbyronbaycoffeeco.com.au%2F&#038;format=xml" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://byronbaycoffeeco.com.au/wp-content/uploads/2023/07/cropped-favicon-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://byronbaycoffeeco.com.au/wp-content/uploads/2023/07/cropped-favicon-200x200.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://byronbaycoffeeco.com.au/wp-content/uploads/2023/07/cropped-favicon-200x200.png" />
+<meta name="msapplication-TileImage" content="https://byronbaycoffeeco.com.au/wp-content/uploads/2023/07/cropped-favicon-300x300.png" />
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-178130679-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-178130679-1');
+	</script>
+</head>
+
+<body class="home page-template page-template-page-home page-template-page-home-php page page-id-13 theme-byronbaycofffee woocommerce-no-js">
+
+	<header class="header">
+
+		<div class="container flex-center">
+			<div class="search-container">
+				<a class="search-icon round" href="javascript:void(0)">
+					<svg class="icon change" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+				</a>
+
+				<a class="search-icon" href="https://byronbaycoffeeco.com.au">
+					<svg class="icon change" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+				</a>
+			</div>
+
+			<nav class="nav left">
+				<ul id="menuUl" class="menu"><li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-33"><a href="https://byronbaycoffeeco.com.au/shop/">Shop</a>
+<ul class="sub-menu">
+	<li id="menu-item-83176" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83176"><a href="https://byronbaycoffeeco.com.au/product-category/espresso-coffee/">Espresso Coffee</a></li>
+	<li id="menu-item-83177" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83177"><a href="https://byronbaycoffeeco.com.au/product-category/alternative-brewing-coffee/">Plunger/Filter Coffee</a></li>
+	<li id="menu-item-83179" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83179"><a href="https://byronbaycoffeeco.com.au/product-category/chocolate/">Chocolate</a></li>
+	<li id="menu-item-83180" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83180"><a href="https://byronbaycoffeeco.com.au/product-category/drinking-chocolate/">Drinking Chocolate</a></li>
+	<li id="menu-item-83197" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83197"><a href="https://byronbaycoffeeco.com.au/product-category/bundle/">Bundles</a></li>
+	<li id="menu-item-83178" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83178"><a href="https://byronbaycoffeeco.com.au/product-category/apparel/">Apparel</a></li>
+	<li id="menu-item-83181" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83181"><a href="https://byronbaycoffeeco.com.au/product-category/cafe-accessories/">Café Accessories</a></li>
+	<li id="menu-item-83182" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83182"><a href="https://byronbaycoffeeco.com.au/product-category/latte-mixes/">Latte Mixes</a></li>
+	<li id="menu-item-83183" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83183"><a href="https://byronbaycoffeeco.com.au/product-category/tea-tea/">Tea</a></li>
+	<li id="menu-item-83184" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83184"><a href="https://byronbaycoffeeco.com.au/product-category/all/">All</a></li>
+</ul>
+</li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://byronbaycoffeeco.com.au/wholesalers/">Wholesale</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35"><a href="https://byronbaycoffeeco.com.au/our-story/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://byronbaycoffeeco.com.au/our-story/">Our Story</a></li>
+	<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://byronbaycoffeeco.com.au/our-coffee/">Our Coffee</a></li>
+	<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://byronbaycoffeeco.com.au/our-team/">Our Team</a></li>
+	<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="https://byronbaycoffeeco.com.au/sustainability/">Our Sustainability</a></li>
+</ul>
+</li>
+</ul>			</nav>
+
+			<a class="logo" href="https://byronbaycoffeeco.com.au">
+				<img class="logo-full white" src="https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/images/logo-large-white.svg" alt="byron bay coffee"/>
+				<img class="logo-small dark" src="https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/images/logo-small-dark.svg" alt="byron bay coffee"/>
+			</a>
+
+			<nav class="nav right">
+				<ul id="menuUl" class="menu"><li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="https://byronbaycoffeeco.com.au/our-stockists/">Stockists</a></li>
+<li id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241"><a href="https://byronbaycoffeeco.com.au/news/">News</a></li>
+<li id="menu-item-46812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46812"><a href="https://byronbaycoffeeco.com.au/contact/">Contact</a></li>
+</ul>			</nav>
+
+			<div class="shop-head-container">
+				<div class="login-container">
+					<a href="https://byronbaycoffeeco.com.au/my-account/">
+						<svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+					</a>
+				</div>
+				<div class="cart-container">
+					<a href="https://byronbaycoffeeco.com.au/cart/">
+						<svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-shopping-cart"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
+											</a>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<div class="responsive header">
+		<div class="inner">
+			<a class="logo" href="https://byronbaycoffeeco.com.au">
+				<img class="logo-small dark" src="https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/images/logo-small-dark.svg" alt="byron bay coffee"/>
+			</a>
+
+			<div class="res-main--iconcontainer">
+				<div class="icon-container">
+					<div class="res-icon--container search-container">
+						<a class="search-icon round" href="javascript:void(0)">
+							<img class="res-icon search" src="https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/images/icon-search.svg" alt="search"/>
+						</a>
+					</div>
+					<div class="res-icon--container login-container">
+						<a href="https://byronbaycoffeeco.com.au/my-account/">
+							<img class="res-icon login" src="https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/images/icon-login.svg" alt="login"/>
+						</a>
+					</div>
+					<div class="res-icon--container cart-container">
+						<a href="https://byronbaycoffeeco.com.au/cart/">
+							<img class="res-icon cart" src="https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/images/icon-cart.svg" alt="cart"/>
+							<span class="cart-count">0</span>
+						</a>
+					</div>
+
+					<div class="res-icon--container" id="hamburger">
+						<div class="bar1"></div>
+						<div class="bar2"></div>
+						<div class="bar3"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="nav-res">
+			<ul id="menuUl" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-33"><a href="https://byronbaycoffeeco.com.au/shop/">Shop</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83176"><a href="https://byronbaycoffeeco.com.au/product-category/espresso-coffee/">Espresso Coffee</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83177"><a href="https://byronbaycoffeeco.com.au/product-category/alternative-brewing-coffee/">Plunger/Filter Coffee</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83179"><a href="https://byronbaycoffeeco.com.au/product-category/chocolate/">Chocolate</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83180"><a href="https://byronbaycoffeeco.com.au/product-category/drinking-chocolate/">Drinking Chocolate</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83197"><a href="https://byronbaycoffeeco.com.au/product-category/bundle/">Bundles</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83178"><a href="https://byronbaycoffeeco.com.au/product-category/apparel/">Apparel</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83181"><a href="https://byronbaycoffeeco.com.au/product-category/cafe-accessories/">Café Accessories</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83182"><a href="https://byronbaycoffeeco.com.au/product-category/latte-mixes/">Latte Mixes</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83183"><a href="https://byronbaycoffeeco.com.au/product-category/tea-tea/">Tea</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-83184"><a href="https://byronbaycoffeeco.com.au/product-category/all/">All</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://byronbaycoffeeco.com.au/wholesalers/">Wholesale</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35"><a href="https://byronbaycoffeeco.com.au/our-story/">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://byronbaycoffeeco.com.au/our-story/">Our Story</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://byronbaycoffeeco.com.au/our-coffee/">Our Coffee</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://byronbaycoffeeco.com.au/our-team/">Our Team</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="https://byronbaycoffeeco.com.au/sustainability/">Our Sustainability</a></li>
+</ul>
+</li>
+</ul>			<ul id="menuUl" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="https://byronbaycoffeeco.com.au/our-stockists/">Stockists</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241"><a href="https://byronbaycoffeeco.com.au/news/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46812"><a href="https://byronbaycoffeeco.com.au/contact/">Contact</a></li>
+</ul>		</div>
+	</div>
+
+	<div class="search-overlay">
+		<div class="container inner">
+			<div class="taright">
+				<div class="search-close">
+					<img src="https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/images/close.svg" alt="Byron Bay Coffee Company "/>
+				</div>
+			</div>
+
+			<div class="search-container">
+				<form role="search" method="get" class="search-form" action="https://byronbaycoffeeco.com.au/">
+					<div class="inner-form">
+						<input type="search" class="search-field" placeholder="Type to search ... " value="" name="s" title="Search for:" />
+						<input type="hidden" name="post_type" value="product" />
+						<input type="submit" class="search-submit" value="Search" />
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<div class="content-wrap">
+
+<section class="section alex-featured_image" style="background-image:url(https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/banner-home-1800x900.jpg);">
+	<video id="alex-videoBG" poster="https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/banner-home-1800x900.jpg" playsinline autoplay muted loop>
+		<source src="https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/images/home2.mp4" type="video/mp4">
+	</video>
+	<div class="container main-section">
+				<div class="button-container double">
+							<a class="btn white-border" href="https://byronbaycoffeeco.com.au/shop/">BUY COFFEE ONLINE</a>
+										<a class="btn white-border" href="https://byronbaycoffeeco.com.au/wholesalers/">WHOLESALER BENEFITS</a>
+					</div>
+	</div>
+</section>
+
+<section class="section thick intro-section">
+	<div class="container">
+		<div class="two-col wide-left">
+			<div class="col">
+				<img width="800" height="600" src="https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/home-first-image.jpg" class="attachment-800w size-800w" alt="home-first-image" decoding="async" loading="lazy" srcset="https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/home-first-image.jpg 800w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/home-first-image-300x225.jpg 300w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/home-first-image-768x576.jpg 768w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/home-first-image-100x75.jpg 100w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/home-first-image-200x150.jpg 200w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/home-first-image-400x300.jpg 400w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/home-first-image-600x450.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" />			</div>
+			<div class="col">
+									<h1><strong>Over three decades mastering the art of coffee</strong></h1>
+<p>Our story begins in 1989 when Annie, Franco and their children left Sydney in search of a rural lifestyle. The family headed up the coast discovering the Byron Bay hinterland. They settled onto twelve acres, transforming the land into a coffee plantation and hobby farm.</p>
+<p>They no longer farm the coffee, preferring to ethically source green bean from the premium growing regions around the world.</p>
+<p>With over 30 years of roasting experience, we guarantee one of our four signature blends will have the flavor profile for you.</p>
+													<div class="underline-btn--container">
+						<a class="btn arrow" href="https://byronbaycoffeeco.com.au/our-story/">Full Story</a>
+					</div>
+							</div>
+		</div>
+	</div>
+</section>
+
+<section class="section thin shipping-section">
+	<div class="container">
+		<img class="icon cart" src="https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/images/icon-shipping.svg" alt="shipping"/>
+		<p>25% OFF Utopia Espresso and Harmony Plunger! Disc automatically applied at checkout.  |    FREE SHIPPING ON ORDERS FROM $70</p>
+	</div>
+</section>
+
+<section class="section thick home-shop--seciton">
+	<div class="container">
+		<div class="title-container left">
+			<h3><strong>Browse our range</strong></h3>
+		</div>
+	</div>
+
+	<div class="container-homeshop--items">
+		<div class="home-range--container">
+			<div class="two-col">
+				<div class="col">
+					<div class="info-item">
+												<a href="https://byronbaycoffeeco.com.au/product-category/espresso-coffee/" style="background-image:url(https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/home-range-1-800x444.jpg);">
+							<div class="inner">
+								<div class="info-title">
+									<p>Shop Espresso Coffee</p>
+								</div>
+								<div class="description">
+									<p>Shop for Espresso Coffee suitable for Automatic Machines, Stove Top Makers and Espresso Machines.</p>
+									<span>Shop Now</span>
+								</div>
+
+							</div>
+							<div class="dark-overlay"></div>
+						</a>
+
+					</div>
+				</div>
+
+				<div class="col">
+					<div class="info-item">
+												<a href="https://byronbaycoffeeco.com.au/product-category/alternative-brewing-coffee/" style="background-image:url(https://byronbaycoffeeco.com.au/wp-content/uploads/2020/02/IMG_0948-800x533.jpg);">
+							<div class="inner">
+								<div class="info-title">
+									<p>Shop Alternative Brewing Coffee</p>
+								</div>
+								<div class="description">
+									<p>Shop for Alternative Brewing Coffee suitable for Pour-Over, Drip Filter, AeroPress and Plunger methods.</p>
+									<span>Shop Now</span>
+								</div>
+							</div>
+							<div class="dark-overlay"></div>
+						</a>
+					</div>
+
+					<div class="info-item">
+												<a href="https://byronbaycoffeeco.com.au/product-category/cafe-accessories/" style="background-image:url(https://byronbaycoffeeco.com.au/wp-content/uploads/2020/02/IMG_1760-800x533.jpg);">
+							<div class="inner">
+								<div class="info-title">
+									<p>Shop Re-Useable Cups</p>
+								</div>
+								<div class="description">
+									<p>KeepCup and the 'Recycled-Up' Huskee Cup</p>
+									<span>Shop Now</span>
+								</div>
+							</div>
+							<div class="dark-overlay"></div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="section thick sustainability-section" style="background-image:url(https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/banner-sustainability-middle-1800x900.jpg);">
+	<div class="container skinny">
+		<div class="sustainability-content">
+			<h3>Sustainability</h3>
+			<p>We are passionate about our environmental and sustainable practices to produce our coffee. We strive everyday to reduce our carbon footprint. Some of the ways we have achieved this is being 100% solar, using tins instead of coffee bags, recyclable and compostable materials, recycling program within the business, partnering with like minded businesses (locally where possible) and sourcing Certificated Organic and Rain Forest Alliance green bean.<br />
+<br />
+</p>
+			<a class="btn white-border" href="https://byronbaycoffeeco.com.au/sustainability/">discover more</a>
+		</div>
+	</div>
+</section>
+
+<section class="section thick usefulinfo-section">
+	<div class="container">
+		<div class="title-container left">
+			<h3><strong>Useful info</strong></h3>
+		</div>
+	</div>
+	<div class="info-container three-col">
+						<div class="col info-item">
+					<a href="https://byronbaycoffeeco.com.au/news/">
+						<img width="761" height="416" src="https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-1.jpg" class="attachment-800w size-800w" alt="info-1" decoding="async" loading="lazy" srcset="https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-1.jpg 761w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-1-300x164.jpg 300w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-1-100x55.jpg 100w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-1-200x109.jpg 200w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-1-400x219.jpg 400w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-1-600x328.jpg 600w" sizes="(max-width: 761px) 100vw, 761px" />						<div class="info-title">
+							<p>Brew Guides</p>
+						</div>
+					</a>
+				</div>
+							<div class="col info-item">
+					<a href="https://byronbaycoffeeco.com.au/our-stockists/">
+						<img width="723" height="394" src="https://byronbaycoffeeco.com.au/wp-content/uploads/2020/02/village-fix-pour-2-e1582256533216.jpg" class="attachment-800w size-800w" alt="village-fix-pour-2-e1582256533216" decoding="async" loading="lazy" srcset="https://byronbaycoffeeco.com.au/wp-content/uploads/2020/02/village-fix-pour-2-e1582256533216.jpg 723w, https://byronbaycoffeeco.com.au/wp-content/uploads/2020/02/village-fix-pour-2-e1582256533216-300x163.jpg 300w, https://byronbaycoffeeco.com.au/wp-content/uploads/2020/02/village-fix-pour-2-e1582256533216-100x54.jpg 100w, https://byronbaycoffeeco.com.au/wp-content/uploads/2020/02/village-fix-pour-2-e1582256533216-200x109.jpg 200w, https://byronbaycoffeeco.com.au/wp-content/uploads/2020/02/village-fix-pour-2-e1582256533216-400x218.jpg 400w, https://byronbaycoffeeco.com.au/wp-content/uploads/2020/02/village-fix-pour-2-e1582256533216-600x327.jpg 600w" sizes="(max-width: 723px) 100vw, 723px" />						<div class="info-title">
+							<p>Our Stockists</p>
+						</div>
+					</a>
+				</div>
+							<div class="col info-item">
+					<a href="https://byronbaycoffeeco.com.au/wholesalers/">
+						<img width="761" height="416" src="https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-2-1.jpg" class="attachment-800w size-800w" alt="info-2-1" decoding="async" loading="lazy" srcset="https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-2-1.jpg 761w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-2-1-300x164.jpg 300w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-2-1-100x55.jpg 100w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-2-1-200x109.jpg 200w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-2-1-400x219.jpg 400w, https://byronbaycoffeeco.com.au/wp-content/uploads/2019/12/info-2-1-600x328.jpg 600w" sizes="(max-width: 761px) 100vw, 761px" />						<div class="info-title">
+							<p>Become a Wholesaler</p>
+						</div>
+					</a>
+				</div>
+				</div>
+</section>
+
+<section class="section thick light news-section">
+	<div class="container small">
+		<div class="title-container left">
+			<h3><strong>What's news?</strong></h3>
+		</div>
+
+		<div class="blog_list_main">
+							<div class="blog_item">
+					<div class="inner">
+						<div class="small_post_image">
+							<a href="https://byronbaycoffeeco.com.au/mint-and-chilli-chocolate-milkshake-recipes/">
+								<img width="800" height="800" src="https://byronbaycoffeeco.com.au/wp-content/uploads/2024/01/Blog-Article-Media-1-800x800.jpg" class="attachment-800x800 size-800x800 wp-post-image" alt="Dark Mint Chocolate Milkshake with Aero Mint Chocolate" decoding="async" loading="lazy" srcset="https://byronbaycoffeeco.com.au/wp-content/uploads/2024/01/Blog-Article-Media-1-800x800.jpg 800w, https://byronbaycoffeeco.com.au/wp-content/uploads/2024/01/Blog-Article-Media-1-150x150.jpg 150w, https://byronbaycoffeeco.com.au/wp-content/uploads/2024/01/Blog-Article-Media-1-400x400.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />							</a>
+						</div>
+						<div class="small_post_excerpt">
+							<div class="post_title">
+								<a href="https://byronbaycoffeeco.com.au/mint-and-chilli-chocolate-milkshake-recipes/">
+									<h5>Beat the Summer Heat With Decadent Chocolate Milkshakes</h5>
+								</a>
+							</div>
+
+							<div class="small_category_post">
+								<p><a href="https://byronbaycoffeeco.com.au/category/recipes/" rel="category tag">Recipes</a></p>
+							</div>
+
+							<div class="post_excerpt">
+								<p>Whether you love a touch of mint or prefer adding a bit of spice, we've got your sweet cravings covered!
+Cool off in …</p>							</div>
+
+							<a class="btn arrow" href="https://byronbaycoffeeco.com.au/mint-and-chilli-chocolate-milkshake-recipes/">Read More</a>
+						</div>
+					</div>
+				</div>
+							<div class="blog_item">
+					<div class="inner">
+						<div class="small_post_image">
+							<a href="https://byronbaycoffeeco.com.au/chocolate-christmas-cake-recipe/">
+								<img width="800" height="800" src="https://byronbaycoffeeco.com.au/wp-content/uploads/2023/12/IMG_9025-Edit-copy-1-800x800.jpg" class="attachment-800x800 size-800x800 wp-post-image" alt="Annie&#039;s Chocolate Christmas Cake Recipe" decoding="async" loading="lazy" srcset="https://byronbaycoffeeco.com.au/wp-content/uploads/2023/12/IMG_9025-Edit-copy-1-800x800.jpg 800w, https://byronbaycoffeeco.com.au/wp-content/uploads/2023/12/IMG_9025-Edit-copy-1-150x150.jpg 150w, https://byronbaycoffeeco.com.au/wp-content/uploads/2023/12/IMG_9025-Edit-copy-1-400x400.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />							</a>
+						</div>
+						<div class="small_post_excerpt">
+							<div class="post_title">
+								<a href="https://byronbaycoffeeco.com.au/chocolate-christmas-cake-recipe/">
+									<h5>Make the holidays sweeter with Annie&#8217;s Christmas Cake recipe</h5>
+								</a>
+							</div>
+
+							<div class="small_category_post">
+								<p><a href="https://byronbaycoffeeco.com.au/category/recipes/" rel="category tag">Recipes</a></p>
+							</div>
+
+							<div class="post_excerpt">
+								<p>
+&nbsp;
+For those with a sweet tooth, Annie has created a decadent Christmas cake recipe featuring our delicious coffee and chilli-cinnamon drinking chocolate …</p>							</div>
+
+							<a class="btn arrow" href="https://byronbaycoffeeco.com.au/chocolate-christmas-cake-recipe/">Read More</a>
+						</div>
+					</div>
+				</div>
+							<div class="blog_item">
+					<div class="inner">
+						<div class="small_post_image">
+							<a href="https://byronbaycoffeeco.com.au/francos-festive-brew-the-christmas-cheer-cocktail-recipe/">
+								<img width="800" height="800" src="https://byronbaycoffeeco.com.au/wp-content/uploads/2023/12/IMG_9087-2-800x800.jpg" class="attachment-800x800 size-800x800 wp-post-image" alt="Franco&#039;s Cheer Cocktail Recipe" decoding="async" loading="lazy" srcset="https://byronbaycoffeeco.com.au/wp-content/uploads/2023/12/IMG_9087-2-800x800.jpg 800w, https://byronbaycoffeeco.com.au/wp-content/uploads/2023/12/IMG_9087-2-150x150.jpg 150w, https://byronbaycoffeeco.com.au/wp-content/uploads/2023/12/IMG_9087-2-400x400.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />							</a>
+						</div>
+						<div class="small_post_excerpt">
+							<div class="post_title">
+								<a href="https://byronbaycoffeeco.com.au/francos-festive-brew-the-christmas-cheer-cocktail-recipe/">
+									<h5>Franco&#8217;s Festive Brew: The &#8216;Christmas Cheer&#8217; Cocktail Recipe</h5>
+								</a>
+							</div>
+
+							<div class="small_category_post">
+								<p><a href="https://byronbaycoffeeco.com.au/category/recipes/" rel="category tag">Recipes</a></p>
+							</div>
+
+							<div class="post_excerpt">
+								<p>
+&nbsp;
+'Franco's Bar' is back open just in time to give us a delightful festive cocktail recipe to ring in the New Year!
+Presenting …</p>							</div>
+
+							<a class="btn arrow" href="https://byronbaycoffeeco.com.au/francos-festive-brew-the-christmas-cheer-cocktail-recipe/">Read More</a>
+						</div>
+					</div>
+				</div>
+							<div class="blog_item">
+					<div class="inner">
+						<div class="small_post_image">
+							<a href="https://byronbaycoffeeco.com.au/coffee-spritz-recipe/">
+								<img width="800" height="800" src="https://byronbaycoffeeco.com.au/wp-content/uploads/2023/09/Coffee-Spritz-recipe-800x800.jpg" class="attachment-800x800 size-800x800 wp-post-image" alt="Coffee Spritz recipe" decoding="async" loading="lazy" srcset="https://byronbaycoffeeco.com.au/wp-content/uploads/2023/09/Coffee-Spritz-recipe-800x800.jpg 800w, https://byronbaycoffeeco.com.au/wp-content/uploads/2023/09/Coffee-Spritz-recipe-150x150.jpg 150w, https://byronbaycoffeeco.com.au/wp-content/uploads/2023/09/Coffee-Spritz-recipe-400x400.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />							</a>
+						</div>
+						<div class="small_post_excerpt">
+							<div class="post_title">
+								<a href="https://byronbaycoffeeco.com.au/coffee-spritz-recipe/">
+									<h5>Coffee Spritz Season Is On</h5>
+								</a>
+							</div>
+
+							<div class="small_category_post">
+								<p><a href="https://byronbaycoffeeco.com.au/category/recipes/" rel="category tag">Recipes</a></p>
+							</div>
+
+							<div class="post_excerpt">
+								<p>
+&nbsp;
+With the weather heating up, it's time to spritz up your iced coffee game...
+INGREDIENTS
+To prepare your Coffee Spritz you'll need:
+- 2 shots …</p>							</div>
+
+							<a class="btn arrow" href="https://byronbaycoffeeco.com.au/coffee-spritz-recipe/">Read More</a>
+						</div>
+					</div>
+				</div>
+					</div>
+
+		<div class="tacenter">
+			<a class="btn dark-border" href="https://byronbaycoffeeco.com.au/news/">READ ALL POSTS</a>
+		</div>
+	</div>
+</section>
+
+<section class="section instaram-section">
+	    <h3><a title="Go to Instagram" href="https://www.instagram.com/byronbaycoffeecompany/" target="_blank" rel="noreferrer">
+    	Follow Byron Bay Coffee Company on Instagram    </a></h3>
+			
+<div id="sb_instagram"  class="sbi sbi_mob_col_1 sbi_tab_col_2 sbi_col_4 sbi_width_resp" style="width: 100%;" data-feedid="sbi_byronbaycoffeecompany#8"  data-res="auto" data-cols="4" data-colsmobile="1" data-colstablet="2" data-num="8" data-nummobile="" data-item-padding="" data-shortcode-atts="{&quot;user&quot;:&quot;byronbaycoffeecompany&quot;}"  data-postid="13" data-locatornonce="e09df9927d" data-sbi-flags="favorLocal">
+	
+    <div id="sbi_images" >
+		<div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18053193166661366" data-date="1719785820">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/C82zSMOys-y/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.29350-15/449632652_1513009666288417_865010831041297401_n.jpg?_nc_cat=108&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=GobbkDRIiscQ7kNvgENd4md&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AYA5SwYpfaPKAjZ6nhuRdNXrkOiYDbW6jjs2i7eMAb_fbA&#038;oe=66895B3A" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/449632652_1513009666288417_865010831041297401_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=GobbkDRIiscQ7kNvgENd4md&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYA5SwYpfaPKAjZ6nhuRdNXrkOiYDbW6jjs2i7eMAb_fbA&amp;oe=66895B3A&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/449632652_1513009666288417_865010831041297401_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=GobbkDRIiscQ7kNvgENd4md&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYA5SwYpfaPKAjZ6nhuRdNXrkOiYDbW6jjs2i7eMAb_fbA&amp;oe=66895B3A&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/449632652_1513009666288417_865010831041297401_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=GobbkDRIiscQ7kNvgENd4md&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYA5SwYpfaPKAjZ6nhuRdNXrkOiYDbW6jjs2i7eMAb_fbA&amp;oe=66895B3A&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/449632652_1513009666288417_865010831041297401_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=GobbkDRIiscQ7kNvgENd4md&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYA5SwYpfaPKAjZ6nhuRdNXrkOiYDbW6jjs2i7eMAb_fbA&amp;oe=66895B3A&quot;}">
+            <span class="sbi-screenreader">A morning of training with Beach Kiosk’s new bar</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://byronbaycoffeeco.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="A morning of training with Beach Kiosk’s new baristas, soaking up Simon’s expertise on the nuances of coffee ☕️⁠
+⁠
+#byronbaycafe #byronbaycoffee #baristatraining #baristaskills">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18004480925552430" data-date="1719617358">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/C8xx812Srzm/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.29350-15/449293444_1514586695828329_6285052284613492286_n.jpg?_nc_cat=109&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=SiTvCAIAycMQ7kNvgHYn6KX&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AYAsrvrUr0W7GJRB3tmfsz0nZzBFC5BU_Dzs97KKJSwTMg&#038;oe=66895206" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/449293444_1514586695828329_6285052284613492286_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=SiTvCAIAycMQ7kNvgHYn6KX&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAsrvrUr0W7GJRB3tmfsz0nZzBFC5BU_Dzs97KKJSwTMg&amp;oe=66895206&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/449293444_1514586695828329_6285052284613492286_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=SiTvCAIAycMQ7kNvgHYn6KX&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAsrvrUr0W7GJRB3tmfsz0nZzBFC5BU_Dzs97KKJSwTMg&amp;oe=66895206&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/449293444_1514586695828329_6285052284613492286_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=SiTvCAIAycMQ7kNvgHYn6KX&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAsrvrUr0W7GJRB3tmfsz0nZzBFC5BU_Dzs97KKJSwTMg&amp;oe=66895206&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/449293444_1514586695828329_6285052284613492286_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=SiTvCAIAycMQ7kNvgHYn6KX&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAsrvrUr0W7GJRB3tmfsz0nZzBFC5BU_Dzs97KKJSwTMg&amp;oe=66895206&quot;}">
+            <span class="sbi-screenreader">Only a few hours left! Enjoy 25% OFF on our Rainfo</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://byronbaycoffeeco.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Only a few hours left! Enjoy 25% OFF on our Rainforest Alliance Certified coffees; Utopia (Espresso) and Harmony (Plunger &amp; Filter) ~ Discount automatically applied at checkout. 
+⁠
+*Sale ends tomorrow at 11:59 pm AEST.
+
+#coffeesale #rainforestalliancecertifiedcoffee">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18043301131854752" data-date="1719441792">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C8sjMNKSzmL/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t39.30808-6/449406203_18441659623007072_1643454106860819098_n.jpg?_nc_cat=110&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=bb0nn0Ih5I4Q7kNvgGZb_W4&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AYAA6d3lBPhLpTG-qz4B4cRv_mvxzYl23Hw-iFYBF0aTGA&#038;oe=668940A6" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/449406203_18441659623007072_1643454106860819098_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=bb0nn0Ih5I4Q7kNvgGZb_W4&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAA6d3lBPhLpTG-qz4B4cRv_mvxzYl23Hw-iFYBF0aTGA&amp;oe=668940A6&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/449406203_18441659623007072_1643454106860819098_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=bb0nn0Ih5I4Q7kNvgGZb_W4&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAA6d3lBPhLpTG-qz4B4cRv_mvxzYl23Hw-iFYBF0aTGA&amp;oe=668940A6&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/449406203_18441659623007072_1643454106860819098_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=bb0nn0Ih5I4Q7kNvgGZb_W4&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAA6d3lBPhLpTG-qz4B4cRv_mvxzYl23Hw-iFYBF0aTGA&amp;oe=668940A6&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/449406203_18441659623007072_1643454106860819098_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=bb0nn0Ih5I4Q7kNvgGZb_W4&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAA6d3lBPhLpTG-qz4B4cRv_mvxzYl23Hw-iFYBF0aTGA&amp;oe=668940A6&quot;}">
+            <span class="sbi-screenreader">When your cappuccino’s looking almost as pretty </span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://byronbaycoffeeco.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="When your cappuccino’s looking almost as pretty as the view (or prettier?) ~ #coffeewithaview at our friends @skypoint_au⁠
+⁠
+#cappuccino #latteart #baristaskills #baristagram">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18024547319237442" data-date="1719269949">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C8nbbNmSOBY/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t39.30808-6/449199155_18441285595007072_3423310778884441648_n.jpg?_nc_cat=107&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=WvTPIxagFiwQ7kNvgGPc5Wu&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AYBQWh_G9HYVxWGUv7LqIr7kydDqQe192JI6MYcHRu5CNQ&#038;oe=66895911" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/449199155_18441285595007072_3423310778884441648_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=WvTPIxagFiwQ7kNvgGPc5Wu&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYBQWh_G9HYVxWGUv7LqIr7kydDqQe192JI6MYcHRu5CNQ&amp;oe=66895911&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/449199155_18441285595007072_3423310778884441648_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=WvTPIxagFiwQ7kNvgGPc5Wu&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYBQWh_G9HYVxWGUv7LqIr7kydDqQe192JI6MYcHRu5CNQ&amp;oe=66895911&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/449199155_18441285595007072_3423310778884441648_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=WvTPIxagFiwQ7kNvgGPc5Wu&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYBQWh_G9HYVxWGUv7LqIr7kydDqQe192JI6MYcHRu5CNQ&amp;oe=66895911&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/449199155_18441285595007072_3423310778884441648_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=WvTPIxagFiwQ7kNvgGPc5Wu&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYBQWh_G9HYVxWGUv7LqIr7kydDqQe192JI6MYcHRu5CNQ&amp;oe=66895911&quot;}">
+            <span class="sbi-screenreader">Throwback to harvesting BBCC’s second ever coffe</span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://byronbaycoffeeco.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Throwback to harvesting BBCC’s second ever coffee crop in 1994, when we used to grow our own beans. ⁠
+⁠
+Pic 1: Franco and his dad Francesco, loving life while drying beans where our HQ now stands.⁠
+Pic 2: Francesco can’t hide his excitement over a new coffee cherry blossom.⁠
+Pic 3: Coffee parchment fresh off the drying beds ready to be hulled.
+⁠
+Those early days of BBCC laid the foundation for our deep appreciation for coffee farmers and the journey from tree to cup. Our journey started with growing our own beans, but today, it’s about ethical sourcing and building partnerships with coffee farmers worldwide to craft our coffee blends and single o’s.⁠
+⁠
+#ByronBayCoffeeCompany #ByronBayCoffee #PremiumCoffeeBeans #CoffeeRoaster #NorthernRiversCoffeeRoaster #CoffeeRoasterAustralia">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18034135759996554" data-date="1719014822">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/C8f0vLcykUp/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.29350-15/448851394_998865204881146_5080600319685719835_n.jpg?_nc_cat=111&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=3p7qxW2Sz2cQ7kNvgEclT4E&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AYBOtohjT1tbEViJVF8eq3F6vHHknyivWqkYKgQ1S4V2eQ&#038;oe=66895902" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/448851394_998865204881146_5080600319685719835_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=3p7qxW2Sz2cQ7kNvgEclT4E&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYBOtohjT1tbEViJVF8eq3F6vHHknyivWqkYKgQ1S4V2eQ&amp;oe=66895902&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/448851394_998865204881146_5080600319685719835_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=3p7qxW2Sz2cQ7kNvgEclT4E&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYBOtohjT1tbEViJVF8eq3F6vHHknyivWqkYKgQ1S4V2eQ&amp;oe=66895902&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/448851394_998865204881146_5080600319685719835_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=3p7qxW2Sz2cQ7kNvgEclT4E&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYBOtohjT1tbEViJVF8eq3F6vHHknyivWqkYKgQ1S4V2eQ&amp;oe=66895902&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/448851394_998865204881146_5080600319685719835_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=3p7qxW2Sz2cQ7kNvgEclT4E&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYBOtohjT1tbEViJVF8eq3F6vHHknyivWqkYKgQ1S4V2eQ&amp;oe=66895902&quot;}">
+            <span class="sbi-screenreader">You can check him out at @cafekirra 😉
+
+#goldcoa</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://byronbaycoffeeco.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="You can check him out at @cafekirra 😉
+
+#goldcoastcafe #kirracafe">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18423701809068337" data-date="1718835451">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C8aer5zSP5f/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t39.30808-6/448806136_18440326204007072_2467851098726635588_n.jpg?_nc_cat=106&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=m8GmWVj_veAQ7kNvgFUzEuG&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AYCoq-H3hETk9cYhJePVFSAKTrh_WHd_usCjQD0LQ9afig&#038;oe=6689271C" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/448806136_18440326204007072_2467851098726635588_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=m8GmWVj_veAQ7kNvgFUzEuG&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYCoq-H3hETk9cYhJePVFSAKTrh_WHd_usCjQD0LQ9afig&amp;oe=6689271C&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/448806136_18440326204007072_2467851098726635588_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=m8GmWVj_veAQ7kNvgFUzEuG&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYCoq-H3hETk9cYhJePVFSAKTrh_WHd_usCjQD0LQ9afig&amp;oe=6689271C&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/448806136_18440326204007072_2467851098726635588_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=m8GmWVj_veAQ7kNvgFUzEuG&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYCoq-H3hETk9cYhJePVFSAKTrh_WHd_usCjQD0LQ9afig&amp;oe=6689271C&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/448806136_18440326204007072_2467851098726635588_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=m8GmWVj_veAQ7kNvgFUzEuG&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYCoq-H3hETk9cYhJePVFSAKTrh_WHd_usCjQD0LQ9afig&amp;oe=6689271C&quot;}">
+            <span class="sbi-screenreader">Crisp winter mornings were made for sipping on a p</span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://byronbaycoffeeco.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Crisp winter mornings were made for sipping on a pretty latte in a picture-perfect cafe corner ~ @coconutcoffeehouseterranora ⁠
+⁠
+#GoldCoastCafe #TerranoraCafe #CafeEscape">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17934408137849270" data-date="1718694782">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/C8WSRXip_Oq/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t51.29350-15/448417584_1164148918232832_5456478963680289728_n.jpg?_nc_cat=109&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=yx5_xEy4_9gQ7kNvgEPIwA2&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AYAHi7KrcGbIDGlvGh-wPNmj3boKCtgfvEnXC_Q0heoH6Q&#038;oe=6689287C" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/448417584_1164148918232832_5456478963680289728_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=yx5_xEy4_9gQ7kNvgEPIwA2&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAHi7KrcGbIDGlvGh-wPNmj3boKCtgfvEnXC_Q0heoH6Q&amp;oe=6689287C&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/448417584_1164148918232832_5456478963680289728_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=yx5_xEy4_9gQ7kNvgEPIwA2&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAHi7KrcGbIDGlvGh-wPNmj3boKCtgfvEnXC_Q0heoH6Q&amp;oe=6689287C&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/448417584_1164148918232832_5456478963680289728_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=yx5_xEy4_9gQ7kNvgEPIwA2&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAHi7KrcGbIDGlvGh-wPNmj3boKCtgfvEnXC_Q0heoH6Q&amp;oe=6689287C&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t51.29350-15\/448417584_1164148918232832_5456478963680289728_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=yx5_xEy4_9gQ7kNvgEPIwA2&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYAHi7KrcGbIDGlvGh-wPNmj3boKCtgfvEnXC_Q0heoH6Q&amp;oe=6689287C&quot;}">
+            <span class="sbi-screenreader">Now roasting: Burundi Butegana ☕️ - A fruity s</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://byronbaycoffeeco.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Now roasting: Burundi Butegana ☕️ - A fruity single origin coffee from Burundi, a small East African country located to the south of Rwanda, renowned for growing legendary coffee beans. ⁠
+⁠
+This coffee delivers a fruity punch with a well-rounded body ~ Expect flavours of black tea and cacao upfront, followed by juicy notes of strawberry and apricot, with a passionfruit acidity to finish.⁠
+⁠
+Shop now via the link in our bio.⁠
+⁠
+#SingleOriginCoffee #FilterCoffee #PlungerCoffee #PremiumCoffeeBeans #AfricanCoffee #BurundiCoffee #Burundi #CoffeeRoaster">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18267632872175611" data-date="1718408452">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C8NwQALyESv/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-syd2-1.cdninstagram.com/v/t39.30808-6/448444846_18439372312007072_6706834914782407722_n.jpg?_nc_cat=102&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=plVveMrSpyIQ7kNvgFHGQme&#038;_nc_ht=scontent-syd2-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AYCK7_bfemQFsyYq2UgSo8OIk2fKqUKpKDuGmKwPDKmxlA&#038;oe=66895AD8" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/448444846_18439372312007072_6706834914782407722_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=plVveMrSpyIQ7kNvgFHGQme&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYCK7_bfemQFsyYq2UgSo8OIk2fKqUKpKDuGmKwPDKmxlA&amp;oe=66895AD8&quot;,&quot;150&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/448444846_18439372312007072_6706834914782407722_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=plVveMrSpyIQ7kNvgFHGQme&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYCK7_bfemQFsyYq2UgSo8OIk2fKqUKpKDuGmKwPDKmxlA&amp;oe=66895AD8&quot;,&quot;320&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/448444846_18439372312007072_6706834914782407722_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=plVveMrSpyIQ7kNvgFHGQme&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYCK7_bfemQFsyYq2UgSo8OIk2fKqUKpKDuGmKwPDKmxlA&amp;oe=66895AD8&quot;,&quot;640&quot;:&quot;https:\/\/scontent-syd2-1.cdninstagram.com\/v\/t39.30808-6\/448444846_18439372312007072_6706834914782407722_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=plVveMrSpyIQ7kNvgFHGQme&amp;_nc_ht=scontent-syd2-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AYCK7_bfemQFsyYq2UgSo8OIk2fKqUKpKDuGmKwPDKmxlA&amp;oe=66895AD8&quot;}">
+            <span class="sbi-screenreader">Has a cafe ever looked this kawaī? Wishing we cou</span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://byronbaycoffeeco.com.au/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Has a cafe ever looked this kawaī? Wishing we could just spend a morning sipping lattes with our mates @byronbaycoffeeco.aoshima ☕️
+
+#ByronBayCoffeeJapan #JapanCafe #AoshimaCafe">
+        </a>
+    </div>
+</div>    </div>
+
+	<div id="sbi_load" >
+
+	
+	
+</div>
+
+	    <span class="sbi_resized_image_data" data-feed-id="sbi_byronbaycoffeecompany#8" data-resized="{&quot;18267632872175611&quot;:{&quot;id&quot;:&quot;448444846_18439372312007072_6706834914782407722_n&quot;,&quot;ratio&quot;:&quot;0.81&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;17934408137849270&quot;:{&quot;id&quot;:&quot;448417584_1164148918232832_5456478963680289728_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18423701809068337&quot;:{&quot;id&quot;:&quot;448806136_18440326204007072_2467851098726635588_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18034135759996554&quot;:{&quot;id&quot;:&quot;448851394_998865204881146_5080600319685719835_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18024547319237442&quot;:{&quot;id&quot;:&quot;449199155_18441285595007072_3423310778884441648_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18043301131854752&quot;:{&quot;id&quot;:&quot;449406203_18441659623007072_1643454106860819098_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18004480925552430&quot;:{&quot;id&quot;:&quot;449293444_1514586695828329_6285052284613492286_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18053193166661366&quot;:{&quot;id&quot;:&quot;449632652_1513009666288417_865010831041297401_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}}}">
+	</span>
+	</div>
+
+
+</section>
+
+</div>
+
+<!-- <div class="instagram_container">
+	</div> -->
+
+
+<footer class="footer section">
+	<div class="container top-footer">
+		<div class="five-col">
+			<div class="col foot1">
+				<a class="logo" href="https://byronbaycoffeeco.com.au">
+					<img class="logo-full white" src="https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/images/logo-large-white.svg" alt="byron bay coffee"/>
+				</a>
+			</div>
+			<div class="nav-group flex">
+				<div class="col">
+					<h5><strong>SHOP</strong></h5>
+					<ul id="menuUl" class="menu"><li id="menu-item-46623" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-46623"><a href="https://byronbaycoffeeco.com.au/product-category/all/">All</a></li>
+<li id="menu-item-46624" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-46624"><a href="https://byronbaycoffeeco.com.au/product-category/alternative-brewing-coffee/">Plunger/Filter Coffee</a></li>
+<li id="menu-item-46625" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-46625"><a href="https://byronbaycoffeeco.com.au/product-category/apparel/">Apparel</a></li>
+<li id="menu-item-46626" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-46626"><a href="https://byronbaycoffeeco.com.au/product-category/cafe-accessories/">Café Accessories</a></li>
+<li id="menu-item-46627" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-46627"><a href="https://byronbaycoffeeco.com.au/product-category/chocolate/">Chocolates</a></li>
+<li id="menu-item-46628" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-46628"><a href="https://byronbaycoffeeco.com.au/product-category/drinking-chocolate/">Drinking Chocolate</a></li>
+<li id="menu-item-46629" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-46629"><a href="https://byronbaycoffeeco.com.au/product-category/espresso-coffee/">Espresso Coffee</a></li>
+<li id="menu-item-46630" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-46630"><a href="https://byronbaycoffeeco.com.au/product-category/latte-mixes/">Latte Mixes</a></li>
+</ul>				</div>
+				<div class="col">
+					<h5><strong>ABOUT</strong></h5>
+					<ul id="menuUl" class="menu"><li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="https://byronbaycoffeeco.com.au/our-story/">Our Story</a></li>
+<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://byronbaycoffeeco.com.au/our-coffee/">Our Coffee</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="https://byronbaycoffeeco.com.au/our-team/">Our Team</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="https://byronbaycoffeeco.com.au/sustainability/">Our Sustainability</a></li>
+</ul>				</div>
+				<div class="col">
+					<h5><strong>INFO</strong></h5>
+					<ul id="menuUl" class="menu"><li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="https://byronbaycoffeeco.com.au/wholesalers/">Wholesale</a></li>
+<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="https://byronbaycoffeeco.com.au/our-stockists/">Our Stockists</a></li>
+<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="https://byronbaycoffeeco.com.au/faqs/">FAQs</a></li>
+<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="https://byronbaycoffeeco.com.au/news/">News</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="https://byronbaycoffeeco.com.au/contact/">Contact</a></li>
+<li id="menu-item-73974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73974"><a href="https://byronbaycoffeeco.com.au/refund_returns/">Shipping + Returns</a></li>
+<li id="menu-item-73973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-73973"><a rel="privacy-policy" href="https://byronbaycoffeeco.com.au/privacy-policy/">T+Cs/Privacy Policy</a></li>
+</ul>				</div>
+			</div>
+			<div class="col foot2">
+				<h5><strong>KEEP UP TO DATE</strong></h5>
+				<div class="signup-container">
+					<script type="text/javascript"></script>
+                <div class='gf_browser_chrome gform_wrapper gform_legacy_markup_wrapper gform-theme--no-framework' data-form-theme='legacy' data-form-index='0' id='gform_wrapper_3' ><div id='gf_3' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_3' id='gform_3'  action='/#gf_3' data-formid='3' >
+                        <div class='gform-body gform_body'><ul id='gform_fields_3' class='gform_fields top_label form_sublabel_below description_below'><li id="field_3_1"  class="gfield gfield--type-email gfield_contains_required field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"  data-js-reload="field_3_1"><label class='gfield_label gform-field-label' for='input_3_1' >Your Email<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_3_1' type='text' value='' class='large'   placeholder='Your Email' aria-required="true" aria-invalid="false"  />
+                        </div></li></ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_3' class='gform_button button' value='subscribe'  onclick='if(window["gf_submitting_3"]){return false;}  window["gf_submitting_3"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_3"]){return false;} window["gf_submitting_3"]=true;  jQuery("#gform_3").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=3&amp;title=&amp;description=&amp;tabindex=0&amp;theme=data-form-theme=&#039;legacy&#039;' />
+            <input type='hidden' class='gform_hidden' name='is_submit_3' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='3' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_3' value='WyJbXSIsIjU2YmM1NTQ2NjZjMGQxNDMxYWI5NGVkYmEwMjkxMjAyIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_3' id='gform_target_page_number_3' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_3' id='gform_source_page_number_3' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        <p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="35"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_3' id='gform_ajax_frame_3' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script type="text/javascript">
+gform.initializeOnLoaded( function() {gformInitSpinner( 3, 'https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/images/spinner-transparent.gif', true );jQuery('#gform_ajax_frame_3').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_3');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_3').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_3').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_3').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_3').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_3').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_3').val();gformInitSpinner( 3, 'https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/images/spinner-transparent.gif', true );jQuery(document).trigger('gform_page_loaded', [3, current_page]);window['gf_submitting_3'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_3').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_3').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [3]);window['gf_submitting_3'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_3').text());}, 50);}else{jQuery('#gform_3').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [3, current_page]);gform.utils.trigger({ event: 'gform/postRender', native: false, data: { formId: 3, currentPage: current_page } });} );} );
+</script>
+				</div>
+
+				<h5><strong>GET SOCIAL</strong></h5>
+				<div class="social-container">
+					<ul>
+													<li><a target="_blank" rel="noreferrer" href="https://www.facebook.com/ByronBayCoffeeCompany"><i class="fa fa-facebook-f"></i></a></li>
+																		<li><a target="_blank" rel="noreferrer" href="https://www.instagram.com/byronbaycoffeecompany/"><i class="fa fa-instagram"></i></a></li>
+																<li><a target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UCqJE4QIw3ikiKS7SdGvm_1A"><i class="fa fa-youtube"></i></a></li>
+										</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container bottom-footer">
+		<p>&copy; 2024 All rights Reserved.</p>
+		<p><a href="https://thriveweb.com.au/" title="Web Design Gold Coast" >Web Design Gold Coast</a> - THRIVE</p>
+	</div>
+</footer>
+
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://byronbaycoffeeco.com.au/wp-admin/admin-ajax.php";
+</script>
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/eb3c5b6766f92d78b7d85471d/c3d6241038a7ac257712f9d25.js");</script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.2.2' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/byronbaycoffeeco.com.au\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.2.2' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.2.2' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.2.2' id='woocommerce-js'></script>
+<script type='text/javascript' id='rocket-browser-checker-js-after'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-extra'>
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/checkout\/??(.*)|\/cart\/?|\/my-account\/??(.*)|\/wc-api\/v(.*)|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/byronbaycoffeeco.com.au","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-after'>
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type='text/javascript' id='mailchimp-woocommerce-js-extra'>
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"https:\/\/byronbaycoffeeco.com.au","ajax_url":"https:\/\/byronbaycoffeeco.com.au\/wp-admin\/admin-ajax.php","disable_carts":"","subscribers_only":"","language":"en","allowed_to_set_cookies":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=4.1.07' id='mailchimp-woocommerce-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.2' id='jquery-ui-accordion-js'></script>
+<script type='text/javascript' src='https://cdn.polyfill.io/v2/polyfill.min.js' id='polly-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/dist/anime.min.js' id='anime-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/dist/responsivetabs.min.js' id='responsivetabs-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/dist/app.min.js?ver=1599174883' id='appJS-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-content/themes/byronbaycofffee/overrides/overrides.js?ver=1683696992' id='overridesJS-js'></script>
+<script type='text/javascript' id='sbi_scripts-js-extra'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/byronbaycoffeeco.com.au\/wp-content\/uploads\/sb-instagram-feed-images\/","placeholder":"https:\/\/byronbaycoffeeco.com.au\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png","ajax_url":"https:\/\/byronbaycoffeeco.com.au\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=6.4.3' id='sbi_scripts-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js'></script>
+<script type='text/javascript' defer='defer' src='https://byronbaycoffeeco.com.au/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.7.17' id='gform_json-js'></script>
+<script type='text/javascript' id='gform_gravityforms-js-extra'>
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/byronbaycoffeeco.com.au\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"Australian Dollar","symbol_left":"$","symbol_right":"","symbol_padding":" ","thousand_separator":",","decimal_separator":".","decimals":2,"code":"AUD"},"base_url":"https:\/\/byronbaycoffeeco.com.au\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/byronbaycoffeeco.com.au\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"4312151ca3670a0e4973ee42863950fd","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://byronbaycoffeeco.com.au/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.7.17' id='gform_gravityforms-js'></script>
+<script type='text/javascript' defer='defer' src='https://byronbaycoffeeco.com.au/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.7.17' id='gform_placeholder-js'></script>
+<script type='text/javascript' defer='defer' src='https://byronbaycoffeeco.com.au/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=59d951b75d934ae23e0ea7f9776264aa' id='gform_gravityforms_utils-js'></script>
+<script type='text/javascript' defer='defer' src='https://byronbaycoffeeco.com.au/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=4ef53fe41c14a48b294541d9fc37387e' id='gform_gravityforms_theme_vendors-js'></script>
+<script type='text/javascript' id='gform_gravityforms_theme-js-extra'>
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"4312151ca3670a0e4973ee42863950fd"}}},"hmr_dev":"","public_path":"https:\/\/byronbaycoffeeco.com.au\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://byronbaycoffeeco.com.au/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=f4d12a887a23a8c5755fd2b956bc8fcf' id='gform_gravityforms_theme-js'></script>
+<script defer type='text/javascript' src='https://byronbaycoffeeco.com.au/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1710986163' id='akismet-frontend-js'></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+function wc_sc_apply_coupon_js() {
+											let coupon_code = jQuery(this).data('coupon_code');
+											if( coupon_code != '' && coupon_code != undefined ) {
+												jQuery(this).css('opacity', '0.5');block_cart_elements( jQuery( '.sc-coupons-list' ) ); var data = {
+										coupon_code: coupon_code, 
+										security: '5cee9f4545'
+								};
+											
+								jQuery.ajax( {
+										type:     'POST',
+										url:      '/?wc-ajax=apply_coupon',
+										data:     data,
+										dataType: 'html',success: function( response ) {
+											jQuery( '.woocommerce-error, .woocommerce-message, .woocommerce-info' ).remove();
+										
+											if( jQuery('body #sc_coupons_list').length ){
+												jQuery( '#sc_coupons_list' ).before( response );    
+											}else{
+												jQuery( '#coupons_list' ).before( response );   
+											}
+											scroll_to_notices( jQuery( '[role="alert"]' ) );
+										},
+										complete: function() {
+											jQuery( '.sc-coupons-list' ).removeClass( 'processing' ).unblock();
+										} } );
+			
+							}
+						}var show_hide_coupon_list = function() {
+						if ( jQuery('div#coupons_list').find('div.sc-coupon, div.coupon-container').length > 0 ) {
+							jQuery('div#coupons_list').slideDown(800);
+						} else {
+							jQuery('div#coupons_list').hide();
+						}
+					};
+
+					var coupon_container_height = jQuery('#all_coupon_container').height();
+					if ( coupon_container_height > 400 ) {
+						jQuery('#all_coupon_container').css('height', '400px');
+						jQuery('#all_coupon_container').css('overflow-y', 'scroll');
+					} else {
+						jQuery('#all_coupon_container').css('height', '');
+						jQuery('#all_coupon_container').css('overflow-y', '');
+					}
+		
+					jQuery( document.body ).on('click', '.apply_coupons_credits', wc_sc_apply_coupon_js);
+		
+					jQuery('.checkout_coupon').next('#coupons_list').hide();
+		
+					jQuery('a.showcoupon').on('click', function() {
+						show_hide_coupon_list();
+					});
+		
+					jQuery('div#invalid_coupons_list div#all_coupon_container .sc-coupon').removeClass('apply_coupons_credits');
+		
+					function wc_sc_update_checkout() {
+						jQuery( document.body ).trigger('update_checkout');
+					}
+
+					 function scroll_to_notices( scrollElement ){
+						if ( scrollElement.length ) {
+							jQuery( 'html, body' ).animate( {
+								scrollTop: ( scrollElement.offset().top - 100 )
+							}, 1000 );
+						}
+					 }
+					
+					function block_cart_elements( node ){
+						if ( ! ( node.is( '.processing' ) || node.parents( '.processing' ).length ) ) {
+							node.addClass( 'processing' ).block( {
+								message: null,
+								overlayCSS: {
+									background: '#fff',
+									opacity: 0.6
+								}
+							} );
+						}
+					}
+
+					function unblock_cart_elements ( node ) {
+						node.removeClass( 'processing' ).unblock();
+					};
+					
+					function update_cart()
+					{
+						var cart_form = jQuery( '.woocommerce-cart-form' );
+						block_cart_elements( cart_form );
+						block_cart_elements( jQuery( 'div.cart_totals' ) );
+						block_cart_elements( jQuery( '.sc-coupons-list' ) );
+						
+						// Make call to actual form post URL.
+						jQuery.ajax( {
+							type:     cart_form.attr( 'method' ),
+							url:      cart_form.attr( 'action' ),
+							data:     cart_form.serialize(),
+							dataType: 'html',
+							success:  function( response ) {
+								var response_html  = jQuery.parseHTML( response );
+								var updated_cart_form  = jQuery( '.woocommerce-cart-form', response_html );
+								var updated_totals     = jQuery( '.cart_totals', response_html );
+								jQuery( '.woocommerce-cart-form' ).replaceWith( updated_cart_form );
+								jQuery( '.woocommerce-cart-form' ).find( ':input[name="update_cart"]' ).prop( 'disabled', true ).attr( 'aria-disabled', true );
+					   
+								jQuery( '.cart_totals' ).replaceWith( updated_totals );
+								jQuery( document.body ).trigger( 'updated_cart_totals' );
+								
+							}, 
+							complete: function() {
+							   scroll_to_notices( jQuery( '[role="alert"]' ) ); 
+							   cart_form.removeClass( 'processing' ).unblock();
+							   jQuery( 'div.cart_totals' ).removeClass( 'processing' ).unblock();
+							   jQuery( '.sc-coupons-list' ).removeClass( 'processing' ).unblock();                          
+							   
+							}
+						} );
+					}
+						show_hide_coupon_list();
+						
+						if (typeof sc_available_coupons_ajax === 'undefined') {
+							var sc_available_coupons_ajax = null;
+						}
+						sc_available_coupons_ajax_request = null;
+						jQuery(document.body).on('updated_cart_totals update_checkout', function(){
+							jQuery('div#coupons_list').css('opacity', '0.5');
+							if (sc_available_coupons_ajax_request != null) {
+								sc_available_coupons_ajax_request.abort();
+							}
+							
+							sc_available_coupons_ajax_request = jQuery.ajax({
+								url: 'https://byronbaycoffeeco.com.au/wp-admin/admin-ajax.php',
+								type: 'post',
+								dataType: 'html',
+								data: {
+									action: 'sc_get_available_coupons',
+									security: '0eeb9e1f82'
+								},
+								success: function( response ) {
+									if ( response != undefined && response != '' ) {
+										jQuery('div#coupons_list').replaceWith( response );
+									}
+									show_hide_coupon_list();
+									jQuery('div#coupons_list').css('opacity', '1');
+								}
+							});
+						});
+ });
+</script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 3) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() {jQuery(document).trigger('gform_post_render', [3, 1]);gform.utils.trigger({ event: 'gform/postRender', native: false, data: { formId: 3, currentPage: 1 } });} );
+</script>
+
+</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1719896336 -->

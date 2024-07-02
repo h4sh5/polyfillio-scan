@@ -1,0 +1,1258 @@
+<!doctype html>
+<html lang="en">
+<head> 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Home | COORDINARE - South Eastern NSW PHN</title>
+<meta name="title" content="Home | COORDINARE - South Eastern NSW PHN">
+<meta name="generator" content="Silverstripe CMS">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="canonical" href="https://coordinare.org.au">
+<meta property="og:locale" content="en_AU">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Home | COORDINARE - South Eastern NSW PHN">
+<meta property="og:url" content="https://coordinare.org.au">
+<meta property="og:site_name" content="COORDINARE - South Eastern NSW PHN">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Home | COORDINARE - South Eastern NSW PHN">
+
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Home","url":"https:\/\/coordinare.org.au"}</script>
+
+    <base href="https://coordinare.org.au/"><!--[if lte IE 6]></base><![endif]-->
+
+    <link rel="icon" href="/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/897f65547e.js" crossorigin="anonymous"></script>
+    <script>
+        window.dataLayer = window.IRXDataLayer || [];
+        
+    </script>
+    
+<link rel="stylesheet" type="text/css" href="/_resources/themes/coordinare2021/dist/css/app.css?m=1719473661">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P2XPT2T');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2XPT2T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    
+
+    <div class="skip-link">
+	<a class="skip_link" href="/#main">Skip to main content</a>
+</div>
+<header>
+    <div class="flex-container">
+        
+        <div class="item header-links">
+            <ul class="social-links smaller-nav" aria-label="Social media">
+                
+                    <li style=""><a href="/health-professionals/integrated-care/healthpathways" class="button nav-button" >
+HealthPathways
+
+</a></li>
+                
+                    <li style=""><a href="https://connect.coordinare.org.au/friends-of-coordinare" class="button nav-button"  target='_blank'>
+    <span class="visually-hidden">External Link</span>
+
+Become a Friend of COORDINARE
+
+    <i class="fa-solid fa-up-right-from-square"></i>
+
+</a></li>
+                
+                <li class="search-link ">
+                    <a class="phone-link button nav-button" href="/search/SearchForm" title="Link to the site search page">
+                        Search
+                        <i class="fal fa-search"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <!--- Mobile Header-->
+        <div class="item mobile-headerlinks">
+            <div class="item logo">
+                <a class="site-logo item logo" href="https://coordinare.org.au" title="Coordinare home page" style="outline: none !important;">
+                    <img class="responsive-image" src="/_resources/themes/coordinare2021/dist/images/Logo.png?m=1719473662" alt="Home-Coordinare Logo"/>
+                </a>
+            </div>
+            <ul aria-label="header options">
+                <li>
+                    <button id="opennav" class="menuClosed mobile-open-button" aria-label="Open menu" aria-expanded="false" aria-haspopup="true" style="justify-content: flex-start;">
+                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" viewBox="0 0 27 21.455" class="svg-menu-icon">
+                        <path d="M26.638,80.17H.362A.362.362,0,0,1,0,79.808V78.362A.362.362,0,0,1,.362,78H26.638a.362.362,0,0,1,.362.362v1.446a.362.362,0,0,1-.362.362Zm0,9.643H.362A.362.362,0,0,1,0,89.451V88a.362.362,0,0,1,.362-.362H26.638A.362.362,0,0,1,27,88v1.446a.362.362,0,0,1-.362.362Zm0,9.643H.362A.362.362,0,0,1,0,99.094V97.647a.362.362,0,0,1,.362-.362H26.638a.362.362,0,0,1,.362.362v1.446a.362.362,0,0,1-.362.362Z" transform="translate(0 -78)" fill="#002B4A"></path>
+                    </svg>
+                    Menu
+                    </button>
+                </li>
+                <li class="search-link">
+                    <a href="/search/SearchForm" class="phone-link">
+                        <button id="opensearch-mobile" class="menuClosed mobile-open-button" aria-label="Open Search" aria-expanded="false" aria-haspopup="true">
+                            <i class="fal fa-search"></i>
+                            Search
+                        </button>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+	
+    <nav aria-label="Main" class="primary-navigation desktop padding">  
+        <ul class="flex-container menu">
+            <div class="item logo">
+                <a class="site-logo item logo" href="https://coordinare.org.au" title="Coordinare home page">
+                    <img class="responsive-image" src="/_resources/themes/coordinare2021/dist/images/Logo.png?m=1719473662" alt="Home-Coordinare Logo"/>
+                </a>
+            </div>
+            
+                <li class=" active-page desktop-menu" style="z-index: 1001;">
+                    
+                        <a href="home" class="button nav-button">Home</a>
+                    
+                </li>
+            
+                <li class="has-submenu desktop-menu" style="z-index: 1001;">
+                    
+                        <a href="about-us" class="nav-link">
+                            <button class="nav-button dropdown-toggle" type="button" id="dropdownMenuButton-2213" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                About Us
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.332 6.593" class="svg-angle-up-light">
+                                    <path d="M6.042.157,11.176,5.37a.532.532,0,0,1,0,.752l-.314.314a.532.532,0,0,1-.752,0L5.666,1.909,1.223,6.432a.532.532,0,0,1-.752,0L.156,6.118a.532.532,0,0,1,0-.752L5.29.152A.536.536,0,0,1,6.042.157Z" transform="translate(11.332 6.593) rotate(180)" fill="#002B4A"></path>
+                                </svg>
+                            </button>
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-2213">
+                            
+                                <li><a class="dropdown-item" href="about-us/our-leadership">Our leadership</a></li>      
+                            
+                                <li><a class="dropdown-item" href="about-us/our-plans-and-achievements">Plans and achievements</a></li>      
+                            
+                                <li><a class="dropdown-item" href="about-us/our-region">Our region</a></li>      
+                            
+                                <li><a class="dropdown-item" href="about-us/careers-at-coordinare">Careers</a></li>      
+                            
+                                <li><a class="dropdown-item" href="about-us/contact-us">Contact us</a></li>      
+                                            
+                        </ul>    
+                    
+                </li>
+            
+                <li class="has-submenu desktop-menu" style="z-index: 1001;">
+                    
+                        <a href="news-and-events" class="nav-link">
+                            <button class="nav-button dropdown-toggle" type="button" id="dropdownMenuButton-2214" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                News and events
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.332 6.593" class="svg-angle-up-light">
+                                    <path d="M6.042.157,11.176,5.37a.532.532,0,0,1,0,.752l-.314.314a.532.532,0,0,1-.752,0L5.666,1.909,1.223,6.432a.532.532,0,0,1-.752,0L.156,6.118a.532.532,0,0,1,0-.752L5.29.152A.536.536,0,0,1,6.042.157Z" transform="translate(11.332 6.593) rotate(180)" fill="#002B4A"></path>
+                                </svg>
+                            </button>
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-2214">
+                            
+                                <li><a class="dropdown-item" href="news-and-events/most-recent-news">Most recent news</a></li>      
+                            
+                                <li><a class="dropdown-item" href="news-and-events/newsletters">Newsletters</a></li>      
+                            
+                                <li><a class="dropdown-item" href="news-and-events/subscribe-to-our-news">Subscribe to our news</a></li>      
+                            
+                                <li><a class="dropdown-item" href="news-and-events/education-and-events">Education and events</a></li>      
+                                            
+                        </ul>    
+                    
+                </li>
+            
+                <li class="has-submenu desktop-menu" style="z-index: 1001;">
+                    
+                        <a href="community" class="nav-link">
+                            <button class="nav-button dropdown-toggle" type="button" id="dropdownMenuButton-2215" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Community
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.332 6.593" class="svg-angle-up-light">
+                                    <path d="M6.042.157,11.176,5.37a.532.532,0,0,1,0,.752l-.314.314a.532.532,0,0,1-.752,0L5.666,1.909,1.223,6.432a.532.532,0,0,1-.752,0L.156,6.118a.532.532,0,0,1,0-.752L5.29.152A.536.536,0,0,1,6.042.157Z" transform="translate(11.332 6.593) rotate(180)" fill="#002B4A"></path>
+                                </svg>
+                            </button>
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-2215">
+                            
+                                <li><a class="dropdown-item" href="community/services-we-fund">Services we fund</a></li>      
+                            
+                                <li><a class="dropdown-item" href="community/awareness-campaigns">Awareness campaigns</a></li>      
+                            
+                                <li><a class="dropdown-item" href="community/consumer-stories">Consumer stories</a></li>      
+                            
+                                <li><a class="dropdown-item" href="community/get-involved">Get involved</a></li>      
+                            
+                                <li><a class="dropdown-item" href="community/medicare-mental-health-centres-and-mental-health-hubs">Medicare Mental Health Centres and Mental Health Hubs</a></li>      
+                                            
+                        </ul>    
+                    
+                </li>
+            
+                <li class="has-submenu desktop-menu" style="z-index: 1001;">
+                    
+                        <a href="health-professionals" class="nav-link">
+                            <button class="nav-button dropdown-toggle" type="button" id="dropdownMenuButton-2216" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Health professionals
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.332 6.593" class="svg-angle-up-light">
+                                    <path d="M6.042.157,11.176,5.37a.532.532,0,0,1,0,.752l-.314.314a.532.532,0,0,1-.752,0L5.666,1.909,1.223,6.432a.532.532,0,0,1-.752,0L.156,6.118a.532.532,0,0,1,0-.752L5.29.152A.536.536,0,0,1,6.042.157Z" transform="translate(11.332 6.593) rotate(180)" fill="#002B4A"></path>
+                                </svg>
+                            </button>
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-2216">
+                            
+                                <li><a class="dropdown-item" href="health-professionals/our-programs-and-priorities">Programs and priorities</a></li>      
+                            
+                                <li><a class="dropdown-item" href="health-professionals/tools-and-resources-for-general-practice">Tools and resources for general practice</a></li>      
+                            
+                                <li><a class="dropdown-item" href="health-professionals/integrated-care">Integrated care</a></li>      
+                            
+                                <li><a class="dropdown-item" href="health-professionals/learning-and-development">Learning and development</a></li>      
+                            
+                                <li><a class="dropdown-item" href="health-professionals/research">Research</a></li>      
+                                            
+                        </ul>    
+                    
+                </li>
+            
+                <li class="has-submenu desktop-menu" style="z-index: 1001;">
+                    
+                        <a href="commissioning" class="nav-link">
+                            <button class="nav-button dropdown-toggle" type="button" id="dropdownMenuButton-2217" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Commissioning 
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.332 6.593" class="svg-angle-up-light">
+                                    <path d="M6.042.157,11.176,5.37a.532.532,0,0,1,0,.752l-.314.314a.532.532,0,0,1-.752,0L5.666,1.909,1.223,6.432a.532.532,0,0,1-.752,0L.156,6.118a.532.532,0,0,1,0-.752L5.29.152A.536.536,0,0,1,6.042.157Z" transform="translate(11.332 6.593) rotate(180)" fill="#002B4A"></path>
+                                </svg>
+                            </button>
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton-2217">
+                            
+                                <li><a class="dropdown-item" href="commissioning/services-we-fund">Services we fund</a></li>      
+                            
+                                <li><a class="dropdown-item" href="commissioning/recent-announcements">Recent announcements</a></li>      
+                            
+                                <li><a class="dropdown-item" href="commissioning/funding-opportunities">Funding opportunities</a></li>      
+                            
+                                <li><a class="dropdown-item" href="commissioning/our-contract-management-system">Contract management system</a></li>      
+                                            
+                        </ul>    
+                    
+                </li>
+            
+        </ul>
+    </nav>
+
+    <nav id="mobile-nav" aria-label="Main" class="primary-navigation mobile padding" style="padding-top: 0;" aria-hidden="true"> 
+        <ul class="dropdown-menu row larger flex-container menu" style="margin-left: 0; max-width:17rem; margin-bottom: 0;">  
+            
+                <li class=" active-page mobile-menu">
+                    
+                        <a href="home" class="button nav-button" style=" background: #002B4A; color: white; padding-left: 1rem;">Home</a>
+                    
+                </li>
+            
+                <li class="has-submenu mobile-menu">
+                    
+                        <button class="nav-button dropdown-toggle" type="button" id="mobile-dropdownMenuButton-2213" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <a href="about-us" class="nav-link" style=" background: #002B4A; color: white;">About Us</a>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.332 6.593" class="svg-angle-up-light">
+                                <path style="fill:#FFF; stroke:#FFF;" d="M6.042.157,11.176,5.37a.532.532,0,0,1,0,.752l-.314.314a.532.532,0,0,1-.752,0L5.666,1.909,1.223,6.432a.532.532,0,0,1-.752,0L.156,6.118a.532.532,0,0,1,0-.752L5.29.152A.536.536,0,0,1,6.042.157Z" transform="translate(11.332 6.593) rotate(180)" fill="#002B4A"></path>
+                            </svg>
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="mobile-dropdownMenuButton-2213">
+                            
+                                <li><a class="dropdown-item" href="about-us/our-leadership" style="background: #002B4A; color: white; padding-left: 1rem;">Our leadership</a></li>      
+                            
+                                <li><a class="dropdown-item" href="about-us/our-plans-and-achievements" style="background: #002B4A; color: white; padding-left: 1rem;">Plans and achievements</a></li>      
+                            
+                                <li><a class="dropdown-item" href="about-us/our-region" style="background: #002B4A; color: white; padding-left: 1rem;">Our region</a></li>      
+                            
+                                <li><a class="dropdown-item" href="about-us/careers-at-coordinare" style="background: #002B4A; color: white; padding-left: 1rem;">Careers</a></li>      
+                            
+                                <li><a class="dropdown-item" href="about-us/contact-us" style="background: #002B4A; color: white; padding-left: 1rem;">Contact us</a></li>      
+                                            
+                        </ul>    
+                    
+                </li>
+            
+                <li class="has-submenu mobile-menu">
+                    
+                        <button class="nav-button dropdown-toggle" type="button" id="mobile-dropdownMenuButton-2214" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <a href="news-and-events" class="nav-link" style=" background: #002B4A; color: white;">News and events</a>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.332 6.593" class="svg-angle-up-light">
+                                <path style="fill:#FFF; stroke:#FFF;" d="M6.042.157,11.176,5.37a.532.532,0,0,1,0,.752l-.314.314a.532.532,0,0,1-.752,0L5.666,1.909,1.223,6.432a.532.532,0,0,1-.752,0L.156,6.118a.532.532,0,0,1,0-.752L5.29.152A.536.536,0,0,1,6.042.157Z" transform="translate(11.332 6.593) rotate(180)" fill="#002B4A"></path>
+                            </svg>
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="mobile-dropdownMenuButton-2214">
+                            
+                                <li><a class="dropdown-item" href="news-and-events/most-recent-news" style="background: #002B4A; color: white; padding-left: 1rem;">Most recent news</a></li>      
+                            
+                                <li><a class="dropdown-item" href="news-and-events/newsletters" style="background: #002B4A; color: white; padding-left: 1rem;">Newsletters</a></li>      
+                            
+                                <li><a class="dropdown-item" href="news-and-events/subscribe-to-our-news" style="background: #002B4A; color: white; padding-left: 1rem;">Subscribe to our news</a></li>      
+                            
+                                <li><a class="dropdown-item" href="news-and-events/education-and-events" style="background: #002B4A; color: white; padding-left: 1rem;">Education and events</a></li>      
+                                            
+                        </ul>    
+                    
+                </li>
+            
+                <li class="has-submenu mobile-menu">
+                    
+                        <button class="nav-button dropdown-toggle" type="button" id="mobile-dropdownMenuButton-2215" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <a href="community" class="nav-link" style=" background: #002B4A; color: white;">Community</a>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.332 6.593" class="svg-angle-up-light">
+                                <path style="fill:#FFF; stroke:#FFF;" d="M6.042.157,11.176,5.37a.532.532,0,0,1,0,.752l-.314.314a.532.532,0,0,1-.752,0L5.666,1.909,1.223,6.432a.532.532,0,0,1-.752,0L.156,6.118a.532.532,0,0,1,0-.752L5.29.152A.536.536,0,0,1,6.042.157Z" transform="translate(11.332 6.593) rotate(180)" fill="#002B4A"></path>
+                            </svg>
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="mobile-dropdownMenuButton-2215">
+                            
+                                <li><a class="dropdown-item" href="community/services-we-fund" style="background: #002B4A; color: white; padding-left: 1rem;">Services we fund</a></li>      
+                            
+                                <li><a class="dropdown-item" href="community/awareness-campaigns" style="background: #002B4A; color: white; padding-left: 1rem;">Awareness campaigns</a></li>      
+                            
+                                <li><a class="dropdown-item" href="community/consumer-stories" style="background: #002B4A; color: white; padding-left: 1rem;">Consumer stories</a></li>      
+                            
+                                <li><a class="dropdown-item" href="community/get-involved" style="background: #002B4A; color: white; padding-left: 1rem;">Get involved</a></li>      
+                            
+                                <li><a class="dropdown-item" href="community/medicare-mental-health-centres-and-mental-health-hubs" style="background: #002B4A; color: white; padding-left: 1rem;">Medicare Mental Health Centres and Mental Health Hubs</a></li>      
+                                            
+                        </ul>    
+                    
+                </li>
+            
+                <li class="has-submenu mobile-menu">
+                    
+                        <button class="nav-button dropdown-toggle" type="button" id="mobile-dropdownMenuButton-2216" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <a href="health-professionals" class="nav-link" style=" background: #002B4A; color: white;">Health professionals</a>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.332 6.593" class="svg-angle-up-light">
+                                <path style="fill:#FFF; stroke:#FFF;" d="M6.042.157,11.176,5.37a.532.532,0,0,1,0,.752l-.314.314a.532.532,0,0,1-.752,0L5.666,1.909,1.223,6.432a.532.532,0,0,1-.752,0L.156,6.118a.532.532,0,0,1,0-.752L5.29.152A.536.536,0,0,1,6.042.157Z" transform="translate(11.332 6.593) rotate(180)" fill="#002B4A"></path>
+                            </svg>
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="mobile-dropdownMenuButton-2216">
+                            
+                                <li><a class="dropdown-item" href="health-professionals/our-programs-and-priorities" style="background: #002B4A; color: white; padding-left: 1rem;">Programs and priorities</a></li>      
+                            
+                                <li><a class="dropdown-item" href="health-professionals/tools-and-resources-for-general-practice" style="background: #002B4A; color: white; padding-left: 1rem;">Tools and resources for general practice</a></li>      
+                            
+                                <li><a class="dropdown-item" href="health-professionals/integrated-care" style="background: #002B4A; color: white; padding-left: 1rem;">Integrated care</a></li>      
+                            
+                                <li><a class="dropdown-item" href="health-professionals/learning-and-development" style="background: #002B4A; color: white; padding-left: 1rem;">Learning and development</a></li>      
+                            
+                                <li><a class="dropdown-item" href="health-professionals/research" style="background: #002B4A; color: white; padding-left: 1rem;">Research</a></li>      
+                                            
+                        </ul>    
+                    
+                </li>
+            
+                <li class="has-submenu mobile-menu">
+                    
+                        <button class="nav-button dropdown-toggle" type="button" id="mobile-dropdownMenuButton-2217" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <a href="commissioning" class="nav-link" style=" background: #002B4A; color: white;">Commissioning </a>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.332 6.593" class="svg-angle-up-light">
+                                <path style="fill:#FFF; stroke:#FFF;" d="M6.042.157,11.176,5.37a.532.532,0,0,1,0,.752l-.314.314a.532.532,0,0,1-.752,0L5.666,1.909,1.223,6.432a.532.532,0,0,1-.752,0L.156,6.118a.532.532,0,0,1,0-.752L5.29.152A.536.536,0,0,1,6.042.157Z" transform="translate(11.332 6.593) rotate(180)" fill="#002B4A"></path>
+                            </svg>
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="mobile-dropdownMenuButton-2217">
+                            
+                                <li><a class="dropdown-item" href="commissioning/services-we-fund" style="background: #002B4A; color: white; padding-left: 1rem;">Services we fund</a></li>      
+                            
+                                <li><a class="dropdown-item" href="commissioning/recent-announcements" style="background: #002B4A; color: white; padding-left: 1rem;">Recent announcements</a></li>      
+                            
+                                <li><a class="dropdown-item" href="commissioning/funding-opportunities" style="background: #002B4A; color: white; padding-left: 1rem;">Funding opportunities</a></li>      
+                            
+                                <li><a class="dropdown-item" href="commissioning/our-contract-management-system" style="background: #002B4A; color: white; padding-left: 1rem;">Contract management system</a></li>      
+                                            
+                        </ul>    
+                    
+                </li>
+            
+            
+                <li><a href="/health-professionals/integrated-care/healthpathways" style=" background: #002B4A; color: white; padding-left: 1rem;" class="button nav-button" >
+HealthPathways
+
+</a></li>
+            
+                <li><a href="https://connect.coordinare.org.au/friends-of-coordinare" style=" background: #002B4A; color: white; padding-left: 1rem;" class="button nav-button"  target='_blank'>
+    <span class="visually-hidden">External Link</span>
+
+Become a Friend of COORDINARE
+
+    <i class="fa-solid fa-up-right-from-square"></i>
+
+</a></li>
+            
+        </ul>
+        
+    </nav>
+</header>
+	
+<script>
+    const desktopItems = document.querySelectorAll('li.has-submenu.desktop-menu');
+    Array.prototype.forEach.call(desktopItems, function(el, i) {
+        function openDropdown(item) {
+            const amOpen = item.parentNode.classList.contains('open');
+
+            const openedItem = document.querySelector('li.has-submenu.open.desktop-menu');
+            if (openedItem) {
+                openedItem.classList.remove('open');
+                openedItem.setAttribute('aria-expanded', 'false');
+            }
+
+            if (amOpen) {
+                item.parentNode.classList.remove('open');
+                item.setAttribute('aria-expanded', 'false');
+            } else {
+                item.parentNode.classList.add('open');
+                item.setAttribute('aria-expanded', 'true');
+            }
+
+            item.parentNode.classList.add('open');
+            item.setAttribute('aria-expanded', 'true');
+        }
+
+        el.querySelector('.nav-link').addEventListener("mouseover", function(event) {
+            openDropdown(this);
+        });
+
+        el.querySelector('.nav-button').addEventListener("keypress", function(event) {
+            event.preventDefault();
+            if (event.keyCode === 13) {
+                openDropdown(this.parentNode);
+            }
+        });
+
+        const list = el.querySelector('.dropdown-menu');
+        el.addEventListener("mouseleave", function(event) {
+            this.classList.remove('open');
+            this.setAttribute('aria-expanded', 'false');
+        });
+
+        el.addEventListener("focusout", function(event) {
+            if (!this.contains(event.relatedTarget)) {
+                this.classList.remove('open');
+                this.setAttribute('aria-expanded', 'false');
+            }
+        });
+    });
+
+    const mobileItems = document.querySelectorAll('li.has-submenu.mobile-menu');
+    Array.prototype.forEach.call(mobileItems, function(el, i) {
+        el.querySelector('.nav-button').addEventListener("click", function(event) {
+            const amOpen = this.parentNode.classList.contains('open');
+
+            const openedItem = document.querySelector('li.has-submenu.open.mobile-menu');
+            if (openedItem) {
+                openedItem.classList.remove('open');
+                openedItem.setAttribute('aria-expanded', 'false');
+            }
+    
+            if (amOpen) {
+                this.parentNode.classList.remove('open');
+                this.setAttribute('aria-expanded', 'false');
+            } else {
+                this.parentNode.classList.add('open');
+                this.setAttribute('aria-expanded', 'true');
+            }
+        });
+    });
+</script>
+    
+    
+
+    <main id="main" tabindex="-1">
+        <div class="main-container">
+            
+    
+	   
+    <section  class="split-block search-banner-block no-pad">
+    <div class="row medium">
+        <div class="banner-content-container">
+            <div class="">
+                <div class="panel large">
+                    <div class="flex-container" role="img" aria-label="Two women smiling at each other." style="background: url(/assets/Uploads/Banner/Two-women-smiling-v2__FitWzE5MjAsNjUwXQ.jpg) 20% 1% / cover no-repeat;width: 100%;">
+                        <div class="item col-2 search-banner orange-background">     
+                            <h1 class="h2 center-text">Transforming health together.</h1>
+                            <form role="search" id="search-banner" action="/search/SearchForm" method="GET">
+                                <div class="flex-container in-line">
+                                    <div class="item col-2 field" style="padding-left: 0rem; width: 76%;">
+                                        <input id="keywords" type="text" required placeholder="Search our site" name="Search" style="background-image: url(/resources/themes/coordinare2021/dist/images/magnifying-glass-regular.svg);background-position: 93% 11px; background-repeat: no-repeat; background-size: 29px; background-color: white !important;"/>
+                                    </div>
+                                    <div class="item col-5 field">
+                                        <input type="submit" class="inverse-colours" value="Search" />    
+                                    </div>
+                                </div>
+                            </form>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+    
+	   
+    <section  class="split-block no-pad">
+    <div class="row medium">
+        <div class="banner-content-container">
+            <div class="">
+                <div class="panel large">
+                    <div class="flex-container-items">
+                        <div class="item col">
+                            <div class="content about-content">
+                                
+                                    <div class="decorative-heading">
+                                        <div class="flex-container no-wrap">
+                                            <div class=" col navy-heading-border">
+                                                <div class="left-heading-border"></div>
+                                            </div>
+                                            <div class=" col ">
+                                                <h2 id="about-us" class="h2">COORDINARE - South Eastern NSW PHN</h2>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                <h3 class="h3">Acknowledgement of Country</h3>
+                                <p class="content-text">COORDINARE acknowledges the Traditional Owners and Custodians of the lands across which we live and work. We pay our respects to Elders past, present and emerging, and acknowledge Aboriginal and Torres Strait Islander peoples’ continuing connection - both physical and spiritual - to land, sea and sky.</p>
+                                
+                                    <a class="button" href="/acknowledgement-of-country" >
+                                        
+Read more
+
+    <i class="fal fa-long-arrow-right"></i>
+
+
+                                    </a>
+                                
+                            </div>
+                        </div>
+                        <div class="item col-2">
+                            <ul aria-describedby="about-us" class="flex-container get-involved-list floating-ul">
+                                
+                                    <li class="content item col-3 orange-background get-involved-card">
+                                        <h3 class="h3">Community</h3>
+                                        <p>We help community members make informed choices about their health and wellbeing.</p>
+                                        
+                                            <a href="/community" class="text-link button" >
+                                                Find out more<i class="fal fa-long-arrow-right"></i>
+                                                <span class="visually-hidden">About Community</span>
+                                            </a>
+                                        
+                                        <div class="" style="display: flex;justify-content: center;">
+                                            <i class="fal fat fa-users icon-bubble involved-icon"></i>
+                                        </div>
+                                    </li>
+                                
+                                    <li class="content item col-3 lemon-background get-involved-card">
+                                        <h3 class="h3">Health professionals</h3>
+                                        <p>We support health professionals to provide exceptional care and deliver a better consumer experience.</p>
+                                        
+                                            <a href="/health-professionals" class="text-link button" >
+                                                Find out more<i class="fal fa-long-arrow-right"></i>
+                                                <span class="visually-hidden">About Health professionals</span>
+                                            </a>
+                                        
+                                        <div class="" style="display: flex;justify-content: center;">
+                                            <i class="fal fa-thin fa-stethoscope icon-bubble involved-icon"></i>
+                                        </div>
+                                    </li>
+                                
+                                    <li class="content item col-3 yellow-background get-involved-card">
+                                        <h3 class="h3">Commissioning</h3>
+                                        <p>We commission services to address local health care needs and improve health outcomes in our region.</p>
+                                        
+                                            <a href="/commissioning" class="text-link button" >
+                                                Find out more<i class="fal fa-long-arrow-right"></i>
+                                                <span class="visually-hidden">About Commissioning</span>
+                                            </a>
+                                        
+                                        <div class="" style="display: flex;justify-content: center;">
+                                            <i class="fal fa-thin fa-hands-holding-heart icon-bubble involved-icon"></i>
+                                        </div>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+    
+	   
+    <section  class="split-block navy-background ">
+    <div class="row medium">
+        <div class="banner-content-container">
+            <div class="">
+                <div class="statistics-flex panel large">
+                    <div class="flex-container" style="align-items: center;">
+                        <div class="item col-2">
+                            <div class="decorative-heading">
+                                <div class="flex-container no-wrap">
+                                    <div class="item col-1 grey-heading-border">
+                                        <div class="left-heading-border"></div>
+                                    </div>
+                                    <div class="item col-1 ">
+                                    <h2 class="h2">Our role and region</h2>
+                                    </div>
+                                </div>
+                                
+                                <p>COORDINARE is the South Eastern NSW Primary Health Network (PHN). Our role is to improve the health and wellbeing of our community which is one of the largest rural and regional populations in NSW.</p>
+<p>Our region stretches from Helensburgh in the north to the Victorian border in the south and inland to Cooma/Monaro, Queanbeyan, Yass and Goulburn.</p>
+                                <div class="flex-container" style="margin: 3rem 0rem 3rem 0rem;">
+                                    
+                                        <div class="item col-4 statistics-column">
+                                            
+                                            <p class="statistics-number h2">12 
+                                            <p>local government areas and territories</p>
+                                        </div>
+                                    
+                                        <div class="item col-4 statistics-column">
+                                            <p class="top-statistics-text" style="margin-bottom: -1rem; margin-top: -20px;">over</p>
+                                            <p class="statistics-number h2">641,960 
+                                            <p>total population</p>
+                                        </div>
+                                    
+                                        <div class="item col-4 statistics-column">
+                                            
+                                            <p class="statistics-number h2">790 
+                                            <p>general practitioners</p>
+                                        </div>
+                                    
+                                        <div class="item col-4 statistics-padding">
+                                            <p class="top-statistics-text" style="margin-bottom: -1rem; margin-top: -20px;">over</p>
+                                            <p class="statistics-number h2">50,000 <span class="superscript">km2</span>
+                                            <p>spanned distance</p>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+                            <a class="button" href="/about-us">
+About us
+
+    <i class="fal fa-long-arrow-right"></i>
+
+</a>
+                        </div>
+                        <div class="item col-2">
+                            <div class="contain-image">
+                                <img class="responsive-image" src="/_resources/themes/coordinare2021/dist/images/map.png?m=1689209528" alt=""/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+    
+	   
+    <section  class="split-block text-image-block ">
+    <div class="row medium">
+        <div class="banner-content-container">
+            <div class="">
+                <div class="panel large">
+                    <div class="flex-container">
+                        
+                            <div class="">
+                                <div class="item col-2 cover-image-block" style="width: 100%;">
+                                    <div class="">
+                                        
+    <img class="responsive-image cropped-image" src="/assets/Uploads/Images/GettyImages-695218436-crop__FitWzE5MjAsNjUwXQ.jpg" alt="" style=""/>
+    
+
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <div class="content item col-2 white-background">
+                            
+                            
+                                <div class="decorative-heading">
+                                    <div class="flex-container no-wrap">
+                                        <div class="item col-1 navy-heading-border">
+                                            <div class="left-heading-border"></div>
+                                        </div>
+                                        <div class="item col-1 ">
+                                            <h2 class="h2">MyMedicare tools and resources</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                            
+                                <p class="content-text">
+                                    MyMedicare is a new voluntary patient registration model. It aims to strengthen the relationship between patients, their general practice, general practitioner and primary care teams. View the latest guidance, up-to-date information and useful resources on our website.
+                                </p>
+                            
+                            
+                                <a class="button" href="/health-professionals/tools-and-resources-for-general-practice/mymedicare" >
+Find out more
+
+    <i class="fal fa-long-arrow-right"></i>
+
+</a>
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    
+	   
+    <section  class="blog-listing-block icon-block block-padding margin grey-background ">
+    <div class="content row medium">
+        
+            <div class="decorative-heading">
+                <div class="flex-container no-wrap">
+                    <div class="item col-1 navy-heading-border">
+                        <div class="left-heading-border"></div>
+                    </div>
+                    <div class="item col-1 ">
+                        <h2 class="h2">Most recent news</h2>
+                    </div>
+                </div>
+            </div>
+            
+        
+        <div class="content-text">
+            
+        </div>
+            
+            <ul class="flex-container-ctas" data-card-count="4">
+                
+                
+                    <li class="item col-4 white-background">
+                        
+                            <div class="">
+                                
+    <img class="responsive-image cropped-image" src="/assets/ListingImages/New-web-news-items-18__FitWzE5MjAsMTA4MF0.png" alt="" style=""/>
+    
+
+                            </div>
+                        
+                        <div class="cta-content-padding" style="height:100%;">
+                            
+                            <h3 class="h3">Join COORDINARE&#039;s Illawarra Shoalhaven Clinical Council</h3>
+                            <p class="event-date-text">2 July 2024</p> <!-- 9 February 2021 -->
+                            <p class="" style="margin-bottom: 3rem;">Do you have the skills and expertise to join our Illawarra Shoalhaven Clinical Council, to help drive improvements in health care accessibility and outcomes for your region?<br />
+<br />
+COORDINARE is seeking expressions of interest (EOIs) from motivated general practitioners and other clinicians, such as nurses, social workers, and other allied health professionals…</p>
+                            <a href="/news-and-events/all-news-articles/join-coordinares-illawarra-shoalhaven-clinical-council" class="text-link button" style="position: absolute; bottom: 0; margin: 2rem auto;">
+                                Read more <i class="fal fa-long-arrow-right" style="color: #002B4A !important;"></i>
+                                <span class="visually-hidden">About Join COORDINARE&#039;s Illawarra Shoalhaven Clinical Council</span>
+                            </a>
+                            
+                        </div>
+                    </li>
+                
+                    <li class="item col-4 white-background">
+                        
+                            <div class="">
+                                
+    <img class="responsive-image cropped-image" src="/assets/ListingImages/New-web-news-items-17__FitWzE5MjAsMTA4MF0.png" alt="" style=""/>
+    
+
+                            </div>
+                        
+                        <div class="cta-content-padding" style="height:100%;">
+                            
+                            <h3 class="h3">Join COORDINARE&#039;s Aboriginal Health Council</h3>
+                            <p class="event-date-text">25 June 2024</p> <!-- 9 February 2021 -->
+                            <p class="" style="margin-bottom: 3rem;">Do you have the skills and expertise to join COORDINARE&#039;s Aboriginal Health Council, to help drive improvements in health care accessibility and outcomes for our region?<br />
+<br />
+In supporting the National Agreement on Closing the Gap, COORDINARE has established two Aboriginal Health Councils with representation across the northern and southern regions of…</p>
+                            <a href="/news-and-events/all-news-articles/join-coordinares-aboriginal-health-council" class="text-link button" style="position: absolute; bottom: 0; margin: 2rem auto;">
+                                Read more <i class="fal fa-long-arrow-right" style="color: #002B4A !important;"></i>
+                                <span class="visually-hidden">About Join COORDINARE&#039;s Aboriginal Health Council</span>
+                            </a>
+                            
+                        </div>
+                    </li>
+                
+                    <li class="item col-4 white-background">
+                        
+                            <div class="">
+                                
+    <img class="responsive-image cropped-image" src="/assets/ListingImages/GettyImages-1401342624__FitWzE5MjAsMTA4MF0.jpg" alt="" style=""/>
+    
+
+                            </div>
+                        
+                        <div class="cta-content-padding" style="height:100%;">
+                            
+                            <h3 class="h3">Important developments to national cancer screening programs</h3>
+                            <p class="event-date-text">14 June 2024</p> <!-- 9 February 2021 -->
+                            <p class="" style="margin-bottom: 3rem;">There are several important developments to the national cancer screening programs including:<br />
+<br />
+A national campaign promoting HPV self-collection has commenced. Initially it targets health providers, Aboriginal and/or Torres Strait Islander and culturally and linguistically diverse patients, then patients with a disability later this year.</p>
+                            <a href="/news-and-events/all-news-articles/important-developments-to-national-cancer-screening-programs" class="text-link button" style="position: absolute; bottom: 0; margin: 2rem auto;">
+                                Read more <i class="fal fa-long-arrow-right" style="color: #002B4A !important;"></i>
+                                <span class="visually-hidden">About Important developments to national cancer screening programs</span>
+                            </a>
+                            
+                        </div>
+                    </li>
+                
+                    <li class="item col-4 white-background">
+                        
+                            <div class="">
+                                
+    <img class="responsive-image cropped-image" src="/assets/ListingImages/2d010dcd-f19b-af50-16c9-68da0cd1a41c__FitWzE5MjAsMTA4MF0.jpg" alt="" style=""/>
+    
+
+                            </div>
+                        
+                        <div class="cta-content-padding" style="height:100%;">
+                            
+                            <h3 class="h3">Community members invited to join local Aboriginal healing workshops in Yass</h3>
+                            <p class="event-date-text">11 June 2024</p> <!-- 9 February 2021 -->
+                            <p class="" style="margin-bottom: 3rem;">A healing program developed from an Indigenous perspective will be delivered free of charge for local community members in Yass on 24 June.</p>
+                            <a href="/news-and-events/all-news-articles/community-members-invited-to-join-local-aboriginal-healing-workshops-in-yass" class="text-link button" style="position: absolute; bottom: 0; margin: 2rem auto;">
+                                Read more <i class="fal fa-long-arrow-right" style="color: #002B4A !important;"></i>
+                                <span class="visually-hidden">About Community members invited to join local Aboriginal healing workshops in Yass</span>
+                            </a>
+                            
+                        </div>
+                    </li>
+                
+            
+        </ul>
+        
+            <div class="center-button"> 
+                <a href="/news-and-events/all-news-articles" class="text-link button" >
+                    
+See all news
+
+    <i class="fal fa-long-arrow-right"></i>
+
+
+                </a> 
+            </div>
+        
+    </div>
+</section>
+
+
+
+    
+	   
+    <section  class="split-block text-image-block ">
+    <div class="row medium">
+        <div class="banner-content-container">
+            <div class="">
+                <div class="panel large">
+                    <div class="flex-container">
+                        
+                        <div class="content item col-2 white-background">
+                            
+                            
+                                <div class="decorative-heading">
+                                    <div class="flex-container no-wrap">
+                                        <div class="item col-1 orange-heading-border">
+                                            <div class="left-heading-border"></div>
+                                        </div>
+                                        <div class="item col-1 ">
+                                            <h2 class="h2">What&#039;s on your mind today? Get it out in the open.</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                            
+                                <p class="content-text">
+                                    To improve mental health services in South Eastern NSW, COORDINARE has commissioned seven new mental health services – two Head to Health services in Shellharbour and Moruya as well as five Mental Health Hubs in Bega, Goulburn, Queanbeyan, Shoalhaven and Wollongong. The services are free and no appointment or referral is needed.
+                                </p>
+                            
+                            
+                                <a class="button" href="https://www.coordinare.org.au/community/medicare-mental-health-centres-and-mental-health-hubs" >
+    <span class="visually-hidden">External Link</span>
+
+Reach out here
+
+    <i class="fa-solid fa-up-right-from-square"></i>
+
+</a>
+                            
+                        </div>
+                        
+                            <div class="">
+                                <div class="item col-2 cover-image-block" style="width: 100%;">
+                                    <div class="">
+                                        
+    <img class="responsive-image cropped-image" src="/assets/Uploads/Images/GettyImages-122190050933__FitWzE5MjAsNjUwXQ.jpg" alt="A middle age woman looking out a window talking on the phone." style=""/>
+    
+
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    
+	   
+    <section  class="get-involved-block icon-block padding margin navy-background icons-dark ">
+    <div class="row medium">    
+    
+            <div class="decorative-heading">
+                <div class="flex-container no-wrap">
+                    <div class="item col-1 grey-heading-border">
+                        <div class="left-heading-border"></div>
+                    </div>
+                    <div class="item col-1 ">
+                        <h2 class="h2">Get involved</h2>
+                    </div>
+                </div>
+            </div>
+        
+        
+        <div class="content-text">
+            <p>We value the insights and expertise that community members, health professionals and service providers bring to improving the health and wellbeing of our community. This feedback is key to our success in funding the right health services to address local needs.</p><p>We've made a commitment to ask what works, and also what needs to change. Follow the links below to see how you can be part of the conversation.</p>
+        </div>    
+        <ul class="flex-container get-involved-list">
+            
+                <li class="content item col-3 orange-background get-involved-card">
+                <div class="center-icons" > 
+                    <div class="white-circle-background" ">  
+                            <i class="fal fa-thin fa-users icon-bubble involved-icon" style="color: #002B4A !important;"></i>
+                        </div>
+                    </div>
+                    <div class="decorative-heading">
+                        <div class="flex-container no-wrap" style="position: relative;right: 1rem;">
+                            <div class="col-1 orange-heading-border">
+                                <div class="left-heading-border"></div>
+                            </div>
+                            <div class="item col-1 ">
+                                <h3 class="h3">Friends of COORDINARE</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <p>Make a difference to the way health care is delivered in your community. Share your thoughts through paid and/or voluntary opportunities.</p>
+                    
+                        <a href="https://connect.coordinare.org.au/friends-of-coordinare" class="text-link button"  target='_blank' rel='noopener'>
+                            
+    <span class="visually-hidden">External Link</span>
+
+Find out more
+
+    <i class="fa-solid fa-up-right-from-square"></i>
+
+
+                        </a>
+                    
+                </li>
+            
+                <li class="content item col-3 lemon-background get-involved-card">
+                <div class="center-icons" > 
+                    <div class="white-circle-background" ">  
+                            <i class="fal fa-thin fa-stethoscope icon-bubble involved-icon" style="color: #002B4A !important;"></i>
+                        </div>
+                    </div>
+                    <div class="decorative-heading">
+                        <div class="flex-container no-wrap" style="position: relative;right: 1rem;">
+                            <div class="col-1 lemon-heading-border">
+                                <div class="left-heading-border"></div>
+                            </div>
+                            <div class="item col-1 ">
+                                <h3 class="h3">Health Professionals Hub</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <p>Connect and collaborate with your health professional peers as we strive towards one coordinated health system.</p>
+                    
+                        <a href="https://connect.coordinare.org.au/hub-page/health-hub" class="text-link button"  target='_blank' rel='noopener'>
+                            
+    <span class="visually-hidden">External Link</span>
+
+Find out more
+
+    <i class="fa-solid fa-up-right-from-square"></i>
+
+
+                        </a>
+                    
+                </li>
+            
+                <li class="content item col-3 yellow-background get-involved-card">
+                <div class="center-icons" > 
+                    <div class="white-circle-background" ">  
+                            <i class="fal fa-thin fa-hands-holding-heart icon-bubble involved-icon" style="color: #002B4A !important;"></i>
+                        </div>
+                    </div>
+                    <div class="decorative-heading">
+                        <div class="flex-container no-wrap" style="position: relative;right: 1rem;">
+                            <div class="col-1 yellow-heading-border">
+                                <div class="left-heading-border"></div>
+                            </div>
+                            <div class="item col-1 ">
+                                <h3 class="h3">Service provider support</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <p>Find out about opportunities to create new partnerships, build capacity or trial innovative service models.</p>
+                    
+                        <a href="https://portal.tenderlink.com/coordinare/login" class="text-link button"  target='_blank' rel='noopener'>
+                            
+    <span class="visually-hidden">External Link</span>
+
+Find out more
+
+    <i class="fa-solid fa-up-right-from-square"></i>
+
+
+                        </a>
+                    
+                </li>
+            
+        </ul>
+    </div>
+</div>
+</section>
+
+
+
+    
+
+
+
+<!-- Image and Text Block -->
+
+        </div> 
+    </main> 
+
+    <footer role="contentinfo" style="border-top: 1px solid #DDDDDD;">
+	<button id="back-to-top" class="back-to-top-button" style="margin-top: 4rem;">
+		back to top 
+	<i class="fa-solid fa-chevron-up"></i>
+	</button>
+	<section class="footer-cta" aria-label="CTA">
+
+		<div class="footer-site-logo-wrapper">
+			<a class="footer-site-logo" aria-label="Coordinare home page" href="https://coordinare.org.au" title="Coordinare home page">
+				<img class="responsive-image" src="resources/themes/coordinare2021/dist/images/Logo.png" alt="Home-Coordinare Logo"/>
+			</a>
+		</div>
+		<div class="footer-cta-content">
+			<h3 class="cta-tagline"> Transforming health together.</h3>
+			<a href="/about-us/contact-us" class="text-link button cta-button" >
+Contact us
+
+</a>
+		</div>
+	</section>
+	
+	<section class="footer-links" aria-label="Footer">     
+		<nav class="footer-page-links" role="navigation" aria-label="Featured page links">
+			
+				<ul class="footer-page-links-list" aria-label="Navigation Menu">
+					
+						
+							<li class="footer-page-link"><a href="/about-us" >
+								
+About us
+
+
+							</a></li>
+						
+							<li class="footer-page-link"><a href="/news-and-events" >
+								
+News and events
+
+
+							</a></li>
+						
+							<li class="footer-page-link"><a href="/community" >
+								
+Community
+
+
+							</a></li>
+						
+							<li class="footer-page-link"><a href="/health-professionals" >
+								
+Health professionals
+
+
+							</a></li>
+						
+							<li class="footer-page-link"><a href="/commissioning" >
+								
+Commissioning
+
+
+							</a></li>
+						
+					
+				</ul>
+			
+				<ul class="footer-page-links-list" aria-label="Other links Menu">
+					
+						
+							<li class="footer-page-link"><a href="https://connect.coordinare.org.au/friends-of-coordinare"  target='_blank'>
+								
+    <span class="visually-hidden">External Link</span>
+
+Get involved
+
+    <i class="fa-solid fa-up-right-from-square"></i>
+
+
+							</a></li>
+						
+							<li class="footer-page-link"><a href="/health-professionals/integrated-care/healthpathways" >
+								
+HealthPathways
+
+
+							</a></li>
+						
+							<li class="footer-page-link"><a href="https://coordinare.foliogrc.com/d/users/sign_in"  target='_blank'>
+								
+    <span class="visually-hidden">External Link</span>
+
+Contract Management System
+
+    <i class="fa-solid fa-up-right-from-square"></i>
+
+
+							</a></li>
+						
+					
+				</ul>
+			
+				<ul class="footer-page-links-list" aria-label="Document links Menu">
+					
+						
+							<li class="footer-page-link"><a href="https://www.coordinare.org.au/about-us/our-plans-and-achievements" >
+								
+    <span class="visually-hidden">External Link</span>
+
+Plans and achievements
+
+    <i class="fa-solid fa-up-right-from-square"></i>
+
+
+							</a></li>
+						
+							<li class="footer-page-link"><a href="https://www.coordinare.org.au/search/SearchForm?limit=5&amp;Search=&amp;audience=0&amp;tag%5B0%5D=64&amp;start=0" >
+								
+    <span class="visually-hidden">External Link</span>
+
+Annual Report Cards
+
+    <i class="fa-solid fa-up-right-from-square"></i>
+
+
+							</a></li>
+						
+							<li class="footer-page-link"><a href="https://www.coordinare.org.au/search/SearchForm?limit=&amp;Search=&amp;audience=0&amp;tag%5B%5D=63&amp;limit=5" >
+								
+    <span class="visually-hidden">External Link</span>
+
+Departmental documents
+
+    <i class="fa-solid fa-up-right-from-square"></i>
+
+
+							</a></li>
+						
+					
+				</ul>
+			
+		</nav>
+
+		<div class="footer-social-links" aria-label="Social media links">
+			
+				<a class="" href="//facebook.com/COORDINAREau" title="External Link: Follow us on Facebook"> 
+					<i class="fab fa-facebook"></i>
+				</a>
+			
+				<a class="" href="//linkedin.com/company/coordinare-senswphn" title="External Link: Follow us on LinkedIn"> 
+					<i class="fab fa-linkedin"></i>
+				</a>
+			
+				<a class="" href="//vimeo.com/coordinareau" title="External Link: Follow us on Vimeo"> 
+					<i class="fab fa-vimeo-square"></i>
+				</a>
+			
+		</div>
+	</section>
+
+	<section class="footer-base" aria-label="Disclaimer and Footer links">
+		<div class="footer-disclaimer">
+			
+		</div>  
+
+		<div class="footer-base-links" role="navigation" aria-label="Disclaimer Privacy Feedback Accesibility links">              
+			
+				<a href="/disclaimer" >
+Disclaimer
+
+</a> 
+			
+				<a href="/privacy-statement-and-whistleblower-disclosures" >
+Privacy statement
+
+</a> 
+			
+				<a href="/feedback-and-complaints" >
+Feedback
+
+</a> 
+			
+				<a href="/accessibility" >
+Accessibility
+
+</a> 
+			
+				<a href="/acknowledgement-of-country" >
+Acknowledgement of Country
+
+</a> 
+			
+		</div>
+	</section>
+</footer>
+
+
+    
+
+    
+<script type="application/javascript" src="/_resources/silverstripe-irxssauth/javascript/toggle.js?m=1694480591"></script>
+<script type="application/javascript" src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+<script type="application/javascript" src="/_resources/themes/coordinare2021/dist/js/app.js?m=1689209528"></script>
+<script type="application/javascript" src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.2/dist/jquery.validate.js"></script>
+</body>
+</html>
+
