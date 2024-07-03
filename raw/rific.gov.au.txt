@@ -1,0 +1,1248 @@
+<!DOCTYPE html>
+
+
+<html lang="en-AU">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Cache-control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Regional Insights for Indigenous Communities - AIHW RIFIC</title>
+    <meta name="title" content="Regional Insights for Indigenous Communities">
+    <link rel="canonical" href="https://www.rific.gov.au/" />
+    <meta name='description' content='The Regional Insights for Indigenous Communities (RIFIC) website brings together a range of regional statistics about the health and wellbeing of Aboriginal and Torres Strait Islander people and their communities.&#xD;&#xA;The Community Insights website is a &#x2018;one-stop shop&#x2019; for information on the health and wellbeing of Aboriginal and Torres Strait Islander people.' />
+        <meta name='keywords' content='indigenous, aboriginal, community, data, indigenous communities, statistics, health and wellbeing, ' />
+
+    <meta content="strict-origin-when-cross-origin" name="referrer">
+    <meta content="#5126ab" name="theme-color">
+    <meta content="True" name="HandheldFriendly">
+    <meta content="320" name="MobileOptimized">
+    <meta content="width=device-width,initial-scale=1" name="viewport">
+    <meta content="no" name="user-scalable">
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+    <link rel="dns-prefetch" href="https://cdn.polyfill.io/">
+    <link rel="dns-prefetch" href="https://ajax.googleapis.com/">
+    <link rel="dns-prefetch" href="https://hello.myfonts.net/">
+
+    <meta name='twitter:card' content='summary' />
+    <meta name="twitter:title" content="Regional Insights for Indigenous Communities" />
+    <meta name='twitter:description' content='The Regional Insights for Indigenous Communities (RIFIC) website brings together a range of regional statistics about the health and wellbeing of Aboriginal and Torres Strait Islander people and their communities.&#xD;&#xA;The Community Insights website is a &#x2018;one-stop shop&#x2019; for information on the health and wellbeing of Aboriginal and Torres Strait Islander people.' />
+    <meta name='twitter:site' content='@aihw'>
+    <meta name='twitter:creator' content='@aihw'>
+    <meta name='twitter:image' content='https://www.rific.gov.au/getmedia/aa60f165-a52a-4b7a-b499-392661e335b6/logo-tagline.png?width=834&height=168&ext=.png' />
+
+    <meta property='og:title' content='Regional Insights for Indigenous Communities' />
+    <meta property='og:type' content='website' />
+    <meta property='og:description' content='The Regional Insights for Indigenous Communities (RIFIC) website brings together a range of regional statistics about the health and wellbeing of Aboriginal and Torres Strait Islander people and their communities.&#xD;&#xA;The Community Insights website is a &#x2018;one-stop shop&#x2019; for information on the health and wellbeing of Aboriginal and Torres Strait Islander people.' />
+    <meta property='og:url' content='https://www.rific.gov.au/' />
+    <meta property='og:image' content='https://www.rific.gov.au/getmedia/aa60f165-a52a-4b7a-b499-392661e335b6/logo-tagline.png?width=834&height=168&ext=.png' />
+    <meta property='og:site_name' content='AIHW RIFIC' />
+
+    <script src="https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit"></script>
+        <!-- Google Tag Manager -->
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+                var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true;
+                j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-P2LZ7G3');
+        </script>
+        <!-- End Google Tag Manager -->
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?20170801">
+    <link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="icon" />
+    <link rel="manifest" href="/manifest.json?20170801">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg?20170801" color="#5126ab">
+    <meta name="msapplication-TileColor" content="#5126ab">
+    <meta name="msapplication-TileImage" content="/mstile-150x150png?20170801">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" as="style" onload="this.rel=&apos;stylesheet&apos;">
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="/www_shared/assets/lib/font-awesome.min.css">
+
+    <style>
+        .editorinstructions {
+            display: none
+        }
+
+        .c-banner-footer {
+            padding-top: 1em;
+            padding-bottom: 1em;
+            font-size: 1rem;
+            color: #fff;
+        }
+    </style>
+
+    <link rel="stylesheet" href="/www_shared/assets/css/main.css?v=638475964020000000">
+
+    
+
+    
+
+
+
+<script type="application/json" id="structured-content">
+    {"id":"dce99b81-2035-40a0-a72c-79230be48ca6","type":"Content","date":"14 December 2023","timestamp":1702535656,"breadcrumb":""}
+</script>
+
+
+        <script type="text/javascript">
+          !function (T, l, y) { var S = T.location, k = "script", D = "instrumentationKey", C = "ingestionendpoint", I = "disableExceptionTracking", E = "ai.device.", b = "toLowerCase", w = "crossOrigin", N = "POST", e = "appInsightsSDK", t = y.name || "appInsights"; (y.name || T[e]) && (T[e] = t); var n = T[t] || function (d) { var g = !1, f = !1, m = { initialize: !0, queue: [], sv: "5", version: 2, config: d }; function v(e, t) { var n = {}, a = "Browser"; return n[E + "id"] = a[b](), n[E + "type"] = a, n["ai.operation.name"] = S && S.pathname || "_unknown_", n["ai.internal.sdkVersion"] = "javascript:snippet_" + (m.sv || m.version), { time: function () { var e = new Date; function t(e) { var t = "" + e; return 1 === t.length && (t = "0" + t), t } return e.getUTCFullYear() + "-" + t(1 + e.getUTCMonth()) + "-" + t(e.getUTCDate()) + "T" + t(e.getUTCHours()) + ":" + t(e.getUTCMinutes()) + ":" + t(e.getUTCSeconds()) + "." + ((e.getUTCMilliseconds() / 1e3).toFixed(3) + "").slice(2, 5) + "Z" }(), iKey: e, name: "Microsoft.ApplicationInsights." + e.replace(/-/g, "") + "." + t, sampleRate: 100, tags: n, data: { baseData: { ver: 2 } } } } var h = d.url || y.src; if (h) { function a(e) { var t, n, a, i, r, o, s, c, u, p, l; g = !0, m.queue = [], f || (f = !0, t = h, s = function () { var e = {}, t = d.connectionString; if (t) for (var n = t.split(";"), a = 0; a < n.length; a++) { var i = n[a].split("="); 2 === i.length && (e[i[0][b]()] = i[1]) } if (!e[C]) { var r = e.endpointsuffix, o = r ? e.location : null; e[C] = "https://" + (o ? o + "." : "") + "dc." + (r || "services.visualstudio.com") } return e }(), c = s[D] || d[D] || "", u = s[C], p = u ? u + "/v2/track" : d.endpointUrl, (l = []).push((n = "SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)", a = t, i = p, (o = (r = v(c, "Exception")).data).baseType = "ExceptionData", o.baseData.exceptions = [{ typeName: "SDKLoadFailed", message: n.replace(/\./g, "-"), hasFullStack: !1, stack: n + "\nSnippet failed to load [" + a + "] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: " + (S && S.pathname || "_unknown_") + "\nEndpoint: " + i, parsedStack: [] }], r)), l.push(function (e, t, n, a) { var i = v(c, "Message"), r = i.data; r.baseType = "MessageData"; var o = r.baseData; return o.message = 'AI (Internal): 99 message:"' + ("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) (" + n + ")").replace(/\"/g, "") + '"', o.properties = { endpoint: a }, i }(0, 0, t, p)), function (e, t) { if (JSON) { var n = T.fetch; if (n && !y.useXhr) n(t, { method: N, body: JSON.stringify(e), mode: "cors" }); else if (XMLHttpRequest) { var a = new XMLHttpRequest; a.open(N, t), a.setRequestHeader("Content-type", "application/json"), a.send(JSON.stringify(e)) } } }(l, p)) } function i(e, t) { f || setTimeout(function () { !t && m.core || a() }, 500) } var e = function () { var n = l.createElement(k); n.src = h; var e = y[w]; return !e && "" !== e || "undefined" == n[w] || (n[w] = e), n.onload = i, n.onerror = a, n.onreadystatechange = function (e, t) { "loaded" !== n.readyState && "complete" !== n.readyState || i(0, t) }, n }(); y.ld < 0 ? l.getElementsByTagName("head")[0].appendChild(e) : setTimeout(function () { l.getElementsByTagName(k)[0].parentNode.appendChild(e) }, y.ld || 0) } try { m.cookie = l.cookie } catch (p) { } function t(e) { for (; e.length;)!function (t) { m[t] = function () { var e = arguments; g || m.queue.push(function () { m[t].apply(m, e) }) } }(e.pop()) } var n = "track", r = "TrackPage", o = "TrackEvent"; t([n + "Event", n + "PageView", n + "Exception", n + "Trace", n + "DependencyData", n + "Metric", n + "PageViewPerformance", "start" + r, "stop" + r, "start" + o, "stop" + o, "addTelemetryInitializer", "setAuthenticatedUserContext", "clearAuthenticatedUserContext", "flush"]), m.SeverityLevel = { Verbose: 0, Information: 1, Warning: 2, Error: 3, Critical: 4 }; var s = (d.extensionConfig || {}).ApplicationInsightsAnalytics || {}; if (!0 !== d[I] && !0 !== s[I]) { var c = "onerror"; t(["_" + c]); var u = T[c]; T[c] = function (e, t, n, a, i) { var r = u && u(e, t, n, a, i); return !0 !== r && m["_" + c]({ message: e, url: t, lineNumber: n, columnNumber: a, error: i }), r }, d.autoExceptionInstrumented = !0 } return m }(y.cfg); function a() { y.onInit && y.onInit(n) } (T[t] = n).queue && 0 === n.queue.length ? (n.queue.push(a), n.trackPageView({})) : a() }(window, document, {
+              src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+              // name: "appInsights", // Global SDK Instance name defaults to "appInsights" when not supplied
+              // ld: 0, // Defines the load delay (in ms) before attempting to load the sdk. -1 = block page load and add to head. (default) = 0ms load after timeout,
+              // useXhr: 1, // Use XHR instead of fetch to report failures (if available),
+              crossOrigin: "anonymous", // When supplied this will add the provided value as the cross origin attribute on the script tag
+              // onInit: null, // Once the application insights instance has loaded and initialized this callback function will be called with 1 argument -- the sdk instance (DO NOT ADD anything to the sdk.queue -- As they won't get called)
+              cfg: { // Application Insights Configuration
+                  instrumentationKey: "18a954dc-5838-494e-b11d-0dd6d157be47"
+              }
+          });
+    </script>
+
+<script type="text/javascript">!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+crossOrigin: "anonymous", 
+cfg: { // Application Insights Configuration
+    connectionString: 'InstrumentationKey=2ce71590-57e0-4067-ae77-6a593108a20c;IngestionEndpoint=https://australiaeast-1.in.applicationinsights.azure.com/;LiveEndpoint=https://australiaeast.livediagnostics.monitor.azure.com/'
+}});</script></head>
+<body id="backtotop" data-ga-code="UA-10292491-7" class="LTR Safari Chrome Safari52 Chrome52 ENAU ContentBody " style="background-position: 0% 0px;">
+
+
+    <script type="text/javascript" src="https://viz.aihw.gov.au/javascripts/api/tableau-2.min.js"></script>
+
+
+    <button type="button" class="btn btn-primary o-btn-sticky__feedback" data-toggle="modal" data-target="#feedbackForm">
+        FEEDBACK
+    </button>
+
+
+
+    <div class="c-wrapper js-content-wrapper">
+        <a class="o-skiptocontent u-horizontal-center u-pb-gutter0p5x u-pl-gutter0p5x u-pr-gutter0p5x u-pt-gutter0p5x sr-only sr-only-focusable" id="skipLinkNav" href="#skipLinkMain" data-scrollto="{target: &apos;#skipLinkMain&apos;, duration: 400, settings:{offset:{top: -30}}}">Skip to content</a>
+        <div class="c-wrapper__offtop visible-xs visible-sm hidden-print">
+            <!-- Main Search Partial-->
+            <div class="c-header__search">
+                <div class="u-ma u-posr u-ovh c-header__search-box">
+                    <label for="top-search-mobile" class="sr-only">Search</label>
+                    <input id="top-search-mobile" class="u-input-unstyled u-w100p c-header__search-input js-inputsearch" type="text" placeholder="Search" id="mobile-search-input" data-triggerer="{ target: &apos;#mobile-search-btn&apos;, sourceEvents: &apos;enter&apos;, triggerEvents: &apos;click&apos; }">
+                    <button class="u-btn-unstyled u-c-primary c-header__search-btn js-mainsearchbtn" type="button" aria-label="Search" id="mobile-search-btn">
+                        <span class="visible-xs-inline-block visible-sm-inline-block">Search</span><span class="g-icon-search hidden-xs hidden-sm" aria-hidden="true"></span>
+                    </button>
+                    <button class="u-btn-unstyled display-lg-none c-header__search-clearbtn" type="button" aria-label="Hide Mobile Search" data-focuson="{ on: &apos;click&apos;, target: &apos;.js-mobilesearchtoggle&apos;}" data-vtoggle="{ target: &apos;.js-content-wrapper&apos;, class: &apos;is-search-active&apos;, removeClass: &apos;is-menu-active is-menu-active-is-loading&apos;, hasTransition: true, transitionProperty: &apos;opacity&apos;}"><span class="u-absolute-center o-iconcss-close c-header__search-clearbtnicon" aria-hidden="true"></span></button>
+                </div>
+            </div>
+            <!-- END Main Search Partial-->
+        </div>
+        <div class="c-wrapper__offleft visible-xs visible-sm hidden-print">
+            <div class="c-header__nav">
+                <nav class="c-header__mainnav">
+                    <div class="u-w100p c-header__mainnav-menu u-mb-gutter">
+
+                        <!-- .has-sub class should be added here if subnavitem > 0-->
+
+
+
+<!-- .has-sub class should be added here if subnavitem > 0-->
+
+        <div class="u-dtc c-header__mainnav-item c-header__mainnav-item--home is-active">
+            <a class="u-tac u-posr u-db u-link-tdn c-header__mainnav-link" href="/"><span class="u-posr c-header__mainnav-linktext"><span class="sr-only">Home</span><span class="g-icon-home u-posr c-header__mainnav-linkicon" aria-hidden="true"></span></span></a>
+            <button class="js-mobileheader-close u-posa u-vertical-center u-btn-unstyled c-header__mobile-close visible-xs visible-sm" type="button" aria-label="Close mobile menu" data-vtoggle="{ target: &apos;.js-content-wrapper&apos;, class: &apos;is-menu-active&apos;, removeClass: &apos;is-search-active is-search-active-is-loading&apos;, hasTransition: true, transitionProperty: &apos;transform&apos;}" data-focuson="{ on: &apos;click&apos;, target: &apos;.js-mobilemenutoggle&apos; }">
+                <span class="sr-only">Close mobile menu</span>
+                <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M21.6569 8.45753L16 14.1144L10.3431 8.45753C10.0931 8.20748 9.75396 8.067 9.40034 8.067C9.04671 8.067 8.70758 8.20748 8.45753 8.45753C8.20748 8.70758 8.067 9.04671 8.067 9.40034C8.067 9.75396 8.20748 10.0931 8.45753 10.3431L14.1144 16L8.45753 21.6569C8.20748 21.9069 8.067 22.246 8.067 22.5997C8.067 22.9533 8.20748 23.2924 8.45753 23.5425C8.70758 23.7925 9.04671 23.933 9.40034 23.933C9.75396 23.933 10.0931 23.7925 10.3431 23.5425L16 17.8856L21.6569 23.5425C21.9069 23.7925 22.246 23.933 22.5997 23.933C22.9533 23.933 23.2924 23.7925 23.5425 23.5425C23.7925 23.2924 23.933 22.9533 23.933 22.5997C23.933 22.246 23.7925 21.9069 23.5425 21.6569L17.8856 16L23.5425 10.3431C23.7925 10.0931 23.933 9.75396 23.933 9.40034C23.933 9.04671 23.7925 8.70758 23.5425 8.45753C23.2924 8.20748 22.9533 8.067 22.5997 8.067C22.246 8.067 21.9069 8.20748 21.6569 8.45753Z" fill="white"/>
+                </svg>
+
+            </button>
+        </div>
+        <ul class="u-list-unstyled">
+                    <li class="u-dtc c-header__mainnav-item is-active">
+                        <a class="u-tac u-posr u-db u-link-tdn c-header__mainnav-link u-df align-items-center" href="/regional-overview">
+                            <span class="u-posr c-header__mainnav-linktext">Regional overview</span>
+                            <span class="g-icon-angle-right c-header__mainnav-linkarrow"></span>
+                        </a>
+                        <div class="c-header__mainnav-subnav collapse"></div>
+                    </li>
+                    <li class="u-dtc c-header__mainnav-item is-active">
+                        <a class="u-tac u-posr u-db u-link-tdn c-header__mainnav-link u-df align-items-center" href="/closing-the-gap">
+                            <span class="u-posr c-header__mainnav-linktext">Closing the Gap</span>
+                            <span class="g-icon-angle-right c-header__mainnav-linkarrow"></span>
+                        </a>
+                        <div class="c-header__mainnav-subnav collapse"></div>
+                    </li>
+                    <li class="u-dtc c-header__mainnav-item is-active">
+                        <a class="u-tac u-posr u-db u-link-tdn c-header__mainnav-link u-df align-items-center" href="/life-stages">
+                            <span class="u-posr c-header__mainnav-linktext">Life stages</span>
+                            <span class="g-icon-angle-right c-header__mainnav-linkarrow"></span>
+                        </a>
+                        <div class="c-header__mainnav-subnav collapse"></div>
+                    </li>
+                    <li class="u-dtc c-header__mainnav-item is-active">
+                        <a class="u-tac u-posr u-db u-link-tdn c-header__mainnav-link u-df align-items-center" href="/services-map">
+                            <span class="u-posr c-header__mainnav-linktext">Services map</span>
+                            <span class="g-icon-angle-right c-header__mainnav-linkarrow"></span>
+                        </a>
+                        <div class="c-header__mainnav-subnav collapse"></div>
+                    </li>
+                    <li class="u-dtc c-header__mainnav-item is-active">
+                        <a class="u-tac u-posr u-db u-link-tdn c-header__mainnav-link u-df align-items-center" href="/resources">
+                            <span class="u-posr c-header__mainnav-linktext">Resources</span>
+                            <span class="g-icon-angle-right c-header__mainnav-linkarrow"></span>
+                        </a>
+                        <div class="c-header__mainnav-subnav collapse"></div>
+                    </li>
+        </ul>
+                    </div>
+                    <!-- Top Menu Partial-->
+
+<div class="c-header__topnav">
+
+    
+
+    <div class="c-header__topnav-menu c-header__topnav-menu--mobile">
+        <div class="u-dib u-vam">
+
+                            <div class="u-dib u-vam u-tac c-header__topnav-item">
+                                <div class="c-header__topnavdropdown">
+                                    <button class="btn btn-default u-btn-unstyled dropdown-toggle" type="button" id="mobile-oursites-menu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <span class="u-vam dropdown-toggle__label">Our Sites</span>
+                                        <span class="u-vam dropdown-toggle__icon g-icon-angle-down" aria-hidden="true"></span>
+                                    </button>
+                                    <ul class="dropdown-menu u-list-unstyled c-header__topnavdropdown-menu" aria-labelledby="mobile-oursites-menu">
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" href="https://indigenoushpf.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p25x" aria-hidden="true"></span><span>Aboriginal and Torres Strait Islander Health Performance Framework (IHPF) </span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" href="https://www.indigenousmhspc.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p25x" aria-hidden="true"></span><span>Indigenous Mental Health and Suicide Prevention Clearinghouse</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" href="https://www.aihw.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p25x" aria-hidden="true"></span><span>Australian Institute of Health and Welfare (AIHW)</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" href="http://mesothelioma-australia.com/home/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p25x" aria-hidden="true"></span><span>Australian Mesothelioma Registry (AMR)</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" href="https://www.gen-agedcaredata.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p25x" aria-hidden="true"></span><span>Gen Aged Care Data</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" href="https://www.housingdata.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p25x" aria-hidden="true"></span><span>Housing data</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" href="https://meteor.aihw.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p25x" aria-hidden="true"></span><span>Metadata Online Registry (METeOR)</span></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="u-dib u-vam c-header__topnav-item"><a target="_self" class="u-db u-tac c-header__topnav-link" href="/contact">Contact</a></div>
+                            <div class="u-dib u-vam c-header__topnav-item"><a target="_self" class="u-db u-tac c-header__topnav-link" href="/about">About</a></div>
+                    <div class="u-dib u-vam u-tac c-header__topnav-item">
+                        <button class="u-dib u-btn-unstyled c-header__fontresizer c-header__fontresizer--small" type="button" data-fontresizer="s" aria-label="Decrease font size">
+                            <span class="u-vam">A</span>&#xA0;<span class="g-icon-minus u-vam" aria-hidden="true"></span>
+                        </button>
+                        <button class="u-dib u-btn-unstyled c-header__fontresizer c-header__fontresizer--big" type="button" data-fontresizer="l" aria-label="Increase font size">
+                            <span class="u-vam">A</span>&#xA0;<span class="g-icon-plus u-vam" aria-hidden="true"></span>
+                        </button>
+                    </div>
+        </div>
+    </div>
+</div>
+                    <!-- END Top Menu Partial-->
+                </nav>
+            </div>
+        </div>
+        <div class="c-wrapper__body">
+
+            <div class="c-global-banner__wrapper is-loaded">
+                <div class="c-global-banner c-global-banner--ie-alert">
+                    <div class="c-global-banner__container container">
+                        <div class="c-global-banner__content">
+                            <div class="c-global-banner__description">
+                                <span class="c-global-banner__description__title is-ie10down"><strong>Browser not supported.</strong></span>
+                                <span class="c-global-banner__description__title is-ie11"><strong>Not optimized for Internet Explorer 11.</strong></span>
+                                To get the best possible experience using this site we recommend you use the latest versions of
+                                Microsoft Edge, Chrome or Firefox.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <header class="js-header">
+                <div class="u-bgimg c-header is-home" data-imagesloaded="home">
+                    <div class="visible-sm top-nav-sm">
+                        <div class="container">
+
+<nav class="c-header__topnav clearfix hidden-xs">
+
+
+    <div class="c-header__topnav-menu">
+        <div class="u-dib u-vam c-header__topnav-menu--container hidden-xs">
+
+                            <div class="u-dib u-vam u-tac c-header__topnav-item">
+                                <div class="c-header__topnavdropdown">
+                                    <button class="btn btn-default u-btn-unstyled dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <span class="u-vam dropdown-toggle__label">Our Sites</span>
+                                        <span class="u-vam dropdown-toggle__icon g-icon-angle-down" aria-hidden="true"></span>
+                                    </button>
+                                    <ul class="dropdown-menu u-list-unstyled c-header__topnavdropdown-menu" aria-label="Our Sites">
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="https://indigenoushpf.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Aboriginal and Torres Strait Islander Health Performance Framework (IHPF) </span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="https://www.indigenousmhspc.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Indigenous Mental Health and Suicide Prevention Clearinghouse</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="https://www.aihw.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Australian Institute of Health and Welfare (AIHW)</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="http://mesothelioma-australia.com/home/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Australian Mesothelioma Registry (AMR)</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="https://www.gen-agedcaredata.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Gen Aged Care Data</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="https://www.housingdata.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Housing data</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="https://meteor.aihw.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Metadata Online Registry (METeOR)</span></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="u-dib u-vam c-header__topnav-item"><a target="_self" class="u-db u-tac c-header__topnav-link" href="/contact">Contact</a></div>
+                            <div class="u-dib u-vam c-header__topnav-item"><a target="_self" class="u-db u-tac c-header__topnav-link" href="/about">About</a></div>
+                    <div class="u-df u-vam u-tac c-header__topnav-item">
+                        <button class="u-dib u-btn-unstyled c-header__fontresizer c-header__fontresizer--big" type="button" data-fontresizer="l" aria-label="Increase font size">
+                            <span class="u-vam">A</span>&#xA0;<span class="g-icon-plus u-vam icon-plus-sup" aria-hidden="true"></span>
+                        </button>
+                        <button class="u-dib u-btn-unstyled c-header__fontresizer c-header__fontresizer--small" type="button" data-fontresizer="s" aria-label="Decrease font size">
+                            <span class="u-vam">A</span>&#xA0;<span class="g-icon-minus u-vam icon-minus-sup" aria-hidden="true"></span>
+                        </button>
+                    </div>
+        </div>
+    </div>
+</nav>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="c-header__top">
+                            <div class="row c-header__top-row">
+                                <div class="col-sm-10 col-md-8 c-header__top-col">
+                                    <div class="u-posr c-header__logo">
+                                        <div class="c-header__logo-images">
+                                            <a href="https://www.aihw.gov.au" class="u-c-fff u-vam u-link-colorstay u-focus-outline">
+                                                <img class="u-dib u-vam img-responsive c-header__logo-img" src="/getmedia/b2732bea-24b3-43b4-8715-465249501122/logo.png?width=384&amp;height=114&amp;ext=.png" alt="Australian Government: Australian Institute of Health and Welfare">
+                                            </a>
+                                            <a href="/" class="hidden-xs u-dib u-vam u-c-fff u-link-colorstay u-focus-outline">
+                                                <img class="c-header__logo-text u-dib u-vam" src="/getmedia/aa60f165-a52a-4b7a-b499-392661e335b6/logo-tagline.png?width=834&amp;height=168&amp;ext=.png" alt="Aboriginal and Torres Straight Islander Community Insights">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xs-4 col-md-4 c-header__top-col c-header__top-col--right hidden-xs hidden-sm hidden-print">
+
+
+<nav class="c-header__topnav clearfix hidden-xs">
+
+
+    <div class="c-header__topnav-menu">
+        <div class="u-dib u-vam c-header__topnav-menu--container hidden-xs">
+
+                            <div class="u-dib u-vam u-tac c-header__topnav-item">
+                                <div class="c-header__topnavdropdown">
+                                    <button class="btn btn-default u-btn-unstyled dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <span class="u-vam dropdown-toggle__label">Our Sites</span>
+                                        <span class="u-vam dropdown-toggle__icon g-icon-angle-down" aria-hidden="true"></span>
+                                    </button>
+                                    <ul class="dropdown-menu u-list-unstyled c-header__topnavdropdown-menu" aria-label="Our Sites">
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="https://indigenoushpf.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Aboriginal and Torres Strait Islander Health Performance Framework (IHPF) </span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="https://www.indigenousmhspc.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Indigenous Mental Health and Suicide Prevention Clearinghouse</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="https://www.aihw.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Australian Institute of Health and Welfare (AIHW)</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="http://mesothelioma-australia.com/home/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Australian Mesothelioma Registry (AMR)</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="https://www.gen-agedcaredata.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Gen Aged Care Data</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="https://www.housingdata.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Housing data</span></a></li>
+                                            <li class="c-header__topnavdropdown-item"><a class="c-header__topnavdropdown-link" target="_blank" href="https://meteor.aihw.gov.au/"><span class="u-vam g-icon-angle-right u-c-primary u-mr-gutter0p5x" aria-hidden="true"></span><span>Metadata Online Registry (METeOR)</span></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="u-dib u-vam c-header__topnav-item"><a target="_self" class="u-db u-tac c-header__topnav-link" href="/contact">Contact</a></div>
+                            <div class="u-dib u-vam c-header__topnav-item"><a target="_self" class="u-db u-tac c-header__topnav-link" href="/about">About</a></div>
+                    <div class="u-df u-vam u-tac c-header__topnav-item">
+                        <button class="u-dib u-btn-unstyled c-header__fontresizer c-header__fontresizer--big" type="button" data-fontresizer="l" aria-label="Increase font size">
+                            <span class="u-vam">A</span>&#xA0;<span class="g-icon-plus u-vam icon-plus-sup" aria-hidden="true"></span>
+                        </button>
+                        <button class="u-dib u-btn-unstyled c-header__fontresizer c-header__fontresizer--small" type="button" data-fontresizer="s" aria-label="Decrease font size">
+                            <span class="u-vam">A</span>&#xA0;<span class="g-icon-minus u-vam icon-minus-sup" aria-hidden="true"></span>
+                        </button>
+                    </div>
+        </div>
+    </div>
+</nav>
+
+                                    <!-- Desktop Search-->
+                                    <div class="d-none d-sm-block">
+                                        <!-- Main Search Partial-->
+                                        <div class="c-header__search">
+                                            <div class="u-ma u-posr u-df u-ovh c-header__search-box">
+                                                <label for="top-search" class="sr-only">Search</label>
+                                                <input id="top-search" class="u-input-unstyled u-w100p c-header__search-input js-inputsearch" type="search" placeholder="Content search" id="desktop-search-input" data-triggerer="{ target: &apos;#desktop-search-btn&apos;, sourceEvents: &apos;enter&apos;, triggerEvents: &apos;click&apos; }">
+                                                <button class="u-btn-unstyled u-c-primary c-header__search-btn js-mainsearchbtn" type="button" aria-label="Search" id="desktop-search-btn">
+                                                    <span class="visible-xs-inline-block visible-sm-inline-block">Search</span>
+                                                    <span class="o-loader-reveal o-loader-reveal--search-top js-mainsearchbtn__loader">
+                                                        <span class="o-loader-reveal__status is-svg">
+                                                            <span class="g-icon-loading"></span>
+                                                        </span>
+                                                        <span class="u-btn-unstyled">
+                                                            <i class="g-icon-search g-icon-search-header" aria-hidden="true"></i>
+                                                        </span>
+                                                    </span>
+                                                </button>
+                                                <button class="u-btn-unstyled hidden-lg hidden-md c-header__search-clearbtn" type="button" aria-label="Hide Mobile Search" data-focuson="{ on: &apos;click&apos;, target: &apos;.js-mobilesearchtoggle&apos;}" data-vtoggle="{ target: &apos;.js-content-wrapper&apos;, class: &apos;is-search-active&apos;, removeClass: &apos;is-menu-active is-menu-active-is-loading&apos;, hasTransition: true, transitionProperty: &apos;transform&apos;}"><span class="u-absolute-center o-iconcss-close c-header__search-clearbtnicon" aria-hidden="true"></span></button>
+                                            </div>
+                                        </div>
+                                        <!-- END Main Search Partial-->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="c-header__mobilebtns visible-xs visible-sm hidden-print row">
+                                <div class="c-header__mobilebtns__wrapper col-md-12">
+                                    <div class="c-header__mobilebtns-item c-header__mobilebtns-item--left">
+                                        <button class="js-mobilemenutoggle u-vam hamburger hamburger--spin c-header__hamburger visible-xs-inline-block visible-sm-inline-block" aria-label="Main menu" aria-expanded="false" type="button" data-vtoggle="{ target: &apos;.js-content-wrapper&apos;, class: &apos;is-menu-active&apos;, removeClass: &apos;is-search-active is-search-active-is-loading&apos;, hasTransition: true, transitionProperty: &apos;transform&apos;}" data-focuson="{ on: &apos;click&apos;, target: &apos;.c-wrapper__offleft a:first&apos;}">
+                                            <span class="hamburger-box"><span class="hamburger-inner"></span></span>
+                                        </button>
+                                    </div>
+                                    <a href="/" class="u-df align-items-center visible-xs u-dib u-vam u-c-fff u-link-colorstay u-focus-outline">
+                                        <img class="c-header__logo-text u-dib u-vam" src="/getmedia/aa60f165-a52a-4b7a-b499-392661e335b6/logo-tagline.png?width=834&amp;height=168&amp;ext=.png" alt="Aboriginal and Torres Straight Islander Community Insights">
+                                    </a>
+                                    <div class="c-header__mobilebtns-item c-header__mobilebtns-item--right">
+                                        <div class="u-dib u-vat u-tac c-header__topnav-item c-header__mobilebtns-search">
+                                            <button class="js-mobilesearchtoggle u-dib u-btn-unstyled c-header__topnav-searchbtn" type="button" aria-label="Search" data-vtoggle="{ target: &apos;.js-content-wrapper&apos;, class: &apos;is-search-active&apos;, removeClass: &apos;is-menu-active is-menu-active-is-loading&apos;, hasTransition: true, transitionProperty: &apos;opacity&apos;}" data-focuson="{ on: &apos;click&apos;, target: &apos;.c-wrapper__offtop .js-inputsearch&apos;}">
+                                                <span class="g-icon-search" aria-hidden="true"></span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container-fluid u-bgc-secondary u-posr">
+                        <div class="u-posa u-t0 u-b0 u-l0 u-w100p u-dn u-db-md u-bgc-secondary c-header__subnavblock"></div>
+                        <div class="container">
+                            <div class="hidden-xs hidden-sm">
+                                <div class="c-header__nav">
+
+
+
+<nav class="c-header__mainnav" data-megamenu="mainnav">
+    <div class="u-w100p c-header__mainnav-menu">
+
+                <div class="u-dtc c-header__mainnav-item c-header__mainnav-item--home is-active">
+                    <a class="u-tac u-posr u-db u-link-tdn c-header__mainnav-link" href="/"><span class="u-posr c-header__mainnav-linktext"><span class="sr-only">Home</span><span class="g-icon-home u-posr c-header__mainnav-linkicon" aria-hidden="true"></span></span>
+                                                                                            
+                    </a>
+                    <button class="u-posa u-vertical-center u-btn-unstyled c-header__mobile-close visible-xs visible-sm " type="button" aria-label="Close mobile menu" data-vtoggle="{ target: &apos;.js-content-wrapper&apos;, class: &apos;is-menu-active&apos;, removeClass: &apos;is-search-active is-search-active-is-loading&apos;, hasTransition: true, transitionProperty: &apos;transform&apos;}" data-focuson="{ on: &apos;click&apos;, target: &apos;.js-mobilemenutoggle&apos; }"><span class="sr-only">Close mobile menu</span><span class="u-db u-horizontal-center o-iconcss-close"></span></button>
+                </div>
+                        <div class="u-dtc c-header__mainnav-item has-sub ">
+                            <div class="u-dif align-items-center">
+                                    <a class="u-tac u-posr u-db u-link-tdn c-header__mainnav-link" href="/regional-overview">
+                                        <span class="u-posr c-header__mainnav-linktext">
+                                            <span>Regional overview</span>
+                                        </span>
+                                        <span class="g-icon-symbol-defs"></span>
+                                    </a>
+                                
+                            </div>
+                            <button class="visible-xs visible-sm u-btn-unstyled c-header__mainnav-togglesubnav collapsed" type="button" data-toggle="collapse" data-target="#mainnav-692" aria-controls="mainnav-692">
+                                <span class="g-icon-angle-up u-vertical-center c-header__mainnav-togglesubnav-icon" aria-hidden="true"></span>
+                            </button>
+                        </div>
+                        <div class="u-dtc c-header__mainnav-item ">
+                            <a class="u-tac u-posr u-db u-link-tdn c-header__mainnav-link" href="/closing-the-gap">
+                                <span class="u-posr c-header__mainnav-linktext">Closing the Gap</span>
+                                <span class="g-icon-symbol-defs"></span>
+                            </a>
+                        </div>
+                        <div class="u-dtc c-header__mainnav-item has-sub ">
+                            <div class="u-dif align-items-center">
+                                    <a class="u-tac u-posr u-db u-link-tdn c-header__mainnav-link" href="/life-stages">
+                                        <span class="u-posr c-header__mainnav-linktext">
+                                            <span>Life stages</span>
+                                        </span>
+                                        <span class="g-icon-symbol-defs"></span>
+                                    </a>
+                                
+                            </div>
+                            <button class="visible-xs visible-sm u-btn-unstyled c-header__mainnav-togglesubnav collapsed" type="button" data-toggle="collapse" data-target="#mainnav-696" aria-controls="mainnav-696">
+                                <span class="g-icon-angle-up u-vertical-center c-header__mainnav-togglesubnav-icon" aria-hidden="true"></span>
+                            </button>
+                        </div>
+                        <div class="u-dtc c-header__mainnav-item ">
+                            <a class="u-tac u-posr u-db u-link-tdn c-header__mainnav-link" href="/services-map">
+                                <span class="u-posr c-header__mainnav-linktext">Services map</span>
+                                <span class="g-icon-symbol-defs"></span>
+                            </a>
+                        </div>
+                        <div class="u-dtc c-header__mainnav-item has-sub ">
+                            <div class="u-dif align-items-center">
+                                    <a class="u-tac u-posr u-db u-link-tdn c-header__mainnav-link" href="/resources">
+                                        <span class="u-posr c-header__mainnav-linktext">
+                                            <span>Resources</span>
+                                        </span>
+                                        <span class="g-icon-symbol-defs"></span>
+                                    </a>
+                                
+                                    <button class="c-header__mainnav-item__toggle" aria-expanded="false">
+                                        <span class="sr-only">Expand Resources menu</span>
+                                        <span class="g-icon-angle-down u-vam c-header__mainnav-linkicon c-header__mainnav-linkicon--dropdown" aria-hidden="true"></span>
+                                    </button>
+                            </div>
+                            <button class="visible-xs visible-sm u-btn-unstyled c-header__mainnav-togglesubnav collapsed" type="button" data-toggle="collapse" data-target="#mainnav-30" aria-controls="mainnav-30">
+                                <span class="g-icon-angle-up u-vertical-center c-header__mainnav-togglesubnav-icon" aria-hidden="true"></span>
+                            </button>
+                                <div class="c-header__mainnav-subnav collapse" id="mainnav-30">
+                                    <div class="row-flex c-header__mainnav-subnavgroup container">
+                                                <div class="col-flex-md-4 c-header__mainnav-subnavpanel" data-mh-group="mainnavsubnav-30" data-mh-options="{ property: &apos;min-height&apos;, nonFlexBrowserOnly: 1}">
+                                                    <div class="c-header__mainnav-subnavitem">
+                                                        <a class="c-header__mainnav-subnavlink" href="/resources/abbreviations">
+                                                            <span class="u-vam u-mr-gutter0p25x">Abbreviations</span>
+                                                            <span class="c-header__mainnav-subnavlink__icon-wrap">
+                                                                <span class="g-icon-angle-right hidden-xs hidden-sm u-vam u-posr c-header__mainnav-subnavlinkicon" aria-hidden="true"></span>
+                                                            </span>
+                                                            
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="col-flex-md-4 c-header__mainnav-subnavpanel" data-mh-group="mainnavsubnav-30" data-mh-options="{ property: &apos;min-height&apos;, nonFlexBrowserOnly: 1}">
+                                                    <div class="c-header__mainnav-subnavitem">
+                                                        <a class="c-header__mainnav-subnavlink" href="/resources/data-availability">
+                                                            <span class="u-vam u-mr-gutter0p25x">Data availability</span>
+                                                            <span class="c-header__mainnav-subnavlink__icon-wrap">
+                                                                <span class="g-icon-angle-right hidden-xs hidden-sm u-vam u-posr c-header__mainnav-subnavlinkicon" aria-hidden="true"></span>
+                                                            </span>
+                                                            
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="col-flex-md-4 c-header__mainnav-subnavpanel" data-mh-group="mainnavsubnav-30" data-mh-options="{ property: &apos;min-height&apos;, nonFlexBrowserOnly: 1}">
+                                                    <div class="c-header__mainnav-subnavitem">
+                                                        <a class="c-header__mainnav-subnavlink" href="/resources/data-sources">
+                                                            <span class="u-vam u-mr-gutter0p25x">Data sources</span>
+                                                            <span class="c-header__mainnav-subnavlink__icon-wrap">
+                                                                <span class="g-icon-angle-right hidden-xs hidden-sm u-vam u-posr c-header__mainnav-subnavlinkicon" aria-hidden="true"></span>
+                                                            </span>
+                                                            
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="col-flex-md-4 c-header__mainnav-subnavpanel" data-mh-group="mainnavsubnav-30" data-mh-options="{ property: &apos;min-height&apos;, nonFlexBrowserOnly: 1}">
+                                                    <div class="c-header__mainnav-subnavitem">
+                                                        <a class="c-header__mainnav-subnavlink" href="/resources/glossary">
+                                                            <span class="u-vam u-mr-gutter0p25x">Glossary</span>
+                                                            <span class="c-header__mainnav-subnavlink__icon-wrap">
+                                                                <span class="g-icon-angle-right hidden-xs hidden-sm u-vam u-posr c-header__mainnav-subnavlinkicon" aria-hidden="true"></span>
+                                                            </span>
+                                                            
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="col-flex-md-4 c-header__mainnav-subnavpanel" data-mh-group="mainnavsubnav-30" data-mh-options="{ property: &apos;min-height&apos;, nonFlexBrowserOnly: 1}">
+                                                    <div class="c-header__mainnav-subnavitem">
+                                                        <a class="c-header__mainnav-subnavlink" href="/resources/help">
+                                                            <span class="u-vam u-mr-gutter0p25x">Help</span>
+                                                            <span class="c-header__mainnav-subnavlink__icon-wrap">
+                                                                <span class="g-icon-angle-right hidden-xs hidden-sm u-vam u-posr c-header__mainnav-subnavlinkicon" aria-hidden="true"></span>
+                                                            </span>
+                                                            
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="col-flex-md-4 c-header__mainnav-subnavpanel" data-mh-group="mainnavsubnav-30" data-mh-options="{ property: &apos;min-height&apos;, nonFlexBrowserOnly: 1}">
+                                                    <div class="c-header__mainnav-subnavitem">
+                                                        <a class="c-header__mainnav-subnavlink" href="/resources/region-types">
+                                                            <span class="u-vam u-mr-gutter0p25x">Region types</span>
+                                                            <span class="c-header__mainnav-subnavlink__icon-wrap">
+                                                                <span class="g-icon-angle-right hidden-xs hidden-sm u-vam u-posr c-header__mainnav-subnavlinkicon" aria-hidden="true"></span>
+                                                            </span>
+                                                            
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="col-flex-md-4 c-header__mainnav-subnavpanel" data-mh-group="mainnavsubnav-30" data-mh-options="{ property: &apos;min-height&apos;, nonFlexBrowserOnly: 1}">
+                                                    <div class="c-header__mainnav-subnavitem">
+                                                        <a class="c-header__mainnav-subnavlink" href="/resources/technical-notes">
+                                                            <span class="u-vam u-mr-gutter0p25x">Technical notes</span>
+                                                            <span class="c-header__mainnav-subnavlink__icon-wrap">
+                                                                <span class="g-icon-angle-right hidden-xs hidden-sm u-vam u-posr c-header__mainnav-subnavlinkicon" aria-hidden="true"></span>
+                                                            </span>
+                                                            
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="col-flex-md-4 c-header__mainnav-subnavpanel" data-mh-group="mainnavsubnav-30" data-mh-options="{ property: &apos;min-height&apos;, nonFlexBrowserOnly: 1}">
+                                                    <div class="c-header__mainnav-subnavitem">
+                                                        <a class="c-header__mainnav-subnavlink" href="/resources/updates">
+                                                            <span class="u-vam u-mr-gutter0p25x">Updates</span>
+                                                            <span class="c-header__mainnav-subnavlink__icon-wrap">
+                                                                <span class="g-icon-angle-right hidden-xs hidden-sm u-vam u-posr c-header__mainnav-subnavlinkicon" aria-hidden="true"></span>
+                                                            </span>
+                                                            
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                                </div>
+                        </div>
+    </div>
+</nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </header>
+
+            <main class="c-main u-posr">
+                <a class="o-skiptocontent u-horizontal-center u-pb-gutter0p5x u-pl-gutter0p5x u-pr-gutter0p5x u-pt-gutter0p5x sr-only sr-only-focusable" id="skipLinkMain" href="#skipLinkNav" data-scrollto="{target: &apos;#skipLinkNav&apos;, duration: 400, settings:{offset:{top: -30}}}">Skip to navigation</a>
+                <div class="container js-breadcrumb-wrapper">
+                    <div class="row">
+
+
+                    </div>
+                </div>
+                
+
+    <h1 class="sr-only">Home</h1>
+    <div class="c-section--alt u-pb-gutter">
+            <div class="c-home c-headerslider u-posr">            
+                <div class="u-pb-gutter0p5x">
+                        <div class="c-headerslider__item" style="background-image:url('/getmedia/8f221645-819b-4071-a46d-28c2f005c0b7/New-RIFIC-Site-Banner-Final-01.png?width=1440&amp;min-height=620&amp;mode=crop')" data-focal-x="30" data-focal-y="0">
+                            <div class="row visible-xs visible-sm u-mr0">
+                                <div class="col-xs-12 col-sm-12 u-p0">
+                                    <div class="c-headerslider__item__media">
+                                        <img src="/getmedia/8f221645-819b-4071-a46d-28c2f005c0b7/New-RIFIC-Site-Banner-Final-01.png?width=1440&amp;min-height=620&amp;mode=crop" alt="" class="img-responsive" height="470"/>
+                                    </div>
+                                </div>
+                            </div>    
+                            <div class="container">
+                                <div class="c-overview__tile-container visible-sm visible-xs"></div>
+                                <div class="row justify-content-end">
+                                    <div class="c-overview__tile-container u-mb-gutter hidden-sm hidden-xs"></div>
+                                    <div class="col-xs-12 col-sm-12 col-md-6">
+                                        <div class="c-home-tile c-home-tile__overview">
+<div class="row justify-content-end">
+    <div class="col-xs-10 col-sm-10 col-md-10 c-home-tile__content">
+        <div class="c-headerslider__item__body-title u-mb-gutter0p25x">
+            Regional overview
+        </div>
+        <div class="c-home-tile__body-text u-mb-gutter0p5x">
+            Search for communities and other locations using text, a map or a list of communities
+        </div>
+    </div>
+    <div class="col-xs-2 col-sm-2 col-md-2 hidden-xs">
+        <div class="c-home-tile__icon c-home-tile__icon__overview">
+            <img src="overview-tile-icon.svg" />
+        </div>
+    </div>
+</div>
+<div class="row justify-content-end">
+    <div class="col-xs-12 col-sm-12 col-md-12 u-mb-gutter0p25x">
+        <a href="/regional-overview" class="c-infotile__more o-btn o-btn--invert o-btn--withlinkicon o-btn--smalltext">
+            VIEW REGIONAL OVERVIEW
+        </a>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12">
+        <hr class="tile" />
+        <span class="c-home-tile__input-label">
+            Explore by community or location
+        </span>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12">
+        <div class="c-explore-module c-explore-module__input_wrap">
+            <div class="o-typeahead">
+                <label for="location-input" class="sr-only">Enter community or location name</label>
+                <input id="location-input" class="o-input js-location-input" type="text"
+                    placeholder="Enter community or location name...">
+            </div>
+            <span class="o-loader-reveal o-loader-reveal--search-button js-loader-reveal-search">
+                <span class="o-loader-reveal__status">
+                    <span class="o-loader-reveal__status__spinner"></span>
+                </span>
+                <span class="u-btn-unstyled u-c-primary c-search-module__btn">
+                    <i class="g-icon-search"></i>
+                </span>
+            </span>
+        </div>
+    </div>
+</div>
+                                        </div>
+                                    </div> 
+                                </div>
+                            </div>             
+                        </div>
+                </div>            
+            </div>
+            <div class="container u-posr">        
+                <div class="u-df row u-mt-gutter0p25x u-pt-gutter0p5x">
+                    <div class="col-xs-12 col-sm-12 col-md-6">
+                        <div class="c-home-tile c-home-tile__ctg">
+<div class="row">
+    <div class="col-xs-10 col-sm-10 col-md-10 c-home-tile__content">
+        <div class="c-headerslider__item__body-title u-mb-gutter0p25x">
+            Closing the Gap
+        </div>
+        <div class="c-home-tile__body-text u-mb-gutter0p5x">
+            See regional data tracking progress towards Closing the Gap targets 
+        </div>
+    </div>
+    <div class="col-xs-2 col-sm-2 col-md-2 hidden-xs">
+        <div class="c-home-tile__icon c-home-tile__icon__ctg">
+            <img src="/close-the-gap-tile-icon.svg" class="u-w100p u-db" alt=""/>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 u-mb-gutter0p25x">
+        <a href="/closing-the-gap" class="c-infotile__more o-btn o-btn--invert o-btn--withlinkicon o-btn--smalltext">
+            VIEW CLOSING THE GAP
+        </a>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12">
+        <hr class="tile" />
+        <span class="c-home-tile__input-label">
+            Explore by community or location
+        </span>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12">
+        <div class="c-explore-module c-explore-module__input_wrap">
+            <div class="o-typeahead">
+                <label for="location-input" class="sr-only">Enter community or location
+                    name</label>
+                <input id="location-input" class="o-input js-location-input" data-alias="closing-the-gap" type="text"
+                    placeholder="Enter community or location name...">
+            </div>
+            <span class="o-loader-reveal o-loader-reveal--search-button js-loader-reveal-search">
+                <span class="o-loader-reveal__status">
+                    <span class="o-loader-reveal__status__spinner"></span>
+                </span>
+                <span class="u-btn-unstyled u-c-primary c-search-module__btn">
+                    <i class="g-icon-search"></i>
+                </span>
+            </span>
+        </div>
+    </div>
+</div>                        </div>  
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-6">
+                        <div class="c-overview__tile-container visible-xs visible-sm"></div>
+                        <div class="c-home-tile c-home-tile__ls">
+<div class="row">
+    <div class="col-xs-10 col-sm-10 col-md-10 c-home-tile__content">
+        <div class="c-headerslider__item__body-title u-mb-gutter0p25x">
+            Life stages
+        </div>
+        <div class="c-home-tile__body-text u-mb-gutter0p5x">
+            View data on health and wellbeing for people in different life stages
+        </div>
+    </div>
+    <div class="col-xs-2 col-sm-2 col-md-2 hidden-xs">
+        <div class="c-home-tile__icon c-home-tile__icon__ls">
+            <img src="life-stages-tile-icon.svg" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 u-mb-gutter0p25x">
+        <a href="/life-stages" class="c-infotile__more o-btn o-btn--invert o-btn--withlinkicon o-btn--smalltext">
+            VIEW LIFE STAGES
+        </a>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12">
+        <hr class="tile" />
+        <span class="c-home-tile__input-label">
+            Select a life stage
+        </span>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12">
+        <div class="c-search-module">
+            <div class="c-search-module__ddl o-dropdown-select">
+                <select id="selLifeStages" name="content" class="u-select-unstyled">
+                    <option value="">Select a life stage</option>
+                        <option value="/life-stages/mothers-and-babies">Mothers and babies</option>
+                        <option value="/life-stages/children">Children</option>
+                        <option value="/life-stages/adolescents-and-youth">Adolescents and youth</option>
+                        <option value="/life-stages/adults">Adults</option>
+                        <option value="/life-stages/older-people">Older people</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</div>                        </div>
+                    </div>  
+                </div>
+            </div>
+        <div class="container u-posr c-home-about u-mt-gutter1p5x">
+            <div class="row no-gutters">
+                <div class="col-md-5">
+                    <h3 class="c-home-about_title">About this website</h3>
+                </div>
+                <div class="col-md-7">
+                    <div class="c-home-about__description">
+                        The Regional Insights for Indigenous Communities (RIFIC) website brings together a range of <strong>regional statistics</strong> about the health and wellbeing of Aboriginal and Torres Strait Islander people and their communities. The aim of the website is to provide access to data at a local level, to help communities set their priorities and participate in joint planning with government and service providers. The <em>Indigenous communities</em> and <em>Other locations</em> referenced, are derived from the Australian Government Indigenous Programs &amp; Policy Locations and Australian Bureau of Statistics&rsquo; State Suburbs data sets. Refer to the <a href="/about#communitiesandlocations">Communities and locations</a> page for more information.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="c-section">
+            <div class="c-home-infotiles">
+                <div class="container u-posr">
+                    <div class="u-df row">
+                            <div class="col-md-6 col-sm-12 c-infotile">
+                                <a class="c-infotile__item u-mb-gutter0p5x" target="_self" href="/Services-map">
+                                    <div class="c-infotile__body">
+                                        <h3 class="u-mb-gutter0p25x c-infotile__title">Services map</h3>
+                                        <div class="o-richtext c-infotile__content"><p>See information on the location of various health services</p></div>
+                                        <span class="c-infotile__more o-btn o-btn--invert o-btn--withlinkicon o-btn--smalltext">
+                                            View services map
+                                        </span>
+                                    </div>
+                                    <div class="c-infotile__media hidden-xs" style="background-image:url('/getmedia/0c8b564d-b359-4ce5-bc01-7f036d6a12d0/Services-map-2-revised.png?width=235&amp;height=280&amp;mode=crop')">
+                                        <img class="u-ma img-responsive" src="/getmedia/0c8b564d-b359-4ce5-bc01-7f036d6a12d0/Services-map-2-revised.png?width=235&amp;height=280&amp;mode=crop" alt="" style="display:none">
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-md-6 col-sm-12 c-infotile">
+                                <a class="c-infotile__item u-mb-gutter0p5x" target="_self" href="/Resources/Help">
+                                    <div class="c-infotile__body">
+                                        <h3 class="u-mb-gutter0p25x c-infotile__title">Help</h3>
+                                        <div class="o-richtext c-infotile__content"><p>Discover how to navigate RIFIC website</p></div>
+                                        <span class="c-infotile__more o-btn o-btn--invert o-btn--withlinkicon o-btn--smalltext">
+                                            Explore help page
+                                        </span>
+                                    </div>
+                                    <div class="c-infotile__media hidden-xs" style="background-image:url('/getmedia/43bbdc9b-a4b2-4497-89a8-0c28eb79bd64/Multimedia-250px.png?width=235&amp;height=280&amp;mode=crop')">
+                                        <img class="u-ma img-responsive" src="/getmedia/43bbdc9b-a4b2-4497-89a8-0c28eb79bd64/Multimedia-250px.png?width=235&amp;height=280&amp;mode=crop" alt="" style="display:none">
+                                    </div>
+                                </a>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            </main>
+
+            <footer>                
+                    <div class="c-footer-subscribe">
+                        <div class="container">
+                            <section class="c-subscribe-section">
+                                <div class="g-icon-subscribe d-none d-sm-block"></div>
+                                <p>
+                                    <span class="strong">Subscribe to receive email notifications</span> when important updates are made to the content of this website or as new feature are added.
+                                </p>
+                                <a target="_blank" href="https://www.aihw.gov.au/news-media/subscribe-to-release-notices" class="btn btn-primary o-btn o-btn--withlinkicon">
+                                    Subscribe
+                                </a>
+                            </section>
+
+                        </div>
+                    </div>
+                <div class="c-footer u-pyb6">
+                    <div class="container u-posr">
+                        <div class="c-footer__top hidden-print">
+
+<nav class="c-footer__nav">
+
+
+        <div class="row">
+                        <div class="col-xs-12 col-sm-4 col-md-3 c-footer__nav-col">
+                            <h6 class="c-footer__nav-title">Navigation</h6>
+
+                                <ul class="u-list-unstyled">
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/regional-overview">
+                                            Regional overview
+                                        </a>
+                                    </li>
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/closing-the-gap">
+                                            Closing the Gap
+                                        </a>
+                                    </li>
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/life-stages">
+                                            Life stages
+                                        </a>
+                                    </li>
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/services-map">
+                                            Service map
+                                        </a>
+                                    </li>
+                                </ul>
+                        </div>
+                        <div class="col-xs-12 col-sm-4 col-md-3 c-footer__nav-col">
+                            <h6 class="c-footer__nav-title">Help resources</h6>
+
+                                <ul class="u-list-unstyled">
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/resources/glossary">
+                                            Glossary
+                                        </a>
+                                    </li>
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/resources/technical-notes">
+                                            Technical notes
+                                        </a>
+                                    </li>
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/about">
+                                            About
+                                        </a>
+                                    </li>
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/contact">
+                                            Contact
+                                        </a>
+                                    </li>
+                                </ul>
+                        </div>
+                        <div class="col-xs-12 col-sm-4 col-md-3 c-footer__nav-col">
+                            <h6 class="c-footer__nav-title">Using this website</h6>
+
+                                <ul class="u-list-unstyled">
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/accessibility">
+                                            Accessibility
+                                        </a>
+                                    </li>
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/copyright">
+                                            Copyright
+                                        </a>
+                                    </li>
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/disclaimer">
+                                            Disclaimer
+                                        </a>
+                                    </li>
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/privacy-policy">
+                                            Privacy policy
+                                        </a>
+                                    </li>
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/sitemap">
+                                            Sitemap
+                                        </a>
+                                    </li>
+                                    <li class="c-footer__nav-item">
+                                        <span class="g-icon-angle-right c-footer__nav-link-bp"></span>
+                                        <a class="c-footer__nav-link" href="/vulnerability-and-disclosure-policy">
+                                            Vulnerability and disclosure policy
+                                        </a>
+                                    </li>
+                                </ul>
+                        </div>
+                    <div class="col-xs-12 col-sm-4 col-md-3 c-footer__nav-col">
+                        <h6 class="c-footer__nav-title">Connect with us</h6>
+                                                
+                        <div class="c-footer__nav-item">
+                            <a class="g-icon-twitter connect-btn" target="_blank" href="https://twitter.com/aihw">
+                                <span class="sr-only">Twitter</span>
+                            </a>
+                            <a class="g-icon-youtube connect-btn" target="_blank" href="https://www.youtube.com/channel/UClGeY8v8epJoYYIIVLASXug">
+                                <span class="sr-only">YouTube</span>
+                            </a>
+                        </div>
+                        
+                    </div>
+        </div>
+</nav>                            <hr class="tile u-mt-gutter"/>
+                            <div class="c-a-country u-mt-gutter row">
+                                <div class="flag-container col-md-1 col-xs-12 col-sm-12">
+                                    <img src="/flag/Aboriginal-flag.png"/>
+                                    <img src="/flag/Torres-flag.png" />
+                                </div>
+                                <div class="text-container col">
+                                    The Australian Institute of Health and Welfare acknowledges the Traditional Owners of Country throughout Australia and recognises their continuing connection to lands, waters and communities. We pay our respect to the people, the cultures and Elders past and present.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container-fluid">
+                    <div class="c-footer__gotop-wrapper hidden-print">
+                        <a class="o-gotop c-footer__gotop" href="#backtotop" title="Go to top">
+                            <span class="sr-only">Go to top</span>
+                            <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="22" cy="20" r="20" fill="#357AA9" />
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M28.2929 20.7071C28.6834 21.0976 29.3166 21.0976 29.7071 20.7071C30.0976 20.3166 30.0976 19.6834 29.7071 19.2929L22.7071 12.2929C22.3166 11.9024 21.6834 11.9024 21.2929 12.2929L14.2929 19.2929C13.9024 19.6834 13.9024 20.3166 14.2929 20.7071C14.6834 21.0976 15.3166 21.0976 15.7071 20.7071L21 15.4142L21 27.0625C21 27.5803 21.4477 28 22 28C22.5523 28 23 27.5803 23 27.0625L23 15.4142L28.2929 20.7071Z" fill="white" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="u-bgc-thirdyLightest">
+                    <div class="container u-posr">
+                        <div class="c-footer__bottom">
+                            <div class="c-footer__bottom-section">
+                                <div class="row">
+                                    <div class="col-lg-8 col-xs-12">
+                                        <div class="u-dib u-mrb4">
+                                            <div class="u-dib c-footer__copy">&#xA9; Australian Institute of Health and Welfare 2024</div>
+                                            <div class="b-small">Page Last Updated: 14 December 2023</div>
+                                        </div>
+
+<nav class="u-dib c-footer__bottomnav">
+
+
+</nav>                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <div class="c-wrapper__overlay js-closeoffcanvas hidden-print"></div>
+        </div>
+    </div>
+
+    <div id="feedbackForm" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="feedbackFormTitle" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+            <div class="modal-content subscribe-dialog">
+                <div class="modal-header">
+                    <div>
+                        <h5 class="modal-title" id="feedbackFormTitle">Feedback</h5>
+                        <p>We'd love to know any feedback that you have about this website, its contents or reports.</p>
+                    </div>
+                    <button type="button" class="close g-icon-cross" data-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="subscribe-fieldset">
+                        <div class="feedbackform alert alert-success alert-dismissible" role="alert" style="display:none;text-align:left">
+                            Thank you for your feedback!
+                        </div>
+                        <div class="feedbackform alert alert-info alert-dismissible" role="alert" style="display:none;text-align:left">
+                            Some problem occurred. Please contact administrator!
+                        </div>
+                        <div class="feedbackformCaptcha alert alert-info alert-dismissible" role="alert" style="display:none;text-align:left">
+                            Invalid captcha!
+                        </div>
+<form action="/feedback" class="form__form" id="feedbackFormModal" method="post">                            <div class="ktc-default-section">
+                                <div class="u-dtr o-form-group">
+                                    <div class="u-dtc u-vat o-form-group__col">
+                                        <label class="o-form-label form__label--visually-hidden" for="Feedback_Name">Name</label>
+                                    </div>
+                                    <div class="u-dtc u-vat o-form-group__col form-group">
+                                        <input class="o-form-text c-form__input-text" data-val="true" data-val-required="Please enter a value." id="Feedback_Name" name="Feedback.Name" type="text" value="" />
+
+                                        <div class="field-validation-error">
+                                            <span class="field-validation-valid" data-valmsg-for="Feedback.Name" data-valmsg-replace="true"></span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="u-dtr o-form-group">
+                                    <div class="u-dtc u-vat o-form-group__col">
+                                        <label class="o-form-label form__label--visually-hidden" for="Feedback_Email">Email</label>
+                                    </div>
+                                    <div class="u-dtc u-vat o-form-group__col form-group">
+                                        <input class="o-form-text c-form__input-text" data-val="true" data-val-email="The Email field is not a valid e-mail address." data-val-required="Please enter a value." id="Feedback_Email" name="Feedback.Email" type="text" value="" />
+
+                                        <div class="field-validation-error">
+                                            <span class="field-validation-valid" data-valmsg-for="Feedback.Email" data-valmsg-replace="true"></span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="u-dtr o-form-group">
+                                    <div class="u-dtc u-vat o-form-group__col">
+                                        <label class="form__label" for="Feedback_Message">Message</label>
+                                    </div>
+                                    <div class="u-dtc u-vat o-form-group__col form-group">
+                                        <textarea class="o-form-text c-form__input-text" data-val="true" data-val-required="Please enter a value." id="Feedback_Message" name="Feedback.Message">
+</textarea>
+
+                                        <div class="field-validation-error">
+                                            <span class="field-validation-valid" data-valmsg-for="Feedback.Message" data-valmsg-replace="true"></span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div>
+                                <div id="feedbackCaptchaId"></div>
+                                <input type="hidden" class="hiddenRecaptcha" name="feedback_hiddenRecaptcha" id="feedback_hiddenRecaptcha" />
+                            </div>
+                            <input id="feedbackformSubmit" class="btn btn--secondary" style="float: none;" type="submit" value="Submit" />
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8OxMLcbPtwBEkIt0l7Y7l-LM-HDcBa-GxHCRFQQWJfiaJPYe0vpabivpQ6WAarGgivvFe3u20jcKZMCLIxkw-qCDsN74P2MpvAqYOTIoVg6x8_p9arihGTdZucoyVZtTPAl2gv41Qt4MI9l8PfeA3cE" /></form>                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+    <!--[if lt IE 10]>
+    <script type="text/javascript">
+    (function() {
+        var method;
+        var noop = function () {};
+        var methods = [
+            'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
+            'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
+            'markTimeline', 'profile', 'profileEnd', 'table', 'time', 'timeEnd',
+            'timeStamp', 'trace', 'warn'
+        ];
+        var length = methods.length;
+        var console = (window.console = window.console || {});
+
+        while (length--) {
+            method = methods[length];
+
+            // Only stub undefined methods.
+            if (!console[method]) {
+                console[method] = noop;
+            }
+        }
+    }());
+            </script>
+    <![endif]-->
+    <script src="https://cdnjs.cloudflare.com/polyfill/v2/polyfill.min.js?features=default,matchMedia,modernizr:placeholder"></script>
+         
+    <script src="/Scripts/jquery-3.7.1.min.js"></script>
+    <script src="/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="/Scripts/jquery.validate.min.js"></script>
+    <script src="/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+
+    <script src="/Scripts/Kendo/kendo.all.min.js"></script>
+
+    <script type="text/javascript" src="/lib/vue.js"></script>
+    <script type="text/javascript" src="/lib/typeahead.bundle.min.js"></script>
+
+    
+
+    <script type="text/javascript" src="/www_shared/Assets/js/manifest.js?v=638475963980000000"></script>
+    <script type="text/javascript" src="/www_shared/Assets/js/main.js?v=638475963980000000 "></script>
+    
+    <script src="/PageBuilder/Public/NewsletterSubscriptionWidget/replace-form.js"></script>
+<script src="/PageBuilder/Public/Widgets/EsriWidget/EsriWidget.js"></script>
+<script src="/PageBuilder/Public/Widgets/ImageCarousel/ImageCarouselWidget.js"></script>
+<script src="/PageBuilder/Public/Widgets/TableauAPI/TableauAPIWidget.js"></script>
+<script src="/_content/Kentico.Content.Web.Rcl/Content/Bundles/Public/systemFormComponents.min.js"></script>
+
+    
+
+    <!-- AddThis -->
+        <script src="https://s7.addthis.com/js/300/addthis_widget.js#async=1" type="text/javascript"></script>
+        <script type="text/javascript">
+            var addthis_config = addthis_config || {};
+            addthis_config.pubid = 'ra-5d12f842f8846075';
+            // Call this function once the rest of the document is loaded
+            function loadAddThis() {
+                addthis.init();
+            }
+        </script>
+    <script>
+        var CaptchaCallback = function () {
+            var widgetId2;
+            widgetId2 = grecaptcha.render('feedbackCaptchaId', { 'sitekey': '6LcVKrsZAAAAAFXQKqw0zL7ZLl4MQpHCT3yfSFB3', 'callback': correctCaptcha_feedback });
+        };
+        var correctCaptcha_feedback = function (response) {
+            $("#feedback_hiddenRecaptcha").val(response);
+        };
+    </script>
+    <script>
+        $(function () {
+
+            $("#feedbackformSubmit").click(function (e) {
+                e.preventDefault();
+                //debugger;
+                var form = $("#feedbackFormModal");
+
+                form.validate();
+
+                var isValid = form.valid();
+
+                if (isValid) {
+                    var feedback = new Object();
+
+                    feedback.Name = $('#feedbackFormModal').find("#Feedback_Name.c-form__input-text").val();
+                    feedback.Email = $('#feedbackFormModal').find("#Feedback_Email.c-form__input-text").val();
+                    feedback.Message = $('#feedbackFormModal').find("#Feedback_Message.c-form__input-text").val();
+                    feedback.BizFormName = "Feedback";
+                    feedback.CaptchaResponse = $("#feedback_hiddenRecaptcha").val();
+
+                    $.ajax({
+                        type: 'POST',
+                        contentType: 'application/json; charset=utf-8',
+                        url: '/api/feedback/submitFeedback',
+                        data: JSON.stringify(feedback),
+                        dataType: "json",
+                        success: function (data) {
+                            console.log(data);
+                            if (data == true) {
+                                $('#feedbackFormModal').hide();
+                                $('.feedbackform.alert.alert-info').hide();
+                                $('.feedbackformCaptcha.alert.alert-info').hide();
+                                $('.feedbackform.alert.alert-success').show();
+                            }
+                            else if (data == "Invalid Captcha!") {
+                                $('.feedbackformCaptcha.alert.alert-info').show();
+                            }
+                            else {
+                                $('.feedbackform.alert.alert-info').show();
+                            }
+                        },
+                        failure: function () {
+                            $('.alert.alert-info').show();
+                        }
+                    });
+                } else {
+                    return false;
+                }
+                e.preventDefault();
+            });
+        });
+
+        $(function () {
+
+            $(".CommunityTopic").click(function (e) {
+                //debugger;
+                var iframeurl = $(this).data("iframeurl")
+                $('#dataIframe').attr('src', iframeurl)
+                e.preventDefault();
+            });
+
+            $('#adafLogin').each(function () {
+                var $this = $(this);
+                $this.find('.dropdown-toggle').on('click', function (e) {
+                    e.preventDefault();
+                    $this.toggleClass('show')
+                    $this.find('.dropdown-menu').toggleClass('show')
+                })
+                $this.find('.o-dropdown-close').on('click', function () {
+                    $this.toggleClass('show')
+                    $this.find('.dropdown-menu').toggleClass('show')
+                })
+
+            })
+        });
+    </script>
+
+
+</body>
+</html>
