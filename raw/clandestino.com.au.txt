@@ -1,0 +1,1918 @@
+<!doctype html>
+
+<html class="no-js" lang="en">
+  <head>
+    
+    <link rel="stylesheet" href="https://use.typekit.net/vpw2oqn.css">
+
+    
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PGZZ2JF');</script>
+<!-- End Google Tag Manager -->
+    
+    <meta charset="utf-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="theme-color" content="">
+    <meta name="facebook-domain-verification" content="nizy79z17y4s85itsod90fxm24hdq9" />
+
+    <title>
+      Clandestino Coffee - Brews for all
+    </title><meta name="description" content="Delicious brews &amp; giving normal a nudge. Get coffee freshly roasted in Noosa for home, office or your business.">
+     
+     
+    
+    
+    
+
+
+    <link rel="canonical" href="https://www.clandestino.com.au/"><link rel="shortcut icon" href="//www.clandestino.com.au/cdn/shop/files/Favicon_2024_96x.png?v=1704858074" type="image/png"><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <meta property="og:type" content="website">
+  <meta property="og:title" content="Clandestino Coffee - Brews for all"><meta property="og:image" content="http://www.clandestino.com.au/cdn/shop/files/Screenshot_2024-02-22_at_12.18.57_pm_grande.png?v=1708568379">
+    <meta property="og:image:secure_url" content="https://www.clandestino.com.au/cdn/shop/files/Screenshot_2024-02-22_at_12.18.57_pm_grande.png?v=1708568379"><meta property="og:description" content="Delicious brews &amp; giving normal a nudge. Get coffee freshly roasted in Noosa for home, office or your business."><meta property="og:url" content="https://www.clandestino.com.au/">
+<meta property="og:site_name" content="Clandestino Coffee"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Clandestino Coffee - Brews for all">
+  <meta name="twitter:description" content="Delicious brews &amp; giving normal a nudge. Get coffee freshly roasted in Noosa for home, office or your business."><meta name="twitter:image" content="https://www.clandestino.com.au/cdn/shop/files/Screenshot_2024-02-22_at_12.18.57_pm_600x600_crop_center.png?v=1708568379">
+
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="google-site-verification" content="aJfu_uycQUIOWYvsXxlgkmcxyS8HcPuhJi9a7i6pPA8">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/41799942308/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="a41b20d07552f1962017a2c3a26e674d">
+<meta id="in-context-paypal-metadata" data-shop-id="41799942308" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="AUD">
+<link rel="alternate" hreflang="x-default" href="https://www.clandestino.com.au/">
+<link rel="alternate" hreflang="en-AU" href="https://www.clandestino.com.au/">
+<link rel="alternate" hreflang="es-AU" href="https://www.clandestino.com.au/es">
+<script async="async" src="/checkouts/internal/preloads.js?locale=en-AU"></script>
+<script async="async" src="https://shop.app/checkouts/internal/preloads.js?locale=en-AU&shop_id=41799942308" crossorigin="anonymous"></script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":41799942308,"countryCode":"AU","currencyCode":"AUD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/41799942308","merchantName":"Clandestino Coffee","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","jcb"],"total":{"type":"pending","label":"Clandestino Coffee","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"a41b20d07552f1962017a2c3a26e674d","betas":["rich-media-storefront-analytics"],"domain":"www.clandestino.com.au","predictiveSearch":true,"shopId":41799942308,"smart_payment_buttons_url":"https:\/\/www.clandestino.com.au\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/www.clandestino.com.au\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "clandestino-coffee.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"AUD","rate":"1.0"};
+Shopify.country = "AU";
+Shopify.theme = {"name":"Wonton EbbFlow Updates","id":132086464676,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "www.clandestino.com.au/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script id="shop-js-features" type="application/json">{"compact":true,"defer_modal_on_autofill":true}</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"index"}</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"pay-button":["modules/client.pay-button_D2TzkCjU.en.esm.js","modules/chunk.common_DU2RRUNz.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_g3qjtrcZ.en.esm.js","modules/chunk.common_DU2RRUNz.esm.js"],"avatar":["modules/client.avatar_BTnouDA3.en.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_D6IjJuXQ.en.esm.js","modules/chunk.common_DU2RRUNz.esm.js"],"shop-pay-checkout-sheet":["modules/client.shop-pay-checkout-sheet_CGM90p88.en.esm.js","modules/chunk.common_DU2RRUNz.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_DrdoWa7e.en.esm.js","modules/chunk.common_DU2RRUNz.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_lIGCeknf.en.esm.js","modules/chunk.common_DU2RRUNz.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_TUO__hjN.en.esm.js","modules/chunk.common_DU2RRUNz.esm.js","modules/chunk.shop-pay_B4Cx0esh.esm.js"],"login-button":["modules/client.login-button_Di_KJgL_.en.esm.js","modules/chunk.common_DU2RRUNz.esm.js"],"discount-app":["modules/client.discount-app_DgvVg_EH.en.esm.js","modules/chunk.common_DU2RRUNz.esm.js"],"payment-terms":["modules/client.payment-terms_C-SxEGqR.en.esm.js","modules/chunk.common_DU2RRUNz.esm.js"]};
+</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/api.omegatheme.com\/facebook-chat\/facebook-chat.js?v=1627351969\u0026shop=clandestino-coffee.myshopify.com","https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=V9aSbf\u0026shop=clandestino-coffee.myshopify.com","https:\/\/js.smile.io\/v1\/smile-shopify.js?shop=clandestino-coffee.myshopify.com","https:\/\/wiser.expertvillagemedia.com\/assets\/js\/wiser_script.js?shop=clandestino-coffee.myshopify.com","https:\/\/static.rechargecdn.com\/static\/js\/recharge.js?shop=clandestino-coffee.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":41799942308,"offset":36000,"reqid":"d69e1e31-c003-4ea0-b8ed-cbe21bc9cf0b-1721154599","pageurl":"www.clandestino.com.au\/","u":"86166bdbf531","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script id="captcha-bootstrap">!function(){'use strict';const e='contact',t='account',n='new_comment',o=e=>e.map((([e,t])=>`form[action*='/${e}'] input[name='form_type'][value='${t}']`)).join(',');function c(e,t){try{const n=window.sessionStorage;for(const[o,c]of Object.entries(JSON.parse(n.getItem(t))))e.elements[o]&&(e.elements[o].value=c);n.removeItem(t)}catch{}}const r='form_type',s='cptcha';function a(e){e.dataset[s]=!0}((i,m,f,u,d,l,p)=>{if(0)return;let E=!1;const _=(e,t,n)=>{const o=i[f][u],c=o.bindForm,r='6LeHG2ApAAAAAO4rPaDW-qVpPKPOBfjbCpzJB9ey',s={infoText:'',privacyText:'',termsText:''};if(c)return c(e,r,t,s).then(n);o.q.push([[e,r,t,s],n]),E||(m.body.append(Object.assign(m.createElement('script'),{id:'captcha-provider',async:!0,src:'https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_recaptcha.v1.2.0.iife.js'})),E=!0)};i[f]=i[f]||{},i[f][u]=i[f][u]||{},i[f][u].q=[],i[f][d]=i[f][d]||{},i[f][d].protect=function(e,t){_(e,void 0,t),a(e)},Object.freeze(i[f][d]),function(i,m,f,u,d,l){const[p,E,_]=function(c,r,s){const a=r?[[e,e],['blogs',n],['comments',n],[e,'customer']]:[],i=c?[[t,'customer_login'],[t,'guest_login'],[t,'recover_customer_password'],[t,'create_customer']]:[],m=[...a,...i],f=o(m),u=o(a.slice(0,3)),d=s&&o(m.filter((([e,t])=>s.includes(t)))),l=e=>()=>e?[...document.querySelectorAll(e)].map((e=>e.form)):[];return[l(f),l(u),l(d)]}(!0,!0,['guest_login']),T=e=>{const t=e.target,n=t instanceof HTMLFormElement?t:t&&t.form;return n&&p().find((e=>n===e))};i.addEventListener('submit',(e=>{T(e)&&e.preventDefault()}));const h=(e,t)=>{e&&!e.dataset[s]&&(f(e,t.some((t=>t===e))),a(e))};for(const e of['focusin','change'])i.addEventListener(e,(e=>h(T(e),E())));const v=m.get('form_key'),g=m.get(r),y=v&&g;i.addEventListener('DOMContentLoaded',(()=>{const e=E();if(y)for(const t of e)t.elements[r].value===g&&c(t,v);[...new Set([..._(),...p().filter((e=>'true'===e.dataset.shopifyCaptcha))])].forEach((t=>h(t,e)))}))}(m,new URLSearchParams(i.location.search),_)})(window,document,'Shopify','ce_forms','captcha')}();</script>
+<script integrity="sha256-n5Uet9jVOXPHGd4hH4B9Y6+BxkTluaaucmYaxAjUcvY=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//www.clandestino.com.au/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//www.clandestino.com.au/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-80e528be853eac23af2454534897ca9536b1d3d04aa043b042f34879a3c111c8.js?v=20220906"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//www.clandestino.com.au/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+<script id='scb4127' type='text/javascript' async='' src='https://www.clandestino.com.au/cdn/shopifycloud/privacy-banner/storefront-banner.js'>{"enabled":true,"position":"bottom_center","policyLinkText":"Privacy Policy","policyLinkUrl":"https://www.clandestino.com.au/policies/privacy-policy","title":"The Cookie Man Needs Your Help","text":"In a world of online scavengers, we're doing our best to keep our site tight and secure. Please accept our cookies so we can gather more data to further fend off these wretched ghouls. ","buttonPrefsOpenText":"I need to know more","buttonAcceptText":"Accept","buttonDeclineText":"Decline","theme":{"theme":"light","fontColor":"0,0,0,100","backgroundColor":"0,0,100,100","buttonFontColor":"0,0,0,100","buttonBackgroundColor":"0,0,100,100"},"preferences":{"title":"Cookie Preferences","introText":"You have control on how your data is used on our website. Learn more below about the cookies we use and choose which cookies you prefer. ","introTitle":"You control your data","buttonAcceptText":"Accept all (reccomended)","buttonDeclineText":"Decline all","buttonSaveText":"Save my choices","bulletPoints":{"enabled":false,"title":"If you accept all cookies","firstText":"Our site may be improved based on your interests","secondText":"Your preferences may be stored for when you return","thirdText":"You may see advertising that's tailored to you"},"purposes":{"essentialName":"Operation Cookie","essentialDesc":"Required cookies for the site to function and for protecting against fraud.","performanceName":"Performance Enhancing Cookies","performanceDesc":"These cookies help to understand how you interact with our site and provide us with information on where we need to improve.","preferencesName":"Cookie Storage","preferencesDesc":"These cookies help remember your preferences, like your country or language, to personalize your next visits to the site.","marketingName":"Cookie Marketing","marketingDesc":"Not going to lie, these cookies are used to place ads on other people's sites so we can remind you that we exist. "}}}</script><link rel="stylesheet" media="screen" href="//www.clandestino.com.au/cdn/shop/t/12/compiled_assets/styles.css?6114">
+<script id="sections-script" data-sections="popup-subscriptions" defer="defer" src="//www.clandestino.com.au/cdn/shop/t/12/compiled_assets/scripts.js?6114"></script>
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 180px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+    <link rel="stylesheet" href="//www.clandestino.com.au/cdn/shop/t/12/assets/theme.scss.css?v=65823392480585650871720577586">
+    
+    <script>
+      // This allows to expose several variables to the global scope, to be used in scripts
+      window.theme = {
+        pageType: "index",
+        moneyFormat: "${{amount}}",
+        moneyWithCurrencyFormat: "${{amount}} AUD",
+        productImageSize: "square",
+        searchMode: "product,article,page",
+        showPageTransition: false,
+        showElementStaggering: true,
+        showImageZooming: false
+      };
+
+      window.routes = {
+        rootUrl: "\/",
+        cartUrl: "\/cart",
+        cartAddUrl: "\/cart\/add",
+        cartChangeUrl: "\/cart\/change",
+        searchUrl: "\/search",
+        productRecommendationsUrl: "\/recommendations\/products"
+      };
+
+      window.languages = {
+        cartAddNote: "Add Order Note",
+        cartEditNote: "Edit Order Note",
+        productImageLoadingError: "This image could not be loaded. Please try to reload the page.",
+        productFormAddToCart: "Add to cart",
+        productFormUnavailable: "Unavailable",
+        productFormSoldOut: "Sold Out",
+        shippingEstimatorOneResult: "1 option available:",
+        shippingEstimatorMoreResults: "{{count}} options available:",
+        shippingEstimatorNoResults: "No shipping could be found"
+      };
+
+      window.lazySizesConfig = {
+        loadHidden: false,
+        hFac: 0.5,
+        expFactor: 2,
+        ricTimeout: 150,
+        lazyClass: 'Image--lazyLoad',
+        loadingClass: 'Image--lazyLoading',
+        loadedClass: 'Image--lazyLoaded'
+      };
+
+      document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+      document.documentElement.style.setProperty('--window-height', window.innerHeight + 'px');
+
+      // We do a quick detection of some features (we could use Modernizr but for so little...)
+      (function() {
+        document.documentElement.className += ((window.CSS && window.CSS.supports('(position: sticky) or (position: -webkit-sticky)')) ? ' supports-sticky' : ' no-supports-sticky');
+        document.documentElement.className += (window.matchMedia('(-moz-touch-enabled: 1), (hover: none)')).matches ? ' no-supports-hover' : ' supports-hover';
+      }());
+    </script>
+
+    <script src="//www.clandestino.com.au/cdn/shop/t/12/assets/lazysizes.min.js?v=174358363404432586981670293615" async></script><script src="https://cdn.polyfill.io/v3/polyfill.min.js?unknown=polyfill&features=fetch,Element.prototype.closest,Element.prototype.remove,Element.prototype.classList,Array.prototype.includes,Array.prototype.fill,Object.assign,CustomEvent,IntersectionObserver,IntersectionObserverEntry,URL" defer></script>
+    <script src="//www.clandestino.com.au/cdn/shop/t/12/assets/libs.min.js?v=26178543184394469741670293615" defer></script>
+    <script src="//www.clandestino.com.au/cdn/shop/t/12/assets/theme.js?v=61112228113080260001670293617" defer></script>
+    <script src="//www.clandestino.com.au/cdn/shop/t/12/assets/custom.js?v=161331461396632558801670293615" defer></script>
+    
+    <!-- WONTON -->  
+    <script src="//www.clandestino.com.au/cdn/shop/t/12/assets/wonton_functions.js?v=28144899096788047091707271399" defer></script><script src="//www.clandestino.com.au/cdn/shop/t/12/assets/owl.carousel.js?v=164149608635402950691670293616"></script>
+    <script src=" //www.clandestino.com.au/cdn/shop/t/12/assets/owl.carousel.min.js?v=97891440811553454251670293616"></script>
+    <link type="text/css" rel="stylesheet" src="//www.clandestino.com.au/cdn/shop/t/12/assets/owl.carousel.min.css?v=70516089817612781961670293616">
+    <link type="text/css" rel="stylesheet" src="//www.clandestino.com.au/cdn/shop/t/12/assets/owl.theme.default.min.css?v=135046118358282713361670293616">
+    <script>
+      (function () {
+        window.onpageshow = function() {
+          if (window.theme.showPageTransition) {
+            var pageTransition = document.querySelector('.PageTransition');
+
+            if (pageTransition) {
+              pageTransition.style.visibility = 'visible';
+              pageTransition.style.opacity = '0';
+            }
+          }
+
+          // When the page is loaded from the cache, we have to reload the cart content
+          document.documentElement.dispatchEvent(new CustomEvent('cart:refresh', {
+            bubbles: true
+          }));
+        };
+      })();
+    </script>
+
+    
+
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+  "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Translation missing: en.general.breadcrumb.home",
+      "item": "https://www.clandestino.com.au"
+    }]
+  }
+  </script>
+
+
+
+
+<!-- Google Ads Remarketing Tag By FeedArmy Version 2.16 START -->
+<!-- FeedArmy tutorial found at https://feedarmy.com/kb/adding-google-adwords-remarketing-tag-to-shopify/ -->
+
+<!-- CODE SETTINGS START -->
+<!-- CODE SETTINGS START -->
+
+<!-- Please add your Google Ads Audience Source Tag ID -->
+
+
+<!-- Please add your alpha2 code, you can find it here: https://help.shopify.com/en/api/custom-storefronts/storefront-api/reference/enum/countrycode -->
+
+
+<!-- set your product id values are default, product_id, parent_id, sku-->
+
+
+<!-- CODE SETTINGS END -->
+<!-- CODE SETTINGS END -->
+
+<!-- ==================================== -->
+<!-- DO NOT EDIT ANYTHING BELOW THIS LINE -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-763369107"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-763369107');
+</script>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QYTL2CMYEK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QYTL2CMYEK');
+</script>
+
+    
+
+
+<script>
+  gtag('event', 'home', {
+    'send_to': 'AW-763369107',
+  	  
+	
+  });
+</script>
+<!-- Google Ads Remarketing Tag By FeedArmy Version 2.16 END -->
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+
+</script>
+
+<div class="evm-wiser-popup-mainsection"></div>	<link rel="stylesheet" href="//www.clandestino.com.au/cdn/shop/t/12/assets/sca-pp.css?v=26248894406678077071670293617">
+ <script>
+  
+  SCAPPShop = {};
+    
+  </script>
+<script src="//www.clandestino.com.au/cdn/shop/t/12/assets/sca-pp-initial.js?v=44055980046105472121670293617" type="text/javascript"></script>
+   
+
+  <!-- WONTON -->  
+    <script src="https://www.youtube.com/iframe_api" defer></script>
+  <!-- WONTON -->  
+
+
+<script src="https://cdn.shopify.com/extensions/a2ffc49c-95de-4680-9e40-44e78a353381/smile-io-92/assets/smile-loader.js" type="text/javascript" defer="defer"></script>
+<script src="https://cdn.shopify.com/extensions/01a68942-b7bd-4058-9431-295b21565a11/vify-order-printer-28/assets/invoice_download_embed.js" type="text/javascript" defer="defer"></script>
+<link href="https://cdn.shopify.com/extensions/01a68942-b7bd-4058-9431-295b21565a11/vify-order-printer-28/assets/style.css" rel="stylesheet" type="text/css" media="all">
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 41799942308,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/3.1",payload:{version:t||"latest",bundle_target:o,page_url:self.location.href,status:"failed",surface:e.surface,error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var i=new XMLHttpRequest;try{return i.open("POST",a,!0),i.setRequestHeader("Content-Type","text/plain"),i.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 41799942308,storefrontBaseUrl: "https://www.clandestino.com.au",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",surface: "storefront-renderer",enabledBetaFlags: ["5de24938","4735909c"],webPixelsConfigList: [{"id":"171245732","configuration":"{\"pixel_id\":\"2661948127212761\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"8b3843af2d71780cfb83fdde884ce168","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0132","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0132","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],initData: {"shop":{"name":"Clandestino Coffee","paymentSettings":{"currencyCode":"AUD"},"myshopifyDomain":"clandestino-coffee.myshopify.com","countryCode":"AU","storefrontUrl":"https:\/\/www.clandestino.com.au"},"cart":null,"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");},"https://www.clandestino.com.au/cdn","f6cc849cf8c2f3c43894a5003b289dd597df2566","53f7ad58w0d155a36p65c7aeb7mce9423a5",);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'AUD';
+var meta = {"page":{"pageType":"home"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 41799942308,
+      theme_id: 132086464676,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//www.clandestino.com.au/cdn/s/trekkie.storefront.a1ad2ab43a5932ff96084a0e2e69f51ba73ddbec.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//www.clandestino.com.au/cdn/s/trekkie.storefront.a1ad2ab43a5932ff96084a0e2e69f51ba73ddbec.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//www.clandestino.com.au/cdn/s/trekkie.storefront.a1ad2ab43a5932ff96084a0e2e69f51ba73ddbec.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":41799942308,"isMerchantRequest":null,"themeId":132086464676,"themeCityHash":"5747291157597202368","contentLanguage":"en","currency":"AUD"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain","enabledBetaFlags":["bbcf04e6"]},"Google Analytics":{"trackingId":"UA-28691321-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Google Gtag Pixel":{"conversionId":"G-QYTL2CMYEK","eventLabels":[{"type":"search","action_label":["G-QYTL2CMYEK","AW-763369107\/5KXDCIfs8N0BEJOtgOwC"]},{"type":"begin_checkout","action_label":["G-QYTL2CMYEK","AW-763369107\/u-EFCITs8N0BEJOtgOwC"]},{"type":"view_item","action_label":["G-QYTL2CMYEK","AW-763369107\/q_gZCP7r8N0BEJOtgOwC","MC-5N3N218VFB"]},{"type":"purchase","action_label":["G-QYTL2CMYEK","AW-763369107\/6Au9CPvr8N0BEJOtgOwC","MC-5N3N218VFB"]},{"type":"page_view","action_label":["G-QYTL2CMYEK","AW-763369107\/hiLBCPjr8N0BEJOtgOwC","MC-5N3N218VFB"]},{"type":"add_payment_info","action_label":["G-QYTL2CMYEK","AW-763369107\/Fq8GCIrs8N0BEJOtgOwC"]},{"type":"add_to_cart","action_label":["G-QYTL2CMYEK","AW-763369107\/RLYFCIHs8N0BEJOtgOwC"]}],"targetCountry":"AU"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"facebookAppPixelId":"2661948127212761","source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+        ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//www.clandestino.com.au/cdn/shopifycloud/shopify/assets/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Clandestino Coffee";
+  window.BOOMR.themeVersion = "1";
+  window.BOOMR.shopId = 41799942308;
+  window.BOOMR.themeId = 132086464676;
+  window.BOOMR.renderRegion = "gcp-us-east1";
+  window.BOOMR.url =
+    "https://www.clandestino.com.au/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+<script
+  defer
+  src="https://www.clandestino.com.au/cdn/shopifycloud/perf-kit/shopify-perf-kit-unstable.min.js"
+  data-application="storefront-renderer"
+  data-shop-id="41799942308"
+  data-render-region="gcp-us-east1"
+  data-page-type="index"
+  data-theme-instance-id="132086464676"
+  data-monorail-region="shop_domain"
+  data-resource-timing-sampling-rate="10"
+></script>
+</head>
+
+  <body class=" template-index " id="clandestino-coffee-brews-for-all">
+    <a class="PageSkipLink u-visually-hidden" href="#main">Skip to content</a>
+    <span class="LoadingBar"></span>
+    <div class="PageOverlay"></div>
+    <div class="PageTransition"></div>
+
+    <div id="shopify-section-popup" class="shopify-section"></div>
+    <div id="shopify-section-sidebar-menu" class="shopify-section"><section id="sidebar-menu" class="SidebarMenu Drawer Drawer--small Drawer--fromLeft" aria-hidden="true" data-section-id="sidebar-menu" data-section-type="sidebar-menu">
+    <header class="Drawer__Header" data-drawer-animated-left>
+      <button class="Drawer__Close Icon-Wrapper--clickable" data-action="close-drawer" data-drawer-id="sidebar-menu" aria-label="Close navigation"><svg class="Icon Icon--close" role="presentation" viewBox="0 0 16 14">
+      <path d="M15 0L1 14m14 0L1 0" stroke="currentColor" fill="none" fill-rule="evenodd"></path>
+    </svg></button>
+    </header>
+
+    <div class="Drawer__Content">
+      <div class="Drawer__Main" data-drawer-animated-left data-scrollable>
+        <div class="Drawer__Container">
+          <nav class="SidebarMenu__Nav SidebarMenu__Nav--primary" aria-label="Sidebar navigation"><div class="Collapsible"><button class="Collapsible__Button Heading u-h6" data-action="toggle-collapsible" aria-expanded="false">Shop<span class="Collapsible__Plus"></span>
+                  </button>
+
+                  <div class="Collapsible__Inner">
+                    <div class="Collapsible__Content"><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" data-action="toggle-collapsible" aria-expanded="false">Coffee<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="/collections/coffee" class="Text--subdued Link Link--primary">All Coffee</a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/light-clean" class="Text--subdued Link Link--primary">Light &amp; Clean</a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/medium-rounded" class="Text--subdued Link Link--primary">Medium &amp; Rounded</a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/rich-full" class="Text--subdued Link Link--primary">Rich &amp; Full</a>
+                                    </li></ul>
+                              </div>
+                            </div></div><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" data-action="toggle-collapsible" aria-expanded="false">Tea<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="/collections/teas" class="Text--subdued Link Link--primary">Teas &amp; Powders</a>
+                                    </li></ul>
+                              </div>
+                            </div></div><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" data-action="toggle-collapsible" aria-expanded="false">Brew Kit<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="/collections/equipment" class="Text--subdued Link Link--primary">All Equipment</a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/espresso-tools" class="Text--subdued Link Link--primary">Espresso Tools</a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/equipment-filter-brewing" class="Text--subdued Link Link--primary">Filter Brewing</a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/books" class="Text--subdued Link Link--primary">Books</a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/spare-parts" class="Text--subdued Link Link--primary">Spare Parts</a>
+                                    </li></ul>
+                              </div>
+                            </div></div><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" data-action="toggle-collapsible" aria-expanded="false">Merch<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="https://www.clandestino.com.au/collections/merchandise" class="Text--subdued Link Link--primary">All merch</a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/tees" class="Text--subdued Link Link--primary">Tees</a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://www.clandestino.com.au/collections/clearance" class="Text--subdued Link Link--primary">Clearance</a>
+                                    </li></ul>
+                              </div>
+                            </div></div></div>
+                  </div></div><div class="Collapsible"><a href="/pages/subscriptions" class="Collapsible__Button Heading Link Link--primary u-h6">Subscribe!</a></div><div class="Collapsible"><a href="/pages/brew-guides" class="Collapsible__Button Heading Link Link--primary u-h6">Brew Guides</a></div><div class="Collapsible"><a href="/pages/find-your-course" class="Collapsible__Button Heading Link Link--primary u-h6">Coffee Courses</a></div><div class="Collapsible"><button class="Collapsible__Button Heading u-h6" data-action="toggle-collapsible" aria-expanded="false">Cafes Wanted!<span class="Collapsible__Plus"></span>
+                  </button>
+
+                  <div class="Collapsible__Inner">
+                    <div class="Collapsible__Content"><div class="Collapsible"><a href="https://www.clandestino.com.au/pages/wholesale" class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">Wholesale Supply</a></div><div class="Collapsible"><a href="https://www.clandestino.com.au/pages/office-supply" class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">Office Supply</a></div></div>
+                  </div></div><div class="Collapsible"><a href="https://www.clandestino.com.au/blogs/news" class="Collapsible__Button Heading Link Link--primary u-h6">Rants</a></div><div class="Collapsible"><button class="Collapsible__Button Heading u-h6" data-action="toggle-collapsible" aria-expanded="false">Us<span class="Collapsible__Plus"></span>
+                  </button>
+
+                  <div class="Collapsible__Inner">
+                    <div class="Collapsible__Content"><div class="Collapsible"><a href="/pages/about" class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">Our story</a></div><div class="Collapsible"><a href="/pages/contact" class="Collapsible__Button Heading Text--subdued Link Link--primary u-h7">Contact </a></div></div>
+                  </div></div></nav><nav class="SidebarMenu__Nav SidebarMenu__Nav--secondary">
+            <ul class="Linklist Linklist--spacingLoose"><li class="Linklist__Item">
+                  <a href="/account" class="Text--subdued Link Link--primary">Account</a>
+                </li></ul>
+          </nav>
+        </div>
+      </div><aside class="Drawer__Footer" data-drawer-animated-bottom><ul class="SidebarMenu__Social HorizontalList HorizontalList--spacingFill">
+    <li class="HorizontalList__Item">
+      <a href="https://www.facebook.com/clandestinocoffee" class="Link Link--primary" target="_blank" rel="noopener" aria-label="Facebook">
+        <span class="Icon-Wrapper--clickable"><svg class="Icon Icon--facebook" viewBox="0 0 9 17">
+      <path d="M5.842 17V9.246h2.653l.398-3.023h-3.05v-1.93c0-.874.246-1.47 1.526-1.47H9V.118C8.718.082 7.75 0 6.623 0 4.27 0 2.66 1.408 2.66 3.994v2.23H0v3.022h2.66V17h3.182z"></path>
+    </svg></span>
+      </a>
+    </li>
+
+    
+<li class="HorizontalList__Item">
+      <a href="https://www.instagram.com/clandestino_coffee/" class="Link Link--primary" target="_blank" rel="noopener" aria-label="Instagram">
+        <span class="Icon-Wrapper--clickable"><svg class="Icon Icon--instagram" role="presentation" viewBox="0 0 32 32">
+      <path d="M15.994 2.886c4.273 0 4.775.019 6.464.095 1.562.07 2.406.33 2.971.552.749.292 1.283.635 1.841 1.194s.908 1.092 1.194 1.841c.216.565.483 1.41.552 2.971.076 1.689.095 2.19.095 6.464s-.019 4.775-.095 6.464c-.07 1.562-.33 2.406-.552 2.971-.292.749-.635 1.283-1.194 1.841s-1.092.908-1.841 1.194c-.565.216-1.41.483-2.971.552-1.689.076-2.19.095-6.464.095s-4.775-.019-6.464-.095c-1.562-.07-2.406-.33-2.971-.552-.749-.292-1.283-.635-1.841-1.194s-.908-1.092-1.194-1.841c-.216-.565-.483-1.41-.552-2.971-.076-1.689-.095-2.19-.095-6.464s.019-4.775.095-6.464c.07-1.562.33-2.406.552-2.971.292-.749.635-1.283 1.194-1.841s1.092-.908 1.841-1.194c.565-.216 1.41-.483 2.971-.552 1.689-.083 2.19-.095 6.464-.095zm0-2.883c-4.343 0-4.889.019-6.597.095-1.702.076-2.864.349-3.879.743-1.054.406-1.943.959-2.832 1.848S1.251 4.473.838 5.521C.444 6.537.171 7.699.095 9.407.019 11.109 0 11.655 0 15.997s.019 4.889.095 6.597c.076 1.702.349 2.864.743 3.886.406 1.054.959 1.943 1.848 2.832s1.784 1.435 2.832 1.848c1.016.394 2.178.667 3.886.743s2.248.095 6.597.095 4.889-.019 6.597-.095c1.702-.076 2.864-.349 3.886-.743 1.054-.406 1.943-.959 2.832-1.848s1.435-1.784 1.848-2.832c.394-1.016.667-2.178.743-3.886s.095-2.248.095-6.597-.019-4.889-.095-6.597c-.076-1.702-.349-2.864-.743-3.886-.406-1.054-.959-1.943-1.848-2.832S27.532 1.247 26.484.834C25.468.44 24.306.167 22.598.091c-1.714-.07-2.26-.089-6.603-.089zm0 7.778c-4.533 0-8.216 3.676-8.216 8.216s3.683 8.216 8.216 8.216 8.216-3.683 8.216-8.216-3.683-8.216-8.216-8.216zm0 13.549c-2.946 0-5.333-2.387-5.333-5.333s2.387-5.333 5.333-5.333 5.333 2.387 5.333 5.333-2.387 5.333-5.333 5.333zM26.451 7.457c0 1.059-.858 1.917-1.917 1.917s-1.917-.858-1.917-1.917c0-1.059.858-1.917 1.917-1.917s1.917.858 1.917 1.917z"></path>
+    </svg></span>
+      </a>
+    </li>
+
+    
+
+  </ul>
+
+</aside></div>
+</section>
+
+</div>
+<div id="sidebar-cart" class="Drawer Drawer--fromRight" aria-hidden="true" data-section-id="cart" data-section-type="cart" data-section-settings='{
+  "type": "drawer",
+  "itemCount": 0,
+  "drawer": true,
+  "hasShippingEstimator": false
+}'>
+  <div class="Drawer__Header Drawer__Header--bordered Drawer__Container">
+      <span class="Drawer__Title Heading u-h4">Cart</span>
+
+      <button class="Drawer__Close Icon-Wrapper--clickable" data-action="close-drawer" data-drawer-id="sidebar-cart" aria-label="Close cart"><svg class="Icon Icon--close" role="presentation" viewBox="0 0 16 14">
+      <path d="M15 0L1 14m14 0L1 0" stroke="currentColor" fill="none" fill-rule="evenodd"></path>
+    </svg></button>
+  </div>
+
+  <form class="Cart Drawer__Content" action="/cart" method="POST" novalidate>
+    <div class="Drawer__Main" data-scrollable><p class="Cart__Empty Heading u-h5">Your cart is empty</p></div></form>
+</div>
+<div id="shopify-section-announcement" class="shopify-section"><section id="section-announcement" data-section-id="announcement" data-section-type="announcement-bar">
+      <div class="AnnouncementBar">
+        <div class="AnnouncementBar__Wrapper">
+          <p class="AnnouncementBar__Content Heading"><a href="/collections/coffee">FREE shipping on all 1KG bags | Subscribe &amp; GET 10% OFF</a></p>
+        </div>
+      </div>
+    </section>
+
+    <style>
+      #section-announcement {
+        background: #c4c4c4;
+        color: #000000;
+      }
+    </style>
+
+    <script>
+      document.documentElement.style.setProperty('--announcement-bar-height', document.getElementById('shopify-section-announcement').offsetHeight + 'px');
+    </script></div>
+
+      <div id="shopify-section-header" class="shopify-section shopify-section--header"><div id="Search" class="Search" aria-hidden="true">
+  <div class="Search__Inner">
+    <div class="Search__SearchBar">
+      <form action="/search" name="GET" role="search" class="Search__Form">
+        <div class="Search__InputIconWrapper">
+          <span class="hidden-tablet-and-up"><svg class="Icon Icon--search" role="presentation" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+</svg></span>
+          <span class="hidden-phone"><svg class="Icon Icon--search-desktop" role="presentation" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg></span>
+        </div>
+
+        <input type="search" class="Search__Input Heading" name="q" autocomplete="off" autocorrect="off" autocapitalize="off" placeholder="Search..." autofocus>
+        <input type="hidden" name="type" value="product">
+      </form>
+
+      <button class="Search__Close Link Link--primary" data-action="close-search"><svg class="Icon Icon--close" role="presentation" viewBox="0 0 16 14">
+      <path d="M15 0L1 14m14 0L1 0" stroke="currentColor" fill="none" fill-rule="evenodd"></path>
+    </svg></button>
+    </div>
+
+    <div class="Search__Results" aria-hidden="true"><div class="PageLayout PageLayout--breakLap">
+          <div class="PageLayout__Section"></div>
+          <div class="PageLayout__Section PageLayout__Section--secondary"></div>
+        </div></div>
+  </div>
+</div><header id="section-header"
+        class="Header Header--logoLeft   Header--withIcons"
+        data-section-id="header"
+        data-section-type="header"
+        data-section-settings='{
+  "navigationStyle": "logoLeft",
+  "hasTransparentHeader": false,
+  "isSticky": false
+}'
+        role="banner">
+  <div class="Header__Wrapper">
+    <div class="Header__FlexItem Header__FlexItem--fill">
+      <button class="Header__Icon Icon-Wrapper Icon-Wrapper--clickable hidden-desk" aria-expanded="false" data-action="open-drawer" data-drawer-id="sidebar-menu" aria-label="Open navigation">
+        <span class="hidden-tablet-and-up"><svg class="Icon Icon--nav" role="presentation" viewBox="0 0 20 14">
+      <path d="M0 14v-1h20v1H0zm0-7.5h20v1H0v-1zM0 0h20v1H0V0z" fill="currentColor"></path>
+    </svg></span>
+        <span class="hidden-phone"><svg class="Icon Icon--nav-desktop" role="presentation" viewBox="0 0 24 16">
+      <path d="M0 15.985v-2h24v2H0zm0-9h24v2H0v-2zm0-7h24v2H0v-2z" fill="currentColor"></path>
+    </svg></span>
+      </button><nav class="Header__MainNav hidden-pocket hidden-lap" aria-label="Main navigation">
+          <ul class="HorizontalList HorizontalList--spacingExtraLoose"><li class="HorizontalList__Item " aria-haspopup="true">
+                <a href="#" class="Heading u-h6">Shop<span class="Header__LinkSpacer">Shop</span></a><div class="MegaMenu  " aria-hidden="true" >
+                      <div class="MegaMenu__Inner"><div class="MegaMenu__Item MegaMenu__Item--fit">
+                            <a href="/collections/coffee" class="MegaMenu__Title Heading Text--subdued u-h7">Coffee</a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="/collections/coffee" class="Link Link--secondary">All Coffee</a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/light-clean" class="Link Link--secondary">Light &amp; Clean</a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/medium-rounded" class="Link Link--secondary">Medium &amp; Rounded</a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/rich-full" class="Link Link--secondary">Rich &amp; Full</a>
+                                  </li></ul></div><div class="MegaMenu__Item MegaMenu__Item--fit">
+                            <a href="https://www.clandestino.com.au/collections/teas" class="MegaMenu__Title Heading Text--subdued u-h7">Tea</a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="/collections/teas" class="Link Link--secondary">Teas &amp; Powders</a>
+                                  </li></ul></div><div class="MegaMenu__Item MegaMenu__Item--fit">
+                            <a href="/collections/equipment" class="MegaMenu__Title Heading Text--subdued u-h7">Brew Kit</a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="/collections/equipment" class="Link Link--secondary">All Equipment</a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/espresso-tools" class="Link Link--secondary">Espresso Tools</a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/equipment-filter-brewing" class="Link Link--secondary">Filter Brewing</a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/books" class="Link Link--secondary">Books</a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/spare-parts" class="Link Link--secondary">Spare Parts</a>
+                                  </li></ul></div><div class="MegaMenu__Item MegaMenu__Item--fit">
+                            <a href="/collections/merchandise" class="MegaMenu__Title Heading Text--subdued u-h7">Merch</a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="https://www.clandestino.com.au/collections/merchandise" class="Link Link--secondary">All merch</a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/tees" class="Link Link--secondary">Tees</a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://www.clandestino.com.au/collections/clearance" class="Link Link--secondary">Clearance</a>
+                                  </li></ul></div></div>
+                    </div></li><li class="HorizontalList__Item " >
+                <a href="/pages/subscriptions" class="Heading u-h6">Subscribe!<span class="Header__LinkSpacer">Subscribe!</span></a></li><li class="HorizontalList__Item " >
+                <a href="/pages/brew-guides" class="Heading u-h6">Brew Guides<span class="Header__LinkSpacer">Brew Guides</span></a></li><li class="HorizontalList__Item " >
+                <a href="/pages/find-your-course" class="Heading u-h6">Coffee Courses<span class="Header__LinkSpacer">Coffee Courses</span></a></li><li class="HorizontalList__Item " aria-haspopup="true">
+                <a href="/pages/wholesale" class="Heading u-h6">Cafes Wanted!</a><div class="DropdownMenu" aria-hidden="true">
+                    <ul class="Linklist"><li class="Linklist__Item" >
+                          <a href="https://www.clandestino.com.au/pages/wholesale" class="Link Link--secondary">Wholesale Supply </a></li><li class="Linklist__Item" >
+                          <a href="https://www.clandestino.com.au/pages/office-supply" class="Link Link--secondary">Office Supply </a></li></ul>
+                  </div></li><li class="HorizontalList__Item " >
+                <a href="https://www.clandestino.com.au/blogs/news" class="Heading u-h6">Rants<span class="Header__LinkSpacer">Rants</span></a></li><li class="HorizontalList__Item " aria-haspopup="true">
+                <a href="/pages/about" class="Heading u-h6">Us</a><div class="DropdownMenu" aria-hidden="true">
+                    <ul class="Linklist"><li class="Linklist__Item" >
+                          <a href="/pages/about" class="Link Link--secondary">Our story </a></li><li class="Linklist__Item" >
+                          <a href="/pages/contact" class="Link Link--secondary">Contact  </a></li></ul>
+                  </div></li></ul>
+        </nav></div><div class="Header__FlexItem Header__FlexItem--logo"><h1 class="Header__Logo"><a href="/" class="Header__LogoLink"><img class="Header__LogoImage Header__LogoImage--primary"
+               src="//www.clandestino.com.au/cdn/shop/files/Cc2022_Brand_Word_325px_01_175x.gif?v=1670293793"
+               srcset="//www.clandestino.com.au/cdn/shop/files/Cc2022_Brand_Word_325px_01_175x.gif?v=1670293793 1x, //www.clandestino.com.au/cdn/shop/files/Cc2022_Brand_Word_325px_01_175x@2x.gif?v=1670293793 2x"
+               width="175"
+               alt="Clandestino Coffee"></a></h1></div>
+
+    <div class="Header__FlexItem Header__FlexItem--fill"><a href="/account" class="Header__Icon Icon-Wrapper Icon-Wrapper--clickable hidden-phone"><svg class="Icon Icon--account" role="presentation" viewBox="0 0 24 24" width="24px" height="24px"><path d="M0 0h24v24H0z" fill="none"/><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z"/>
+</svg></a><a href="/search" class="Header__Icon Icon-Wrapper Icon-Wrapper--clickable " data-action="toggle-search" aria-label="Search">
+        <span class="hidden-tablet-and-up"><svg class="Icon Icon--search" role="presentation" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+</svg></span>
+        <span class="hidden-phone"><svg class="Icon Icon--search-desktop" role="presentation" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg></span>
+      </a>
+
+      <a href="/cart" class="Header__Icon Icon-Wrapper Icon-Wrapper--clickable " data-action="open-drawer" data-drawer-id="sidebar-cart" aria-expanded="false" aria-label="Open cart">
+        <span class="hidden-tablet-and-up"><svg class="Icon Icon--cart" role="presentation" viewBox="0 0 24 24" width="24px" height="24px"><path d="M0 0h24v24H0z" fill="none"/><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/>
+	</svg></span>
+        <span class="hidden-phone"><svg class="Icon Icon--cart-desktop" role="presentation" viewBox="0 0 24 24" width="24px" height="24px"><path d="M0 0h24v24H0z" fill="none"/><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/>
+	</svg></span>
+        <span class="Header__CartDot "></span>
+      </a>
+    </div>
+  </div>
+
+
+</header>
+
+<style>:root {
+      --use-sticky-header: 0;
+      --use-unsticky-header: 1;
+    }@media screen and (max-width: 640px) {
+      .Header__LogoImage {
+        max-width: 125px;
+      }
+    }:root {
+      --header-is-not-transparent: 1;
+      --header-is-transparent: 0;
+    }</style>
+
+<script>
+  document.documentElement.style.setProperty('--header-height', document.getElementById('shopify-section-header').offsetHeight + 'px');
+</script>
+
+</div>
+    <div class="PageContainer">
+      <main id="main" role="main">
+        <!-- BEGIN content_for_index --><div id="shopify-section-slideshow" class="shopify-section shopify-section--slideshow"><section id="section-slideshow" data-section-id="slideshow" data-section-type="slideshow">
+  <div class="Slideshow Slideshow--fullscreen">
+    <div class="Slideshow__Carousel  Carousel Carousel--fadeIn Carousel--fixed Carousel--insideDots"
+         data-flickity-config='{
+  "prevNextButtons": false,
+  "setGallerySize": false,
+  "adaptiveHeight": false,
+  "wrapAround": true,
+  "dragThreshold": 15,
+  "pauseAutoPlayOnHover": false,
+  "autoPlay": 4000,
+  "pageDots": true
+}'><div id="Slide08cb9073-df1a-4f80-a80c-54126e49f55e" class="Slideshow__Slide Carousel__Cell is-selected" style="visibility: visible" data-slide-index="0" ><div class="Slideshow__ImageContainer   hidden-tablet-and-up"
+                 style=" background-image: url(//www.clandestino.com.au/cdn/shop/files/instant_banner_2_1x1.png.jpg?v=1720577575)">
+                <img class="Slideshow__Image Image--lazyLoad"
+                     src="//www.clandestino.com.au/cdn/shop/files/instant_banner_2_1x1.png?v=1720577575"
+                     data-src="//www.clandestino.com.au/cdn/shop/files/instant_banner_2_x800.png?v=1720577575"
+                     alt="">
+
+                <noscript>
+                  <img class="Slideshow__Image" src="//www.clandestino.com.au/cdn/shop/files/instant_banner_2_x800.png?v=1720577575" alt="">
+                </noscript>
+            </div><div class="Slideshow__ImageContainer   hidden-phone"
+                 style=" background-image: url(//www.clandestino.com.au/cdn/shop/files/instant_banner_1x1.png.jpg?v=1720577353)">
+              
+
+              <img class="Slideshow__Image Image--lazyLoad hide-no-js"
+                   data-src="//www.clandestino.com.au/cdn/shop/files/instant_banner_{width}x.png?v=1720577353"
+                   data-optimumx="1.2"
+                   data-widths="[400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000, 2200]"
+                   data-sizes="auto"
+                   alt="">
+
+              <noscript>
+                <img class="Slideshow__Image" src="//www.clandestino.com.au/cdn/shop/files/instant_banner_1000x.png?v=1720577353" alt="">
+              </noscript>
+            </div><div class="Slideshow__Content Slideshow__Content--bottomLeft">
+              <header class="SectionHeader">
+                <h2 class="SectionHeader__Heading SectionHeader__Heading--emphasize Heading u-h1">INSTANT LOVE</h2><div class="SectionHeader__ButtonWrapper">
+                <div class="ButtonGroup ButtonGroup--spacingSmall "><a href="https://www.clandestino.com.au/collections/coffee" class="ButtonGroup__Item Button">SHOP NOW</a></div>
+              </div>
+              </header>
+            </div></div><div id="Slide49def63b-dcbf-4886-9df2-c70baf4b3aea" class="Slideshow__Slide Carousel__Cell "  data-slide-index="1" ><div class="Slideshow__ImageContainer   hidden-tablet-and-up"
+                 style=" background-image: url(//www.clandestino.com.au/cdn/shop/files/CCC2024_10sec_CUP01_Ver_01_1x1.jpg?v=1715555647)">
+                <img class="Slideshow__Image Image--lazyLoad"
+                     src="//www.clandestino.com.au/cdn/shop/files/CCC2024_10sec_CUP01_Ver_01_1x1.jpg?v=1715555647"
+                     data-src="//www.clandestino.com.au/cdn/shop/files/CCC2024_10sec_CUP01_Ver_01_x800.jpg?v=1715555647"
+                     alt="">
+
+                <noscript>
+                  <img class="Slideshow__Image" src="//www.clandestino.com.au/cdn/shop/files/CCC2024_10sec_CUP01_Ver_01_x800.jpg?v=1715555647" alt="">
+                </noscript>
+            </div><div class="Slideshow__ImageContainer   hidden-phone"
+                 style=" background-image: url(//www.clandestino.com.au/cdn/shop/files/Screenshot_2024-05-15_at_12.08.11_pm_1x1.png.jpg?v=1715747127)">
+              
+
+              <img class="Slideshow__Image Image--lazyLoad hide-no-js"
+                   data-src="//www.clandestino.com.au/cdn/shop/files/Screenshot_2024-05-15_at_12.08.11_pm_{width}x.png?v=1715747127"
+                   data-optimumx="1.2"
+                   data-widths="[400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000, 2200]"
+                   data-sizes="auto"
+                   alt="">
+
+              <noscript>
+                <img class="Slideshow__Image" src="//www.clandestino.com.au/cdn/shop/files/Screenshot_2024-05-15_at_12.08.11_pm_1000x.png?v=1715747127" alt="">
+              </noscript>
+            </div><div class="Slideshow__Content Slideshow__Content--bottomLeft">
+              <header class="SectionHeader">
+                <p class="SectionHeader__Paragraph">Going back to the origins</h3><div class="SectionHeader__ButtonWrapper">
+                <div class="ButtonGroup ButtonGroup--spacingSmall "><a href="https://www.clandestino.com.au/blogs/news/start-me-up" class="ButtonGroup__Item Button">WATCH THE MOVIE</a></div>
+              </div>
+              </header>
+            </div></div><div id="Slidedd956048-4cc3-4927-bc2e-806326aee05e" class="Slideshow__Slide Carousel__Cell "  data-slide-index="2" ><div class="Slideshow__ImageContainer   hidden-tablet-and-up"
+                 style=" background-image: url(//www.clandestino.com.au/cdn/shop/files/3P1A2556_1_1x1.jpg?v=1678240689)">
+                <img class="Slideshow__Image Image--lazyLoad"
+                     src="//www.clandestino.com.au/cdn/shop/files/3P1A2556_1_1x1.jpg?v=1678240689"
+                     data-src="//www.clandestino.com.au/cdn/shop/files/3P1A2556_1_x800.jpg?v=1678240689"
+                     alt="">
+
+                <noscript>
+                  <img class="Slideshow__Image" src="//www.clandestino.com.au/cdn/shop/files/3P1A2556_1_x800.jpg?v=1678240689" alt="">
+                </noscript>
+            </div><div class="Slideshow__ImageContainer   hidden-phone"
+                 style=" background-image: url(//www.clandestino.com.au/cdn/shop/files/brew_crew_4a225acf-4690-46dc-8782-c683ac82fdd3_1x1.jpg?v=1678240516)">
+              
+
+              <img class="Slideshow__Image Image--lazyLoad hide-no-js"
+                   data-src="//www.clandestino.com.au/cdn/shop/files/brew_crew_4a225acf-4690-46dc-8782-c683ac82fdd3_{width}x.jpg?v=1678240516"
+                   data-optimumx="1.2"
+                   data-widths="[400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000, 2200]"
+                   data-sizes="auto"
+                   alt="Clandestino Coffee subscription">
+
+              <noscript>
+                <img class="Slideshow__Image" src="//www.clandestino.com.au/cdn/shop/files/brew_crew_4a225acf-4690-46dc-8782-c683ac82fdd3_1000x.jpg?v=1678240516" alt="Clandestino Coffee subscription">
+              </noscript>
+            </div><div class="Slideshow__Content Slideshow__Content--bottomLeft">
+              <header class="SectionHeader">
+                <h2 class="SectionHeader__Heading SectionHeader__Heading--emphasize Heading u-h1">Free shipping on all subscriptions</h2><div class="SectionHeader__ButtonWrapper">
+                <div class="ButtonGroup ButtonGroup--spacingSmall "><a href="/pages/coffee-subscriptions-old" class="ButtonGroup__Item Button">Join the brew crew</a></div>
+              </div>
+              </header>
+            </div></div><a href="https://www.clandestino.com.au/collections/coffee" id="Slidece935b09-a536-4755-a11b-25db4f2d1b15" class="Slideshow__Slide Carousel__Cell "  data-slide-index="3" ><div class="Slideshow__ImageContainer   hidden-tablet-and-up"
+                 style=" background-image: url(//www.clandestino.com.au/cdn/shop/files/IMG_4533_1x1.jpg?v=1689907868)">
+                <img class="Slideshow__Image Image--lazyLoad"
+                     src="//www.clandestino.com.au/cdn/shop/files/IMG_4533_1x1.jpg?v=1689907868"
+                     data-src="//www.clandestino.com.au/cdn/shop/files/IMG_4533_x800.jpg?v=1689907868"
+                     alt="">
+
+                <noscript>
+                  <img class="Slideshow__Image" src="//www.clandestino.com.au/cdn/shop/files/IMG_4533_x800.jpg?v=1689907868" alt="">
+                </noscript>
+            </div><div class="Slideshow__ImageContainer   hidden-phone"
+                 style=" background-image: url(//www.clandestino.com.au/cdn/shop/files/1kg_bags_banner_1x1.jpg?v=1689907842)">
+              
+
+              <img class="Slideshow__Image Image--lazyLoad hide-no-js"
+                   data-src="//www.clandestino.com.au/cdn/shop/files/1kg_bags_banner_{width}x.jpg?v=1689907842"
+                   data-optimumx="1.2"
+                   data-widths="[400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000, 2200]"
+                   data-sizes="auto"
+                   alt="">
+
+              <noscript>
+                <img class="Slideshow__Image" src="//www.clandestino.com.au/cdn/shop/files/1kg_bags_banner_1000x.jpg?v=1689907842" alt="">
+              </noscript>
+            </div><div class="Slideshow__Content Slideshow__Content--bottomLeft">
+              <header class="SectionHeader">
+                <h2 class="SectionHeader__Heading SectionHeader__Heading--emphasize Heading u-h1">Go BIGGER!</h2><p class="SectionHeader__Paragraph">All your favourite blends now available as 1kg bags</h3>
+              </header>
+            </div></a><div id="Slidefd2b5d61-02e9-4d02-9d64-4f7bc59b2657" class="Slideshow__Slide Carousel__Cell "  data-slide-index="4" ><div class="Slideshow__ImageContainer   hidden-tablet-and-up"
+                 style=" background-image: url(//www.clandestino.com.au/cdn/shop/files/3P1A1917_1x1.jpg?v=1678670590)">
+                <img class="Slideshow__Image Image--lazyLoad"
+                     src="//www.clandestino.com.au/cdn/shop/files/3P1A1917_1x1.jpg?v=1678670590"
+                     data-src="//www.clandestino.com.au/cdn/shop/files/3P1A1917_x800.jpg?v=1678670590"
+                     alt="">
+
+                <noscript>
+                  <img class="Slideshow__Image" src="//www.clandestino.com.au/cdn/shop/files/3P1A1917_x800.jpg?v=1678670590" alt="">
+                </noscript>
+            </div><div class="Slideshow__ImageContainer   hidden-phone"
+                 style=" background-image: url(//www.clandestino.com.au/cdn/shop/files/3P1A1938_61352673-0876-49a7-b3b2-d6b445f0387b_1x1.jpg?v=1677643190)">
+              
+
+              <img class="Slideshow__Image Image--lazyLoad hide-no-js"
+                   data-src="//www.clandestino.com.au/cdn/shop/files/3P1A1938_61352673-0876-49a7-b3b2-d6b445f0387b_{width}x.jpg?v=1677643190"
+                   data-optimumx="1.2"
+                   data-widths="[400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000, 2200]"
+                   data-sizes="auto"
+                   alt="Wholesale Coffee Supple">
+
+              <noscript>
+                <img class="Slideshow__Image" src="//www.clandestino.com.au/cdn/shop/files/3P1A1938_61352673-0876-49a7-b3b2-d6b445f0387b_1000x.jpg?v=1677643190" alt="Wholesale Coffee Supple">
+              </noscript>
+            </div><div class="Slideshow__Content Slideshow__Content--bottomLeft">
+              <header class="SectionHeader">
+                <h2 class="SectionHeader__Heading SectionHeader__Heading--emphasize Heading u-h1">CAFES WANTED</h2><p class="SectionHeader__Paragraph">We’re proud to partner with likeminded hospitality businesses to share great coffee with their community</h3><div class="SectionHeader__ButtonWrapper">
+                <div class="ButtonGroup ButtonGroup--spacingSmall "><a href="/pages/wholesale" class="ButtonGroup__Item Button">Learn more</a></div>
+              </div>
+              </header>
+            </div></div></div></div>
+
+  <span id="section-slideshow-end" class="Anchor"></span>
+</section>
+
+<style>
+  #section-slideshow .Heading,
+   #section-slideshow .flickity-page-dots {
+    color: #000000;
+  }
+
+  #section-slideshow .Button {
+    color: #29160c;
+    border-color: rgba(0,0,0,0);
+  }
+
+  #section-slideshow .Button::before {
+    background-color: rgba(0,0,0,0);
+  }</style>
+
+</div><div id="shopify-section-1593664306632" class="shopify-section shopify-section--bordered"><section class="Section  full-width" id="section-1593664306632" data-section-id="1593664306632"><div class="FeatureText FeatureText--withImage FeatureText--imageRight block-full-width"><div class="FeatureText__ContentWrapper">
+      <div class="FeatureText__Content"><header class="SectionHeader"><h2 class="SectionHeader__Heading Heading u-h1">Subscribe &amp; way more</h2><div class="SectionHeader__Description Rte">
+                <p>Brew Crew peeps have it all. 10% off all coffee, free (OZ) shipping + get access to tips, offers, events and ideas that take your brews to the next level!</p>
+              </div><a href="/collections/coffee" class="Button Button--primary">Join the crew</a></header></div>
+    </div><div class="FeatureText__ImageWrapper"><div class="AspectRatio" style="max-width: 1080px; --aspect-ratio: 1.0"><img class="Image--lazyLoad Image--slideRight" data-src="//www.clandestino.com.au/cdn/shop/files/CC2024_BrewCrew_1080x1080px_01_{width}x.gif?v=1709074194" data-expand="-200" data-widths="[400,600,700,800,900,1000]" data-sizes="auto" alt="">
+
+          <noscript>
+            <img src="//www.clandestino.com.au/cdn/shop/files/CC2024_BrewCrew_1080x1080px_01_800x.gif?v=1709074194" alt="">
+          </noscript>
+        </div>
+      </div></div>
+</section>
+
+<style>
+  #section-1593664306632 {
+    background: #c4c4c4;
+  }
+</style>
+
+</div><div id="shopify-section-9f232ef2-56c1-407b-8bdf-88b44f4b6074" class="shopify-section"><section id="section-9f232ef2-56c1-407b-8bdf-88b44f4b6074"><div class="FlexboxIeFix">
+    <div class="ImageHero ImageHero--large" style="background: url(//www.clandestino.com.au/cdn/shop/files/CC2023_Papa_Banner_230619_03_1x1.png?v=1692852703)">
+      <div class="ImageHero__ImageWrapper">
+        <div class="ImageHero__Image ImageHero__ImageWrapper--hasOverlay Image--lazyLoad Image--zoomOut"
+             data-optimumx="1.4"
+             data-expand="-150"
+             data-bgset="//www.clandestino.com.au/cdn/shop/files/CC2023_Papa_Banner_230619_03_750x960_crop_center.png?v=1692852703 750w, //www.clandestino.com.au/cdn/shop/files/CC2023_Papa_Banner_230619_03_1000x.png?v=1692852703 1000w, //www.clandestino.com.au/cdn/shop/files/CC2023_Papa_Banner_230619_03_1500x.png?v=1692852703 1500w">
+        </div>
+
+        <noscript>
+          <div class="ImageHero__Image" style="background-image: url(//www.clandestino.com.au/cdn/shop/files/CC2023_Papa_Banner_230619_03_1000x.png?v=1692852703)"></div>
+        </noscript></div><div class="ImageHero__ContentOverlay"><header class="SectionHeader"><h2 class="SectionHeader__Heading Heading u-h1">ENVIRONMENTAL - ETHICAL - SUSTAINABLE</h2></header></div></div>
+  </div>
+</section>
+
+<style>
+  #section-9f232ef2-56c1-407b-8bdf-88b44f4b6074,
+  #section-9f232ef2-56c1-407b-8bdf-88b44f4b6074 .Heading {
+    color: #ffffff;
+  }
+
+  #section-9f232ef2-56c1-407b-8bdf-88b44f4b6074 .ImageHero__ImageWrapper--hasOverlay::before {background-color: rgba(0, 0, 0, 0.11);
+  }
+</style>
+
+</div><div id="shopify-section-featured-collections" class="shopify-section shopify-section--bordered"><section class="Section Section--spacingNormal" data-section-id="featured-collections" data-section-type="featured-collections" data-settings='{
+  "layout": "grid"
+}'>
+  <header class="SectionHeader SectionHeader--center">
+    <div class="Container"><h2 class="SectionHeader__Heading Heading u-h1">BREW SHOP<br>
+<span>All tastes, for all peeps</span></h2></div>
+  </header><div class="TabPanel" id="block-featured-collection-0" aria-hidden="false" role="tabpanel" >
+      <div class="ProductListWrapper"><div class="ProductList ProductList--grid ProductList--removeMargin Grid" data-mobile-count="1" data-desktop-count="4"><div class="Grid__Cell 1/1--phone 1/2--tablet 1/4--lap-and-up"><div class="ProductItem ">
+  <div class="ProductItem__Wrapper"><a href="/products/solstice-brew-blend" class="ProductItem__ImageWrapper ProductItem__ImageWrapper--withAlternateImage"><div class="AspectRatio AspectRatio--square" style="max-width: 1108px;  --aspect-ratio: 1.0"><img class="ProductItem__Image ProductItem__Image--alternate Image--lazyLoad Image--fadeIn" data-src="//www.clandestino.com.au/cdn/shop/files/CC2024_WINT_SOL_Web_240612_013_{width}x.png?v=1718237904" data-widths="[200,300,400,600,800,900,1000]" data-sizes="auto" alt="Solstice Brew" data-media-id="38044671672484"><img class="ProductItem__Image Image--lazyLoad Image--fadeIn" data-src="//www.clandestino.com.au/cdn/shop/files/CC2024_WINT_SOL_Web_240612_0132_{width}x.png?v=1718237904" data-widths="[200,400,600,700,800,900,1000]" data-sizes="auto" alt="Solstice Brew" data-media-id="38044671705252">
+        <span class="Image__Loader"></span>
+
+        <noscript>
+          <img class="ProductItem__Image ProductItem__Image--alternate" src="//www.clandestino.com.au/cdn/shop/files/CC2024_WINT_SOL_Web_240612_013_600x.png?v=1718237904" alt="Solstice Brew">
+          <img class="ProductItem__Image" src="//www.clandestino.com.au/cdn/shop/files/CC2024_WINT_SOL_Web_240612_0132_600x.png?v=1718237904" alt="Solstice Brew">
+        </noscript>
+      </div>
+    </a><div class="ProductItem__Info ProductItem__Info--center">
+        
+
+        <h4 class="ProductItem__Title Heading">
+          <a href="/products/solstice-brew-blend">Solstice Brew</a>
+        </h4><p class="ProductItem__Vendor Heading">Toffee, Milk Chocolate, Prunes, Hazelnut Praline</p><div class="ProductItem__PriceList  Heading"><span class="ProductItem__Price Price Text--subdued">From <span>$25</span></span></div></div></div></div></div><div class="Grid__Cell 1/1--phone 1/2--tablet 1/4--lap-and-up"><div class="ProductItem ">
+  <div class="ProductItem__Wrapper"><a href="/products/magneto-organic-blend" class="ProductItem__ImageWrapper "><div class="AspectRatio AspectRatio--square" style="max-width: 3754px;  --aspect-ratio: 1.0026709401709402"><img class="ProductItem__Image Image--lazyLoad Image--fadeIn" data-src="//www.clandestino.com.au/cdn/shop/products/400g-bag-front_{width}x.png?v=1671762628" data-widths="[200,400,600,700,800,900,1000,1200]" data-sizes="auto" alt="Magneto Organic Blend" data-media-id="28021642199204">
+        <span class="Image__Loader"></span>
+
+        <noscript>
+          <img class="ProductItem__Image ProductItem__Image--alternate" src="//www.clandestino.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif" alt="">
+          <img class="ProductItem__Image" src="//www.clandestino.com.au/cdn/shop/products/400g-bag-front_600x.png?v=1671762628" alt="Magneto Organic Blend">
+        </noscript>
+      </div>
+    </a><div class="ProductItem__Info ProductItem__Info--center">
+        
+
+        <h4 class="ProductItem__Title Heading">
+          <a href="/products/magneto-organic-blend">Magneto Organic Blend</a>
+        </h4><p class="ProductItem__Vendor Heading">Rich Cocoa, Dried Berries, Nuts</p><div class="ProductItem__PriceList  Heading"><span class="ProductItem__Price Price Text--subdued">From <span>$25</span></span></div></div></div></div></div><div class="Grid__Cell 1/1--phone 1/2--tablet 1/4--lap-and-up"><div class="ProductItem ">
+  <div class="ProductItem__Wrapper"><a href="/products/humdinger-blend-season-5" class="ProductItem__ImageWrapper "><div class="AspectRatio AspectRatio--square" style="max-width: 3754px;  --aspect-ratio: 1.0026709401709402"><img class="ProductItem__Image Image--lazyLoad Image--fadeIn" data-src="//www.clandestino.com.au/cdn/shop/products/400g-bag-front_05_{width}x.png?v=1671762768" data-widths="[200,400,600,700,800,900,1000,1200]" data-sizes="auto" alt="Humdinger Blend" data-media-id="28021658812580">
+        <span class="Image__Loader"></span>
+
+        <noscript>
+          <img class="ProductItem__Image ProductItem__Image--alternate" src="//www.clandestino.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif" alt="">
+          <img class="ProductItem__Image" src="//www.clandestino.com.au/cdn/shop/products/400g-bag-front_05_600x.png?v=1671762768" alt="Humdinger Blend">
+        </noscript>
+      </div>
+    </a><div class="ProductItem__Info ProductItem__Info--center">
+        
+
+        <h4 class="ProductItem__Title Heading">
+          <a href="/products/humdinger-blend-season-5">Humdinger Blend</a>
+        </h4><p class="ProductItem__Vendor Heading">Cherry Cola, Honey Dew, Blueberry, Strawberry, Apricot, Black Tea</p><div class="ProductItem__PriceList  Heading"><span class="ProductItem__Price Price Text--subdued">From <span>$26</span></span></div></div></div></div></div><div class="Grid__Cell 1/1--phone 1/2--tablet 1/4--lap-and-up"><div class="ProductItem ">
+  <div class="ProductItem__Wrapper"><a href="/products/muda-tatesa" class="ProductItem__ImageWrapper "><div class="AspectRatio AspectRatio--square" style="max-width: 900px;  --aspect-ratio: 1.0022271714922049"><img class="ProductItem__Image Image--lazyLoad Image--fadeIn" data-src="//www.clandestino.com.au/cdn/shop/files/Mudatetesawebimage_{width}x.png?v=1698283837" data-widths="[200,400,600,700,800,900]" data-sizes="auto" alt="Muda Tatesa" data-media-id="36146361073828">
+        <span class="Image__Loader"></span>
+
+        <noscript>
+          <img class="ProductItem__Image ProductItem__Image--alternate" src="//www.clandestino.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif" alt="">
+          <img class="ProductItem__Image" src="//www.clandestino.com.au/cdn/shop/files/Mudatetesawebimage_600x.png?v=1698283837" alt="Muda Tatesa">
+        </noscript>
+      </div>
+    </a><div class="ProductItem__Info ProductItem__Info--center">
+        
+
+        <h4 class="ProductItem__Title Heading">
+          <a href="/products/muda-tatesa">Muda Tatesa</a>
+        </h4><p class="ProductItem__Vendor Heading">Tropical Fruits, Strawberries & Cream, Caramel, Dried Cranberries, Mandarin</p><div class="ProductItem__PriceList  Heading"><span class="ProductItem__Price Price Text--subdued">From <span>$27</span></span></div></div></div></div></div></div></div><div class="Container">
+          <div class="SectionFooter">
+            <a href="/collections/coffee" class="Button Button--primary">SHOP ALL COFFEE</a>
+          </div>
+        </div></div></section></div><div id="shopify-section-featured_video_wonton_pLDVWc" class="shopify-section"><section class="Section" id="section-featured_video_wonton_pLDVWc">
+
+
+
+
+  <div id="video-hero-wrap" class="FlexboxIeFix"><div class="VideoHero" style="background: url(//www.clandestino.com.au/cdn/shop/files/Cover_photo_for_the_video_if_you_need_it_1x1.jpg?v=1715747401)">
+      <div class="ImageHero__ImageWrapper">
+        <div class="ImageHero__Image Image--lazyLoad Image--zoomOut"
+             data-optimumx="1.4"
+             data-expand="-150"
+             data-bgset="//www.clandestino.com.au/cdn/shop/files/Cover_photo_for_the_video_if_you_need_it_750x960_crop_center.jpg?v=1715747401 750w, //www.clandestino.com.au/cdn/shop/files/Cover_photo_for_the_video_if_you_need_it_1000x.jpg?v=1715747401 1000w, //www.clandestino.com.au/cdn/shop/files/Cover_photo_for_the_video_if_you_need_it_1500x.jpg?v=1715747401 1500w">
+        </div>
+
+        <noscript>
+          <div class="ImageHero__Image" style="background-image: url(//www.clandestino.com.au/cdn/shop/files/Cover_photo_for_the_video_if_you_need_it_1000x.jpg?v=1715747401)"></div>
+        </noscript></div>
+
+      <div class="ImageHero__ContentOverlay">
+        <header class="SectionHeader"><div class="SectionHeader__IconHolder">
+            <button id="play-button" type="button" class="Video__PlayButton" data-action="open-modal" aria-label="Play video" aria-controls="modal-featured_video_wonton_pLDVWc"><svg class="Icon Icon--play" role="presentation" viewBox="0 0 24 24">
+      <path d="M12 0C5.383 0 0 5.383 0 12s5.383 12 12 12 12-5.383 12-12S18.617 0 12 0zm-2 15.5V9l4.5 3.25L10 15.5z" fill="currentColor"></path>
+    </svg></button>
+          </div>
+        </header>
+      </div>
+    </div>
+
+    
+  </div>
+  <div id="VideoIframeWrapper" class="VideoHero"></div>
+
+
+</section>
+
+<style>
+  #section-featured_video_wonton_pLDVWc,
+  #section-featured_video_wonton_pLDVWc .Heading {
+    color: #ffffff;
+  }
+</style>
+
+<script>
+
+
+   function createIframe() {
+        var iframe = document.createElement('iframe');
+        iframe.id = 'video-iframe';
+        iframe.src = 'https://www.youtube.com/embed/G82yAypWMN0?enablejsapi=1&autoplay=1&loop=1&controls=1&rel=0';
+        //iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+        iframe.allow = 'encrypted-media; autoplay';
+        iframe.allowFullscreen = true;
+        document.getElementById('VideoIframeWrapper').appendChild(iframe);
+        return iframe;
+    }
+
+  function onYouTubeIframeAPIReady() {
+        console.log('onYouTubeIframeAPIReady');
+        document.getElementById('play-button').addEventListener('click', function() {
+        console.log('play-button clicked');
+          
+            // Hide the cover div and show video with animation  
+            var cover = document.getElementById('video-hero-wrap');
+            cover.classList.add('hide');
+            setTimeout(function() {
+                    cover.classList.add('hidden');
+                    document.getElementById('VideoIframeWrapper').classList.add('show');
+            }, 1000); // Delay to match the cover hide animation duration
+          
+            // Create the iframe and initialize the player
+            var iframe = createIframe();
+            player = new YT.Player(iframe, {
+                events: {
+                    'onReady': function(event) {
+                        event.target.playVideo();
+                    }
+                }
+            });
+        });
+    }
+  window.onYouTubeIframeAPIReady = onYouTubeIframeAPIReady;
+</script>
+
+</div><div id="shopify-section-featured_collections_tABapb" class="shopify-section shopify-section--bordered"><section class="Section Section--spacingNormal" data-section-id="featured_collections_tABapb" data-section-type="featured-collections" data-settings='{
+  "layout": "grid"
+}'>
+  <header class="SectionHeader SectionHeader--center">
+    <div class="Container"><h2 class="SectionHeader__Heading Heading u-h1">BREW KIT<br>
+<span>All THE BITS, for all COFFEE PEERS</span></h2></div>
+  </header><div class="TabPanel" id="block-collection_LBCKcn" aria-hidden="false" role="tabpanel" >
+      <div class="ProductListWrapper"><div class="ProductList ProductList--grid ProductList--removeMargin Grid" data-mobile-count="1" data-desktop-count="4"><div class="Grid__Cell 1/1--phone 1/2--tablet 1/4--lap-and-up"><div class="ProductItem ">
+  <div class="ProductItem__Wrapper"><a href="/products/acaia-pearl-brewing-scale" class="ProductItem__ImageWrapper ProductItem__ImageWrapper--withAlternateImage"><div class="AspectRatio AspectRatio--square" style="max-width: 500px;  --aspect-ratio: 1.0"><img class="ProductItem__Image ProductItem__Image--alternate Image--lazyLoad Image--fadeIn" data-src="//www.clandestino.com.au/cdn/shop/products/Acaia-Pearl-Scale-Black03_740x740_c9a53e9d-380d-4cf4-bc60-4d19150a3ac7_{width}x.jpg?v=1602728209" data-widths="[200,300,400,600]" data-sizes="auto" alt="Acaia brewing scale black" data-media-id="12210709889188"><img class="ProductItem__Image Image--lazyLoad Image--fadeIn" data-src="//www.clandestino.com.au/cdn/shop/products/home-pearl_{width}x.jpg?v=1602728197" data-widths="[200,400]" data-sizes="auto" alt="Acaia brewing scale " data-media-id="12210710708388">
+        <span class="Image__Loader"></span>
+
+        <noscript>
+          <img class="ProductItem__Image ProductItem__Image--alternate" src="//www.clandestino.com.au/cdn/shop/products/Acaia-Pearl-Scale-Black03_740x740_c9a53e9d-380d-4cf4-bc60-4d19150a3ac7_600x.jpg?v=1602728209" alt="Acaia brewing scale black">
+          <img class="ProductItem__Image" src="//www.clandestino.com.au/cdn/shop/products/home-pearl_600x.jpg?v=1602728197" alt="Acaia brewing scale ">
+        </noscript>
+      </div>
+    </a><div class="ProductItem__Info ProductItem__Info--center">
+        
+
+        <h4 class="ProductItem__Title Heading">
+          <a href="/products/acaia-pearl-brewing-scale">Acaia Pearl Brewing Scale</a>
+        </h4><div class="ProductItem__PriceList  Heading"><span class="ProductItem__Price Price Text--subdued">$299</span></div></div></div></div></div><div class="Grid__Cell 1/1--phone 1/2--tablet 1/4--lap-and-up"><div class="ProductItem ">
+  <div class="ProductItem__Wrapper"><a href="/products/aeropress" class="ProductItem__ImageWrapper "><div class="AspectRatio AspectRatio--square" style="max-width: 1649px;  --aspect-ratio: 1.0"><img class="ProductItem__Image Image--lazyLoad Image--fadeIn" data-src="//www.clandestino.com.au/cdn/shop/products/aeropress-coffee-maker_{width}x.jpg?v=1657164650" data-widths="[200,400,600,700,800,900,1000,1200]" data-sizes="auto" alt="AeroPress Coffee Maker" data-media-id="26651578630308">
+        <span class="Image__Loader"></span>
+
+        <noscript>
+          <img class="ProductItem__Image ProductItem__Image--alternate" src="//www.clandestino.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif" alt="">
+          <img class="ProductItem__Image" src="//www.clandestino.com.au/cdn/shop/products/aeropress-coffee-maker_600x.jpg?v=1657164650" alt="AeroPress Coffee Maker">
+        </noscript>
+      </div>
+    </a><div class="ProductItem__Info ProductItem__Info--center">
+        
+
+        <h4 class="ProductItem__Title Heading">
+          <a href="/products/aeropress">AeroPress Coffee Maker</a>
+        </h4><div class="ProductItem__PriceList  Heading"><span class="ProductItem__Price Price Text--subdued">$52</span></div></div></div></div></div><div class="Grid__Cell 1/1--phone 1/2--tablet 1/4--lap-and-up"><div class="ProductItem ">
+  <div class="ProductItem__Wrapper"><a href="/products/aeropress-go-travel-coffee-press" class="ProductItem__ImageWrapper "><div class="AspectRatio AspectRatio--square" style="max-width: 1600px;  --aspect-ratio: 1.0"><img class="ProductItem__Image Image--lazyLoad Image--fadeIn" data-src="//www.clandestino.com.au/cdn/shop/products/aeropress-go-coffee-maker-4_{width}x.jpg?v=1602732548" data-widths="[200,400,600,700,800,900,1000,1200]" data-sizes="auto" alt="AeroPress Go Travel Coffee Press" data-media-id="12024761909412">
+        <span class="Image__Loader"></span>
+
+        <noscript>
+          <img class="ProductItem__Image ProductItem__Image--alternate" src="//www.clandestino.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif" alt="">
+          <img class="ProductItem__Image" src="//www.clandestino.com.au/cdn/shop/products/aeropress-go-coffee-maker-4_600x.jpg?v=1602732548" alt="AeroPress Go Travel Coffee Press">
+        </noscript>
+      </div>
+    </a><div class="ProductItem__Info ProductItem__Info--center">
+        
+
+        <h4 class="ProductItem__Title Heading">
+          <a href="/products/aeropress-go-travel-coffee-press">AeroPress Go Travel Coffee Press</a>
+        </h4><div class="ProductItem__PriceList  Heading"><span class="ProductItem__Price Price Text--subdued">$55</span></div></div></div></div></div><div class="Grid__Cell 1/1--phone 1/2--tablet 1/4--lap-and-up"><div class="ProductItem ">
+  <div class="ProductItem__Wrapper"><a href="/products/moccamaster-classic-brew" class="ProductItem__ImageWrapper ProductItem__ImageWrapper--withAlternateImage"><div class="AspectRatio AspectRatio--square" style="max-width: 819px;  --aspect-ratio: 1.0"><img class="ProductItem__Image ProductItem__Image--alternate Image--lazyLoad Image--fadeIn" data-src="//www.clandestino.com.au/cdn/shop/products/Moccamaster_Classic_White_{width}x.png?v=1633919935" data-widths="[200,300,400,600,800]" data-sizes="auto" alt="Moccamaster Classic Brewer" data-media-id="24008732213412"><img class="ProductItem__Image Image--lazyLoad Image--fadeIn" data-src="//www.clandestino.com.au/cdn/shop/products/Moccamaster_Classic_Polished_Black_{width}x.png?v=1633920007" data-widths="[200,400,600,700,800]" data-sizes="auto" alt="Moccamaster Classic Brewer" data-media-id="24008740634788">
+        <span class="Image__Loader"></span>
+
+        <noscript>
+          <img class="ProductItem__Image ProductItem__Image--alternate" src="//www.clandestino.com.au/cdn/shop/products/Moccamaster_Classic_White_600x.png?v=1633919935" alt="Moccamaster Classic Brewer">
+          <img class="ProductItem__Image" src="//www.clandestino.com.au/cdn/shop/products/Moccamaster_Classic_Polished_Black_600x.png?v=1633920007" alt="Moccamaster Classic Brewer">
+        </noscript>
+      </div>
+    </a><div class="ProductItem__Info ProductItem__Info--center">
+        
+
+        <h4 class="ProductItem__Title Heading">
+          <a href="/products/moccamaster-classic-brew">Moccamaster Classic Brewer</a>
+        </h4><div class="ProductItem__PriceList  Heading"><span class="ProductItem__Price Price Text--subdued">$495</span></div></div></div></div></div></div></div><div class="Container">
+          <div class="SectionFooter">
+            <a href="/collections/equipment" class="Button Button--primary">View all products</a>
+          </div>
+        </div></div></section></div><div id="shopify-section-26e3254f-0103-4763-94ea-c4a38820f811" class="shopify-section shopify-section--bordered"><section class="Section" id="section-26e3254f-0103-4763-94ea-c4a38820f811">
+  <div class="Container"><div class="Rte" style="text-align: center">
+      <h2 class="SectionHeader__Heading Heading u-h1">OUR BREW WORLD <br> <span>GO CRAZY ABOUT COFFEE</span> </h2>
+    </div>
+  </div>
+</section>
+
+<style type="text/css">
+  .Section-section-bg {
+    background-image: url('//www.clandestino.com.au/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif');
+    background-size: contain;
+    background-position: center;
+    height: 10vw;
+    background-repeat: no-repeat;
+  }
+
+
+  </style>
+
+</div><div id="shopify-section-af698463-8f07-41eb-aeb9-93dac303d655" class="shopify-section"><section id="section-af698463-8f07-41eb-aeb9-93dac303d655" data-section-id="af698463-8f07-41eb-aeb9-93dac303d655" data-section-type="collection-list"><div class="CollectionList CollectionList--grid CollectionList--spaced">
+      <div  class="CollectionItem  Carousel__Cell " data-slide-index=""><a href="https://www.clandestino.com.au/blogs/news/10-years-of-pouring-exploring-new-flavours" class="CollectionItem__Link">
+  <div class="CollectionItem__Wrapper CollectionItem__Wrapper--normal" style="background-image: url(//www.clandestino.com.au/cdn/shop/files/Screen_Shot_2023-07-27_at_2.07.43_pm_1x1.png?v=1690430883)">
+    <div class="CollectionItem__ImageWrapper">
+      <div class="CollectionItem__Image  Image--lazyLoad Image--zoomOut hide-no-js"
+           style="background-position: center center"
+           data-optimumx="1.4"
+           data-expand="-150"
+           data-bgset="//www.clandestino.com.au/cdn/shop/files/Screen_Shot_2023-07-27_at_2.07.43_pm_750x676_crop_center.png?v=1690430883 750w, //www.clandestino.com.au/cdn/shop/files/Screen_Shot_2023-07-27_at_2.07.43_pm_1000x.png?v=1690430883 1000w, //www.clandestino.com.au/cdn/shop/files/Screen_Shot_2023-07-27_at_2.07.43_pm_1500x.png?v=1690430883 1500w"></div><noscript>
+          <div class="CollectionItem__Image " style="background-position: center center; background-image: url(//www.clandestino.com.au/cdn/shop/files/Screen_Shot_2023-07-27_at_2.07.43_pm_1000x.png?v=1690430883)"></div>
+        </noscript></div>
+
+  </div>
+  <div class="CollectionItem__Content CollectionItem__Content--bottomLeft">
+      <header class="SectionHeader"><h3 class="SectionHeader__SubHeading Heading u-h6">Roasted in Noosaville</h3><h3 class="SectionHeader__Heading Heading u-h4">We believe in sourcing great coffee while making a positive impact through partnering with coffee around the world.</h3>
+
+          <div class="links"><a href="https://www.clandestino.com.au/blogs/news/10-years-of-pouring-exploring-new-flavours" class="CollectionItem__Link Link--underline">READ MORE</a></div>
+
+      </header>
+    </div>
+  </a>
+</div><div  class="CollectionItem  Carousel__Cell " data-slide-index=""><a href="/pages/brew-guides" class="CollectionItem__Link">
+  <div class="CollectionItem__Wrapper CollectionItem__Wrapper--normal" style="background-image: url(//www.clandestino.com.au/cdn/shop/files/brew_guides_website_homepage_1500x_bba06396-52a9-4cee-ade5-e024fab07d80_1x1.webp?v=1670294822)">
+    <div class="CollectionItem__ImageWrapper">
+      <div class="CollectionItem__Image  Image--lazyLoad Image--zoomOut hide-no-js"
+           style="background-position: center center"
+           data-optimumx="1.4"
+           data-expand="-150"
+           data-bgset="//www.clandestino.com.au/cdn/shop/files/brew_guides_website_homepage_1500x_bba06396-52a9-4cee-ade5-e024fab07d80_750x960_crop_center.webp?v=1670294822 750w, //www.clandestino.com.au/cdn/shop/files/brew_guides_website_homepage_1500x_bba06396-52a9-4cee-ade5-e024fab07d80_1000x.webp?v=1670294822 1000w, //www.clandestino.com.au/cdn/shop/files/brew_guides_website_homepage_1500x_bba06396-52a9-4cee-ade5-e024fab07d80_1500x.webp?v=1670294822 1500w"></div><noscript>
+          <div class="CollectionItem__Image " style="background-position: center center; background-image: url(//www.clandestino.com.au/cdn/shop/files/brew_guides_website_homepage_1500x_bba06396-52a9-4cee-ade5-e024fab07d80_1000x.webp?v=1670294822)"></div>
+        </noscript></div>
+
+  </div>
+  <div class="CollectionItem__Content CollectionItem__Content--bottomLeft">
+      <header class="SectionHeader"><h3 class="SectionHeader__SubHeading Heading u-h6">Brew Guides</h3><h3 class="SectionHeader__Heading Heading u-h4">Tips and tricks to delicious brews through your favourite method</h3>
+
+          <div class="links"><a href="/pages/brew-guides" class="CollectionItem__Link Link--underline">LEARN MORE</a></div>
+
+      </header>
+    </div>
+  </a>
+</div><div  class="CollectionItem  Carousel__Cell " data-slide-index=""><a href="/pages/find-your-course" class="CollectionItem__Link">
+  <div class="CollectionItem__Wrapper CollectionItem__Wrapper--normal" style="background-image: url(//www.clandestino.com.au/cdn/shop/files/coffee-courses_750x960_crop_center_5fb9f7a5-5686-449e-a991-e7fd714a25b2_1x1.webp?v=1670294731)">
+    <div class="CollectionItem__ImageWrapper">
+      <div class="CollectionItem__Image  Image--lazyLoad Image--zoomOut hide-no-js"
+           style="background-position: center center"
+           data-optimumx="1.4"
+           data-expand="-150"
+           data-bgset="//www.clandestino.com.au/cdn/shop/files/coffee-courses_750x960_crop_center_5fb9f7a5-5686-449e-a991-e7fd714a25b2_750x960_crop_center.webp?v=1670294731 750w, //www.clandestino.com.au/cdn/shop/files/coffee-courses_750x960_crop_center_5fb9f7a5-5686-449e-a991-e7fd714a25b2_1000x.webp?v=1670294731 1000w, //www.clandestino.com.au/cdn/shop/files/coffee-courses_750x960_crop_center_5fb9f7a5-5686-449e-a991-e7fd714a25b2_1500x.webp?v=1670294731 1500w"></div><noscript>
+          <div class="CollectionItem__Image " style="background-position: center center; background-image: url(//www.clandestino.com.au/cdn/shop/files/coffee-courses_750x960_crop_center_5fb9f7a5-5686-449e-a991-e7fd714a25b2_1000x.webp?v=1670294731)"></div>
+        </noscript></div>
+
+  </div>
+  <div class="CollectionItem__Content CollectionItem__Content--bottomLeft">
+      <header class="SectionHeader"><h3 class="SectionHeader__SubHeading Heading u-h6">Coffee Courses</h3><h3 class="SectionHeader__Heading Heading u-h4">Wanting to skill up? We offer training for hospitality stars and home baristas.</h3>
+
+          <div class="links"><a href="/pages/find-your-course" class="CollectionItem__Link Link--underline">BOOK A CLASS</a></div>
+
+      </header>
+    </div>
+  </a>
+</div>
+    </div></section>
+
+<style>
+  #section-af698463-8f07-41eb-aeb9-93dac303d655 .CollectionItem .Heading,
+  #section-af698463-8f07-41eb-aeb9-93dac303d655 .flickity-page-dots {
+    color: #ffffff;
+  }
+
+  #section-af698463-8f07-41eb-aeb9-93dac303d655 .CollectionItem__Link {
+    color: #363636;
+    border-color: #ffffff;
+  }
+
+  #section-af698463-8f07-41eb-aeb9-93dac303d655 .CollectionItem__Link::before {
+    background-color: #ffffff;
+  }
+
+  @media (-moz-touch-enabled: 0), (hover: hover) {
+    #section-af698463-8f07-41eb-aeb9-93dac303d655 .CollectionItem__Link:hover {
+      color: #ffffff;
+    }
+  }
+</style>
+
+</div><div id="shopify-section-image_with_text_overlay_eLeE3A" class="shopify-section"><section id="section-image_with_text_overlay_eLeE3A"><div class="FlexboxIeFix">
+    <div class="ImageHero ImageHero--large" style="background: url(//www.clandestino.com.au/cdn/shop/files/IMG_7204_1x1.jpg?v=1663563634)">
+      <div class="ImageHero__ImageWrapper">
+        <div class="ImageHero__Image ImageHero__ImageWrapper--hasOverlay Image--lazyLoad Image--zoomOut"
+             data-optimumx="1.4"
+             data-expand="-150"
+             data-bgset="//www.clandestino.com.au/cdn/shop/files/IMG_7204_750x960_crop_center.jpg?v=1663563634 750w, //www.clandestino.com.au/cdn/shop/files/IMG_7204_1000x.jpg?v=1663563634 1000w, //www.clandestino.com.au/cdn/shop/files/IMG_7204_1500x.jpg?v=1663563634 1500w">
+        </div>
+
+        <noscript>
+          <div class="ImageHero__Image" style="background-image: url(//www.clandestino.com.au/cdn/shop/files/IMG_7204_1000x.jpg?v=1663563634)"></div>
+        </noscript></div><div class="ImageHero__ContentOverlay"><header class="SectionHeader"><h2 class="SectionHeader__Heading Heading u-h1">WE ARE, BECAUSE YOU ARE</h2></header></div></div>
+  </div>
+</section>
+
+<style>
+  #section-image_with_text_overlay_eLeE3A,
+  #section-image_with_text_overlay_eLeE3A .Heading {
+    color: #ffffff;
+  }
+
+  #section-image_with_text_overlay_eLeE3A .ImageHero__ImageWrapper--hasOverlay::before {background-color: rgba(0, 0, 0, 0.3);
+  }
+</style>
+
+</div><!-- END content_for_index --><div class="recently-viewed"></div><div class="trending-products"></div><div class="evm-most-popular-products"></div><div class="evm-new-arrivals-product"></div><div class="evm-featured-collections-product"></div><div class="evm-related-viewed-browsing"></div>
+      </main>
+
+
+
+    
+
+    
+
+    
+
+    
+    </div>
+      <div id="shopify-section-footer" class="shopify-section shopify-section--footer"><div class="newsletter">
+  <div class="Container">
+    <div class="Grid">
+<!--         <div class="Grid__Cell 1--phone 1--tablet-and-up 1/2--lap-and-up">
+          <div class="newsletter-foot">
+          <h3 class="u-h4">Newsletter</h3>
+          <p>Join the Clandestino Coffee mailing list to stay in loop with 
+              all the latest news and special offers</p> 
+          </div>
+        </div>
+        <div class="Grid__Cell 1--phone 1--tablet-and-up 1/2--lap-and-up" style="min-height:200px;">
+    
+          <div class="klaviyo-form-Rx7eeS"></div>
+
+        </div> -->
+
+      <div class="Grid__Cell 1--phone 1--tablet-and-up 1--lap-and-up">
+          <div class="newsletter-foot">
+                
+            <img src="//www.clandestino.com.au/cdn/shop/t/12/assets/icon_clandestino_sign-up.png?v=20397961416503797471670293615" alt="">
+            <h3 class="u-h4">SIGN UP!</h3>
+            <p class="sub-title">ARE YOU A COFFEE NUT,<br>
+              OR NUTS ABOUT COFFEE? <br>
+              OUR NEWSLETTER NEEDS <br>
+              YOUR TOILET READING<br>
+              TIME</p>
+            <p>Join the Clandestino Coffee mailing list to stay in loop with 
+              all the latest news and special offers</p> 
+          </div>
+        </div>
+        <div class="Grid__Cell 1--phone 1--tablet-and-up 1--lap-and-up" style="min-height:200px;">
+    
+          <div class="klaviyo-form-Rx7eeS"></div>
+
+        </div>
+    </div>
+  </div>
+</div>
+
+<footer id="section-footer" data-section-id="footer" data-section-type="footer" class="Footer  " role="contentinfo">
+  <div class="Container"><div class="Footer__Inner"><div class="Footer__Block Footer__Block--text" ><h2 class="Footer__Title Heading u-h6"><img src="https://cdn.shopify.com/s/files/1/0417/9994/2308/files/Cc2022_Brand_Prop_325px_03_2.gif?v=1670293938" class="footer-logo"></h2><div class="Footer__Content Rte">
+                    <p></p>
+                  </div></div><div class="Footer__Block Footer__Block--links" ><ul class="Linklist"><li class="Linklist__Item">
+                        <a href="https://www.clandestino.com.au/account" class="Link Link--primary">My Account</a>
+                      </li><li class="Linklist__Item">
+                        <a href="/collections/equipment" class="Link Link--primary">Shop</a>
+                      </li><li class="Linklist__Item">
+                        <a href="https://www.clandestino.com.au/pages/subscriptions" class="Link Link--primary">Coffee Subscriptions</a>
+                      </li><li class="Linklist__Item">
+                        <a href="https://www.clandestino.com.au/pages/brew-guides" class="Link Link--primary">Brew Guides</a>
+                      </li><li class="Linklist__Item">
+                        <a href="/pages/wholesale" class="Link Link--primary">Wholesale &amp; Office Supply</a>
+                      </li><li class="Linklist__Item">
+                        <a href="https://www.clandestino.com.au/pages/our-sustainability-journey" class="Link Link--primary">Sustainability</a>
+                      </li><li class="Linklist__Item">
+                        <a href="/blogs/news" class="Link Link--primary">Blog</a>
+                      </li></ul></div><div class="Footer__Block Footer__Block--text" ><div class="Footer__Content Rte">
+                    <p><a href="/pages/faqs" title="FAQs">FAQs<br/></a><a href="/policies/terms-of-service" title="Terms of Service">Terms of Service<br/></a><a href="/policies/privacy-policy" title="Privacy Policy">Privacy Policy<br/></a>Clandestino Coffee © 2024<br/>All rights reserved</p><p>Website Mighty Wonton<br/>Brand Aa</p>
+                  </div></div><div class="Footer__Block Footer__Block--links" ><ul class="Linklist"><li class="Linklist__Item">
+                        <a href="https://www.clandestino.com.au/account" class="Link Link--primary">My Account</a>
+                      </li><li class="Linklist__Item">
+                        <a href="/collections/equipment" class="Link Link--primary">Shop</a>
+                      </li><li class="Linklist__Item">
+                        <a href="https://www.clandestino.com.au/pages/subscriptions" class="Link Link--primary">Coffee Subscriptions</a>
+                      </li><li class="Linklist__Item">
+                        <a href="https://www.clandestino.com.au/pages/brew-guides" class="Link Link--primary">Brew Guides</a>
+                      </li><li class="Linklist__Item">
+                        <a href="/pages/wholesale" class="Link Link--primary">Wholesale &amp; Office Supply</a>
+                      </li><li class="Linklist__Item">
+                        <a href="https://www.clandestino.com.au/pages/our-sustainability-journey" class="Link Link--primary">Sustainability</a>
+                      </li><li class="Linklist__Item">
+                        <a href="/blogs/news" class="Link Link--primary">Blog</a>
+                      </li></ul></div></div><div class="Footer__Aside"><div class="Footer__Copyright" style="display:none">
+        <a href="/" class="Footer__StoreName Heading u-h7 Link Link--secondary">© Clandestino Coffee</a>
+        <p class="Footer__ThemeAuthor">Site by <a href="http://ebbandflowstudio.com" target="_blank">Ebb & Flow Studio</a></p>
+      </div></div>
+  </div>
+</footer>
+
+</div>
+      <div id="shopify-section-popup-subscriptions" class="shopify-section">
+
+<div id="subscription-popup__container" class="subscription-popup__container">
+<div id="subscription-popup__close" class="subscription-popup__background"></div>
+  <div class="subscription-popup">
+    <div class="subscription-popup__header">
+      <h2>Perks of joining the Crew</h2>
+      <p></p><p></p>
+    </div>
+    <div class="subscription-popup__content">
+      	
+      		
+      			<div class="benefits">
+                  <div class="benefits__icon">
+                  	<img src="//www.clandestino.com.au/cdn/shop/files/offer_01_small.png?v=1707862362" />
+                  </div>
+                  <div class="benefits__text">
+                    <p>Save on all coffees, forever</p>
+                  </div>
+                  
+      			</div>
+      		
+		
+      		
+      			<div class="benefits">
+                  <div class="benefits__icon">
+                  	<img src="//www.clandestino.com.au/cdn/shop/files/offer_02_small.png?v=1707862363" />
+                  </div>
+                  <div class="benefits__text">
+                    <p>Get free shipping Oz-wide</p>
+                  </div>
+                  
+      			</div>
+      		
+		
+      		
+      			<div class="benefits">
+                  <div class="benefits__icon">
+                  	<img src="//www.clandestino.com.au/cdn/shop/files/offer_03_small.png?v=1707862362" />
+                  </div>
+                  <div class="benefits__text">
+                    <p>Freedom to add, update or pause subscription anytime</p>
+                  </div>
+                  
+      			</div>
+      		
+		
+      		
+      			<div class="benefits">
+                  <div class="benefits__icon">
+                  	<img src="//www.clandestino.com.au/cdn/shop/files/offer_04_small.png?v=1707862362" />
+                  </div>
+                  <div class="benefits__text">
+                    <p>Build your own coffee experience at home</p>
+                  </div>
+                  
+      			</div>
+      		
+		
+      		
+      			<div class="benefits">
+                  <div class="benefits__icon">
+                  	<img src="//www.clandestino.com.au/cdn/shop/files/offer_06_small.png?v=1707862362" />
+                  </div>
+                  <div class="benefits__text">
+                    <p>Early access to offers, pre-sales and merch for crew members</p>
+                  </div>
+                  
+      			</div>
+      		
+		
+    </div></div>
+</div>
+
+
+
+
+
+
+
+
+</div>
+
+    <script async type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=V9aSbf"></script>
+  <!-- Begin ReCharge code -->
+<!-- Subscriptions Powered by ReCharge Payments: Begin Liquid Code -->
+<!--
+	Subscription Theme Footer
+	http://rechargepayments.com: v2
+	Updated: 2017/09/12
+-->
+
+	<script>
+		// Subscriptions Powered by ReCharge Payments: JavaScript
+		(function() {
+			// Basic function to load script files, will be used to include jQuery
+			var loadScript = function(url, callback) {
+				var script = document.createElement("script");
+				script.type = "text/javascript";
+				// If the browser is Internet Explorer
+				if (script.readyState){
+					script.onreadystatechange = function() {
+						if (script.readyState == "loaded" || script.readyState == "complete") {
+							script.onreadystatechange = null;
+							callback();
+						}
+					};
+				// For any other browser
+				} else {
+					script.onload = function() {
+						callback();
+					};
+				}
+				script.src = url;
+				document.getElementsByTagName("head")[0].appendChild(script);
+			};
+			// This is our JavaScript that we'll run after jQuery is included
+			var reChargeThemeFooterJS = function($) {
+				function reChargeSaveCartNoteAndRedirectToCart() {
+					var has_cart_note_or_attribute = false;
+					try {
+						var data = {};
+						if ($('[name="note"]').val() != undefined) {
+							var note = $('[name="note"]').val();
+							data['note'] = note;
+							has_cart_note_or_attribute = true;
+						}
+						if (has_cart_note_or_attribute) {
+							$.ajax({
+								type: 'POST',
+								data: data,
+								url: '/cart/update.js',
+								dataType: 'json',
+								success: function() {
+									window.location.href = '/cart';
+								}
+							});
+						} else {
+							window.location.href = '/cart';
+						}
+					} catch (e) {
+						window.location.href = '/cart';
+					}
+				}
+				var checkout_button_selectors = '[href="/checkout"], form[action="/cart"] button[type="submit"], form[action="/cart"] input[type="submit"], form[action="/checkout"] input[type="submit"], form[action="/checkout"] button[type="submit"]';
+				$(document).on('click', checkout_button_selectors, function(e) {
+					if (!e.target.hasAttribute('data-disable-recharge')) {
+						e.preventDefault();
+						reChargeSaveCartNoteAndRedirectToCart();
+						window.location.href = '/cart';
+					} else {
+						console.info('ReCharge disabled');
+					}
+				});
+			}
+			// Check if jQuery is added, if not, then we'll loadScript, otherwise, run reChargeJS
+			if ((typeof(jQuery) == 'undefined') || (parseInt(jQuery.fn.jquery) == 1 && parseFloat(jQuery.fn.jquery.replace(/^1\./,"")) < 7.2)) {
+				// We'll get our jQuery from Google APIs
+				loadScript('//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js', function() {
+					jQuery172 = jQuery.noConflict(true);
+					reChargeThemeFooterJS(jQuery172);
+				});
+			} else {
+				reChargeThemeFooterJS(jQuery);
+			}
+		})();
+	</script>
+
+<!-- Subscriptions Powered by ReCharge Payments: End Liquid Code -->
+
+<!-- End ReCharge code -->
+ 
+
+
+<div class="smile-shopify-init"
+  data-channel-key="channel_uXV5JTTOlEgdjHaG1vZDRSrv"
+
+></div>
+
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PGZZ2JF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->    
+
+<!-- WONTON -->   
+<script>
+  window.variantStrings = {
+    addToCart: 'Add to cart',
+    soldOut:'Sold out',
+    unavailable: 'Unavailable',
+    unavailable_with_option: 'unavailable',
+  }
+</script>
+<!-- WONTON -->
+
+<div id="shopify-block-6174324309569838175" class="shopify-block shopify-app-block">
+
+
+<div class="smile-shopify-init"
+  data-channel-key="channel_uXV5JTTOlEgdjHaG1vZDRSrv"
+  
+></div>
+
+
+</div><div id="shopify-block-3842503713604335150" class="shopify-block shopify-app-block vop-invoice-download">
+
+
+
+
+</div><div id="shopify-block-17151115064775110295" class="shopify-block shopify-app-block"><style data-recharge-theme='{"has_theme_customization": false, "design_mode": false }'>
+  .recharge-theme {
+    /* App */
+    --recharge-app-background: #F9F8F4;
+    --recharge-app-container: 1200px;
+    --recharge-app-vertical-padding: 32px;
+
+    /* Brand colors */
+    
+--recharge-color-brand: #467C99;
+
+    /* Tints */
+    --recharge-color-brand-120: #38637a;
+    --recharge-color-brand-20: #6b96ad;
+    --recharge-color-brand-40: #90b0c2;
+    --recharge-color-brand-60: #b5cbd6;
+    --recharge-color-brand-75: #d1dee6;  
+    --recharge-color-brand-85: #e3ebf0;
+
+    /* Neutral */
+    --recharge-color-neutral: hsl(201, 35%, 7%);
+    --recharge-color-neutral-80: hsl(201, 7%, 25%);
+    --recharge-color-neutral-70: hsl(201, 5%, 35%);
+    --recharge-color-neutral-40: hsl(201, 3%, 63%);
+    --recharge-color-neutral-10: hsl(201, 2%, 91%);
+    
+
+    /* Links */
+    --recharge-button-secondary: #467C99;
+    --recharge-button-secondary-120: #38637a;
+    --recharge-button-secondary-60: #90b0c2;
+
+    /* Images */
+    --recharge-images-ratio: 1;
+
+    /* Cards */
+    
+    --recharge-cards-background: #FFFFFF;
+    
+
+    
+    --recharge-cards-border-color: RGBA(0,0,0,0);
+    
+
+    /* Fonts */
+    --recharge-typography-scale: 16px;
+    --recharge-typography-size-1: calc(3 * var(--recharge-typography-scale));
+    --recharge-typography-size-2: calc(2.25 * var(--recharge-typography-scale));
+    --recharge-typography-size-3: calc(1.625 * var(--recharge-typography-scale));
+    --recharge-typography-size-4: calc(1.25 * var(--recharge-typography-scale));
+    --recharge-typography-size-5: calc(1 * var(--recharge-typography-scale));
+    --recharge-typography-size-6: calc(.875 * var(--recharge-typography-scale));
+
+    /** Text **/
+    --recharge-typography-light: #FFFFFF;
+    --recharge-typography-primary: var(--recharge-color-neutral);
+    --recharge-typography-secondary: var(--recharge-color-neutral-70);
+
+    /* Corners */
+    --recharge-corners-radius: 8px;
+
+    --recharge-button-border-radius: 8px;
+    
+
+    /* Views */
+    
+    --recharge-views-background: #F9F8F4;
+    
+
+    /* Buttons */
+    --recharge-button-font-family: inherit;
+    --recharge-button-brand: var(--recharge-color-brand);
+    --recharge-button-color: #FFFFFF;
+  }
+</style>
+
+</div></body>
+</html>
